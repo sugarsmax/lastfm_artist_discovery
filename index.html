@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last.fm New Artist Discoveries</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Last.fm Discoveries</h1>
+            <p>A living catalog of new artists found outside the Top 1000.</p>
+            <div id="stats" class="stats-bar">
+                <!-- Stats injected here -->
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search artists or tracks...">
+            <select id="sortSelect">
+                <option value="last_listened">Recently Played</option>
+                <option value="first_discovered">First Discovered</option>
+                <option value="artist_asc">Artist (A-Z)</option>
+            </select>
+            <label class="checkbox-label">
+                <input type="checkbox" id="hideGraduated"> Hide Graduated
+            </label>
+        </div>
+
+        <div id="catalogGrid" class="grid">
+            <!-- Loading state -->
+            <div class="loading">Loading catalog...</div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p id="lastUpdated">Last updated: ...</p>
+            <p>Generated automatically via GitHub Actions & Last.fm API</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
