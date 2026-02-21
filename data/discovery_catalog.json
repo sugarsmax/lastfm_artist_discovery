@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-20T04:06:31.770086",
+    "last_updated": "2026-02-21T03:57:37.995644",
     "username": "sugarsmax",
-    "total_discoveries": 16,
+    "total_discoveries": 34,
     "total_graduated": 0
   },
   "catalog": {
@@ -148,6 +148,168 @@
       "track": "American Dream",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Miami%20Horror",
       "track_url": "https://www.last.fm/music/Miami%20Horror/_/American%20Dream",
+      "graduated": false
+    },
+    "benny benassi, mazzz": {
+      "artist": "Benny Benassi, MazZz",
+      "first_discovered": "21 Feb 2026, 00:28",
+      "last_listened": "21 Feb 2026, 00:28",
+      "track": "Analog Heart",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20MazZz",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi%2C%20MazZz/_/Analog%20Heart",
+      "graduated": false
+    },
+    "benny benassi, chris nasty, mazzz": {
+      "artist": "Benny Benassi, Chris Nasty, MazZz",
+      "first_discovered": "21 Feb 2026, 00:24",
+      "last_listened": "21 Feb 2026, 00:24",
+      "track": "West Coast Patrol",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Chris%20Nasty%2C%20MazZz",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi%2C%20Chris%20Nasty%2C%20MazZz/_/West%20Coast%20Patrol",
+      "graduated": false
+    },
+    "benny benassi, sheare": {
+      "artist": "Benny Benassi, Sheare",
+      "first_discovered": "21 Feb 2026, 00:20",
+      "last_listened": "21 Feb 2026, 00:20",
+      "track": "I Keep Running (feat. Sheare)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Sheare",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi%2C%20Sheare/_/I%20Keep%20Running%20%28feat.%20Sheare%29",
+      "graduated": false
+    },
+    "benny benassi, marc benjamin, christian burns": {
+      "artist": "Benny Benassi, Marc Benjamin, Christian Burns",
+      "first_discovered": "21 Feb 2026, 00:13",
+      "last_listened": "21 Feb 2026, 00:13",
+      "track": "Who I Am (feat. Christian Burns)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Marc%20Benjamin%2C%20Christian%20Burns",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi%2C%20Marc%20Benjamin%2C%20Christian%20Burns/_/Who%20I%20Am%20%28feat.%20Christian%20Burns%29",
+      "graduated": false
+    },
+    "benny benassi, fideles": {
+      "artist": "Benny Benassi, Fideles",
+      "first_discovered": "21 Feb 2026, 00:06",
+      "last_listened": "21 Feb 2026, 00:06",
+      "track": "Just Like That",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Fideles",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi%2C%20Fideles/_/Just%20Like%20That",
+      "graduated": false
+    },
+    "alexandre tharaud": {
+      "artist": "Alexandre Tharaud",
+      "first_discovered": "20 Feb 2026, 23:54",
+      "last_listened": "20 Feb 2026, 23:54",
+      "track": "Les Baricades Mistérieuses (6e ordre)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
+      "track_url": "https://www.last.fm/music/Alexandre%20Tharaud/_/Les%20Baricades%20Mist%C3%A9rieuses%20%286e%20ordre%29",
+      "graduated": false
+    },
+    "rafał blechacz": {
+      "artist": "Rafał Blechacz",
+      "first_discovered": "20 Feb 2026, 23:52",
+      "last_listened": "20 Feb 2026, 23:52",
+      "track": "J.S. Bach: Partita No. 1 in B-Flat Major, BWV 825: I. Praeludium",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rafa%C5%82%20Blechacz",
+      "track_url": "https://www.last.fm/music/Rafa%C5%82%20Blechacz/_/J.S.%20Bach%3A%20Partita%20No.%201%20in%20B-Flat%20Major%2C%20BWV%20825%3A%20I.%20Praeludium",
+      "graduated": false
+    },
+    "simone dinnerstein": {
+      "artist": "Simone Dinnerstein",
+      "first_discovered": "20 Feb 2026, 23:50",
+      "last_listened": "20 Feb 2026, 23:50",
+      "track": "Invention No. 1 in C Major, BWV 772",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Simone%20Dinnerstein",
+      "track_url": "https://www.last.fm/music/Simone%20Dinnerstein/_/Invention%20No.%201%20in%20C%20Major%2C%20BWV%20772",
+      "graduated": false
+    },
+    "martha argerich": {
+      "artist": "Martha Argerich",
+      "first_discovered": "20 Feb 2026, 23:49",
+      "last_listened": "20 Feb 2026, 23:49",
+      "track": "J.S. Bach: Partita No. 2 in C Minor, BWV 826: IV. Sarabande",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martha%20Argerich",
+      "track_url": "https://www.last.fm/music/Martha%20Argerich/_/J.S.%20Bach%3A%20Partita%20No.%202%20in%20C%20Minor%2C%20BWV%20826%3A%20IV.%20Sarabande",
+      "graduated": false
+    },
+    "daniil trifonov": {
+      "artist": "Daniil Trifonov",
+      "first_discovered": "20 Feb 2026, 23:45",
+      "last_listened": "20 Feb 2026, 23:45",
+      "track": "Chopin: Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Daniil%20Trifonov",
+      "track_url": "https://www.last.fm/music/Daniil%20Trifonov/_/Chopin%3A%20Fantaisie-Impromptu%20In%20C-Sharp%20Minor%2C%20Op.%2066",
+      "graduated": false
+    },
+    "alfred brendel": {
+      "artist": "Alfred Brendel",
+      "first_discovered": "20 Feb 2026, 23:40",
+      "last_listened": "20 Feb 2026, 23:40",
+      "track": "J.S. Bach: Ich ruf zu dir, Herr Jesu Christ, BWV 639",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alfred%20Brendel",
+      "track_url": "https://www.last.fm/music/Alfred%20Brendel/_/J.S.%20Bach%3A%20Ich%20ruf%20zu%20dir%2C%20Herr%20Jesu%20Christ%2C%20BWV%20639",
+      "graduated": false
+    },
+    "mitsuko uchida": {
+      "artist": "Mitsuko Uchida",
+      "first_discovered": "20 Feb 2026, 23:37",
+      "last_listened": "20 Feb 2026, 23:37",
+      "track": "Mozart: Fantasia in D minor, K. 397",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mitsuko%20Uchida",
+      "track_url": "https://www.last.fm/music/Mitsuko%20Uchida/_/Mozart%3A%20Fantasia%20in%20D%20minor%2C%20K.%20397",
+      "graduated": false
+    },
+    "vladimir horowitz": {
+      "artist": "Vladimir Horowitz",
+      "first_discovered": "20 Feb 2026, 23:30",
+      "last_listened": "20 Feb 2026, 23:30",
+      "track": "Sonata in F Minor, K. 466 (L. 118)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vladimir%20Horowitz",
+      "track_url": "https://www.last.fm/music/Vladimir%20Horowitz/_/Sonata%20in%20F%20Minor%2C%20K.%20466%20%28L.%20118%29",
+      "graduated": false
+    },
+    "murray perahia, academy of st martin in the fields": {
+      "artist": "Murray Perahia, Academy of St Martin in the Fields",
+      "first_discovered": "20 Feb 2026, 23:25",
+      "last_listened": "20 Feb 2026, 23:25",
+      "track": "Keyboard Concerto No. 2 in E Major, BWV 1053: Keyboard Concerto No. 2 in E Major, BWV 1053: II. Siciliano",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "track_url": "https://www.last.fm/music/Murray%20Perahia%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields/_/Keyboard%20Concerto%20No.%202%20in%20E%20Major%2C%20BWV%201053%3A%20Keyboard%20Concerto%20No.%202%20in%20E%20Major%2C%20BWV%201053%3A%20II.%20Siciliano",
+      "graduated": false
+    },
+    "jan lisiecki": {
+      "artist": "Jan Lisiecki",
+      "first_discovered": "20 Feb 2026, 22:52",
+      "last_listened": "20 Feb 2026, 22:52",
+      "track": "Mendelssohn: Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jan%20Lisiecki",
+      "track_url": "https://www.last.fm/music/Jan%20Lisiecki/_/Mendelssohn%3A%20Lieder%20ohne%20Worte%2C%20Op.%2019%3A%20No.%206%20in%20G%20Minor%20%28Andante%20sostenuto%29%20%22Venetian%20Gondola%20Song%22%2C%20MWV%20U78",
+      "graduated": false
+    },
+    "ivan moravec": {
+      "artist": "Ivan Moravec",
+      "first_discovered": "20 Feb 2026, 22:50",
+      "last_listened": "20 Feb 2026, 22:50",
+      "track": "Kinderszenen, Op. 15: No. 7 in F Major, Träumerei",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ivan%20Moravec",
+      "track_url": "https://www.last.fm/music/Ivan%20Moravec/_/Kinderszenen%2C%20Op.%2015%3A%20No.%207%20in%20F%20Major%2C%20Tr%C3%A4umerei",
+      "graduated": false
+    },
+    "leonard bernstein, ralph vaughan williams, new york philharmonic orchestra": {
+      "artist": "Leonard Bernstein, Ralph Vaughan Williams, New York Philharmonic Orchestra",
+      "first_discovered": "20 Feb 2026, 22:37",
+      "last_listened": "20 Feb 2026, 22:37",
+      "track": "Fantasia on a Theme by Thomas Tallis",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leonard%20Bernstein%2C%20Ralph%20Vaughan%20Williams%2C%20New%20York%20Philharmonic%20Orchestra",
+      "track_url": "https://www.last.fm/music/Leonard%20Bernstein%2C%20Ralph%20Vaughan%20Williams%2C%20New%20York%20Philharmonic%20Orchestra/_/Fantasia%20on%20a%20Theme%20by%20Thomas%20Tallis",
+      "graduated": false
+    },
+    "fall out boy": {
+      "artist": "Fall Out Boy",
+      "first_discovered": "20 Feb 2026, 19:23",
+      "last_listened": "20 Feb 2026, 19:23",
+      "track": "The Phoenix",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fall%20Out%20Boy",
+      "track_url": "https://www.last.fm/music/Fall%20Out%20Boy/_/The%20Phoenix",
       "graduated": false
     }
   }
