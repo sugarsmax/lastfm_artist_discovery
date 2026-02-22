@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-21T03:57:37.995644",
+    "last_updated": "2026-02-22T04:07:18.833914",
     "username": "sugarsmax",
-    "total_discoveries": 34,
+    "total_discoveries": 37,
     "total_graduated": 0
   },
   "catalog": {
@@ -310,6 +310,33 @@
       "track": "The Phoenix",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fall%20Out%20Boy",
       "track_url": "https://www.last.fm/music/Fall%20Out%20Boy/_/The%20Phoenix",
+      "graduated": false
+    },
+    "jazzanova, hajime yoshizawa": {
+      "artist": "Jazzanova, Hajime Yoshizawa",
+      "first_discovered": "22 Feb 2026, 02:47",
+      "last_listened": "22 Feb 2026, 02:47",
+      "track": "Hanazono",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzanova%2C%20Hajime%20Yoshizawa",
+      "track_url": "https://www.last.fm/music/Jazzanova%2C%20Hajime%20Yoshizawa/_/Hanazono",
+      "graduated": false
+    },
+    "marino marini": {
+      "artist": "Marino Marini",
+      "first_discovered": "22 Feb 2026, 02:40",
+      "last_listened": "22 Feb 2026, 02:40",
+      "track": "Guaglione",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Marino%20Marini",
+      "track_url": "https://www.last.fm/music/Marino%20Marini/_/Guaglione",
+      "graduated": false
+    },
+    "tears for fears": {
+      "artist": "Tears for Fears",
+      "first_discovered": "22 Feb 2026, 02:04",
+      "last_listened": "22 Feb 2026, 02:04",
+      "track": "Woman in Chains",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tears%20for%20Fears",
+      "track_url": "https://www.last.fm/music/Tears%20for%20Fears/_/Woman%20in%20Chains",
       "graduated": false
     }
   }
