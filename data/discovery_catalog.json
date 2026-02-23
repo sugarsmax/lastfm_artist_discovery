@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-22T04:07:18.833914",
+    "last_updated": "2026-02-23T04:13:33.984681",
     "username": "sugarsmax",
-    "total_discoveries": 37,
+    "total_discoveries": 38,
     "total_graduated": 0
   },
   "catalog": {
@@ -337,6 +337,15 @@
       "track": "Woman in Chains",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tears%20for%20Fears",
       "track_url": "https://www.last.fm/music/Tears%20for%20Fears/_/Woman%20in%20Chains",
+      "graduated": false
+    },
+    "dj snake & lil jon": {
+      "artist": "DJ Snake & Lil Jon",
+      "first_discovered": "22 Feb 2026, 05:15",
+      "last_listened": "22 Feb 2026, 05:15",
+      "track": "Turn Down for What",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%20%26%20Lil%20Jon",
+      "track_url": "https://www.last.fm/music/DJ%20Snake%20%26%20Lil%20Jon/_/Turn%20Down%20for%20What",
       "graduated": false
     }
   }
