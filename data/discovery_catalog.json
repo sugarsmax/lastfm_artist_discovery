@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-23T04:13:33.984681",
+    "last_updated": "2026-02-24T04:09:05.327932",
     "username": "sugarsmax",
-    "total_discoveries": 38,
+    "total_discoveries": 39,
     "total_graduated": 0
   },
   "catalog": {
@@ -346,6 +346,15 @@
       "track": "Turn Down for What",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%20%26%20Lil%20Jon",
       "track_url": "https://www.last.fm/music/DJ%20Snake%20%26%20Lil%20Jon/_/Turn%20Down%20for%20What",
+      "graduated": false
+    },
+    "inkosi namandla (michael barrett)": {
+      "artist": "Inkosi Namandla (Michael Barrett)",
+      "first_discovered": "23 Feb 2026, 15:25",
+      "last_listened": "23 Feb 2026, 15:25",
+      "track": "Tuks Camerata",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Inkosi%20Namandla%20%28Michael%20Barrett%29",
+      "track_url": "https://www.last.fm/music/Inkosi%20Namandla%20%28Michael%20Barrett%29/_/Tuks%20Camerata",
       "graduated": false
     }
   }
