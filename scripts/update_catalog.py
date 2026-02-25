@@ -51,6 +51,26 @@ ENV_PATH = PROJECT_DIR / ".env"
 if ENV_PATH.exists():
     load_dotenv(ENV_PATH)
 
+# ---------------------------------------------------------------------------
+# Filters — add entries here to exclude scrobbles from the catalog
+# ---------------------------------------------------------------------------
+
+# Tracks whose name contains any of these strings (case-insensitive) are skipped
+TRACK_NAME_FILTERS = [
+    "trailer",
+]
+
+
+def clean_artist_name(name: str) -> str:
+    """Strip leading/trailing quotation marks (straight and curly) from artist names."""
+    return name.strip('\'"\u201c\u201d\u2018\u2019')
+
+
+def should_skip_track(track_name: str) -> bool:
+    """Return True if the track name matches any entry in TRACK_NAME_FILTERS."""
+    lower = track_name.lower()
+    return any(f in lower for f in TRACK_NAME_FILTERS)
+
 
 def get_lastfm_network() -> pylast.LastFMNetwork:
     """Initialize Last.fm API connection using environment variables."""
@@ -343,12 +363,14 @@ def update_catalog(
     # 2. Get most recent track for each artist this week
     latest_tracks: dict[str, dict] = {}
     for track in recent_tracks:
-        key = track["artist"].lower()
-        # Assumes tracks are ordered most recent first, or we overwrite to get oldest?
+        if should_skip_track(track["track"]):
+            continue
+        artist_clean = clean_artist_name(track["artist"])
+        key = artist_clean.lower()
         # Last.fm get_recent_tracks returns newest first. We want the newest one, so if it's
         # already in the dict, we don't overwrite it.
         if key not in latest_tracks:
-            latest_tracks[key] = track
+            latest_tracks[key] = {**track, "artist": artist_clean}
             
     stats["unique_artists_this_week"] = len(latest_tracks)
 
