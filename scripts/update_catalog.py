@@ -32,6 +32,9 @@ import urllib.parse
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+PACIFIC = ZoneInfo("America/Los_Angeles")
 
 import pylast
 from dotenv import load_dotenv
@@ -213,7 +216,7 @@ def fetch_recent_tracks(
     if cached_state and "recent_tracks" in cached_state:
         cached = cached_state["recent_tracks"]
         cached_time = datetime.fromisoformat(cached["fetched_at"])
-        age_hours = (datetime.now() - cached_time).total_seconds() / 3600
+        age_hours = (datetime.now(PACIFIC) - cached_time).total_seconds() / 3600
         if age_hours < 6:
             print(f"Using cached recent tracks (fetched {age_hours:.1f}h ago)")
             return cached["data"]
@@ -292,7 +295,7 @@ def fetch_top_artists(
     if cached_state and "top_artists" in cached_state:
         cached = cached_state["top_artists"]
         cached_time = datetime.fromisoformat(cached["fetched_at"])
-        age_hours = (datetime.now() - cached_time).total_seconds() / 3600
+        age_hours = (datetime.now(PACIFIC) - cached_time).total_seconds() / 3600
         if age_hours < 24:
             print(f"Using cached top artists (fetched {age_hours:.1f}h ago)")
             return set(cached["data"])
@@ -357,7 +360,7 @@ def update_catalog(
     for key, entry in catalog["catalog"].items():
         if key in top_artists and not entry.get("graduated"):
             entry["graduated"] = True
-            entry["graduated_date"] = datetime.now().isoformat()
+            entry["graduated_date"] = datetime.now(PACIFIC).isoformat()
             stats["graduated_to_top"] += 1
 
     # 2. Get most recent track for each artist this week
@@ -405,7 +408,7 @@ def update_catalog(
             stats["new_to_catalog"] += 1
 
     # Update metadata
-    catalog["metadata"]["last_updated"] = datetime.now().isoformat()
+    catalog["metadata"]["last_updated"] = datetime.now(PACIFIC).isoformat()
     catalog["metadata"]["username"] = username
     catalog["metadata"]["total_discoveries"] = len(catalog["catalog"])
     catalog["metadata"]["total_graduated"] = sum(
@@ -556,7 +559,7 @@ def main():
     # Cache recent tracks (live mode only)
     if not args.dry_run and "recent_tracks" not in state:
         state["recent_tracks"] = {
-            "fetched_at": datetime.now().isoformat(),
+            "fetched_at": datetime.now(PACIFIC).isoformat(),
             "data": recent_tracks,
         }
         save_state(state)
@@ -578,7 +581,7 @@ def main():
     # Cache top artists (live mode only)
     if not args.dry_run and "top_artists" not in state:
         state["top_artists"] = {
-            "fetched_at": datetime.now().isoformat(),
+            "fetched_at": datetime.now(PACIFIC).isoformat(),
             "data": list(top_artists),
         }
         save_state(state)
