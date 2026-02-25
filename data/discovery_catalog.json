@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-24T04:09:05.327932",
+    "last_updated": "2026-02-25T03:30:25.379665",
     "username": "sugarsmax",
-    "total_discoveries": 38,
+    "total_discoveries": 40,
     "total_graduated": 0
   },
   "catalog": {
@@ -270,7 +270,7 @@
     "jan lisiecki": {
       "artist": "Jan Lisiecki",
       "first_discovered": "20 Feb 2026, 22:52",
-      "last_listened": "20 Feb 2026, 22:52",
+      "last_listened": "25 Feb 2026, 01:30",
       "track": "Mendelssohn: Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jan%20Lisiecki",
       "track_url": "https://www.last.fm/music/Jan%20Lisiecki/_/Mendelssohn%3A%20Lieder%20ohne%20Worte%2C%20Op.%2019%3A%20No.%206%20in%20G%20Minor%20%28Andante%20sostenuto%29%20%22Venetian%20Gondola%20Song%22%2C%20MWV%20U78",
@@ -346,6 +346,24 @@
       "track": "Tuks Camerata",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Inkosi%20Namandla%20%28Michael%20Barrett%29",
       "track_url": "https://www.last.fm/music/Inkosi%20Namandla%20%28Michael%20Barrett%29/_/Tuks%20Camerata",
+      "graduated": false
+    },
+    "gallium": {
+      "artist": "Gallium",
+      "first_discovered": "25 Feb 2026, 01:23",
+      "last_listened": "25 Feb 2026, 01:23",
+      "track": "Centella",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gallium",
+      "track_url": "https://www.last.fm/music/Gallium/_/Centella",
+      "graduated": false
+    },
+    "bobby comstock, the counts": {
+      "artist": "Bobby Comstock, The Counts",
+      "first_discovered": "25 Feb 2026, 01:01",
+      "last_listened": "25 Feb 2026, 01:01",
+      "track": "I Want To Do It",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bobby%20Comstock%2C%20The%20Counts",
+      "track_url": "https://www.last.fm/music/Bobby%20Comstock%2C%20The%20Counts/_/I%20Want%20To%20Do%20It",
       "graduated": false
     }
   }
