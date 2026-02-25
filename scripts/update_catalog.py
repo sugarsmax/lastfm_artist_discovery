@@ -64,6 +64,17 @@ TRACK_NAME_FILTERS = [
 ]
 
 
+def utc_to_pacific(ts: str) -> str:
+    """Convert a Last.fm UTC timestamp string to Pacific time."""
+    if not ts:
+        return ts
+    try:
+        dt = datetime.strptime(ts, "%d %b %Y, %H:%M").replace(tzinfo=timezone.utc)
+        return dt.astimezone(PACIFIC).strftime("%d %b %Y, %H:%M")
+    except ValueError:
+        return ts
+
+
 def clean_artist_name(name: str) -> str:
     """Strip leading/trailing quotation marks (straight and curly) from artist names."""
     return name.strip('\'"\u201c\u201d\u2018\u2019')
@@ -246,7 +257,7 @@ def fetch_recent_tracks(
         for played_track in recent:
             artist_name = str(played_track.track.artist)
             track_name = str(played_track.track.title)
-            ts = played_track.playback_date or ""
+            ts = utc_to_pacific(played_track.playback_date or "")
 
             tracks.append({
                 "artist": artist_name,
