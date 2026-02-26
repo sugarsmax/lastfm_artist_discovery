@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-25T09:26:12.201916-08:00",
+    "last_updated": "2026-02-25T20:07:00.029714-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 40,
+    "total_discoveries": 65,
     "total_graduated": 0
   },
   "catalog": {
@@ -364,6 +364,231 @@
       "track": "I Want To Do It",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bobby%20Comstock%2C%20The%20Counts",
       "track_url": "https://www.last.fm/music/Bobby%20Comstock%2C%20The%20Counts/_/I%20Want%20To%20Do%20It",
+      "graduated": false
+    },
+    "death from above 1979": {
+      "artist": "Death from Above 1979",
+      "first_discovered": "25 Feb 2026, 15:53",
+      "last_listened": "25 Feb 2026, 15:53",
+      "track": "Turn It Out",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Death%20from%20Above%201979",
+      "track_url": "https://www.last.fm/music/Death%20from%20Above%201979/_/Turn%20It%20Out",
+      "graduated": false
+    },
+    "the police": {
+      "artist": "The Police",
+      "first_discovered": "25 Feb 2026, 12:40",
+      "last_listened": "25 Feb 2026, 12:40",
+      "track": "Spirits in the Material World",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Police",
+      "track_url": "https://www.last.fm/music/The%20Police/_/Spirits%20in%20the%20Material%20World",
+      "graduated": false
+    },
+    "kyuss": {
+      "artist": "Kyuss",
+      "first_discovered": "24 Feb 2026, 17:28",
+      "last_listened": "24 Feb 2026, 17:28",
+      "track": "Asteroid",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kyuss",
+      "track_url": "https://www.last.fm/music/Kyuss/_/Asteroid",
+      "graduated": false
+    },
+    "alice in chains": {
+      "artist": "Alice in Chains",
+      "first_discovered": "24 Feb 2026, 16:55",
+      "last_listened": "24 Feb 2026, 16:55",
+      "track": "Brother",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alice%20in%20Chains",
+      "track_url": "https://www.last.fm/music/Alice%20in%20Chains/_/Brother",
+      "graduated": false
+    },
+    "mayer hawthorne": {
+      "artist": "Mayer Hawthorne",
+      "first_discovered": "23 Feb 2026, 10:58",
+      "last_listened": "23 Feb 2026, 10:58",
+      "track": "Henny & Gingerale (Album Version)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mayer%20Hawthorne",
+      "track_url": "https://www.last.fm/music/Mayer%20Hawthorne/_/Henny%20%26%20Gingerale%20%28Album%20Version%29",
+      "graduated": false
+    },
+    "deftones": {
+      "artist": "Deftones",
+      "first_discovered": "21 Feb 2026, 21:19",
+      "last_listened": "21 Feb 2026, 21:19",
+      "track": "You've Seen the Butcher",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Deftones",
+      "track_url": "https://www.last.fm/music/Deftones/_/You%27ve%20Seen%20the%20Butcher",
+      "graduated": false
+    },
+    "killer boogie": {
+      "artist": "Killer Boogie",
+      "first_discovered": "21 Feb 2026, 18:55",
+      "last_listened": "21 Feb 2026, 18:55",
+      "track": "Superpusher '69",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Killer%20Boogie",
+      "track_url": "https://www.last.fm/music/Killer%20Boogie/_/Superpusher%20%2769",
+      "graduated": false
+    },
+    "pat benatar": {
+      "artist": "Pat Benatar",
+      "first_discovered": "21 Feb 2026, 18:31",
+      "last_listened": "21 Feb 2026, 18:31",
+      "track": "Shadows of the Night",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pat%20Benatar",
+      "track_url": "https://www.last.fm/music/Pat%20Benatar/_/Shadows%20of%20the%20Night",
+      "graduated": false
+    },
+    "billy idol": {
+      "artist": "Billy Idol",
+      "first_discovered": "21 Feb 2026, 18:26",
+      "last_listened": "21 Feb 2026, 18:26",
+      "track": "Flesh for Fantasy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20Idol",
+      "track_url": "https://www.last.fm/music/Billy%20Idol/_/Flesh%20for%20Fantasy",
+      "graduated": false
+    },
+    "depeche mode": {
+      "artist": "Depeche Mode",
+      "first_discovered": "21 Feb 2026, 18:25",
+      "last_listened": "21 Feb 2026, 18:25",
+      "track": "Everything Counts",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Depeche%20Mode",
+      "track_url": "https://www.last.fm/music/Depeche%20Mode/_/Everything%20Counts",
+      "graduated": false
+    },
+    "pet shop boys": {
+      "artist": "Pet Shop Boys",
+      "first_discovered": "21 Feb 2026, 18:20",
+      "last_listened": "21 Feb 2026, 18:20",
+      "track": "West End Girls (2001 Remaster)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pet%20Shop%20Boys",
+      "track_url": "https://www.last.fm/music/Pet%20Shop%20Boys/_/West%20End%20Girls%20%282001%20Remaster%29",
+      "graduated": false
+    },
+    "duran duran": {
+      "artist": "Duran Duran",
+      "first_discovered": "21 Feb 2026, 18:12",
+      "last_listened": "21 Feb 2026, 18:12",
+      "track": "Save A Prayer (2009 Remaster)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duran%20Duran",
+      "track_url": "https://www.last.fm/music/Duran%20Duran/_/Save%20A%20Prayer%20%282009%20Remaster%29",
+      "graduated": false
+    },
+    "the smiths": {
+      "artist": "The Smiths",
+      "first_discovered": "21 Feb 2026, 18:05",
+      "last_listened": "21 Feb 2026, 18:05",
+      "track": "How Soon Is Now? (2011 Remaster)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Smiths",
+      "track_url": "https://www.last.fm/music/The%20Smiths/_/How%20Soon%20Is%20Now%3F%20%282011%20Remaster%29",
+      "graduated": false
+    },
+    "kajagoogoo": {
+      "artist": "Kajagoogoo",
+      "first_discovered": "21 Feb 2026, 17:57",
+      "last_listened": "21 Feb 2026, 17:57",
+      "track": "Too Shy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kajagoogoo",
+      "track_url": "https://www.last.fm/music/Kajagoogoo/_/Too%20Shy",
+      "graduated": false
+    },
+    "simple minds": {
+      "artist": "Simple Minds",
+      "first_discovered": "21 Feb 2026, 17:51",
+      "last_listened": "21 Feb 2026, 17:51",
+      "track": "Alive and Kicking",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Simple%20Minds",
+      "track_url": "https://www.last.fm/music/Simple%20Minds/_/Alive%20and%20Kicking",
+      "graduated": false
+    },
+    "jamiroquai": {
+      "artist": "Jamiroquai",
+      "first_discovered": "20 Feb 2026, 17:26",
+      "last_listened": "20 Feb 2026, 17:26",
+      "track": "Little L",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jamiroquai",
+      "track_url": "https://www.last.fm/music/Jamiroquai/_/Little%20L",
+      "graduated": false
+    },
+    "benny benassi": {
+      "artist": "Benny Benassi",
+      "first_discovered": "20 Feb 2026, 16:17",
+      "last_listened": "20 Feb 2026, 16:17",
+      "track": "Danceaholic",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi",
+      "track_url": "https://www.last.fm/music/Benny%20Benassi/_/Danceaholic",
+      "graduated": false
+    },
+    "glenn gould": {
+      "artist": "Glenn Gould",
+      "first_discovered": "20 Feb 2026, 16:03",
+      "last_listened": "20 Feb 2026, 16:03",
+      "track": "Intermezzo No. 1 in E-Flat Major, Op. 117 - Andante moderato",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Glenn%20Gould",
+      "track_url": "https://www.last.fm/music/Glenn%20Gould/_/Intermezzo%20No.%201%20in%20E-Flat%20Major%2C%20Op.%20117%20-%20Andante%20moderato",
+      "graduated": false
+    },
+    "víkingur ólafsson": {
+      "artist": "Víkingur Ólafsson",
+      "first_discovered": "20 Feb 2026, 15:55",
+      "last_listened": "20 Feb 2026, 15:55",
+      "track": "J.S. Bach: Sinfonia No. 15 in B Minor, BWV 801",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur%20%C3%93lafsson/_/J.S.%20Bach%3A%20Sinfonia%20No.%2015%20in%20B%20Minor%2C%20BWV%20801",
+      "graduated": false
+    },
+    "andrás schiff": {
+      "artist": "András Schiff",
+      "first_discovered": "20 Feb 2026, 15:20",
+      "last_listened": "20 Feb 2026, 15:20",
+      "track": "J.S. Bach: The Well-Tempered Clavier, Book 2: Prelude No. 12 in F Minor, BWV 881/1",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andr%C3%A1s%20Schiff",
+      "track_url": "https://www.last.fm/music/Andr%C3%A1s%20Schiff/_/J.S.%20Bach%3A%20The%20Well-Tempered%20Clavier%2C%20Book%202%3A%20Prelude%20No.%2012%20in%20F%20Minor%2C%20BWV%20881%2F1",
+      "graduated": false
+    },
+    "the cult": {
+      "artist": "The Cult",
+      "first_discovered": "20 Feb 2026, 13:54",
+      "last_listened": "20 Feb 2026, 13:54",
+      "track": "Phoenix",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cult",
+      "track_url": "https://www.last.fm/music/The%20Cult/_/Phoenix",
+      "graduated": false
+    },
+    "johnny cash": {
+      "artist": "Johnny Cash",
+      "first_discovered": "19 Feb 2026, 11:51",
+      "last_listened": "19 Feb 2026, 11:51",
+      "track": "One",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johnny%20Cash",
+      "track_url": "https://www.last.fm/music/Johnny%20Cash/_/One",
+      "graduated": false
+    },
+    "amy winehouse": {
+      "artist": "Amy Winehouse",
+      "first_discovered": "19 Feb 2026, 11:45",
+      "last_listened": "19 Feb 2026, 11:45",
+      "track": "In My Bed",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Amy%20Winehouse",
+      "track_url": "https://www.last.fm/music/Amy%20Winehouse/_/In%20My%20Bed",
+      "graduated": false
+    },
+    "rob base & dj ez rock": {
+      "artist": "Rob Base & DJ EZ Rock",
+      "first_discovered": "19 Feb 2026, 11:27",
+      "last_listened": "19 Feb 2026, 11:27",
+      "track": "It Takes Two",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rob%20Base%20%26%20DJ%20EZ%20Rock",
+      "track_url": "https://www.last.fm/music/Rob%20Base%20%26%20DJ%20EZ%20Rock/_/It%20Takes%20Two",
+      "graduated": false
+    },
+    "ian astbury": {
+      "artist": "Ian Astbury",
+      "first_discovered": "19 Feb 2026, 11:17",
+      "last_listened": "19 Feb 2026, 11:17",
+      "track": "High Time Amplifier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ian%20Astbury",
+      "track_url": "https://www.last.fm/music/Ian%20Astbury/_/High%20Time%20Amplifier",
       "graduated": false
     }
   }
