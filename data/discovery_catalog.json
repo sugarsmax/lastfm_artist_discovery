@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-02-26T20:03:59.474481-08:00",
+    "last_updated": "2026-02-27T19:45:50.576535-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 73,
+    "total_discoveries": 86,
     "total_graduated": 25
   },
   "catalog": {
@@ -619,7 +619,7 @@
     "team sleep": {
       "artist": "Team Sleep",
       "first_discovered": "26 Feb 2026, 19:58",
-      "last_listened": "26 Feb 2026, 19:58",
+      "last_listened": "26 Feb 2026, 20:06",
       "track": "Blvd. Nights",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Team%20Sleep",
       "track_url": "https://www.last.fm/music/Team%20Sleep/_/Blvd.%20Nights",
@@ -628,7 +628,7 @@
     "the faint": {
       "artist": "The Faint",
       "first_discovered": "26 Feb 2026, 19:37",
-      "last_listened": "26 Feb 2026, 19:37",
+      "last_listened": "26 Feb 2026, 20:30",
       "track": "Agenda Suicide",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Faint",
       "track_url": "https://www.last.fm/music/The%20Faint/_/Agenda%20Suicide",
@@ -637,16 +637,16 @@
     "tokyo police club": {
       "artist": "Tokyo Police Club",
       "first_discovered": "26 Feb 2026, 19:35",
-      "last_listened": "26 Feb 2026, 19:35",
-      "track": "Nature Of The Experiment",
+      "last_listened": "26 Feb 2026, 20:33",
+      "track": "Your English Is Good",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tokyo%20Police%20Club",
-      "track_url": "https://www.last.fm/music/Tokyo%20Police%20Club/_/Nature%20Of%20The%20Experiment",
+      "track_url": "https://www.last.fm/music/Tokyo%20Police%20Club/_/Your%20English%20Is%20Good",
       "graduated": false
     },
     "metric": {
       "artist": "Metric",
       "first_discovered": "26 Feb 2026, 19:34",
-      "last_listened": "26 Feb 2026, 19:34",
+      "last_listened": "26 Feb 2026, 20:13",
       "track": "Dead Disco",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Metric",
       "track_url": "https://www.last.fm/music/Metric/_/Dead%20Disco",
@@ -655,7 +655,7 @@
     "liars": {
       "artist": "Liars",
       "first_discovered": "26 Feb 2026, 19:32",
-      "last_listened": "26 Feb 2026, 19:32",
+      "last_listened": "27 Feb 2026, 10:06",
       "track": "Mr Your On Fire Mr",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Liars",
       "track_url": "https://www.last.fm/music/Liars/_/Mr%20Your%20On%20Fire%20Mr",
@@ -686,6 +686,123 @@
       "track": "Morning Dance",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spyro%20Gyra",
       "track_url": "https://www.last.fm/music/Spyro%20Gyra/_/Morning%20Dance",
+      "graduated": false
+    },
+    "bossa nova": {
+      "artist": "Bossa Nova",
+      "first_discovered": "27 Feb 2026, 18:18",
+      "last_listened": "27 Feb 2026, 18:18",
+      "track": "City Nocturne",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bossa%20Nova",
+      "track_url": "https://www.last.fm/music/Bossa%20Nova/_/City%20Nocturne",
+      "graduated": false
+    },
+    "trevor kowalski": {
+      "artist": "Trevor Kowalski",
+      "first_discovered": "27 Feb 2026, 12:37",
+      "last_listened": "27 Feb 2026, 12:37",
+      "track": "A Fighting Chance",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trevor%20Kowalski",
+      "track_url": "https://www.last.fm/music/Trevor%20Kowalski/_/A%20Fighting%20Chance",
+      "graduated": false
+    },
+    "alexandra oehler": {
+      "artist": "Alexandra Oehler",
+      "first_discovered": "27 Feb 2026, 12:34",
+      "last_listened": "27 Feb 2026, 12:34",
+      "track": "Impromtu, Op. 5, \"Une larme\"",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandra%20Oehler",
+      "track_url": "https://www.last.fm/music/Alexandra%20Oehler/_/Impromtu%2C%20Op.%205%2C%20%22Une%20larme%22",
+      "graduated": false
+    },
+    "martin helmchen": {
+      "artist": "Martin Helmchen",
+      "first_discovered": "27 Feb 2026, 12:30",
+      "last_listened": "27 Feb 2026, 12:30",
+      "track": "Waldszenen, Op. 82: Abschied",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Helmchen",
+      "track_url": "https://www.last.fm/music/Martin%20Helmchen/_/Waldszenen%2C%20Op.%2082%3A%20Abschied",
+      "graduated": false
+    },
+    "timothy walden, bournemouth symphony orchestra, josé serebrier": {
+      "artist": "Timothy Walden, Bournemouth Symphony Orchestra, José Serebrier",
+      "first_discovered": "27 Feb 2026, 12:27",
+      "last_listened": "27 Feb 2026, 12:27",
+      "track": "Dido & Aeneas, Z. 626: When I Am Laid in Earth \"Dido's Lament\" (Transcr. L. Stokowski)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Timothy%20Walden%2C%20Bournemouth%20Symphony%20Orchestra%2C%20Jos%C3%A9%20Serebrier",
+      "track_url": "https://www.last.fm/music/Timothy%20Walden%2C%20Bournemouth%20Symphony%20Orchestra%2C%20Jos%C3%A9%20Serebrier/_/Dido%20%26%20Aeneas%2C%20Z.%20626%3A%20When%20I%20Am%20Laid%20in%20Earth%20%22Dido%27s%20Lament%22%20%28Transcr.%20L.%20Stokowski%29",
+      "graduated": false
+    },
+    "nemanja radulovic, double sens, stephanie fontanarosa": {
+      "artist": "Nemanja Radulovic, Double Sens, Stephanie Fontanarosa",
+      "first_discovered": "27 Feb 2026, 12:22",
+      "last_listened": "27 Feb 2026, 12:22",
+      "track": "Rimsky-Korsakov, Sedlar: Scheherazade, Op. 35 - I. The Sea and Sinbad's Ship",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nemanja%20Radulovic%2C%20Double%20Sens%2C%20Stephanie%20Fontanarosa",
+      "track_url": "https://www.last.fm/music/Nemanja%20Radulovic%2C%20Double%20Sens%2C%20Stephanie%20Fontanarosa/_/Rimsky-Korsakov%2C%20Sedlar%3A%20Scheherazade%2C%20Op.%2035%20-%20I.%20The%20Sea%20and%20Sinbad%27s%20Ship",
+      "graduated": false
+    },
+    "joshua bell, academy of st martin in the fields": {
+      "artist": "Joshua Bell, Academy of St Martin in the Fields",
+      "first_discovered": "27 Feb 2026, 12:19",
+      "last_listened": "27 Feb 2026, 12:19",
+      "track": "Scottish Fantasy for Violin and Orchestra, Op. 46: II. Scherzo: Allegro",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joshua%20Bell%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "track_url": "https://www.last.fm/music/Joshua%20Bell%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields/_/Scottish%20Fantasy%20for%20Violin%20and%20Orchestra%2C%20Op.%2046%3A%20II.%20Scherzo%3A%20Allegro",
+      "graduated": false
+    },
+    "berliner philharmoniker, herbert von karajan": {
+      "artist": "Berliner Philharmoniker, Herbert von Karajan",
+      "first_discovered": "27 Feb 2026, 12:13",
+      "last_listened": "27 Feb 2026, 12:13",
+      "track": "Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan",
+      "track_url": "https://www.last.fm/music/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan/_/Brahms%3A%20Symphony%20No.%203%20in%20F%20Major%2C%20Op.%2090%3A%20III.%20Poco%20allegretto",
+      "graduated": false
+    },
+    "mischa maisky": {
+      "artist": "Mischa Maisky",
+      "first_discovered": "27 Feb 2026, 12:07",
+      "last_listened": "27 Feb 2026, 12:07",
+      "track": "J.S. Bach: Suite for Solo Cello No. 1 in G Major, BWV 1007: III. Courante",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mischa%20Maisky",
+      "track_url": "https://www.last.fm/music/Mischa%20Maisky/_/J.S.%20Bach%3A%20Suite%20for%20Solo%20Cello%20No.%201%20in%20G%20Major%2C%20BWV%201007%3A%20III.%20Courante",
+      "graduated": false
+    },
+    "martha argerich, orchestra mozart, claudio abbado": {
+      "artist": "Martha Argerich, Orchestra Mozart, Claudio Abbado",
+      "first_discovered": "27 Feb 2026, 12:03",
+      "last_listened": "27 Feb 2026, 12:03",
+      "track": "Mozart: Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martha%20Argerich%2C%20Orchestra%20Mozart%2C%20Claudio%20Abbado",
+      "track_url": "https://www.last.fm/music/Martha%20Argerich%2C%20Orchestra%20Mozart%2C%20Claudio%20Abbado/_/Mozart%3A%20Piano%20Concerto%20No.%2020%20in%20D%20Minor%2C%20K.%20466%3A%20II.%20Romance",
+      "graduated": false
+    },
+    "pure & rare": {
+      "artist": "pure & rare",
+      "first_discovered": "27 Feb 2026, 11:57",
+      "last_listened": "27 Feb 2026, 11:57",
+      "track": "old room nostalgia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/pure%20%26%20rare",
+      "track_url": "https://www.last.fm/music/pure%20%26%20rare/_/old%20room%20nostalgia",
+      "graduated": false
+    },
+    "martin stadtfeld": {
+      "artist": "Martin Stadtfeld",
+      "first_discovered": "27 Feb 2026, 11:55",
+      "last_listened": "27 Feb 2026, 11:55",
+      "track": "Piano Songs: No. 10 Lullaby",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Stadtfeld",
+      "track_url": "https://www.last.fm/music/Martin%20Stadtfeld/_/Piano%20Songs%3A%20No.%2010%20Lullaby",
+      "graduated": false
+    },
+    "hot hot heat": {
+      "artist": "Hot Hot Heat",
+      "first_discovered": "26 Feb 2026, 20:16",
+      "last_listened": "26 Feb 2026, 20:16",
+      "track": "Talk to Me, Dance With Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hot%20Hot%20Heat",
+      "track_url": "https://www.last.fm/music/Hot%20Hot%20Heat/_/Talk%20to%20Me%2C%20Dance%20With%20Me",
       "graduated": false
     }
   }
