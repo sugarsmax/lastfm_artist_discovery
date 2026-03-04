@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-02T20:05:49.860435-08:00",
+    "last_updated": "2026-03-03T19:59:33.744581-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 86,
+    "total_discoveries": 99,
     "total_graduated": 25
   },
   "catalog": {
@@ -225,10 +225,10 @@
     "daniil trifonov": {
       "artist": "Daniil Trifonov",
       "first_discovered": "20 Feb 2026, 23:45",
-      "last_listened": "20 Feb 2026, 15:45",
-      "track": "Chopin: Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "last_listened": "03 Mar 2026, 17:17",
+      "track": "C.P.E. Bach: Polonaise in G Minor, BWV Anh. 125 (Notebook for Anna Magdalena Bach, 1725)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Daniil%20Trifonov",
-      "track_url": "https://www.last.fm/music/Daniil%20Trifonov/_/Chopin%3A%20Fantaisie-Impromptu%20In%20C-Sharp%20Minor%2C%20Op.%2066",
+      "track_url": "https://www.last.fm/music/Daniil%20Trifonov/_/C.P.E.%20Bach%3A%20Polonaise%20in%20G%20Minor%2C%20BWV%20Anh.%20125%20%28Notebook%20for%20Anna%20Magdalena%20Bach%2C%201725%29",
       "graduated": false
     },
     "alfred brendel": {
@@ -803,6 +803,123 @@
       "track": "Talk to Me, Dance With Me",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hot%20Hot%20Heat",
       "track_url": "https://www.last.fm/music/Hot%20Hot%20Heat/_/Talk%20to%20Me%2C%20Dance%20With%20Me",
+      "graduated": false
+    },
+    "buffalo philharmonic orchestra, joann falletta": {
+      "artist": "Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "first_discovered": "03 Mar 2026, 17:49",
+      "last_listened": "03 Mar 2026, 17:49",
+      "track": "Pines of Rome, P. 141: III. I pini del Gianicolo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "track_url": "https://www.last.fm/music/Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta/_/Pines%20of%20Rome%2C%20P.%20141%3A%20III.%20I%20pini%20del%20Gianicolo",
+      "graduated": false
+    },
+    "sandy cameron, buffalo philharmonic orchestra, joann falletta": {
+      "artist": "Sandy Cameron, Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "first_discovered": "03 Mar 2026, 17:42",
+      "last_listened": "03 Mar 2026, 17:42",
+      "track": "Violin Concerto, \"Eleven Eleven\": IV. Giacoso; Lacrime",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sandy%20Cameron%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "track_url": "https://www.last.fm/music/Sandy%20Cameron%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta/_/Violin%20Concerto%2C%20%22Eleven%20Eleven%22%3A%20IV.%20Giacoso%3B%20Lacrime",
+      "graduated": false
+    },
+    "john fullam, buffalo philharmonic orchestra, joann falletta": {
+      "artist": "John Fullam, Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "first_discovered": "03 Mar 2026, 17:24",
+      "last_listened": "03 Mar 2026, 17:24",
+      "track": "Promenade (Arr. S. Berkowitz for Clarinet & Orchestra)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Fullam%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "track_url": "https://www.last.fm/music/John%20Fullam%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta/_/Promenade%20%28Arr.%20S.%20Berkowitz%20for%20Clarinet%20%26%20Orchestra%29",
+      "graduated": false
+    },
+    "la floridiana": {
+      "artist": "La Floridiana",
+      "first_discovered": "03 Mar 2026, 17:15",
+      "last_listened": "03 Mar 2026, 17:15",
+      "track": "Ouverture in C Major: III. Allegro spiritoso",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/La%20Floridiana",
+      "track_url": "https://www.last.fm/music/La%20Floridiana/_/Ouverture%20in%20C%20Major%3A%20III.%20Allegro%20spiritoso",
+      "graduated": false
+    },
+    "sir neville marriner, academy of st. martin in the fields": {
+      "artist": "Sir Neville Marriner, Academy of St. Martin in the Fields",
+      "first_discovered": "03 Mar 2026, 17:05",
+      "last_listened": "03 Mar 2026, 17:05",
+      "track": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St.%20Martin%20in%20the%20Fields",
+      "track_url": "https://www.last.fm/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St.%20Martin%20in%20the%20Fields/_/Serenade%20No.%2013%20in%20G%20Major%2C%20K.%20525%20%22Eine%20kleine%20Nachtmusik%22%3A%20I.%20Allegro",
+      "graduated": false
+    },
+    "tine thing helseth": {
+      "artist": "Tine Thing Helseth",
+      "first_discovered": "03 Mar 2026, 16:59",
+      "last_listened": "03 Mar 2026, 16:59",
+      "track": "Hummel: Trumpet Concerto In E Flat - Iii Rondo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tine%20Thing%20Helseth",
+      "track_url": "https://www.last.fm/music/Tine%20Thing%20Helseth/_/Hummel%3A%20Trumpet%20Concerto%20In%20E%20Flat%20-%20Iii%20Rondo",
+      "graduated": false
+    },
+    "mischa maisky, orpheus chamber orchestra": {
+      "artist": "Mischa Maisky, Orpheus Chamber Orchestra",
+      "first_discovered": "03 Mar 2026, 16:55",
+      "last_listened": "03 Mar 2026, 16:55",
+      "track": "Boccherini: Minuet From String Quintet in E Major, Op. 13 No. 5",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mischa%20Maisky%2C%20Orpheus%20Chamber%20Orchestra",
+      "track_url": "https://www.last.fm/music/Mischa%20Maisky%2C%20Orpheus%20Chamber%20Orchestra/_/Boccherini%3A%20Minuet%20From%20String%20Quintet%20in%20E%20Major%2C%20Op.%2013%20No.%205",
+      "graduated": false
+    },
+    "london symphony orchestra, claudio abbado": {
+      "artist": "London Symphony Orchestra, Claudio Abbado",
+      "first_discovered": "03 Mar 2026, 16:51",
+      "last_listened": "03 Mar 2026, 16:51",
+      "track": "Rossini: Il barbiere di Siviglia: Overture",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/London%20Symphony%20Orchestra%2C%20Claudio%20Abbado",
+      "track_url": "https://www.last.fm/music/London%20Symphony%20Orchestra%2C%20Claudio%20Abbado/_/Rossini%3A%20Il%20barbiere%20di%20Siviglia%3A%20Overture",
+      "graduated": false
+    },
+    "andreas ottensamer, kammerakademie potsdam": {
+      "artist": "Andreas Ottensamer, Kammerakademie Potsdam",
+      "first_discovered": "03 Mar 2026, 16:44",
+      "last_listened": "03 Mar 2026, 16:44",
+      "track": "C. Stamitz: Clarinet Concerto No. 7 in E Flat Major (Darmstädter No. 1): 3. Rondeau",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andreas%20Ottensamer%2C%20Kammerakademie%20Potsdam",
+      "track_url": "https://www.last.fm/music/Andreas%20Ottensamer%2C%20Kammerakademie%20Potsdam/_/C.%20Stamitz%3A%20Clarinet%20Concerto%20No.%207%20in%20E%20Flat%20Major%20%28Darmst%C3%A4dter%20No.%201%29%3A%203.%20Rondeau",
+      "graduated": false
+    },
+    "jory vinikour, chamber orchestra of europe, yannick nézet-séguin": {
+      "artist": "Jory Vinikour, Chamber Orchestra of Europe, Yannick Nézet-Séguin",
+      "first_discovered": "03 Mar 2026, 16:39",
+      "last_listened": "03 Mar 2026, 16:39",
+      "track": "Mozart: Le nozze di Figaro, K.492: Sinfonia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jory%20Vinikour%2C%20Chamber%20Orchestra%20of%20Europe%2C%20Yannick%20N%C3%A9zet-S%C3%A9guin",
+      "track_url": "https://www.last.fm/music/Jory%20Vinikour%2C%20Chamber%20Orchestra%20of%20Europe%2C%20Yannick%20N%C3%A9zet-S%C3%A9guin/_/Mozart%3A%20Le%20nozze%20di%20Figaro%2C%20K.492%3A%20Sinfonia",
+      "graduated": false
+    },
+    "patrick gallois, kammerorchester carl philipp emanuel bach, peter schreier": {
+      "artist": "Patrick Gallois, Kammerorchester Carl Philipp Emanuel Bach, Peter Schreier",
+      "first_discovered": "03 Mar 2026, 16:35",
+      "last_listened": "03 Mar 2026, 16:35",
+      "track": "C.P.E. Bach: Flute Concerto in G, Wq. 169: 2. Largo - Cadenza: C.P.E. Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Patrick%20Gallois%2C%20Kammerorchester%20Carl%20Philipp%20Emanuel%20Bach%2C%20Peter%20Schreier",
+      "track_url": "https://www.last.fm/music/Patrick%20Gallois%2C%20Kammerorchester%20Carl%20Philipp%20Emanuel%20Bach%2C%20Peter%20Schreier/_/C.P.E.%20Bach%3A%20Flute%20Concerto%20in%20G%2C%20Wq.%20169%3A%202.%20Largo%20-%20Cadenza%3A%20C.P.E.%20Bach",
+      "graduated": false
+    },
+    "trevor pinnock": {
+      "artist": "Trevor Pinnock",
+      "first_discovered": "03 Mar 2026, 16:27",
+      "last_listened": "03 Mar 2026, 16:27",
+      "track": "F. Couperin: Pièces de clavecin, Livre II, Ordre 6: V. Les Baricades Mistérieuses",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trevor%20Pinnock",
+      "track_url": "https://www.last.fm/music/Trevor%20Pinnock/_/F.%20Couperin%3A%20Pi%C3%A8ces%20de%20clavecin%2C%20Livre%20II%2C%20Ordre%206%3A%20V.%20Les%20Baricades%20Mist%C3%A9rieuses",
+      "graduated": false
+    },
+    "maarka": {
+      "artist": "Maarka",
+      "first_discovered": "03 Mar 2026, 16:05",
+      "last_listened": "03 Mar 2026, 16:05",
+      "track": "Jo Pa Psa",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maarka",
+      "track_url": "https://www.last.fm/music/Maarka/_/Jo%20Pa%20Psa",
       "graduated": false
     }
   }
