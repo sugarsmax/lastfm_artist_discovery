@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-03T19:59:33.744581-08:00",
+    "last_updated": "2026-03-04T20:03:30.017403-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 99,
+    "total_discoveries": 103,
     "total_graduated": 25
   },
   "catalog": {
@@ -916,10 +916,46 @@
     "maarka": {
       "artist": "Maarka",
       "first_discovered": "03 Mar 2026, 16:05",
-      "last_listened": "03 Mar 2026, 16:05",
-      "track": "Jo Pa Psa",
+      "last_listened": "04 Mar 2026, 15:39",
+      "track": "White Railway",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maarka",
-      "track_url": "https://www.last.fm/music/Maarka/_/Jo%20Pa%20Psa",
+      "track_url": "https://www.last.fm/music/Maarka/_/White%20Railway",
+      "graduated": false
+    },
+    "george kahumoku, jr.": {
+      "artist": "George Kahumoku, Jr.",
+      "first_discovered": "04 Mar 2026, 16:35",
+      "last_listened": "04 Mar 2026, 16:35",
+      "track": "E Maliu Mai",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20Kahumoku%2C%20Jr.",
+      "track_url": "https://www.last.fm/music/George%20Kahumoku%2C%20Jr./_/E%20Maliu%20Mai",
+      "graduated": false
+    },
+    "alex mass, james lavelle, james griffith, pablo clements, unkle": {
+      "artist": "Alex Mass, James Lavelle, James Griffith, Pablo Clements, UNKLE",
+      "first_discovered": "04 Mar 2026, 16:03",
+      "last_listened": "04 Mar 2026, 16:03",
+      "track": "With You in My Head (feat. The Black Angels)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alex%20Mass%2C%20James%20Lavelle%2C%20James%20Griffith%2C%20Pablo%20Clements%2C%20UNKLE",
+      "track_url": "https://www.last.fm/music/Alex%20Mass%2C%20James%20Lavelle%2C%20James%20Griffith%2C%20Pablo%20Clements%2C%20UNKLE/_/With%20You%20in%20My%20Head%20%28feat.%20The%20Black%20Angels%29",
+      "graduated": false
+    },
+    "beady belle": {
+      "artist": "Beady Belle",
+      "first_discovered": "04 Mar 2026, 15:43",
+      "last_listened": "04 Mar 2026, 15:43",
+      "track": "Game",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beady%20Belle",
+      "track_url": "https://www.last.fm/music/Beady%20Belle/_/Game",
+      "graduated": false
+    },
+    "angélique kidjo": {
+      "artist": "Angélique Kidjo",
+      "first_discovered": "04 Mar 2026, 15:40",
+      "last_listened": "04 Mar 2026, 15:40",
+      "track": "Bahia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ang%C3%A9lique%20Kidjo",
+      "track_url": "https://www.last.fm/music/Ang%C3%A9lique%20Kidjo/_/Bahia",
       "graduated": false
     }
   }
