@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T20:00:22.343717-08:00",
+    "last_updated": "2026-03-06T19:51:47.335653-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 105,
+    "total_discoveries": 111,
     "total_graduated": 25
   },
   "catalog": {
@@ -961,7 +961,7 @@
     "dream theater": {
       "artist": "Dream Theater",
       "first_discovered": "05 Mar 2026, 19:45",
-      "last_listened": "05 Mar 2026, 19:45",
+      "last_listened": "06 Mar 2026, 16:36",
       "track": "Barstool Warrior",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dream%20Theater",
       "track_url": "https://www.last.fm/music/Dream%20Theater/_/Barstool%20Warrior",
@@ -974,6 +974,60 @@
       "track": "Worlock",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Skinny%20Puppy",
       "track_url": "https://www.last.fm/music/Skinny%20Puppy/_/Worlock",
+      "graduated": false
+    },
+    "javier martinez maya": {
+      "artist": "Javier Martinez Maya",
+      "first_discovered": "06 Mar 2026, 17:46",
+      "last_listened": "06 Mar 2026, 17:46",
+      "track": "I Wear My Sunglasses At Night",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Javier%20Martinez%20Maya",
+      "track_url": "https://www.last.fm/music/Javier%20Martinez%20Maya/_/I%20Wear%20My%20Sunglasses%20At%20Night",
+      "graduated": false
+    },
+    "cutting crew": {
+      "artist": "Cutting Crew",
+      "first_discovered": "06 Mar 2026, 15:49",
+      "last_listened": "06 Mar 2026, 15:49",
+      "track": "(I Just) Died in Your Arms",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cutting%20Crew",
+      "track_url": "https://www.last.fm/music/Cutting%20Crew/_/%28I%20Just%29%20Died%20in%20Your%20Arms",
+      "graduated": false
+    },
+    "eurythmics, annie lennox, dave stewart": {
+      "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+      "first_discovered": "06 Mar 2026, 15:45",
+      "last_listened": "06 Mar 2026, 15:45",
+      "track": "Sweet Dreams (Are Made Of This)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart",
+      "track_url": "https://www.last.fm/music/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart/_/Sweet%20Dreams%20%28Are%20Made%20Of%20This%29",
+      "graduated": false
+    },
+    "generation x, billy idol": {
+      "artist": "Generation X, Billy Idol",
+      "first_discovered": "06 Mar 2026, 15:37",
+      "last_listened": "06 Mar 2026, 15:37",
+      "track": "Dancing with Myself",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Generation%20X%2C%20Billy%20Idol",
+      "track_url": "https://www.last.fm/music/Generation%20X%2C%20Billy%20Idol/_/Dancing%20with%20Myself",
+      "graduated": false
+    },
+    "daryl hall & john oates": {
+      "artist": "Daryl Hall & John Oates",
+      "first_discovered": "06 Mar 2026, 15:29",
+      "last_listened": "06 Mar 2026, 15:29",
+      "track": "Maneater",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Daryl%20Hall%20%26%20John%20Oates",
+      "track_url": "https://www.last.fm/music/Daryl%20Hall%20%26%20John%20Oates/_/Maneater",
+      "graduated": false
+    },
+    "the human league": {
+      "artist": "The Human League",
+      "first_discovered": "06 Mar 2026, 15:09",
+      "last_listened": "06 Mar 2026, 15:09",
+      "track": "Don't You Want Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Human%20League",
+      "track_url": "https://www.last.fm/music/The%20Human%20League/_/Don%27t%20You%20Want%20Me",
       "graduated": false
     }
   }
