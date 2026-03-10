@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-08T21:07:14.235786-07:00",
+    "last_updated": "2026-03-09T20:59:34.203189-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 111,
+    "total_discoveries": 113,
     "total_graduated": 25
   },
   "catalog": {
@@ -1028,6 +1028,24 @@
       "track": "Don't You Want Me",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Human%20League",
       "track_url": "https://www.last.fm/music/The%20Human%20League/_/Don%27t%20You%20Want%20Me",
+      "graduated": false
+    },
+    "aaron neville": {
+      "artist": "Aaron Neville",
+      "first_discovered": "09 Mar 2026, 17:50",
+      "last_listened": "09 Mar 2026, 17:50",
+      "track": "Tell It Like It Is",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaron%20Neville",
+      "track_url": "https://www.last.fm/music/Aaron%20Neville/_/Tell%20It%20Like%20It%20Is",
+      "graduated": false
+    },
+    "ragna schirmer": {
+      "artist": "Ragna Schirmer",
+      "first_discovered": "09 Mar 2026, 17:48",
+      "last_listened": "09 Mar 2026, 17:48",
+      "track": "I. Prélude",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
+      "track_url": "https://www.last.fm/music/Ragna%20Schirmer/_/I.%20Pr%C3%A9lude",
       "graduated": false
     }
   }
