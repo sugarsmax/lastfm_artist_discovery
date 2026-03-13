@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-11T21:04:36.093587-07:00",
+    "last_updated": "2026-03-12T21:02:58.678020-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 113,
+    "total_discoveries": 115,
     "total_graduated": 25
   },
   "catalog": {
@@ -1046,6 +1046,24 @@
       "track": "I. Prélude",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
       "track_url": "https://www.last.fm/music/Ragna%20Schirmer/_/I.%20Pr%C3%A9lude",
+      "graduated": false
+    },
+    "sir neville marriner, academy of st martin in the fields": {
+      "artist": "Sir Neville Marriner, Academy of St Martin in the Fields",
+      "first_discovered": "12 Mar 2026, 15:20",
+      "last_listened": "12 Mar 2026, 15:20",
+      "track": "Orchestral Suite No. 3 in D Major, BWV 1068: IV. Bourrée",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "track_url": "https://www.last.fm/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields/_/Orchestral%20Suite%20No.%203%20in%20D%20Major%2C%20BWV%201068%3A%20IV.%20Bourr%C3%A9e",
+      "graduated": false
+    },
+    "sir neville marriner, academy of st martin in the fields, george malcolm": {
+      "artist": "Sir Neville Marriner, Academy of St Martin in the Fields, George Malcolm",
+      "first_discovered": "12 Mar 2026, 15:13",
+      "last_listened": "12 Mar 2026, 15:13",
+      "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: II. Adagio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20George%20Malcolm",
+      "track_url": "https://www.last.fm/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20George%20Malcolm/_/Brandenburg%20Concerto%20No.%203%20in%20G%20Major%2C%20BWV%201048%3A%20II.%20Adagio",
       "graduated": false
     }
   }
