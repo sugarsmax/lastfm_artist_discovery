@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-14T21:24:12.255556-07:00",
+    "last_updated": "2026-03-15T21:31:08.803231-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 115,
+    "total_discoveries": 120,
     "total_graduated": 25
   },
   "catalog": {
@@ -1042,10 +1042,10 @@
     "ragna schirmer": {
       "artist": "Ragna Schirmer",
       "first_discovered": "09 Mar 2026, 17:48",
-      "last_listened": "09 Mar 2026, 17:48",
-      "track": "I. Prélude",
+      "last_listened": "15 Mar 2026, 17:53",
+      "track": "III. Menuett",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
-      "track_url": "https://www.last.fm/music/Ragna%20Schirmer/_/I.%20Pr%C3%A9lude",
+      "track_url": "https://www.last.fm/music/Ragna%20Schirmer/_/III.%20Menuett",
       "graduated": false
     },
     "sir neville marriner, academy of st martin in the fields": {
@@ -1064,6 +1064,51 @@
       "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: II. Adagio",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20George%20Malcolm",
       "track_url": "https://www.last.fm/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20George%20Malcolm/_/Brandenburg%20Concerto%20No.%203%20in%20G%20Major%2C%20BWV%201048%3A%20II.%20Adagio",
+      "graduated": false
+    },
+    "prince fatty, horseman": {
+      "artist": "Prince Fatty, Horseman",
+      "first_discovered": "15 Mar 2026, 18:06",
+      "last_listened": "15 Mar 2026, 18:06",
+      "track": "Insane in the Brain",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Horseman",
+      "track_url": "https://www.last.fm/music/Prince%20Fatty%2C%20Horseman/_/Insane%20in%20the%20Brain",
+      "graduated": false
+    },
+    "falco": {
+      "artist": "Falco",
+      "first_discovered": "15 Mar 2026, 17:24",
+      "last_listened": "15 Mar 2026, 17:24",
+      "track": "Der Kommissar",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Falco",
+      "track_url": "https://www.last.fm/music/Falco/_/Der%20Kommissar",
+      "graduated": false
+    },
+    "war": {
+      "artist": "War",
+      "first_discovered": "15 Mar 2026, 17:09",
+      "last_listened": "15 Mar 2026, 17:09",
+      "track": "Low Rider",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/War",
+      "track_url": "https://www.last.fm/music/War/_/Low%20Rider",
+      "graduated": false
+    },
+    "adam gussow, sterling magee": {
+      "artist": "Adam Gussow, Sterling Magee",
+      "first_discovered": "15 Mar 2026, 16:29",
+      "last_listened": "15 Mar 2026, 16:29",
+      "track": "Freedom for My People",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Adam%20Gussow%2C%20Sterling%20Magee",
+      "track_url": "https://www.last.fm/music/Adam%20Gussow%2C%20Sterling%20Magee/_/Freedom%20for%20My%20People",
+      "graduated": false
+    },
+    "john lennon & yoko ono": {
+      "artist": "John Lennon & Yoko Ono",
+      "first_discovered": "15 Mar 2026, 16:28",
+      "last_listened": "15 Mar 2026, 16:28",
+      "track": "Instant Karma! (We All Shine On)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Lennon%20%26%20Yoko%20Ono",
+      "track_url": "https://www.last.fm/music/John%20Lennon%20%26%20Yoko%20Ono/_/Instant%20Karma%21%20%28We%20All%20Shine%20On%29",
       "graduated": false
     }
   }
