@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-17T21:14:04.554120-07:00",
+    "last_updated": "2026-03-18T21:12:58.451728-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 120,
+    "total_discoveries": 122,
     "total_graduated": 25
   },
   "catalog": {
@@ -1109,6 +1109,24 @@
       "track": "Instant Karma! (We All Shine On)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Lennon%20%26%20Yoko%20Ono",
       "track_url": "https://www.last.fm/music/John%20Lennon%20%26%20Yoko%20Ono/_/Instant%20Karma%21%20%28We%20All%20Shine%20On%29",
+      "graduated": false
+    },
+    "the temptations": {
+      "artist": "The Temptations",
+      "first_discovered": "18 Mar 2026, 20:04",
+      "last_listened": "18 Mar 2026, 20:04",
+      "track": "Get Ready",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Temptations",
+      "track_url": "https://www.last.fm/music/The%20Temptations/_/Get%20Ready",
+      "graduated": false
+    },
+    "charles wright & the watts 103rd street rhythm band": {
+      "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "first_discovered": "18 Mar 2026, 19:59",
+      "last_listened": "18 Mar 2026, 19:59",
+      "track": "Express Yourself",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Wright%20%26%20The%20Watts%20103rd%20Street%20Rhythm%20Band",
+      "track_url": "https://www.last.fm/music/Charles%20Wright%20%26%20The%20Watts%20103rd%20Street%20Rhythm%20Band/_/Express%20Yourself",
       "graduated": false
     }
   }
