@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-28T21:28:54.868872-07:00",
+    "last_updated": "2026-03-29T21:36:36.132739-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 122,
+    "total_discoveries": 126,
     "total_graduated": 25
   },
   "catalog": {
@@ -1127,6 +1127,42 @@
       "track": "Express Yourself",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Wright%20%26%20The%20Watts%20103rd%20Street%20Rhythm%20Band",
       "track_url": "https://www.last.fm/music/Charles%20Wright%20%26%20The%20Watts%20103rd%20Street%20Rhythm%20Band/_/Express%20Yourself",
+      "graduated": false
+    },
+    "lost in vegas": {
+      "artist": "Lost In Vegas",
+      "first_discovered": "29 Mar 2026, 21:06",
+      "last_listened": "29 Mar 2026, 21:06",
+      "track": "Reaction",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lost%20In%20Vegas",
+      "track_url": "https://www.last.fm/music/Lost%20In%20Vegas/_/Reaction",
+      "graduated": false
+    },
+    "lights": {
+      "artist": "Lights",
+      "first_discovered": "29 Mar 2026, 20:57",
+      "last_listened": "29 Mar 2026, 20:57",
+      "track": "Skydiving",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lights",
+      "track_url": "https://www.last.fm/music/Lights/_/Skydiving",
+      "graduated": false
+    },
+    "the neal schon interview": {
+      "artist": "The Neal Schon Interview",
+      "first_discovered": "29 Mar 2026, 20:53",
+      "last_listened": "29 Mar 2026, 20:53",
+      "track": "the Riffs, the Solos, and the Soul of Journey",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Neal%20Schon%20Interview",
+      "track_url": "https://www.last.fm/music/The%20Neal%20Schon%20Interview/_/the%20Riffs%2C%20the%20Solos%2C%20and%20the%20Soul%20of%20Journey",
+      "graduated": false
+    },
+    "boston": {
+      "artist": "Boston",
+      "first_discovered": "29 Mar 2026, 14:03",
+      "last_listened": "29 Mar 2026, 14:03",
+      "track": "Something About You",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Boston",
+      "track_url": "https://www.last.fm/music/Boston/_/Something%20About%20You",
       "graduated": false
     }
   }
