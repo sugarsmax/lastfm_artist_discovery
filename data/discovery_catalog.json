@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-29T21:36:36.132739-07:00",
+    "last_updated": "2026-03-30T21:27:49.162361-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 126,
+    "total_discoveries": 138,
     "total_graduated": 25
   },
   "catalog": {
@@ -1163,6 +1163,114 @@
       "track": "Something About You",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Boston",
       "track_url": "https://www.last.fm/music/Boston/_/Something%20About%20You",
+      "graduated": false
+    },
+    "johann sebastian bach, berliner kammerorchester": {
+      "artist": "Johann Sebastian Bach, Berliner Kammerorchester",
+      "first_discovered": "30 Mar 2026, 20:57",
+      "last_listened": "30 Mar 2026, 20:57",
+      "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: III. Allegro",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester",
+      "track_url": "https://www.last.fm/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester/_/Brandenburg%20Concerto%20No.%203%20in%20G%20Major%2C%20BWV%201048%3A%20III.%20Allegro",
+      "graduated": false
+    },
+    "johann sebastian bach, esther apituley": {
+      "artist": "Johann Sebastian Bach, Esther Apituley",
+      "first_discovered": "30 Mar 2026, 16:35",
+      "last_listened": "30 Mar 2026, 16:35",
+      "track": "Suite for Solo Cello No. 3 in C Major, BWV 1009: IV. Sarabande",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Esther%20Apituley",
+      "track_url": "https://www.last.fm/music/Johann%20Sebastian%20Bach%2C%20Esther%20Apituley/_/Suite%20for%20Solo%20Cello%20No.%203%20in%20C%20Major%2C%20BWV%201009%3A%20IV.%20Sarabande",
+      "graduated": false
+    },
+    "mark bennett, rachel beckett, paul goodwin, monica huggett, orchestra of the age of enlightenment": {
+      "artist": "Mark Bennett, Rachel Beckett, Paul Goodwin, Monica Huggett, Orchestra Of The Age Of Enlightenment",
+      "first_discovered": "30 Mar 2026, 16:30",
+      "last_listened": "30 Mar 2026, 16:30",
+      "track": "Brandenburg Concerto No. 2 in F Major, BWV 1047: II. Andante",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mark%20Bennett%2C%20Rachel%20Beckett%2C%20Paul%20Goodwin%2C%20Monica%20Huggett%2C%20Orchestra%20Of%20The%20Age%20Of%20Enlightenment",
+      "track_url": "https://www.last.fm/music/Mark%20Bennett%2C%20Rachel%20Beckett%2C%20Paul%20Goodwin%2C%20Monica%20Huggett%2C%20Orchestra%20Of%20The%20Age%20Of%20Enlightenment/_/Brandenburg%20Concerto%20No.%202%20in%20F%20Major%2C%20BWV%201047%3A%20II.%20Andante",
+      "graduated": false
+    },
+    "jordi savall, ton koopman, johann sebastian bach": {
+      "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
+      "first_discovered": "30 Mar 2026, 16:26",
+      "last_listened": "30 Mar 2026, 16:26",
+      "track": "Sonata III (G Moll), BWV 1029: Adagio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach/_/Sonata%20III%20%28G%20Moll%29%2C%20BWV%201029%3A%20Adagio",
+      "graduated": false
+    },
+    "musica amphion, rémy baudet, pieter-jan belder": {
+      "artist": "Musica Amphion, Rémy Baudet, Pieter-Jan Belder",
+      "first_discovered": "30 Mar 2026, 16:05",
+      "last_listened": "30 Mar 2026, 16:05",
+      "track": "III. Presto",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Musica%20Amphion%2C%20R%C3%A9my%20Baudet%2C%20Pieter-Jan%20Belder",
+      "track_url": "https://www.last.fm/music/Musica%20Amphion%2C%20R%C3%A9my%20Baudet%2C%20Pieter-Jan%20Belder/_/III.%20Presto",
+      "graduated": false
+    },
+    "studying music": {
+      "artist": "Studying Music",
+      "first_discovered": "30 Mar 2026, 16:01",
+      "last_listened": "30 Mar 2026, 16:01",
+      "track": "Air",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Studying%20Music",
+      "track_url": "https://www.last.fm/music/Studying%20Music/_/Air",
+      "graduated": false
+    },
+    "johann sebastian bach, pierre fournier": {
+      "artist": "Johann Sebastian Bach, Pierre Fournier",
+      "first_discovered": "30 Mar 2026, 15:54",
+      "last_listened": "30 Mar 2026, 15:54",
+      "track": "Suite For Solo Cello No. 1 In G Major, BWV 1007: III. Courante",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Pierre%20Fournier",
+      "track_url": "https://www.last.fm/music/Johann%20Sebastian%20Bach%2C%20Pierre%20Fournier/_/Suite%20For%20Solo%20Cello%20No.%201%20In%20G%20Major%2C%20BWV%201007%3A%20III.%20Courante",
+      "graduated": false
+    },
+    "amsterdam bach soloists, henk rubingh, gewandhausorchester leipzig, kurt masur": {
+      "artist": "Amsterdam Bach Soloists, Henk Rubingh, Gewandhausorchester Leipzig, Kurt Masur",
+      "first_discovered": "30 Mar 2026, 15:51",
+      "last_listened": "30 Mar 2026, 15:51",
+      "track": "III. Allegro assai",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Amsterdam%20Bach%20Soloists%2C%20Henk%20Rubingh%2C%20Gewandhausorchester%20Leipzig%2C%20Kurt%20Masur",
+      "track_url": "https://www.last.fm/music/Amsterdam%20Bach%20Soloists%2C%20Henk%20Rubingh%2C%20Gewandhausorchester%20Leipzig%2C%20Kurt%20Masur/_/III.%20Allegro%20assai",
+      "graduated": false
+    },
+    "elizabeth wallfisch, lisa beznosiuk, malcolm proud": {
+      "artist": "Elizabeth Wallfisch, Lisa Beznosiuk, Malcolm Proud",
+      "first_discovered": "30 Mar 2026, 15:47",
+      "last_listened": "30 Mar 2026, 15:47",
+      "track": "Brandenburg Concerto No. 5 in D Major, BWV 1050: I. Allegro",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elizabeth%20Wallfisch%2C%20Lisa%20Beznosiuk%2C%20Malcolm%20Proud",
+      "track_url": "https://www.last.fm/music/Elizabeth%20Wallfisch%2C%20Lisa%20Beznosiuk%2C%20Malcolm%20Proud/_/Brandenburg%20Concerto%20No.%205%20in%20D%20Major%2C%20BWV%201050%3A%20I.%20Allegro",
+      "graduated": false
+    },
+    "aaron rosand, johann sebastian bach": {
+      "artist": "Aaron Rosand, Johann Sebastian Bach",
+      "first_discovered": "30 Mar 2026, 15:35",
+      "last_listened": "30 Mar 2026, 15:35",
+      "track": "Violin Sonata No. 1 in G Minor, BWV 1001: I. Adagio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaron%20Rosand%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Aaron%20Rosand%2C%20Johann%20Sebastian%20Bach/_/Violin%20Sonata%20No.%201%20in%20G%20Minor%2C%20BWV%201001%3A%20I.%20Adagio",
+      "graduated": false
+    },
+    "kajana pačko": {
+      "artist": "Kajana Pačko",
+      "first_discovered": "30 Mar 2026, 15:34",
+      "last_listened": "30 Mar 2026, 15:34",
+      "track": "Johann Sebastian Bach: Suite For Solo Cello No. 5 In C Minor, BWV 1011: Prelude",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kajana%20Pa%C4%8Dko",
+      "track_url": "https://www.last.fm/music/Kajana%20Pa%C4%8Dko/_/Johann%20Sebastian%20Bach%3A%20Suite%20For%20Solo%20Cello%20No.%205%20In%20C%20Minor%2C%20BWV%201011%3A%20Prelude",
+      "graduated": false
+    },
+    "michael stipe, andrew watt": {
+      "artist": "Michael Stipe, Andrew Watt",
+      "first_discovered": "30 Mar 2026, 15:07",
+      "last_listened": "30 Mar 2026, 15:07",
+      "track": "I Played the Fool (Main Title Theme from \"Rooster\")",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Michael%20Stipe%2C%20Andrew%20Watt",
+      "track_url": "https://www.last.fm/music/Michael%20Stipe%2C%20Andrew%20Watt/_/I%20Played%20the%20Fool%20%28Main%20Title%20Theme%20from%20%22Rooster%22%29",
       "graduated": false
     }
   }
