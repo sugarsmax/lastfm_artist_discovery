@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-01T21:19:59.839311-07:00",
+    "last_updated": "2026-04-02T21:20:59.763367-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 138,
+    "total_discoveries": 143,
     "total_graduated": 25
   },
   "catalog": {
@@ -628,7 +628,7 @@
     "the faint": {
       "artist": "The Faint",
       "first_discovered": "26 Feb 2026, 19:37",
-      "last_listened": "26 Feb 2026, 20:30",
+      "last_listened": "02 Apr 2026, 18:24",
       "track": "Agenda Suicide",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Faint",
       "track_url": "https://www.last.fm/music/The%20Faint/_/Agenda%20Suicide",
@@ -1078,10 +1078,10 @@
     "falco": {
       "artist": "Falco",
       "first_discovered": "15 Mar 2026, 17:24",
-      "last_listened": "15 Mar 2026, 17:24",
-      "track": "Der Kommissar",
+      "last_listened": "02 Apr 2026, 17:11",
+      "track": "Rock Me Amadeus",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Falco",
-      "track_url": "https://www.last.fm/music/Falco/_/Der%20Kommissar",
+      "track_url": "https://www.last.fm/music/Falco/_/Rock%20Me%20Amadeus",
       "graduated": false
     },
     "war": {
@@ -1168,7 +1168,7 @@
     "johann sebastian bach, berliner kammerorchester": {
       "artist": "Johann Sebastian Bach, Berliner Kammerorchester",
       "first_discovered": "30 Mar 2026, 20:57",
-      "last_listened": "31 Mar 2026, 15:00",
+      "last_listened": "02 Apr 2026, 17:16",
       "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: III. Allegro",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester",
       "track_url": "https://www.last.fm/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester/_/Brandenburg%20Concerto%20No.%203%20in%20G%20Major%2C%20BWV%201048%3A%20III.%20Allegro",
@@ -1271,6 +1271,51 @@
       "track": "I Played the Fool (Main Title Theme from \"Rooster\")",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Michael%20Stipe%2C%20Andrew%20Watt",
       "track_url": "https://www.last.fm/music/Michael%20Stipe%2C%20Andrew%20Watt/_/I%20Played%20the%20Fool%20%28Main%20Title%20Theme%20from%20%22Rooster%22%29",
+      "graduated": false
+    },
+    "olivier libaux, katharine whalen": {
+      "artist": "Olivier Libaux, Katharine Whalen",
+      "first_discovered": "02 Apr 2026, 18:36",
+      "last_listened": "02 Apr 2026, 18:36",
+      "track": "Medication",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivier%20Libaux%2C%20Katharine%20Whalen",
+      "track_url": "https://www.last.fm/music/Olivier%20Libaux%2C%20Katharine%20Whalen/_/Medication",
+      "graduated": false
+    },
+    "king buffalo": {
+      "artist": "King Buffalo",
+      "first_discovered": "02 Apr 2026, 17:20",
+      "last_listened": "02 Apr 2026, 17:20",
+      "track": "Monolith",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/King%20Buffalo",
+      "track_url": "https://www.last.fm/music/King%20Buffalo/_/Monolith",
+      "graduated": false
+    },
+    "the bangles, susanna hoffs": {
+      "artist": "The Bangles, Susanna Hoffs",
+      "first_discovered": "02 Apr 2026, 16:29",
+      "last_listened": "02 Apr 2026, 16:29",
+      "track": "Walking Down Your Street",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Bangles%2C%20Susanna%20Hoffs",
+      "track_url": "https://www.last.fm/music/The%20Bangles%2C%20Susanna%20Hoffs/_/Walking%20Down%20Your%20Street",
+      "graduated": false
+    },
+    "jazzy moods": {
+      "artist": "Jazzy Moods",
+      "first_discovered": "02 Apr 2026, 16:18",
+      "last_listened": "02 Apr 2026, 16:18",
+      "track": "MD Blues",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzy%20Moods",
+      "track_url": "https://www.last.fm/music/Jazzy%20Moods/_/MD%20Blues",
+      "graduated": false
+    },
+    "heart, chris cornell, jerry cantrell, mike mccready": {
+      "artist": "Heart, Chris Cornell, Jerry Cantrell, Mike McCready",
+      "first_discovered": "02 Apr 2026, 15:50",
+      "last_listened": "02 Apr 2026, 15:50",
+      "track": "Barracuda (with Jerry Cantrell, Chris Cornell & Mike McCready) [Live]",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heart%2C%20Chris%20Cornell%2C%20Jerry%20Cantrell%2C%20Mike%20McCready",
+      "track_url": "https://www.last.fm/music/Heart%2C%20Chris%20Cornell%2C%20Jerry%20Cantrell%2C%20Mike%20McCready/_/Barracuda%20%28with%20Jerry%20Cantrell%2C%20Chris%20Cornell%20%26%20Mike%20McCready%29%20%5BLive%5D",
       "graduated": false
     }
   }
