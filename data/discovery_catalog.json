@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "last_updated": "2026-04-02T21:20:59.763367-07:00",
+    "last_updated": "2026-04-03T21:07:30.393775-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 143,
+    "total_discoveries": 146,
     "total_graduated": 25
   },
   "catalog": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_listened": "19 Feb 2026, 11:09",
+      "last_listened": "03 Apr 2026, 16:40",
       "track": "One Last Time",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
       "track_url": "https://www.last.fm/music/RJD2%2C%20Supastition/_/One%20Last%20Time",
@@ -351,7 +351,7 @@
     "gallium": {
       "artist": "Gallium",
       "first_discovered": "25 Feb 2026, 01:23",
-      "last_listened": "24 Feb 2026, 17:23",
+      "last_listened": "03 Apr 2026, 16:33",
       "track": "Centella",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gallium",
       "track_url": "https://www.last.fm/music/Gallium/_/Centella",
@@ -655,7 +655,7 @@
     "liars": {
       "artist": "Liars",
       "first_discovered": "26 Feb 2026, 19:32",
-      "last_listened": "02 Mar 2026, 15:31",
+      "last_listened": "03 Apr 2026, 16:30",
       "track": "Mr Your On Fire Mr",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Liars",
       "track_url": "https://www.last.fm/music/Liars/_/Mr%20Your%20On%20Fire%20Mr",
@@ -1078,10 +1078,10 @@
     "falco": {
       "artist": "Falco",
       "first_discovered": "15 Mar 2026, 17:24",
-      "last_listened": "02 Apr 2026, 17:11",
-      "track": "Rock Me Amadeus",
+      "last_listened": "03 Apr 2026, 16:14",
+      "track": "Der Kommissar",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Falco",
-      "track_url": "https://www.last.fm/music/Falco/_/Rock%20Me%20Amadeus",
+      "track_url": "https://www.last.fm/music/Falco/_/Der%20Kommissar",
       "graduated": false
     },
     "war": {
@@ -1316,6 +1316,33 @@
       "track": "Barracuda (with Jerry Cantrell, Chris Cornell & Mike McCready) [Live]",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heart%2C%20Chris%20Cornell%2C%20Jerry%20Cantrell%2C%20Mike%20McCready",
       "track_url": "https://www.last.fm/music/Heart%2C%20Chris%20Cornell%2C%20Jerry%20Cantrell%2C%20Mike%20McCready/_/Barracuda%20%28with%20Jerry%20Cantrell%2C%20Chris%20Cornell%20%26%20Mike%20McCready%29%20%5BLive%5D",
+      "graduated": false
+    },
+    "my life is irrevocably changed": {
+      "artist": "My Life Is Irrevocably Changed",
+      "first_discovered": "03 Apr 2026, 19:08",
+      "last_listened": "03 Apr 2026, 19:08",
+      "track": "How Paul Simon Felt Watching His First Hit Climb The Charts",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/My%20Life%20Is%20Irrevocably%20Changed",
+      "track_url": "https://www.last.fm/music/My%20Life%20Is%20Irrevocably%20Changed/_/How%20Paul%20Simon%20Felt%20Watching%20His%20First%20Hit%20Climb%20The%20Charts",
+      "graduated": false
+    },
+    "dave grohl, joshua homme & trent reznor": {
+      "artist": "Dave Grohl, Joshua Homme & Trent Reznor",
+      "first_discovered": "03 Apr 2026, 07:17",
+      "last_listened": "03 Apr 2026, 07:17",
+      "track": "Mantra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dave%20Grohl%2C%20Joshua%20Homme%20%26%20Trent%20Reznor",
+      "track_url": "https://www.last.fm/music/Dave%20Grohl%2C%20Joshua%20Homme%20%26%20Trent%20Reznor/_/Mantra",
+      "graduated": false
+    },
+    "jennie": {
+      "artist": "Jennie",
+      "first_discovered": "03 Apr 2026, 07:15",
+      "last_listened": "03 Apr 2026, 07:15",
+      "track": "Mantra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jennie",
+      "track_url": "https://www.last.fm/music/Jennie/_/Mantra",
       "graduated": false
     }
   }
