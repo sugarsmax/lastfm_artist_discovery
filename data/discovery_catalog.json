@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-03T21:07:30.393775-07:00",
+    "last_updated": "2026-04-04T21:28:55.049380-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 146,
+    "total_discoveries": 154,
     "total_graduated": 25
   },
   "catalog": {
@@ -1343,6 +1343,78 @@
       "track": "Mantra",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jennie",
       "track_url": "https://www.last.fm/music/Jennie/_/Mantra",
+      "graduated": false
+    },
+    "epic vampire battle (full ending scene) | twilight": {
+      "artist": "Epic Vampire Battle (FULL ENDING SCENE) | Twilight",
+      "first_discovered": "04 Apr 2026, 18:19",
+      "last_listened": "04 Apr 2026, 18:19",
+      "track": "Breaking Dawn Part 2 Ultra HD 4K",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Epic%20Vampire%20Battle%20%28FULL%20ENDING%20SCENE%29%20%7C%20Twilight",
+      "track_url": "https://www.last.fm/music/Epic%20Vampire%20Battle%20%28FULL%20ENDING%20SCENE%29%20%7C%20Twilight/_/Breaking%20Dawn%20Part%202%20Ultra%20HD%204K",
+      "graduated": false
+    },
+    "baby": {
+      "artist": "Baby",
+      "first_discovered": "04 Apr 2026, 17:58",
+      "last_listened": "04 Apr 2026, 17:58",
+      "track": "What Happened To That Boy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Baby",
+      "track_url": "https://www.last.fm/music/Baby/_/What%20Happened%20To%20That%20Boy",
+      "graduated": false
+    },
+    "how humanity created the borg!": {
+      "artist": "How Humanity Created The BORG!",
+      "first_discovered": "04 Apr 2026, 17:50",
+      "last_listened": "04 Apr 2026, 17:50",
+      "track": "Star Trek Explained",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/How%20Humanity%20Created%20The%20BORG%21",
+      "track_url": "https://www.last.fm/music/How%20Humanity%20Created%20The%20BORG%21/_/Star%20Trek%20Explained",
+      "graduated": false
+    },
+    "buzzfeed celeb": {
+      "artist": "BuzzFeed Celeb",
+      "first_discovered": "04 Apr 2026, 17:37",
+      "last_listened": "04 Apr 2026, 17:37",
+      "track": "Results",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BuzzFeed%20Celeb",
+      "track_url": "https://www.last.fm/music/BuzzFeed%20Celeb/_/Results",
+      "graduated": false
+    },
+    "rewrite the stars": {
+      "artist": "Rewrite The Stars",
+      "first_discovered": "04 Apr 2026, 17:28",
+      "last_listened": "04 Apr 2026, 17:28",
+      "track": "THE GREATEST SHOWMAN (AJ Rafael x Isa Briones)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rewrite%20The%20Stars",
+      "track_url": "https://www.last.fm/music/Rewrite%20The%20Stars/_/THE%20GREATEST%20SHOWMAN%20%28AJ%20Rafael%20x%20Isa%20Briones%29",
+      "graduated": false
+    },
+    "binge central": {
+      "artist": "Binge Central",
+      "first_discovered": "04 Apr 2026, 17:20",
+      "last_listened": "04 Apr 2026, 17:20",
+      "track": "When Celebrities Couldn't Handle Robin Williams",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Binge%20Central",
+      "track_url": "https://www.last.fm/music/Binge%20Central/_/When%20Celebrities%20Couldn%27t%20Handle%20Robin%20Williams",
+      "graduated": false
+    },
+    "baby, clipse": {
+      "artist": "Baby, Clipse",
+      "first_discovered": "04 Apr 2026, 14:04",
+      "last_listened": "04 Apr 2026, 14:04",
+      "track": "What Happened To That Boy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Baby%2C%20Clipse",
+      "track_url": "https://www.last.fm/music/Baby%2C%20Clipse/_/What%20Happened%20To%20That%20Boy",
+      "graduated": false
+    },
+    "paul simon": {
+      "artist": "Paul Simon",
+      "first_discovered": "03 Apr 2026, 22:18",
+      "last_listened": "03 Apr 2026, 22:18",
+      "track": "Late in the Evening",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paul%20Simon",
+      "track_url": "https://www.last.fm/music/Paul%20Simon/_/Late%20in%20the%20Evening",
       "graduated": false
     }
   }
