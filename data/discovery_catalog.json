@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-04T21:28:55.049380-07:00",
+    "last_updated": "2026-04-05T21:36:14.105290-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 154,
+    "total_discoveries": 155,
     "total_graduated": 25
   },
   "catalog": {
@@ -1402,7 +1402,7 @@
     "baby, clipse": {
       "artist": "Baby, Clipse",
       "first_discovered": "04 Apr 2026, 14:04",
-      "last_listened": "04 Apr 2026, 14:04",
+      "last_listened": "05 Apr 2026, 16:06",
       "track": "What Happened To That Boy",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Baby%2C%20Clipse",
       "track_url": "https://www.last.fm/music/Baby%2C%20Clipse/_/What%20Happened%20To%20That%20Boy",
@@ -1415,6 +1415,15 @@
       "track": "Late in the Evening",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paul%20Simon",
       "track_url": "https://www.last.fm/music/Paul%20Simon/_/Late%20in%20the%20Evening",
+      "graduated": false
+    },
+    "deadmau5, lights": {
+      "artist": "deadmau5, Lights",
+      "first_discovered": "05 Apr 2026, 16:13",
+      "last_listened": "05 Apr 2026, 16:13",
+      "track": "Drama Free (feat. LIGHTS)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/deadmau5%2C%20Lights",
+      "track_url": "https://www.last.fm/music/deadmau5%2C%20Lights/_/Drama%20Free%20%28feat.%20LIGHTS%29",
       "graduated": false
     }
   }
