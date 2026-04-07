@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-05T21:36:14.105290-07:00",
+    "last_updated": "2026-04-06T21:24:47.492800-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 155,
+    "total_discoveries": 161,
     "total_graduated": 25
   },
   "catalog": {
@@ -637,10 +637,10 @@
     "tokyo police club": {
       "artist": "Tokyo Police Club",
       "first_discovered": "26 Feb 2026, 19:35",
-      "last_listened": "26 Feb 2026, 20:33",
-      "track": "Your English Is Good",
+      "last_listened": "06 Apr 2026, 16:58",
+      "track": "Nature Of The Experiment",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tokyo%20Police%20Club",
-      "track_url": "https://www.last.fm/music/Tokyo%20Police%20Club/_/Your%20English%20Is%20Good",
+      "track_url": "https://www.last.fm/music/Tokyo%20Police%20Club/_/Nature%20Of%20The%20Experiment",
       "graduated": false
     },
     "metric": {
@@ -1424,6 +1424,60 @@
       "track": "Drama Free (feat. LIGHTS)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/deadmau5%2C%20Lights",
       "track_url": "https://www.last.fm/music/deadmau5%2C%20Lights/_/Drama%20Free%20%28feat.%20LIGHTS%29",
+      "graduated": false
+    },
+    "polock": {
+      "artist": "Polock",
+      "first_discovered": "06 Apr 2026, 17:27",
+      "last_listened": "06 Apr 2026, 17:27",
+      "track": "Everlasting",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Polock",
+      "track_url": "https://www.last.fm/music/Polock/_/Everlasting",
+      "graduated": false
+    },
+    "meatbodies": {
+      "artist": "Meatbodies",
+      "first_discovered": "06 Apr 2026, 16:56",
+      "last_listened": "06 Apr 2026, 16:56",
+      "track": "Wahoo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Meatbodies",
+      "track_url": "https://www.last.fm/music/Meatbodies/_/Wahoo",
+      "graduated": false
+    },
+    "coachwhips": {
+      "artist": "Coachwhips",
+      "first_discovered": "06 Apr 2026, 16:53",
+      "last_listened": "06 Apr 2026, 16:53",
+      "track": "I Drank What?",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coachwhips",
+      "track_url": "https://www.last.fm/music/Coachwhips/_/I%20Drank%20What%3F",
+      "graduated": false
+    },
+    "japanther": {
+      "artist": "Japanther",
+      "first_discovered": "06 Apr 2026, 16:38",
+      "last_listened": "06 Apr 2026, 16:38",
+      "track": "Tender People",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Japanther",
+      "track_url": "https://www.last.fm/music/Japanther/_/Tender%20People",
+      "graduated": false
+    },
+    "bully": {
+      "artist": "Bully",
+      "first_discovered": "06 Apr 2026, 16:36",
+      "last_listened": "06 Apr 2026, 16:36",
+      "track": "Milkman",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bully",
+      "track_url": "https://www.last.fm/music/Bully/_/Milkman",
+      "graduated": false
+    },
+    "iceage": {
+      "artist": "Iceage",
+      "first_discovered": "06 Apr 2026, 16:28",
+      "last_listened": "06 Apr 2026, 16:28",
+      "track": "Vendetta",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Iceage",
+      "track_url": "https://www.last.fm/music/Iceage/_/Vendetta",
       "graduated": false
     }
   }
