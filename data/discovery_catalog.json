@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-04-06T21:24:47.492800-07:00",
+    "last_updated": "2026-04-07T21:28:21.528679-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 161,
-    "total_graduated": 25
+    "total_discoveries": 178,
+    "total_graduated": 26
   },
   "catalog": {
     "rjd2, supastition": {
@@ -189,10 +189,10 @@
     "alexandre tharaud": {
       "artist": "Alexandre Tharaud",
       "first_discovered": "20 Feb 2026, 23:54",
-      "last_listened": "20 Feb 2026, 15:54",
-      "track": "Les Baricades Mistérieuses (6e ordre)",
+      "last_listened": "07 Apr 2026, 16:05",
+      "track": "24 Préludes, Op. 28: No. 15, Sostenuto",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
-      "track_url": "https://www.last.fm/music/Alexandre%20Tharaud/_/Les%20Baricades%20Mist%C3%A9rieuses%20%286e%20ordre%29",
+      "track_url": "https://www.last.fm/music/Alexandre%20Tharaud/_/24%20Pr%C3%A9ludes%2C%20Op.%2028%3A%20No.%2015%2C%20Sostenuto",
       "graduated": false
     },
     "rafał blechacz": {
@@ -1172,7 +1172,8 @@
       "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: III. Allegro",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester",
       "track_url": "https://www.last.fm/music/Johann%20Sebastian%20Bach%2C%20Berliner%20Kammerorchester/_/Brandenburg%20Concerto%20No.%203%20in%20G%20Major%2C%20BWV%201048%3A%20III.%20Allegro",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-04-07T21:28:21.528127-07:00"
     },
     "johann sebastian bach, esther apituley": {
       "artist": "Johann Sebastian Bach, Esther Apituley",
@@ -1429,7 +1430,7 @@
     "polock": {
       "artist": "Polock",
       "first_discovered": "06 Apr 2026, 17:27",
-      "last_listened": "06 Apr 2026, 17:27",
+      "last_listened": "07 Apr 2026, 16:26",
       "track": "Everlasting",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Polock",
       "track_url": "https://www.last.fm/music/Polock/_/Everlasting",
@@ -1478,6 +1479,159 @@
       "track": "Vendetta",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Iceage",
       "track_url": "https://www.last.fm/music/Iceage/_/Vendetta",
+      "graduated": false
+    },
+    "albion": {
+      "artist": "Albion",
+      "first_discovered": "07 Apr 2026, 18:09",
+      "last_listened": "07 Apr 2026, 18:09",
+      "track": "Air",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Albion",
+      "track_url": "https://www.last.fm/music/Albion/_/Air",
+      "graduated": false
+    },
+    "snoop dogg, pharrell williams, uncle charlie wilson": {
+      "artist": "Snoop Dogg, Pharrell Williams, Uncle Charlie Wilson",
+      "first_discovered": "07 Apr 2026, 17:58",
+      "last_listened": "07 Apr 2026, 17:58",
+      "track": "Beautiful",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Snoop%20Dogg%2C%20Pharrell%20Williams%2C%20Uncle%20Charlie%20Wilson",
+      "track_url": "https://www.last.fm/music/Snoop%20Dogg%2C%20Pharrell%20Williams%2C%20Uncle%20Charlie%20Wilson/_/Beautiful",
+      "graduated": false
+    },
+    "harry connick, jr. trio": {
+      "artist": "Harry Connick, Jr. Trio",
+      "first_discovered": "07 Apr 2026, 17:53",
+      "last_listened": "07 Apr 2026, 17:53",
+      "track": "Christmas Day",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Harry%20Connick%2C%20Jr.%20Trio",
+      "track_url": "https://www.last.fm/music/Harry%20Connick%2C%20Jr.%20Trio/_/Christmas%20Day",
+      "graduated": false
+    },
+    "lutz kirchhof": {
+      "artist": "Lutz Kirchhof",
+      "first_discovered": "07 Apr 2026, 17:35",
+      "last_listened": "07 Apr 2026, 17:35",
+      "track": "Sir John Langton, his Pavin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lutz%20Kirchhof",
+      "track_url": "https://www.last.fm/music/Lutz%20Kirchhof/_/Sir%20John%20Langton%2C%20his%20Pavin",
+      "graduated": false
+    },
+    "próxima parada": {
+      "artist": "Próxima Parada",
+      "first_discovered": "07 Apr 2026, 17:26",
+      "last_listened": "07 Apr 2026, 17:26",
+      "track": "Desert Bloom II",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pr%C3%B3xima%20Parada",
+      "track_url": "https://www.last.fm/music/Pr%C3%B3xima%20Parada/_/Desert%20Bloom%20II",
+      "graduated": false
+    },
+    "jeff goldblum & the mildred snitzer orchestra, imelda may, till brönner": {
+      "artist": "Jeff Goldblum & the Mildred Snitzer Orchestra, Imelda May, Till Brönner",
+      "first_discovered": "07 Apr 2026, 17:22",
+      "last_listened": "07 Apr 2026, 17:22",
+      "track": "Straighten Up And Fly Right",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jeff%20Goldblum%20%26%20the%20Mildred%20Snitzer%20Orchestra%2C%20Imelda%20May%2C%20Till%20Br%C3%B6nner",
+      "track_url": "https://www.last.fm/music/Jeff%20Goldblum%20%26%20the%20Mildred%20Snitzer%20Orchestra%2C%20Imelda%20May%2C%20Till%20Br%C3%B6nner/_/Straighten%20Up%20And%20Fly%20Right",
+      "graduated": false
+    },
+    "dj snake, yellow claw & spanker, dj snake, spanker, yellow claw": {
+      "artist": "DJ Snake, Yellow Claw & Spanker, DJ Snake, Spanker, Yellow Claw",
+      "first_discovered": "07 Apr 2026, 16:36",
+      "last_listened": "07 Apr 2026, 16:36",
+      "track": "Slow Down",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%2C%20Yellow%20Claw%20%26%20Spanker%2C%20DJ%20Snake%2C%20Spanker%2C%20Yellow%20Claw",
+      "track_url": "https://www.last.fm/music/DJ%20Snake%2C%20Yellow%20Claw%20%26%20Spanker%2C%20DJ%20Snake%2C%20Spanker%2C%20Yellow%20Claw/_/Slow%20Down",
+      "graduated": false
+    },
+    "lang lang, franz liszt": {
+      "artist": "Lang Lang, Franz Liszt",
+      "first_discovered": "07 Apr 2026, 16:22",
+      "last_listened": "07 Apr 2026, 16:22",
+      "track": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lang%20Lang%2C%20Franz%20Liszt",
+      "track_url": "https://www.last.fm/music/Lang%20Lang%2C%20Franz%20Liszt/_/La%20campanella%20in%20G-Sharp%20Minor%20%28From%20%22Grandes%20%C3%A9tudes%20de%20Paganini%22%2C%20S.%20141%2F3%29",
+      "graduated": false
+    },
+    "stéphane blet, frédéric chopin": {
+      "artist": "Stéphane Blet, Frédéric Chopin",
+      "first_discovered": "07 Apr 2026, 16:17",
+      "last_listened": "07 Apr 2026, 16:17",
+      "track": "Nocturne N°2 En Mi Bémol Majeur Opus 9 N°2",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/St%C3%A9phane%20Blet%2C%20Fr%C3%A9d%C3%A9ric%20Chopin",
+      "track_url": "https://www.last.fm/music/St%C3%A9phane%20Blet%2C%20Fr%C3%A9d%C3%A9ric%20Chopin/_/Nocturne%20N%C2%B02%20En%20Mi%20B%C3%A9mol%20Majeur%20Opus%209%20N%C2%B02",
+      "graduated": false
+    },
+    "dune": {
+      "artist": "Dune",
+      "first_discovered": "07 Apr 2026, 16:09",
+      "last_listened": "07 Apr 2026, 16:09",
+      "track": "Part Three",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dune",
+      "track_url": "https://www.last.fm/music/Dune/_/Part%20Three",
+      "graduated": false
+    },
+    "janusz olejniczak": {
+      "artist": "Janusz Olejniczak",
+      "first_discovered": "07 Apr 2026, 16:03",
+      "last_listened": "07 Apr 2026, 16:03",
+      "track": "Nocturne in E minor, Op. 72, No. 1",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Janusz%20Olejniczak",
+      "track_url": "https://www.last.fm/music/Janusz%20Olejniczak/_/Nocturne%20in%20E%20minor%2C%20Op.%2072%2C%20No.%201",
+      "graduated": false
+    },
+    "yundi": {
+      "artist": "Yundi",
+      "first_discovered": "07 Apr 2026, 15:59",
+      "last_listened": "07 Apr 2026, 15:59",
+      "track": "Beethoven: Piano Sonata No. 8 in C minor, Op. 13 -\"Pathétique\": 2. Adagio cantabile",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yundi",
+      "track_url": "https://www.last.fm/music/Yundi/_/Beethoven%3A%20Piano%20Sonata%20No.%208%20in%20C%20minor%2C%20Op.%2013%20-%22Path%C3%A9tique%22%3A%202.%20Adagio%20cantabile",
+      "graduated": false
+    },
+    "khatia buniatishvili": {
+      "artist": "Khatia Buniatishvili",
+      "first_discovered": "07 Apr 2026, 15:51",
+      "last_listened": "07 Apr 2026, 15:51",
+      "track": "Waltz in C-Sharp Minor, Op. 64 No. 2",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili",
+      "track_url": "https://www.last.fm/music/Khatia%20Buniatishvili/_/Waltz%20in%20C-Sharp%20Minor%2C%20Op.%2064%20No.%202",
+      "graduated": false
+    },
+    "jian wang, göran söllscher": {
+      "artist": "Jian Wang, Göran Söllscher",
+      "first_discovered": "07 Apr 2026, 15:43",
+      "last_listened": "07 Apr 2026, 15:43",
+      "track": "Sibelius: 13 Pieces for Piano, Op. 76: No. 2, Etude (Arr. Sandquist for Cello & Piano)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jian%20Wang%2C%20G%C3%B6ran%20S%C3%B6llscher",
+      "track_url": "https://www.last.fm/music/Jian%20Wang%2C%20G%C3%B6ran%20S%C3%B6llscher/_/Sibelius%3A%2013%20Pieces%20for%20Piano%2C%20Op.%2076%3A%20No.%202%2C%20Etude%20%28Arr.%20Sandquist%20for%20Cello%20%26%20Piano%29",
+      "graduated": false
+    },
+    "christina pluhar, l'arpeggiata, philippe jaroussky, nuria rial": {
+      "artist": "Christina Pluhar, L'Arpeggiata, Philippe Jaroussky, Nuria Rial",
+      "first_discovered": "07 Apr 2026, 15:40",
+      "last_listened": "07 Apr 2026, 15:40",
+      "track": "L'incoronazione di Poppea, SV 308, Act 3: \"Pur ti miro\" (Nerone, Poppea)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Christina%20Pluhar%2C%20L%27Arpeggiata%2C%20Philippe%20Jaroussky%2C%20Nuria%20Rial",
+      "track_url": "https://www.last.fm/music/Christina%20Pluhar%2C%20L%27Arpeggiata%2C%20Philippe%20Jaroussky%2C%20Nuria%20Rial/_/L%27incoronazione%20di%20Poppea%2C%20SV%20308%2C%20Act%203%3A%20%22Pur%20ti%20miro%22%20%28Nerone%2C%20Poppea%29",
+      "graduated": false
+    },
+    "khatia buniatishvili, paavo järvi, czech philharmonic": {
+      "artist": "Khatia Buniatishvili, Paavo Järvi, Czech Philharmonic",
+      "first_discovered": "07 Apr 2026, 15:36",
+      "last_listened": "07 Apr 2026, 15:36",
+      "track": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili%2C%20Paavo%20J%C3%A4rvi%2C%20Czech%20Philharmonic",
+      "track_url": "https://www.last.fm/music/Khatia%20Buniatishvili%2C%20Paavo%20J%C3%A4rvi%2C%20Czech%20Philharmonic/_/Piano%20Concerto%20No.%203%20in%20D%20Minor%2C%20Op.%2030%3A%20I.%20Allegro%20ma%20non%20tanto",
+      "graduated": false
+    },
+    "arthur rubinstein, frédéric chopin": {
+      "artist": "Arthur Rubinstein, Frédéric Chopin",
+      "first_discovered": "07 Apr 2026, 15:18",
+      "last_listened": "07 Apr 2026, 15:18",
+      "track": "Nocturnes, Op. 9: No. 2 in E-Flat Major. Andante",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arthur%20Rubinstein%2C%20Fr%C3%A9d%C3%A9ric%20Chopin",
+      "track_url": "https://www.last.fm/music/Arthur%20Rubinstein%2C%20Fr%C3%A9d%C3%A9ric%20Chopin/_/Nocturnes%2C%20Op.%209%3A%20No.%202%20in%20E-Flat%20Major.%20Andante",
       "graduated": false
     }
   }
