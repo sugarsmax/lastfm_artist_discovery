@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-07T21:28:21.528679-07:00",
+    "last_updated": "2026-04-08T21:24:40.184856-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 178,
+    "total_discoveries": 179,
     "total_graduated": 26
   },
   "catalog": {
@@ -549,10 +549,10 @@
     "víkingur ólafsson": {
       "artist": "Víkingur Ólafsson",
       "first_discovered": "20 Feb 2026, 15:55",
-      "last_listened": "20 Feb 2026, 15:55",
-      "track": "J.S. Bach: Sinfonia No. 15 in B Minor, BWV 801",
+      "last_listened": "08 Apr 2026, 17:30",
+      "track": "Rameau, Ólafsson: The Arts and the Hours",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
-      "track_url": "https://www.last.fm/music/V%C3%ADkingur%20%C3%93lafsson/_/J.S.%20Bach%3A%20Sinfonia%20No.%2015%20in%20B%20Minor%2C%20BWV%20801",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur%20%C3%93lafsson/_/Rameau%2C%20%C3%93lafsson%3A%20The%20Arts%20and%20the%20Hours",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474062-08:00"
     },
@@ -1632,6 +1632,15 @@
       "track": "Nocturnes, Op. 9: No. 2 in E-Flat Major. Andante",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arthur%20Rubinstein%2C%20Fr%C3%A9d%C3%A9ric%20Chopin",
       "track_url": "https://www.last.fm/music/Arthur%20Rubinstein%2C%20Fr%C3%A9d%C3%A9ric%20Chopin/_/Nocturnes%2C%20Op.%209%3A%20No.%202%20in%20E-Flat%20Major.%20Andante",
+      "graduated": false
+    },
+    "cécile ousset": {
+      "artist": "Cécile Ousset",
+      "first_discovered": "08 Apr 2026, 17:55",
+      "last_listened": "08 Apr 2026, 17:55",
+      "track": "Impromptu No. 2 in F Minor, Op. 31",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/C%C3%A9cile%20Ousset",
+      "track_url": "https://www.last.fm/music/C%C3%A9cile%20Ousset/_/Impromptu%20No.%202%20in%20F%20Minor%2C%20Op.%2031",
       "graduated": false
     }
   }
