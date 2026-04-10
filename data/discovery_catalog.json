@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-08T21:24:40.184856-07:00",
+    "last_updated": "2026-04-09T21:38:33.611825-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 179,
+    "total_discoveries": 182,
     "total_graduated": 26
   },
   "catalog": {
@@ -1641,6 +1641,33 @@
       "track": "Impromptu No. 2 in F Minor, Op. 31",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/C%C3%A9cile%20Ousset",
       "track_url": "https://www.last.fm/music/C%C3%A9cile%20Ousset/_/Impromptu%20No.%202%20in%20F%20Minor%2C%20Op.%2031",
+      "graduated": false
+    },
+    "simian mobile disco": {
+      "artist": "Simian Mobile Disco",
+      "first_discovered": "09 Apr 2026, 14:59",
+      "last_listened": "09 Apr 2026, 14:59",
+      "track": "Hustler",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Simian%20Mobile%20Disco",
+      "track_url": "https://www.last.fm/music/Simian%20Mobile%20Disco/_/Hustler",
+      "graduated": false
+    },
+    "new young pony club": {
+      "artist": "New Young Pony Club",
+      "first_discovered": "09 Apr 2026, 14:56",
+      "last_listened": "09 Apr 2026, 14:56",
+      "track": "Ice Cream",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/New%20Young%20Pony%20Club",
+      "track_url": "https://www.last.fm/music/New%20Young%20Pony%20Club/_/Ice%20Cream",
+      "graduated": false
+    },
+    "matthew sweet": {
+      "artist": "Matthew Sweet",
+      "first_discovered": "09 Apr 2026, 09:40",
+      "last_listened": "09 Apr 2026, 09:40",
+      "track": "Sick of Myself",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Matthew%20Sweet",
+      "track_url": "https://www.last.fm/music/Matthew%20Sweet/_/Sick%20of%20Myself",
       "graduated": false
     }
   }
