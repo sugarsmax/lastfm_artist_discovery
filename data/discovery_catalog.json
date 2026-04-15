@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-13T21:37:41.317991-07:00",
+    "last_updated": "2026-04-14T21:37:55.746201-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 182,
+    "total_discoveries": 188,
     "total_graduated": 26
   },
   "catalog": {
@@ -189,7 +189,7 @@
     "alexandre tharaud": {
       "artist": "Alexandre Tharaud",
       "first_discovered": "20 Feb 2026, 23:54",
-      "last_listened": "07 Apr 2026, 16:05",
+      "last_listened": "14 Apr 2026, 15:10",
       "track": "24 Préludes, Op. 28: No. 15, Sostenuto",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
       "track_url": "https://www.last.fm/music/Alexandre%20Tharaud/_/24%20Pr%C3%A9ludes%2C%20Op.%2028%3A%20No.%2015%2C%20Sostenuto",
@@ -549,10 +549,10 @@
     "víkingur ólafsson": {
       "artist": "Víkingur Ólafsson",
       "first_discovered": "20 Feb 2026, 15:55",
-      "last_listened": "08 Apr 2026, 17:30",
-      "track": "Rameau, Ólafsson: The Arts and the Hours",
+      "last_listened": "14 Apr 2026, 14:57",
+      "track": "J.S. Bach: Goldberg Variations, BWV 988: Var. 1",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
-      "track_url": "https://www.last.fm/music/V%C3%ADkingur%20%C3%93lafsson/_/Rameau%2C%20%C3%93lafsson%3A%20The%20Arts%20and%20the%20Hours",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur%20%C3%93lafsson/_/J.S.%20Bach%3A%20Goldberg%20Variations%2C%20BWV%20988%3A%20Var.%201",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474062-08:00"
     },
@@ -1583,7 +1583,7 @@
     "yundi": {
       "artist": "Yundi",
       "first_discovered": "07 Apr 2026, 15:59",
-      "last_listened": "07 Apr 2026, 15:59",
+      "last_listened": "14 Apr 2026, 14:55",
       "track": "Beethoven: Piano Sonata No. 8 in C minor, Op. 13 -\"Pathétique\": 2. Adagio cantabile",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yundi",
       "track_url": "https://www.last.fm/music/Yundi/_/Beethoven%3A%20Piano%20Sonata%20No.%208%20in%20C%20minor%2C%20Op.%2013%20-%22Path%C3%A9tique%22%3A%202.%20Adagio%20cantabile",
@@ -1668,6 +1668,60 @@
       "track": "Sick of Myself",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Matthew%20Sweet",
       "track_url": "https://www.last.fm/music/Matthew%20Sweet/_/Sick%20of%20Myself",
+      "graduated": false
+    },
+    "olga scheps, erik satie": {
+      "artist": "Olga Scheps, Erik Satie",
+      "first_discovered": "14 Apr 2026, 15:23",
+      "last_listened": "14 Apr 2026, 15:23",
+      "track": "Gymnopédie No. 1: Lent et douloureux",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olga%20Scheps%2C%20Erik%20Satie",
+      "track_url": "https://www.last.fm/music/Olga%20Scheps%2C%20Erik%20Satie/_/Gymnop%C3%A9die%20No.%201%3A%20Lent%20et%20douloureux",
+      "graduated": false
+    },
+    "jacques rouvier": {
+      "artist": "Jacques Rouvier",
+      "first_discovered": "14 Apr 2026, 15:19",
+      "last_listened": "14 Apr 2026, 15:19",
+      "track": "DEBUSSY: The Girl with the Flaxen Hair",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jacques%20Rouvier",
+      "track_url": "https://www.last.fm/music/Jacques%20Rouvier/_/DEBUSSY%3A%20The%20Girl%20with%20the%20Flaxen%20Hair",
+      "graduated": false
+    },
+    "olivia belli, john metcalfe, louisa fuller, chris worsey": {
+      "artist": "Olivia Belli, John Metcalfe, Louisa Fuller, Chris Worsey",
+      "first_discovered": "14 Apr 2026, 15:12",
+      "last_listened": "14 Apr 2026, 15:12",
+      "track": "Triune",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivia%20Belli%2C%20John%20Metcalfe%2C%20Louisa%20Fuller%2C%20Chris%20Worsey",
+      "track_url": "https://www.last.fm/music/Olivia%20Belli%2C%20John%20Metcalfe%2C%20Louisa%20Fuller%2C%20Chris%20Worsey/_/Triune",
+      "graduated": false
+    },
+    "mao fujita": {
+      "artist": "Mao Fujita",
+      "first_discovered": "14 Apr 2026, 15:08",
+      "last_listened": "14 Apr 2026, 15:08",
+      "track": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mao%20Fujita",
+      "track_url": "https://www.last.fm/music/Mao%20Fujita/_/Andante%20from%20the%20Sonata%20for%20Solo%20Violin%2C%20BWV%201003%20%28Transcribed%20by%20Alexander%20Siloti%29",
+      "graduated": false
+    },
+    "maxim shostakovich, i musici de montréal, dmitri shostakovich jr.": {
+      "artist": "Maxim Shostakovich, I Musici De Montréal, Dmitri Shostakovich Jr.",
+      "first_discovered": "14 Apr 2026, 15:03",
+      "last_listened": "14 Apr 2026, 15:03",
+      "track": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maxim%20Shostakovich%2C%20I%20Musici%20De%20Montr%C3%A9al%2C%20Dmitri%20Shostakovich%20Jr.",
+      "track_url": "https://www.last.fm/music/Maxim%20Shostakovich%2C%20I%20Musici%20De%20Montr%C3%A9al%2C%20Dmitri%20Shostakovich%20Jr./_/Piano%20Concerto%20No.%202%20in%20F%20Major%2C%20Op.%20102%3A%20II.%20Andante",
+      "graduated": false
+    },
+    "gryphon trio": {
+      "artist": "Gryphon Trio",
+      "first_discovered": "14 Apr 2026, 14:50",
+      "last_listened": "14 Apr 2026, 14:50",
+      "track": "Piano Trio No. 2 in E-flat Major, D. 929, Op. 100 / II. Andante con moto",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gryphon%20Trio",
+      "track_url": "https://www.last.fm/music/Gryphon%20Trio/_/Piano%20Trio%20No.%202%20in%20E-flat%20Major%2C%20D.%20929%2C%20Op.%20100%20%2F%20II.%20Andante%20con%20moto",
       "graduated": false
     }
   }
