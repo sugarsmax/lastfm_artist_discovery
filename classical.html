@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Last.fm New Artist Discoveries</title>
+    <title>Classical Composer Spotter — Last.fm Discoveries</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
@@ -11,11 +11,11 @@
     <header>
         <div class="container">
             <nav class="site-nav">
-                <a href="index.html" class="nav-link nav-link-active">&#9654; Discoveries</a>
-                <a href="classical.html" class="nav-link">&#9836; Classical Spotter</a>
+                <a href="index.html" class="nav-link">&#9654; Discoveries</a>
+                <a href="classical.html" class="nav-link nav-link-active">&#9836; Classical Spotter</a>
             </nav>
-            <h1>Last.fm Discoveries</h1>
-            <p>A living catalog of new artists found outside the Top 1000.</p>
+            <h1 class="classical-title">Classical Composer Spotter</h1>
+            <p>Catalog entries where a classical composer's name appears in the track or album, performed by someone else.</p>
             <div id="stats" class="stats-bar">
                 <!-- Stats injected here -->
             </div>
@@ -24,30 +24,30 @@
 
     <main class="container">
         <div class="controls">
-            <input type="text" id="searchInput" placeholder="Search artists or tracks...">
+            <input type="text" id="searchInput" placeholder="Search artist, track, album, or composer...">
+            <select id="composerSelect">
+                <option value="">All Composers</option>
+            </select>
             <select id="sortSelect">
                 <option value="last_listened">Recently Played</option>
                 <option value="first_discovered">First Discovered</option>
                 <option value="artist_asc">Artist (A-Z)</option>
+                <option value="composer_asc">Composer (A-Z)</option>
             </select>
-            <label class="checkbox-label">
-                <input type="checkbox" id="hideGraduated"> Hide Graduated
-            </label>
         </div>
 
-        <div id="catalogGrid" class="grid">
-            <!-- Loading state -->
+        <div id="classicalGrid" class="grid">
             <div class="loading">Loading catalog...</div>
         </div>
     </main>
 
     <footer>
         <div class="container">
-            <p id="lastUpdated">Last updated: ...</p>
-            <p>Generated automatically via GitHub Actions & Last.fm API</p>
+            <p id="lastUpdated">Catalog last updated: ...</p>
+            <p>Composer detection uses word-boundary matching against a list of ~60 classical composers.</p>
         </div>
     </footer>
 
-    <script src="js/app.js"></script>
+    <script src="js/classical.js"></script>
 </body>
 </html>

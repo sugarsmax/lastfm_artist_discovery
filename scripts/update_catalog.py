@@ -164,27 +164,32 @@ def save_catalog(catalog: dict) -> None:
 
 SAMPLE_RECENT_TRACKS = [
     # Single-scrobble artists (some known, some new)
-    {"artist": "Khruangbin", "track": "Maria También", "timestamp": "2026-02-16 20:15"},
-    {"artist": "Mdou Moctar", "track": "Afrique Victime", "timestamp": "2026-02-16 18:30"},
-    {"artist": "Arooj Aftab", "track": "Mohabbat", "timestamp": "2026-02-15 22:00"},
-    {"artist": "Nala Sinephro", "track": "Space 1.8", "timestamp": "2026-02-15 14:45"},
-    {"artist": "BADBADNOTGOOD", "track": "Time Moves Slow", "timestamp": "2026-02-14 11:20"},
-    {"artist": "Floating Points", "track": "Silhouettes (I, II & III)", "timestamp": "2026-02-14 09:00"},
-    {"artist": "Little Simz", "track": "Introvert", "timestamp": "2026-02-13 16:30"},
-    {"artist": "Beth Gibbons", "track": "Floating on a Moment", "timestamp": "2026-02-13 10:15"},
-    {"artist": "Yussef Dayes", "track": "Black Classical Music", "timestamp": "2026-02-12 21:45"},
-    {"artist": "Shabaka", "track": "As the Planets and the Stars Collapse", "timestamp": "2026-02-12 19:00"},
-    {"artist": "Sault", "track": "Free", "timestamp": "2026-02-11 15:30"},
-    {"artist": "Ezra Collective", "track": "Victory Dance", "timestamp": "2026-02-11 08:00"},
+    {"artist": "Khruangbin", "track": "Maria También", "album": "Los Angeles", "timestamp": "2026-02-16 20:15"},
+    {"artist": "Mdou Moctar", "track": "Afrique Victime", "album": "Afrique Victime", "timestamp": "2026-02-16 18:30"},
+    {"artist": "Arooj Aftab", "track": "Mohabbat", "album": "Vulture Prince", "timestamp": "2026-02-15 22:00"},
+    {"artist": "Nala Sinephro", "track": "Space 1.8", "album": "Space 1.8", "timestamp": "2026-02-15 14:45"},
+    {"artist": "BADBADNOTGOOD", "track": "Time Moves Slow", "album": "IV", "timestamp": "2026-02-14 11:20"},
+    {"artist": "Floating Points", "track": "Silhouettes (I, II & III)", "album": "Promises", "timestamp": "2026-02-14 09:00"},
+    {"artist": "Little Simz", "track": "Introvert", "album": "Sometimes I Might Be Introvert", "timestamp": "2026-02-13 16:30"},
+    {"artist": "Beth Gibbons", "track": "Floating on a Moment", "album": "Lives Outgrown", "timestamp": "2026-02-13 10:15"},
+    {"artist": "Yussef Dayes", "track": "Black Classical Music", "album": "Black Classical Music", "timestamp": "2026-02-12 21:45"},
+    {"artist": "Shabaka", "track": "As the Planets and the Stars Collapse", "album": "Perceive Its Beauty, Acknowledge Its Grace", "timestamp": "2026-02-12 19:00"},
+    {"artist": "Sault", "track": "Free", "album": "Untitled (Rise)", "timestamp": "2026-02-11 15:30"},
+    {"artist": "Ezra Collective", "track": "Victory Dance", "album": "Where I'm Meant to Be", "timestamp": "2026-02-11 08:00"},
+    # Classical recordings performed by non-composer artists
+    {"artist": "Berlin Philharmonic", "track": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio", "album": "Beethoven: Symphonies Nos. 5 & 7", "timestamp": "2026-02-14 07:30"},
+    {"artist": "Mitsuko Uchida", "track": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 'Moonlight': I. Adagio sostenuto", "album": "Beethoven: Piano Sonatas", "timestamp": "2026-02-13 22:00"},
+    {"artist": "Vienna Philharmonic", "track": "The Magic Flute, K. 620: Overture", "album": "Mozart: The Magic Flute", "timestamp": "2026-02-12 09:15"},
+    {"artist": "Hilary Hahn", "track": "Violin Concerto in D Major, Op. 77: I. Allegro non troppo", "album": "Brahms: Violin Concerto", "timestamp": "2026-02-11 20:00"},
     # Multi-scrobble artists (should be excluded if in Top 1000, included if new)
-    {"artist": "Radiohead", "track": "Everything In Its Right Place", "timestamp": "2026-02-16 10:00"},
-    {"artist": "Radiohead", "track": "Idioteque", "timestamp": "2026-02-15 09:30"},
-    {"artist": "Radiohead", "track": "The National Anthem", "timestamp": "2026-02-14 08:00"},
-    {"artist": "Tame Impala", "track": "Let It Happen", "timestamp": "2026-02-16 12:00"},
-    {"artist": "Tame Impala", "track": "Elephant", "timestamp": "2026-02-13 14:00"},
+    {"artist": "Radiohead", "track": "Everything In Its Right Place", "album": "Kid A", "timestamp": "2026-02-16 10:00"},
+    {"artist": "Radiohead", "track": "Idioteque", "album": "Kid A", "timestamp": "2026-02-15 09:30"},
+    {"artist": "Radiohead", "track": "The National Anthem", "album": "Kid A", "timestamp": "2026-02-14 08:00"},
+    {"artist": "Tame Impala", "track": "Let It Happen", "album": "Currents", "timestamp": "2026-02-16 12:00"},
+    {"artist": "Tame Impala", "track": "Elephant", "album": "Lonerism", "timestamp": "2026-02-13 14:00"},
     # A new artist listened to multiple times
-    {"artist": "Osees", "track": "The Dream", "timestamp": "2026-02-16 16:00"},
-    {"artist": "Osees", "track": "C", "timestamp": "2026-02-16 15:45"},
+    {"artist": "Osees", "track": "The Dream", "album": "A Foul Form", "timestamp": "2026-02-16 16:00"},
+    {"artist": "Osees", "track": "C", "album": "A Foul Form", "timestamp": "2026-02-16 15:45"},
 ]
 
 SAMPLE_TOP_ARTISTS = [
@@ -257,11 +262,13 @@ def fetch_recent_tracks(
         for played_track in recent:
             artist_name = str(played_track.track.artist)
             track_name = str(played_track.track.title)
+            album_name = str(played_track.album) if played_track.album else ""
             ts = utc_to_pacific(played_track.playback_date or "")
 
             tracks.append({
                 "artist": artist_name,
                 "track": track_name,
+                "album": album_name,
                 "timestamp": ts,
             })
 
@@ -403,6 +410,7 @@ def update_catalog(
             entry = catalog["catalog"][key]
             entry["last_listened"] = track_info["timestamp"]
             entry["track"] = track_info["track"]
+            entry["album"] = track_info.get("album", "")
             entry["track_url"] = build_track_url(artist_display, track_info["track"])
             stats["updated_in_catalog"] += 1
         else:
@@ -412,6 +420,7 @@ def update_catalog(
                 "first_discovered": track_info["timestamp"],
                 "last_listened": track_info["timestamp"],
                 "track": track_info["track"],
+                "album": track_info.get("album", ""),
                 "artist_url": build_library_url(username, artist_display),
                 "track_url": build_track_url(artist_display, track_info["track"]),
                 "graduated": False

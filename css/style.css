@@ -7,6 +7,8 @@
     --card-bg: #ffffff;
     --graduated-color: #008C4A; /* Autodesk Green */
     --hover-color: #f5f5f5;
+    --classical-color: #5f60ff; /* Classical accent */
+    --performer-color: #1A6BFF;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -209,4 +211,93 @@ footer {
     text-align: center;
     padding: 40px;
     color: var(--text-muted);
+}
+
+/* ---- Site navigation ---- */
+
+.site-nav {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    border: 1px solid var(--border-color);
+    color: var(--text-muted);
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.nav-link:hover {
+    background-color: var(--hover-color);
+    color: var(--text-color);
+}
+
+.nav-link-active {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #ffffff;
+}
+
+.nav-link-active:hover {
+    background-color: var(--primary-color);
+    color: #ffffff;
+}
+
+/* ---- Classical page header ---- */
+
+.classical-title {
+    color: var(--classical-color);
+}
+
+/* ---- Classical cards ---- */
+
+.card-composer-match {
+    border-color: var(--classical-color);
+    opacity: 0.75;
+}
+
+.badge-performer {
+    background-color: rgba(95, 96, 255, 0.12);
+    color: var(--classical-color);
+}
+
+.badge-composer-match {
+    background-color: rgba(26, 107, 255, 0.12);
+    color: var(--performer-color);
+    font-size: 0.65rem;
+}
+
+.composer-row {
+    margin-top: 12px;
+}
+
+.composer-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 4px;
+}
+
+.composer-pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background-color: rgba(95, 96, 255, 0.1);
+    color: var(--classical-color);
+    cursor: default;
+}
+
+.album-name {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 8px;
+    font-style: italic;
 }
