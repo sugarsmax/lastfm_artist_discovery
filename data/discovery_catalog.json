@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-15T21:43:58.178755-07:00",
+    "last_updated": "2026-04-16T21:41:16.255362-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 188,
+    "total_discoveries": 189,
     "total_graduated": 26
   },
   "catalog": {
@@ -1069,7 +1069,7 @@
     "prince fatty, horseman": {
       "artist": "Prince Fatty, Horseman",
       "first_discovered": "15 Mar 2026, 18:06",
-      "last_listened": "15 Mar 2026, 18:06",
+      "last_listened": "16 Apr 2026, 21:02",
       "track": "Insane in the Brain",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Horseman",
       "track_url": "https://www.last.fm/music/Prince%20Fatty%2C%20Horseman/_/Insane%20in%20the%20Brain",
@@ -1722,6 +1722,15 @@
       "track": "Piano Trio No. 2 in E-flat Major, D. 929, Op. 100 / II. Andante con moto",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gryphon%20Trio",
       "track_url": "https://www.last.fm/music/Gryphon%20Trio/_/Piano%20Trio%20No.%202%20in%20E-flat%20Major%2C%20D.%20929%2C%20Op.%20100%20%2F%20II.%20Andante%20con%20moto",
+      "graduated": false
+    },
+    "prince fatty, winston francis": {
+      "artist": "Prince Fatty, Winston Francis",
+      "first_discovered": "16 Apr 2026, 21:05",
+      "last_listened": "16 Apr 2026, 21:05",
+      "track": "Ain't Got It",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Winston%20Francis",
+      "track_url": "https://www.last.fm/music/Prince%20Fatty%2C%20Winston%20Francis/_/Ain%27t%20Got%20It",
       "graduated": false
     }
   }
