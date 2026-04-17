@@ -107,9 +107,14 @@ def build_library_url(username: str, artist_name: str) -> str:
 
 
 def build_track_url(artist_name: str, track_name: str) -> str:
-    """Build the Last.fm track URL."""
-    encoded_artist = urllib.parse.quote(artist_name, safe="")
-    encoded_track = urllib.parse.quote(track_name, safe="")
+    """Build the Last.fm track URL.
+
+    Last.fm uses '+' for spaces (not %20) and expects ':' and "'" to appear
+    literally in music URL paths. quote_plus handles the space encoding;
+    safe=":'" prevents percent-encoding of those characters.
+    """
+    encoded_artist = urllib.parse.quote_plus(artist_name, safe=":'")
+    encoded_track = urllib.parse.quote_plus(track_name, safe=":'")
     return f"https://www.last.fm/music/{encoded_artist}/_/{encoded_track}"
 
 
