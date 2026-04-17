@@ -6,72 +6,73 @@
  * performing artist is not that composer.
  */
 
-// Each entry: { name, alternatives }
-// `name` is the canonical last name used for matching and display.
-// `alternatives` covers alternate spellings / first-name combos that
-// appear in album/track metadata in the wild.
+// Each entry: { name, fullName, alternatives }
+// `name` is the short last-name key used for deduplication and artist matching.
+// `fullName` is the proper display name shown in pills and the filter dropdown.
+// `alternatives` covers alternate spellings / first-name combos found in metadata.
 const COMPOSERS = [
-  { name: "Bach",             alternatives: ["J.S. Bach", "Johann Sebastian Bach", "J. S. Bach"] },
-  { name: "Beethoven",        alternatives: ["Ludwig van Beethoven", "L. van Beethoven"] },
-  { name: "Mozart",           alternatives: ["W.A. Mozart", "Wolfgang Amadeus Mozart", "W. A. Mozart"] },
-  { name: "Chopin",           alternatives: ["Frédéric Chopin", "Frederic Chopin"] },
-  { name: "Brahms",           alternatives: ["Johannes Brahms"] },
-  { name: "Schubert",         alternatives: ["Franz Schubert"] },
-  { name: "Handel",           alternatives: ["G.F. Handel", "George Frideric Handel"] },
-  { name: "Vivaldi",          alternatives: ["Antonio Vivaldi"] },
-  { name: "Haydn",            alternatives: ["Franz Joseph Haydn", "Joseph Haydn"] },
-  { name: "Tchaikovsky",      alternatives: ["Pyotr Ilyich Tchaikovsky", "Peter Tchaikovsky"] },
-  { name: "Debussy",          alternatives: ["Claude Debussy"] },
-  { name: "Ravel",            alternatives: ["Maurice Ravel"] },
-  { name: "Liszt",            alternatives: ["Franz Liszt"] },
-  { name: "Mahler",           alternatives: ["Gustav Mahler"] },
-  { name: "Bruckner",         alternatives: ["Anton Bruckner"] },
-  { name: "Schumann",         alternatives: ["Robert Schumann", "Clara Schumann"] },
-  { name: "Mendelssohn",      alternatives: ["Felix Mendelssohn"] },
-  { name: "Dvorak",           alternatives: ["Dvořák", "Antonín Dvořák", "Antonin Dvorak"] },
-  { name: "Sibelius",         alternatives: ["Jean Sibelius"] },
-  { name: "Prokofiev",        alternatives: ["Sergei Prokofiev"] },
-  { name: "Shostakovich",     alternatives: ["Dmitri Shostakovich"] },
-  { name: "Rachmaninoff",     alternatives: ["Rachmaninov", "Sergei Rachmaninoff"] },
-  { name: "Stravinsky",       alternatives: ["Igor Stravinsky"] },
-  { name: "Bartok",           alternatives: ["Bartók", "Béla Bartók", "Bela Bartok"] },
-  { name: "Satie",            alternatives: ["Erik Satie"] },
-  { name: "Puccini",          alternatives: ["Giacomo Puccini"] },
-  { name: "Verdi",            alternatives: ["Giuseppe Verdi"] },
-  { name: "Wagner",           alternatives: ["Richard Wagner"] },
-  { name: "Strauss",          alternatives: ["Richard Strauss", "Johann Strauss"] },
-  { name: "Monteverdi",       alternatives: ["Claudio Monteverdi"] },
-  { name: "Telemann",         alternatives: ["Georg Philipp Telemann"] },
-  { name: "Purcell",          alternatives: ["Henry Purcell"] },
-  { name: "Corelli",          alternatives: ["Arcangelo Corelli"] },
-  { name: "Scarlatti",        alternatives: ["Domenico Scarlatti", "Alessandro Scarlatti"] },
-  { name: "Rameau",           alternatives: ["Jean-Philippe Rameau"] },
-  { name: "Paganini",         alternatives: ["Niccolò Paganini", "Niccolo Paganini"] },
-  { name: "Berlioz",          alternatives: ["Hector Berlioz"] },
-  { name: "Rossini",          alternatives: ["Gioachino Rossini"] },
-  { name: "Saint-Saëns",      alternatives: ["Saint-Saens", "Camille Saint-Saëns"] },
-  { name: "Fauré",            alternatives: ["Faure", "Gabriel Fauré"] },
-  { name: "Grieg",            alternatives: ["Edvard Grieg"] },
-  { name: "Elgar",            alternatives: ["Edward Elgar"] },
-  { name: "Holst",            alternatives: ["Gustav Holst"] },
-  { name: "Vaughan Williams", alternatives: ["Ralph Vaughan Williams"] },
-  { name: "Britten",          alternatives: ["Benjamin Britten"] },
-  { name: "Copland",          alternatives: ["Aaron Copland"] },
-  { name: "Messiaen",         alternatives: ["Olivier Messiaen"] },
-  { name: "Webern",           alternatives: ["Anton Webern"] },
-  { name: "Berg",             alternatives: ["Alban Berg"] },
-  { name: "Schoenberg",       alternatives: ["Schönberg", "Arnold Schoenberg", "Arnold Schönberg"] },
-  { name: "Orff",             alternatives: ["Carl Orff"] },
-  { name: "Janacek",          alternatives: ["Janáček", "Leoš Janáček"] },
-  { name: "Mussorgsky",       alternatives: ["Moussorgsky", "Modest Mussorgsky"] },
-  { name: "Rimsky-Korsakov",  alternatives: ["Rimsky Korsakov", "Nikolai Rimsky-Korsakov"] },
-  { name: "Borodin",          alternatives: ["Alexander Borodin"] },
-  { name: "Scriabin",         alternatives: ["Alexander Scriabin"] },
-  { name: "Boccherini",       alternatives: ["Luigi Boccherini"] },
-  { name: "Gluck",            alternatives: ["Christoph Willibald Gluck"] },
+  { name: "Bach",             fullName: "Johann Sebastian Bach",      alternatives: ["J.S. Bach", "J. S. Bach"] },
+  { name: "Beethoven",        fullName: "Ludwig van Beethoven",       alternatives: ["L. van Beethoven"] },
+  { name: "Mozart",           fullName: "Wolfgang Amadeus Mozart",    alternatives: ["W.A. Mozart", "W. A. Mozart"] },
+  { name: "Chopin",           fullName: "Frédéric Chopin",            alternatives: ["Frederic Chopin"] },
+  { name: "Brahms",           fullName: "Johannes Brahms",            alternatives: [] },
+  { name: "Schubert",         fullName: "Franz Schubert",             alternatives: [] },
+  { name: "Handel",           fullName: "George Frideric Handel",     alternatives: ["G.F. Handel", "G. F. Handel"] },
+  { name: "Vivaldi",          fullName: "Antonio Vivaldi",            alternatives: [] },
+  { name: "Haydn",            fullName: "Joseph Haydn",               alternatives: ["Franz Joseph Haydn"] },
+  { name: "Tchaikovsky",      fullName: "Pyotr Ilyich Tchaikovsky",   alternatives: ["Peter Tchaikovsky"] },
+  { name: "Debussy",          fullName: "Claude Debussy",             alternatives: [] },
+  { name: "Ravel",            fullName: "Maurice Ravel",              alternatives: [] },
+  { name: "Liszt",            fullName: "Franz Liszt",                alternatives: [] },
+  { name: "Mahler",           fullName: "Gustav Mahler",              alternatives: [] },
+  { name: "Bruckner",         fullName: "Anton Bruckner",             alternatives: [] },
+  { name: "Schumann",         fullName: "Robert Schumann",            alternatives: ["Clara Schumann"] },
+  { name: "Mendelssohn",      fullName: "Felix Mendelssohn",          alternatives: [] },
+  { name: "Dvorak",           fullName: "Antonín Dvořák",             alternatives: ["Dvořák", "Antonin Dvorak"] },
+  { name: "Sibelius",         fullName: "Jean Sibelius",              alternatives: [] },
+  { name: "Prokofiev",        fullName: "Sergei Prokofiev",           alternatives: [] },
+  { name: "Shostakovich",     fullName: "Dmitri Shostakovich",        alternatives: [] },
+  { name: "Rachmaninoff",     fullName: "Sergei Rachmaninoff",        alternatives: ["Rachmaninov"] },
+  { name: "Stravinsky",       fullName: "Igor Stravinsky",            alternatives: [] },
+  { name: "Bartok",           fullName: "Béla Bartók",                alternatives: ["Bartók", "Bela Bartok"] },
+  { name: "Satie",            fullName: "Erik Satie",                 alternatives: [] },
+  { name: "Puccini",          fullName: "Giacomo Puccini",            alternatives: [] },
+  { name: "Verdi",            fullName: "Giuseppe Verdi",             alternatives: [] },
+  { name: "Wagner",           fullName: "Richard Wagner",             alternatives: [] },
+  { name: "Strauss",          fullName: "Richard Strauss",            alternatives: ["Johann Strauss"] },
+  { name: "Monteverdi",       fullName: "Claudio Monteverdi",         alternatives: [] },
+  { name: "Telemann",         fullName: "Georg Philipp Telemann",     alternatives: [] },
+  { name: "Purcell",          fullName: "Henry Purcell",              alternatives: [] },
+  { name: "Corelli",          fullName: "Arcangelo Corelli",          alternatives: [] },
+  { name: "Scarlatti",        fullName: "Domenico Scarlatti",         alternatives: ["Alessandro Scarlatti"] },
+  { name: "Rameau",           fullName: "Jean-Philippe Rameau",       alternatives: [] },
+  { name: "Paganini",         fullName: "Niccolò Paganini",           alternatives: ["Niccolo Paganini"] },
+  { name: "Berlioz",          fullName: "Hector Berlioz",             alternatives: [] },
+  { name: "Rossini",          fullName: "Gioachino Rossini",          alternatives: [] },
+  { name: "Saint-Saëns",      fullName: "Camille Saint-Saëns",        alternatives: ["Saint-Saens"] },
+  { name: "Fauré",            fullName: "Gabriel Fauré",              alternatives: ["Faure"] },
+  { name: "Grieg",            fullName: "Edvard Grieg",               alternatives: [] },
+  { name: "Elgar",            fullName: "Edward Elgar",               alternatives: [] },
+  { name: "Holst",            fullName: "Gustav Holst",               alternatives: [] },
+  { name: "Vaughan Williams", fullName: "Ralph Vaughan Williams",     alternatives: [] },
+  { name: "Britten",          fullName: "Benjamin Britten",           alternatives: [] },
+  { name: "Copland",          fullName: "Aaron Copland",              alternatives: [] },
+  { name: "Messiaen",         fullName: "Olivier Messiaen",           alternatives: [] },
+  { name: "Webern",           fullName: "Anton Webern",               alternatives: [] },
+  { name: "Berg",             fullName: "Alban Berg",                 alternatives: [] },
+  { name: "Schoenberg",       fullName: "Arnold Schoenberg",          alternatives: ["Schönberg", "Arnold Schönberg"] },
+  { name: "Orff",             fullName: "Carl Orff",                  alternatives: [] },
+  { name: "Janacek",          fullName: "Leoš Janáček",               alternatives: ["Janáček"] },
+  { name: "Mussorgsky",       fullName: "Modest Mussorgsky",          alternatives: ["Moussorgsky"] },
+  { name: "Rimsky-Korsakov",  fullName: "Nikolai Rimsky-Korsakov",    alternatives: ["Rimsky Korsakov"] },
+  { name: "Borodin",          fullName: "Alexander Borodin",          alternatives: [] },
+  { name: "Scriabin",         fullName: "Alexander Scriabin",         alternatives: [] },
+  { name: "Boccherini",       fullName: "Luigi Boccherini",           alternatives: [] },
+  { name: "Gluck",            fullName: "Christoph Willibald Gluck",  alternatives: [] },
 ];
 
-// Build a flat list of { pattern: RegExp, displayName, composerEntry } for matching
+// Build a flat list of { pattern, key, fullName } for matching.
+// `key` (short last name) is used for deduplication; `fullName` is shown in the UI.
 function buildComposerPatterns() {
   const patterns = [];
   for (const composer of COMPOSERS) {
@@ -81,8 +82,8 @@ function buildComposerPatterns() {
       const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
       patterns.push({
         pattern: new RegExp(`\\b${escaped}\\b`, "i"),
-        displayName: composer.name,
-        composerEntry: composer,
+        key: composer.name,
+        fullName: composer.fullName,
       });
     }
   }
@@ -92,27 +93,28 @@ function buildComposerPatterns() {
 const COMPOSER_PATTERNS = buildComposerPatterns();
 
 /**
- * Returns an array of composer display names found in the given text.
- * Deduplicates so each composer appears at most once.
+ * Returns an array of { key, fullName } objects for composers found in text.
+ * Deduplicates so each composer appears at most once (by key).
  */
 function detectComposers(text) {
   if (!text) return [];
-  const found = new Set();
-  for (const { pattern, displayName } of COMPOSER_PATTERNS) {
-    if (pattern.test(text)) {
-      found.add(displayName);
+  const seen = new Map(); // key -> fullName
+  for (const { pattern, key, fullName } of COMPOSER_PATTERNS) {
+    if (!seen.has(key) && pattern.test(text)) {
+      seen.set(key, fullName);
     }
   }
-  return [...found];
+  return [...seen.entries()].map(([key, fullName]) => ({ key, fullName }));
 }
 
 /**
  * Returns true if the artist name appears to be the composer themselves
  * (e.g. "Beethoven" performing "Beethoven: Sonata").
+ * Matches on the short key name, not the full name.
  */
-function artistIsComposer(artistName, composerNames) {
+function artistIsComposer(artistName, composers) {
   const lowerArtist = artistName.toLowerCase();
-  return composerNames.some(c => lowerArtist.includes(c.toLowerCase()));
+  return composers.some(c => lowerArtist.includes(c.key.toLowerCase()));
 }
 
 // ---------------------------------------------------------------------------
@@ -152,21 +154,24 @@ document.addEventListener("DOMContentLoaded", () => {
       const trackComposers = detectComposers(item.track || "");
       const albumComposers = detectComposers(item.album || "");
 
-      // Merge and deduplicate
-      const allComposers = [...new Set([...trackComposers, ...albumComposers])];
+      // Merge and deduplicate by key
+      const seen = new Map();
+      for (const c of [...trackComposers, ...albumComposers]) {
+        if (!seen.has(c.key)) seen.set(c.key, c);
+      }
+      const allComposers = [...seen.values()]; // array of { key, fullName }
       if (allComposers.length === 0) continue;
 
-      // Determine where each composer was found
+      // Determine where each composer was found (keyed by short key)
       const sources = {};
       for (const c of allComposers) {
-        const inTrack = trackComposers.includes(c);
-        const inAlbum = albumComposers.includes(c);
-        if (inTrack && inAlbum) sources[c] = "track & album";
-        else if (inTrack) sources[c] = "track";
-        else sources[c] = "album";
+        const inTrack = trackComposers.some(t => t.key === c.key);
+        const inAlbum = albumComposers.some(a => a.key === c.key);
+        if (inTrack && inAlbum) sources[c.key] = "track & album";
+        else if (inTrack) sources[c.key] = "track";
+        else sources[c.key] = "album";
       }
 
-      // Flag whether the performing artist appears to be the composer
       const performerIsComposer = artistIsComposer(item.artist, allComposers);
 
       matches.push({ item, composers: allComposers, sources, performerIsComposer });
@@ -177,11 +182,11 @@ document.addEventListener("DOMContentLoaded", () => {
   function updateHeader(matches, metadata) {
     const statsBar = document.getElementById("stats");
     const nonComposerCount = matches.filter(m => !m.performerIsComposer).length;
-    const composerSet = new Set(matches.flatMap(m => m.composers));
+    const composerKeySet = new Set(matches.flatMap(m => m.composers.map(c => c.key)));
 
     statsBar.innerHTML = `
       <div class="stat-item">Classical Matches: <span>${matches.length}</span></div>
-      <div class="stat-item">Unique Composers: <span>${composerSet.size}</span></div>
+      <div class="stat-item">Unique Composers: <span>${composerKeySet.size}</span></div>
       <div class="stat-item">Performed by Others: <span>${nonComposerCount}</span></div>
     `;
 
@@ -191,12 +196,18 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function populateComposerFilter(matches) {
-    const composerSet = new Set(matches.flatMap(m => m.composers));
-    const sorted = [...composerSet].sort();
-    for (const name of sorted) {
+    // Build a map of key -> fullName, then sort by fullName for the dropdown
+    const composerMap = new Map();
+    for (const { composers } of matches) {
+      for (const c of composers) {
+        composerMap.set(c.key, c.fullName);
+      }
+    }
+    const sorted = [...composerMap.entries()].sort((a, b) => a[1].localeCompare(b[1]));
+    for (const [key, fullName] of sorted) {
       const opt = document.createElement("option");
-      opt.value = name;
-      opt.textContent = name;
+      opt.value = key;
+      opt.textContent = fullName;
       composerSelect.appendChild(opt);
     }
   }
@@ -207,13 +218,13 @@ document.addEventListener("DOMContentLoaded", () => {
     const filterComposer = composerSelect.value;
 
     let filtered = allMatches.filter(({ item, composers }) => {
-      if (filterComposer && !composers.includes(filterComposer)) return false;
+      if (filterComposer && !composers.some(c => c.key === filterComposer)) return false;
       if (searchTerm) {
         return (
           item.artist.toLowerCase().includes(searchTerm) ||
           (item.track || "").toLowerCase().includes(searchTerm) ||
           (item.album || "").toLowerCase().includes(searchTerm) ||
-          composers.some(c => c.toLowerCase().includes(searchTerm))
+          composers.some(c => c.fullName.toLowerCase().includes(searchTerm))
         );
       }
       return true;
@@ -227,7 +238,7 @@ document.addEventListener("DOMContentLoaded", () => {
       } else if (sortMode === "artist_asc") {
         return a.item.artist.localeCompare(b.item.artist);
       } else if (sortMode === "composer_asc") {
-        return a.composers[0].localeCompare(b.composers[0]);
+        return a.composers[0].fullName.localeCompare(b.composers[0].fullName);
       }
       return 0;
     });
@@ -239,8 +250,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     grid.innerHTML = filtered.map(({ item, composers, sources, performerIsComposer }) => {
       const composerPills = composers.map(c => {
-        const src = sources[c];
-        return `<span class="composer-pill" title="Found in ${src}">${c}</span>`;
+        const src = sources[c.key];
+        return `<span class="composer-pill" title="Found in ${src}">${c.fullName}</span>`;
       }).join(" ");
 
       const performerNote = performerIsComposer
