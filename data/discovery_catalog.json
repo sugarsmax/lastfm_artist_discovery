@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-16T21:41:16.255362-07:00",
+    "last_updated": "2026-04-17T21:23:46.829325-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 189,
+    "total_discoveries": 196,
     "total_graduated": 26
   },
   "catalog": {
@@ -193,7 +193,8 @@
       "track": "24 Préludes, Op. 28: No. 15, Sostenuto",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
       "track_url": "https://www.last.fm/music/Alexandre+Tharaud/_/24+Pr%C3%A9ludes%2C+Op.+28:+No.+15%2C+Sostenuto",
-      "graduated": false
+      "graduated": false,
+      "album": "Chopin: Préludes"
     },
     "rafał blechacz": {
       "artist": "Rafał Blechacz",
@@ -1069,11 +1070,12 @@
     "prince fatty, horseman": {
       "artist": "Prince Fatty, Horseman",
       "first_discovered": "15 Mar 2026, 18:06",
-      "last_listened": "16 Apr 2026, 21:02",
+      "last_listened": "17 Apr 2026, 18:29",
       "track": "Insane in the Brain",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Horseman",
       "track_url": "https://www.last.fm/music/Prince+Fatty%2C+Horseman/_/Insane+in+the+Brain",
-      "graduated": false
+      "graduated": false,
+      "album": "Supersize"
     },
     "falco": {
       "artist": "Falco",
@@ -1677,7 +1679,8 @@
       "track": "Gymnopédie No. 1: Lent et douloureux",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olga%20Scheps%2C%20Erik%20Satie",
       "track_url": "https://www.last.fm/music/Olga+Scheps%2C+Erik+Satie/_/Gymnop%C3%A9die+No.+1:+Lent+et+douloureux",
-      "graduated": false
+      "graduated": false,
+      "album": "Satie"
     },
     "jacques rouvier": {
       "artist": "Jacques Rouvier",
@@ -1695,7 +1698,8 @@
       "track": "Triune",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivia%20Belli%2C%20John%20Metcalfe%2C%20Louisa%20Fuller%2C%20Chris%20Worsey",
       "track_url": "https://www.last.fm/music/Olivia+Belli%2C+John+Metcalfe%2C+Louisa+Fuller%2C+Chris+Worsey/_/Triune",
-      "graduated": false
+      "graduated": false,
+      "album": "Triune"
     },
     "mao fujita": {
       "artist": "Mao Fujita",
@@ -1704,7 +1708,8 @@
       "track": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mao%20Fujita",
       "track_url": "https://www.last.fm/music/Mao+Fujita/_/Andante+from+the+Sonata+for+Solo+Violin%2C+BWV+1003+%28Transcribed+by+Alexander+Siloti%29",
-      "graduated": false
+      "graduated": false,
+      "album": "Bach Transcriptions"
     },
     "maxim shostakovich, i musici de montréal, dmitri shostakovich jr.": {
       "artist": "Maxim Shostakovich, I Musici De Montréal, Dmitri Shostakovich Jr.",
@@ -1713,7 +1718,8 @@
       "track": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maxim%20Shostakovich%2C%20I%20Musici%20De%20Montr%C3%A9al%2C%20Dmitri%20Shostakovich%20Jr.",
       "track_url": "https://www.last.fm/music/Maxim+Shostakovich%2C+I+Musici+De+Montr%C3%A9al%2C+Dmitri+Shostakovich+Jr./_/Piano+Concerto+No.+2+in+F+Major%2C+Op.+102:+II.+Andante",
-      "graduated": false
+      "graduated": false,
+      "album": "Shostakovich: Piano Concerto No. 2, Op. 102 & Symphony for Strings, Op. 118a"
     },
     "gryphon trio": {
       "artist": "Gryphon Trio",
@@ -1722,15 +1728,87 @@
       "track": "Piano Trio No. 2 in E-flat Major, D. 929, Op. 100 / II. Andante con moto",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gryphon%20Trio",
       "track_url": "https://www.last.fm/music/Gryphon+Trio/_/Piano+Trio+No.+2+in+E-flat+Major%2C+D.+929%2C+Op.+100+%2F+II.+Andante+con+moto",
-      "graduated": false
+      "graduated": false,
+      "album": "Great Piano Trios"
     },
     "prince fatty, winston francis": {
       "artist": "Prince Fatty, Winston Francis",
       "first_discovered": "16 Apr 2026, 21:05",
-      "last_listened": "16 Apr 2026, 21:05",
-      "track": "Ain't Got It",
+      "last_listened": "17 Apr 2026, 18:37",
+      "track": "Dry Your Tears",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Winston%20Francis",
-      "track_url": "https://www.last.fm/music/Prince+Fatty%2C+Winston+Francis/_/Ain't+Got+It",
+      "track_url": "https://www.last.fm/music/Prince+Fatty%2C+Winston+Francis/_/Dry+Your+Tears",
+      "graduated": false,
+      "album": "Supersize"
+    },
+    "janice hagan": {
+      "artist": "Janice Hagan",
+      "first_discovered": "17 Apr 2026, 18:57",
+      "last_listened": "17 Apr 2026, 18:57",
+      "track": "Mambo Italiano",
+      "album": "Hey Big Spender",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Janice%20Hagan",
+      "track_url": "https://www.last.fm/music/Janice+Hagan/_/Mambo+Italiano",
+      "graduated": false
+    },
+    "james rhodes, johann sebastian bach, alexander siloti": {
+      "artist": "James Rhodes, Johann Sebastian Bach, Alexander Siloti",
+      "first_discovered": "17 Apr 2026, 15:34",
+      "last_listened": "17 Apr 2026, 15:34",
+      "track": "Prelude in B Minor, BWV 855a",
+      "album": "Inside Tracks: The Mix Tape",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach%2C%20Alexander%20Siloti",
+      "track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach%2C+Alexander+Siloti/_/Prelude+in+B+Minor%2C+BWV+855a",
+      "graduated": false
+    },
+    "l'orchestre de la suisse romande, pyotr ilyich tchaikovsky": {
+      "artist": "L'orchestre De La Suisse Romande, Pyotr Ilyich Tchaikovsky",
+      "first_discovered": "17 Apr 2026, 15:31",
+      "last_listened": "17 Apr 2026, 15:31",
+      "track": "The Nutcracker, Op. 71, Act II, Tableau III: XII. Divertissement e. Dance of the Reed Flutes",
+      "album": "Wake up with Classical Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/L%27orchestre%20De%20La%20Suisse%20Romande%2C%20Pyotr%20Ilyich%20Tchaikovsky",
+      "track_url": "https://www.last.fm/music/L'orchestre+De+La+Suisse+Romande%2C+Pyotr+Ilyich+Tchaikovsky/_/The+Nutcracker%2C+Op.+71%2C+Act+II%2C+Tableau+III:+XII.+Divertissement+e.+Dance+of+the+Reed+Flutes",
+      "graduated": false
+    },
+    "pau casals": {
+      "artist": "Pau Casals",
+      "first_discovered": "17 Apr 2026, 15:28",
+      "last_listened": "17 Apr 2026, 15:28",
+      "track": "Cello Suite No. 1 in G major, BWV 1007: I. Prelude",
+      "album": "Brilliant Babies, The Very Best Classical Music For Kids: Mozart, Beethoven, Bach, Chopin & More!",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pau%20Casals",
+      "track_url": "https://www.last.fm/music/Pau+Casals/_/Cello+Suite+No.+1+in+G+major%2C+BWV+1007:+I.+Prelude",
+      "graduated": false
+    },
+    "johann sebastian bach, german bach soloists": {
+      "artist": "Johann Sebastian Bach, German Bach Soloists",
+      "first_discovered": "17 Apr 2026, 15:26",
+      "last_listened": "17 Apr 2026, 15:26",
+      "track": "Air (from Orchestral Suite No.3)",
+      "album": "99 Must-Have Chillout Classics",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20German%20Bach%20Soloists",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+German+Bach+Soloists/_/Air+%28from+Orchestral+Suite+No.3%29",
+      "graduated": false
+    },
+    "franz liszt, martin jones": {
+      "artist": "Franz Liszt, Martin Jones",
+      "first_discovered": "17 Apr 2026, 15:13",
+      "last_listened": "17 Apr 2026, 15:13",
+      "track": "Liebestraum No. 3 in A-Flat Minor, S. 541",
+      "album": "60 Piano Classics for Relaxation",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Liszt%2C%20Martin%20Jones",
+      "track_url": "https://www.last.fm/music/Franz+Liszt%2C+Martin+Jones/_/Liebestraum+No.+3+in+A-Flat+Minor%2C+S.+541",
+      "graduated": false
+    },
+    "martin jacoby, ludwig van beethoven": {
+      "artist": "Martin Jacoby, Ludwig van Beethoven",
+      "first_discovered": "17 Apr 2026, 15:11",
+      "last_listened": "17 Apr 2026, 15:11",
+      "track": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\": II. Adagio cantabile",
+      "album": "Softly Sleep Classical Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Jacoby%2C%20Ludwig%20van%20Beethoven",
+      "track_url": "https://www.last.fm/music/Martin+Jacoby%2C+Ludwig+van+Beethoven/_/Piano+Sonata+No.+8+in+C+Minor%2C+Op.+13+%22Path%C3%A9tique%22:+II.+Adagio+cantabile",
       "graduated": false
     }
   }
