@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-20T21:41:00.894928-07:00",
+    "last_updated": "2026-04-21T21:38:25.132782-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 196,
+    "total_discoveries": 198,
     "total_graduated": 26
   },
   "catalog": {
@@ -1809,6 +1809,26 @@
       "album": "Softly Sleep Classical Music",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Jacoby%2C%20Ludwig%20van%20Beethoven",
       "track_url": "https://www.last.fm/music/Martin+Jacoby%2C+Ludwig+van+Beethoven/_/Piano+Sonata+No.+8+in+C+Minor%2C+Op.+13+%22Path%C3%A9tique%22:+II.+Adagio+cantabile",
+      "graduated": false
+    },
+    "colourmusic": {
+      "artist": "Colourmusic",
+      "first_discovered": "21 Apr 2026, 16:49",
+      "last_listened": "21 Apr 2026, 16:49",
+      "track": "Put in a Little Gas",
+      "album": "Yes!",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colourmusic",
+      "track_url": "https://www.last.fm/music/Colourmusic/_/Put+in+a+Little+Gas",
+      "graduated": false
+    },
+    "the sonics": {
+      "artist": "The Sonics",
+      "first_discovered": "21 Apr 2026, 08:21",
+      "last_listened": "21 Apr 2026, 08:21",
+      "track": "The Witch",
+      "album": "Here Are The Sonics",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Sonics",
+      "track_url": "https://www.last.fm/music/The+Sonics/_/The+Witch",
       "graduated": false
     }
   }
