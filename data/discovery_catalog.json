@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-21T21:38:25.132782-07:00",
+    "last_updated": "2026-04-22T21:43:13.484196-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 198,
+    "total_discoveries": 203,
     "total_graduated": 26
   },
   "catalog": {
@@ -1043,11 +1043,12 @@
     "ragna schirmer": {
       "artist": "Ragna Schirmer",
       "first_discovered": "09 Mar 2026, 17:48",
-      "last_listened": "15 Mar 2026, 17:53",
-      "track": "III. Menuett",
+      "last_listened": "22 Apr 2026, 18:09",
+      "track": "III. Courante",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
-      "track_url": "https://www.last.fm/music/Ragna+Schirmer/_/III.+Menuett",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Ragna+Schirmer/_/III.+Courante",
+      "graduated": false,
+      "album": "Handel: Keyboard Suites"
     },
     "sir neville marriner, academy of st martin in the fields": {
       "artist": "Sir Neville Marriner, Academy of St Martin in the Fields",
@@ -1829,6 +1830,56 @@
       "album": "Here Are The Sonics",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Sonics",
       "track_url": "https://www.last.fm/music/The+Sonics/_/The+Witch",
+      "graduated": false
+    },
+    "debbie deb": {
+      "artist": "Debbie Deb",
+      "first_discovered": "22 Apr 2026, 18:17",
+      "last_listened": "22 Apr 2026, 18:17",
+      "track": "Lookout Weekend",
+      "album": "Lookout Weekend",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Debbie%20Deb",
+      "track_url": "https://www.last.fm/music/Debbie+Deb/_/Lookout+Weekend",
+      "graduated": false
+    },
+    "brant bjork trio, brant bjork": {
+      "artist": "Brant Bjork Trio, Brant Bjork",
+      "first_discovered": "22 Apr 2026, 18:16",
+      "last_listened": "22 Apr 2026, 18:16",
+      "track": "Backin' The Daze",
+      "album": "Backin' The Daze",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Brant%20Bjork%20Trio%2C%20Brant%20Bjork",
+      "track_url": "https://www.last.fm/music/Brant+Bjork+Trio%2C+Brant+Bjork/_/Backin'+The+Daze",
+      "graduated": false
+    },
+    "ludwig goransson": {
+      "artist": "Ludwig Goransson",
+      "first_discovered": "22 Apr 2026, 18:07",
+      "last_listened": "22 Apr 2026, 18:07",
+      "track": "FREEPORT",
+      "album": "TENET (Original Motion Picture Soundtrack) [Deluxe Edition]",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ludwig%20Goransson",
+      "track_url": "https://www.last.fm/music/Ludwig+Goransson/_/FREEPORT",
+      "graduated": false
+    },
+    "oh sees": {
+      "artist": "oh sees",
+      "first_discovered": "22 Apr 2026, 17:40",
+      "last_listened": "22 Apr 2026, 17:40",
+      "track": "Unwrap the Fiend Pt. 2",
+      "album": "A Weird Exits",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/oh%20sees",
+      "track_url": "https://www.last.fm/music/oh+sees/_/Unwrap+the+Fiend+Pt.+2",
+      "graduated": false
+    },
+    "busta rhymes, jamal": {
+      "artist": "Busta Rhymes, Jamal",
+      "first_discovered": "22 Apr 2026, 17:19",
+      "last_listened": "22 Apr 2026, 17:19",
+      "track": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
+      "album": "The Best of Busta Rhymes",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Busta%20Rhymes%2C%20Jamal",
+      "track_url": "https://www.last.fm/music/Busta+Rhymes%2C+Jamal/_/Put+Your+Hands+Where+My+Eyes+Could+See+%28feat.+Jamal%29",
       "graduated": false
     }
   }
