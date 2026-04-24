@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-22T21:43:13.484196-07:00",
+    "last_updated": "2026-04-23T21:46:54.464577-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 203,
+    "total_discoveries": 208,
     "total_graduated": 26
   },
   "catalog": {
@@ -656,11 +656,12 @@
     "liars": {
       "artist": "Liars",
       "first_discovered": "26 Feb 2026, 19:32",
-      "last_listened": "03 Apr 2026, 16:30",
+      "last_listened": "23 Apr 2026, 18:14",
       "track": "Mr Your On Fire Mr",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Liars",
       "track_url": "https://www.last.fm/music/Liars/_/Mr+Your+On+Fire+Mr",
-      "graduated": false
+      "graduated": false,
+      "album": "They Threw Us All In A Trench And Stuck A Monument On Top"
     },
     "bee gees": {
       "artist": "Bee Gees",
@@ -1541,11 +1542,12 @@
     "dj snake, yellow claw & spanker, dj snake, spanker, yellow claw": {
       "artist": "DJ Snake, Yellow Claw & Spanker, DJ Snake, Spanker, Yellow Claw",
       "first_discovered": "07 Apr 2026, 16:36",
-      "last_listened": "07 Apr 2026, 16:36",
+      "last_listened": "23 Apr 2026, 16:48",
       "track": "Slow Down",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%2C%20Yellow%20Claw%20%26%20Spanker%2C%20DJ%20Snake%2C%20Spanker%2C%20Yellow%20Claw",
       "track_url": "https://www.last.fm/music/DJ+Snake%2C+Yellow+Claw+%26+Spanker%2C+DJ+Snake%2C+Spanker%2C+Yellow+Claw/_/Slow+Down",
-      "graduated": false
+      "graduated": false,
+      "album": "Amsterdam Twerk Music"
     },
     "lang lang, franz liszt": {
       "artist": "Lang Lang, Franz Liszt",
@@ -1880,6 +1882,56 @@
       "album": "The Best of Busta Rhymes",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Busta%20Rhymes%2C%20Jamal",
       "track_url": "https://www.last.fm/music/Busta+Rhymes%2C+Jamal/_/Put+Your+Hands+Where+My+Eyes+Could+See+%28feat.+Jamal%29",
+      "graduated": false
+    },
+    "unkle, black mountain": {
+      "artist": "UNKLE, Black Mountain",
+      "first_discovered": "23 Apr 2026, 17:55",
+      "last_listened": "23 Apr 2026, 17:55",
+      "track": "Clouds Feat Black Mountain",
+      "album": "End Titles . . . Stories for Film",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/UNKLE%2C%20Black%20Mountain",
+      "track_url": "https://www.last.fm/music/UNKLE%2C+Black+Mountain/_/Clouds+Feat+Black+Mountain",
+      "graduated": false
+    },
+    "pepper": {
+      "artist": "Pepper",
+      "first_discovered": "23 Apr 2026, 17:10",
+      "last_listened": "23 Apr 2026, 17:10",
+      "track": "Back Home",
+      "album": "In With The Old",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pepper",
+      "track_url": "https://www.last.fm/music/Pepper/_/Back+Home",
+      "graduated": false
+    },
+    "pixl, pairanoid": {
+      "artist": "PIXL, Pairanoid",
+      "first_discovered": "23 Apr 2026, 16:41",
+      "last_listened": "23 Apr 2026, 16:41",
+      "track": "Bring It",
+      "album": "Bring It",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/PIXL%2C%20Pairanoid",
+      "track_url": "https://www.last.fm/music/PIXL%2C+Pairanoid/_/Bring+It",
+      "graduated": false
+    },
+    "duran duran, nile rodgers": {
+      "artist": "Duran Duran, Nile Rodgers",
+      "first_discovered": "23 Apr 2026, 16:26",
+      "last_listened": "23 Apr 2026, 16:26",
+      "track": "Free to Love",
+      "album": "Free to Love",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duran%20Duran%2C%20Nile%20Rodgers",
+      "track_url": "https://www.last.fm/music/Duran+Duran%2C+Nile+Rodgers/_/Free+to+Love",
+      "graduated": false
+    },
+    "james rhodes, johann sebastian bach, alessandro marcello": {
+      "artist": "James Rhodes, Johann Sebastian Bach, Alessandro Marcello",
+      "first_discovered": "23 Apr 2026, 11:05",
+      "last_listened": "23 Apr 2026, 11:05",
+      "track": "Concerto No. 3 in D Minor, BWV 974: Adagio",
+      "album": "Inside Tracks: The Mix Tape",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach%2C%20Alessandro%20Marcello",
+      "track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach%2C+Alessandro+Marcello/_/Concerto+No.+3+in+D+Minor%2C+BWV+974:+Adagio",
       "graduated": false
     }
   }
