@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-23T21:46:54.464577-07:00",
+    "last_updated": "2026-04-24T21:28:04.623526-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 208,
+    "total_discoveries": 210,
     "total_graduated": 26
   },
   "catalog": {
@@ -1932,6 +1932,26 @@
       "album": "Inside Tracks: The Mix Tape",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach%2C%20Alessandro%20Marcello",
       "track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach%2C+Alessandro+Marcello/_/Concerto+No.+3+in+D+Minor%2C+BWV+974:+Adagio",
+      "graduated": false
+    },
+    "barbershop jazz": {
+      "artist": "Barbershop Jazz",
+      "first_discovered": "24 Apr 2026, 18:38",
+      "last_listened": "24 Apr 2026, 18:38",
+      "track": "Smooth Swing Trim",
+      "album": "Barber's Alchemy: Blending Tradition with Trend",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Barbershop%20Jazz",
+      "track_url": "https://www.last.fm/music/Barbershop+Jazz/_/Smooth+Swing+Trim",
+      "graduated": false
+    },
+    "tv theme players, best movie soundtracks, original motion picture soundtrack": {
+      "artist": "TV Theme Players, Best Movie Soundtracks, Original Motion Picture Soundtrack",
+      "first_discovered": "24 Apr 2026, 09:28",
+      "last_listened": "24 Apr 2026, 09:28",
+      "track": "Eye of the Tiger (From \"Rocky Iii\")",
+      "album": "Screen Songs",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/TV%20Theme%20Players%2C%20Best%20Movie%20Soundtracks%2C%20Original%20Motion%20Picture%20Soundtrack",
+      "track_url": "https://www.last.fm/music/TV+Theme+Players%2C+Best+Movie+Soundtracks%2C+Original+Motion+Picture+Soundtrack/_/Eye+of+the+Tiger+%28From+%22Rocky+Iii%22%29",
       "graduated": false
     }
   }
