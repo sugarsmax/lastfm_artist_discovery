@@ -1,9 +1,1670 @@
 {
   "metadata": {
-    "last_updated": "2026-04-26T18:35:50.029549-07:00",
+    "last_updated": "2026-04-26T18:41:06.196508-07:00",
     "username": "sugarsmax",
-    "total_artists": 0,
-    "min_scrobbles": 10
+    "total_artists": 184
   },
-  "artists": {}
+  "artists": {
+    "rjd2, supastition": {
+      "artist": "RJD2, Supastition",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
+      "recent_track": "One Last Time",
+      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
+      "first_discovered": "19 Feb 2026, 19:09",
+      "last_seen": "03 Apr 2026, 16:40",
+      "top_tracks": []
+    },
+    "leon mccawley": {
+      "artist": "Leon McCawley",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leon%20McCawley",
+      "recent_track": "Piano Sonata No. 5 in G Major, K.283: III. Presto",
+      "recent_track_url": "https://www.last.fm/music/Leon+McCawley/_/Piano+Sonata+No.+5+in+G+Major%2C+K.283:+III.+Presto",
+      "first_discovered": "19 Feb 2026, 18:50",
+      "last_seen": "19 Feb 2026, 10:50",
+      "top_tracks": []
+    },
+    "joe turner": {
+      "artist": "Joe Turner",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joe%20Turner",
+      "recent_track": "S K Blues",
+      "recent_track_url": "https://www.last.fm/music/Joe+Turner/_/S+K+Blues",
+      "first_discovered": "19 Feb 2026, 01:00",
+      "last_seen": "18 Feb 2026, 17:00",
+      "top_tracks": []
+    },
+    "bobbi humphrey": {
+      "artist": "Bobbi Humphrey",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bobbi%20Humphrey",
+      "recent_track": "Jasper Country Man",
+      "recent_track_url": "https://www.last.fm/music/Bobbi+Humphrey/_/Jasper+Country+Man",
+      "first_discovered": "19 Feb 2026, 00:56",
+      "last_seen": "18 Feb 2026, 16:56",
+      "top_tracks": []
+    },
+    "popmojo": {
+      "artist": "PopMojo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/PopMojo",
+      "recent_track": "SNL Cast's Funniest Award Show Moments",
+      "recent_track_url": "https://www.last.fm/music/PopMojo/_/SNL+Cast's+Funniest+Award+Show+Moments",
+      "first_discovered": "19 Feb 2026, 00:46",
+      "last_seen": "18 Feb 2026, 16:46",
+      "top_tracks": []
+    },
+    "joshua homme, david sardy": {
+      "artist": "Joshua Homme, David Sardy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joshua%20Homme%2C%20David%20Sardy",
+      "recent_track": "Nobody To Love",
+      "recent_track_url": "https://www.last.fm/music/Joshua+Homme%2C+David+Sardy/_/Nobody+To+Love",
+      "first_discovered": "15 Feb 2026, 06:09",
+      "last_seen": "15 Feb 2026, 06:09",
+      "top_tracks": []
+    },
+    "de la soul, roc marciano": {
+      "artist": "De La Soul, Roc Marciano",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/De%20La%20Soul%2C%20Roc%20Marciano",
+      "recent_track": "Property of Spitkicker.com",
+      "recent_track_url": "https://www.last.fm/music/De+La+Soul%2C+Roc+Marciano/_/Property+of+Spitkicker.com",
+      "first_discovered": "15 Feb 2026, 04:44",
+      "last_seen": "15 Feb 2026, 04:44",
+      "top_tracks": []
+    },
+    "living legends": {
+      "artist": "Living Legends",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Living%20Legends",
+      "recent_track": "Never Fallin'",
+      "recent_track_url": "https://www.last.fm/music/Living+Legends/_/Never+Fallin'",
+      "first_discovered": "15 Feb 2026, 02:32",
+      "last_seen": "15 Feb 2026, 02:32",
+      "top_tracks": []
+    },
+    "sinéad o'connor": {
+      "artist": "Sinéad O'Connor",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sin%C3%A9ad%20O'Connor",
+      "recent_track": "Nothing Compares 2 U",
+      "recent_track_url": "https://www.last.fm/music/Sin%C3%A9ad+O'Connor/_/Nothing+Compares+2+U",
+      "first_discovered": "15 Feb 2026, 01:26",
+      "last_seen": "15 Feb 2026, 01:26",
+      "top_tracks": []
+    },
+    "bad bunny, chencho corleone": {
+      "artist": "Bad Bunny, Chencho Corleone",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bad%20Bunny%2C%20Chencho%20Corleone",
+      "recent_track": "Me Porto Bonito",
+      "recent_track_url": "https://www.last.fm/music/Bad+Bunny%2C+Chencho+Corleone/_/Me+Porto+Bonito",
+      "first_discovered": "14 Feb 2026, 21:35",
+      "last_seen": "14 Feb 2026, 21:35",
+      "top_tracks": []
+    },
+    "cardi b, bad bunny, j balvin": {
+      "artist": "Cardi B, Bad Bunny, J Balvin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cardi%20B%2C%20Bad%20Bunny%2C%20J%20Balvin",
+      "recent_track": "I Like It",
+      "recent_track_url": "https://www.last.fm/music/Cardi+B%2C+Bad+Bunny%2C+J+Balvin/_/I+Like+It",
+      "first_discovered": "14 Feb 2026, 21:28",
+      "last_seen": "14 Feb 2026, 21:28",
+      "top_tracks": []
+    },
+    "bad bunny, jhayco": {
+      "artist": "Bad Bunny, Jhayco",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bad%20Bunny%2C%20Jhayco",
+      "recent_track": "DÁKITI",
+      "recent_track_url": "https://www.last.fm/music/Bad+Bunny%2C+Jhayco/_/D%C3%81KITI",
+      "first_discovered": "14 Feb 2026, 21:14",
+      "last_seen": "14 Feb 2026, 21:14",
+      "top_tracks": []
+    },
+    "bad bunny": {
+      "artist": "Bad Bunny",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bad%20Bunny",
+      "recent_track": "Tití Me Preguntó",
+      "recent_track_url": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
+      "first_discovered": "14 Feb 2026, 21:10",
+      "last_seen": "14 Feb 2026, 21:10",
+      "top_tracks": []
+    },
+    "shovels & rope": {
+      "artist": "Shovels & Rope",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shovels%20%26%20Rope",
+      "recent_track": "Buffalo Nickel",
+      "recent_track_url": "https://www.last.fm/music/Shovels+%26+Rope/_/Buffalo+Nickel",
+      "first_discovered": "13 Feb 2026, 05:06",
+      "last_seen": "13 Feb 2026, 05:06",
+      "top_tracks": []
+    },
+    "miami horror": {
+      "artist": "Miami Horror",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Miami%20Horror",
+      "recent_track": "American Dream",
+      "recent_track_url": "https://www.last.fm/music/Miami+Horror/_/American+Dream",
+      "first_discovered": "13 Feb 2026, 05:05",
+      "last_seen": "13 Feb 2026, 05:05",
+      "top_tracks": []
+    },
+    "benny benassi, mazzz": {
+      "artist": "Benny Benassi, MazZz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20MazZz",
+      "recent_track": "Analog Heart",
+      "recent_track_url": "https://www.last.fm/music/Benny+Benassi%2C+MazZz/_/Analog+Heart",
+      "first_discovered": "21 Feb 2026, 00:28",
+      "last_seen": "20 Feb 2026, 16:28",
+      "top_tracks": []
+    },
+    "benny benassi, chris nasty, mazzz": {
+      "artist": "Benny Benassi, Chris Nasty, MazZz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Chris%20Nasty%2C%20MazZz",
+      "recent_track": "West Coast Patrol",
+      "recent_track_url": "https://www.last.fm/music/Benny+Benassi%2C+Chris+Nasty%2C+MazZz/_/West+Coast+Patrol",
+      "first_discovered": "21 Feb 2026, 00:24",
+      "last_seen": "20 Feb 2026, 16:24",
+      "top_tracks": []
+    },
+    "benny benassi, sheare": {
+      "artist": "Benny Benassi, Sheare",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Sheare",
+      "recent_track": "I Keep Running (feat. Sheare)",
+      "recent_track_url": "https://www.last.fm/music/Benny+Benassi%2C+Sheare/_/I+Keep+Running+%28feat.+Sheare%29",
+      "first_discovered": "21 Feb 2026, 00:20",
+      "last_seen": "20 Feb 2026, 16:20",
+      "top_tracks": []
+    },
+    "benny benassi, marc benjamin, christian burns": {
+      "artist": "Benny Benassi, Marc Benjamin, Christian Burns",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Marc%20Benjamin%2C%20Christian%20Burns",
+      "recent_track": "Who I Am (feat. Christian Burns)",
+      "recent_track_url": "https://www.last.fm/music/Benny+Benassi%2C+Marc+Benjamin%2C+Christian+Burns/_/Who+I+Am+%28feat.+Christian+Burns%29",
+      "first_discovered": "21 Feb 2026, 00:13",
+      "last_seen": "20 Feb 2026, 16:13",
+      "top_tracks": []
+    },
+    "benny benassi, fideles": {
+      "artist": "Benny Benassi, Fideles",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Benny%20Benassi%2C%20Fideles",
+      "recent_track": "Just Like That",
+      "recent_track_url": "https://www.last.fm/music/Benny+Benassi%2C+Fideles/_/Just+Like+That",
+      "first_discovered": "21 Feb 2026, 00:06",
+      "last_seen": "20 Feb 2026, 16:06",
+      "top_tracks": []
+    },
+    "alexandre tharaud": {
+      "artist": "Alexandre Tharaud",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
+      "recent_track": "24 Préludes, Op. 28: No. 15, Sostenuto",
+      "recent_track_url": "https://www.last.fm/music/Alexandre+Tharaud/_/24+Pr%C3%A9ludes%2C+Op.+28:+No.+15%2C+Sostenuto",
+      "first_discovered": "20 Feb 2026, 23:54",
+      "last_seen": "14 Apr 2026, 15:10",
+      "top_tracks": []
+    },
+    "rafał blechacz": {
+      "artist": "Rafał Blechacz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rafa%C5%82%20Blechacz",
+      "recent_track": "J.S. Bach: Partita No. 1 in B-Flat Major, BWV 825: I. Praeludium",
+      "recent_track_url": "https://www.last.fm/music/Rafa%C5%82+Blechacz/_/J.S.+Bach:+Partita+No.+1+in+B-Flat+Major%2C+BWV+825:+I.+Praeludium",
+      "first_discovered": "20 Feb 2026, 23:52",
+      "last_seen": "20 Feb 2026, 15:52",
+      "top_tracks": []
+    },
+    "simone dinnerstein": {
+      "artist": "Simone Dinnerstein",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Simone%20Dinnerstein",
+      "recent_track": "Invention No. 1 in C Major, BWV 772",
+      "recent_track_url": "https://www.last.fm/music/Simone+Dinnerstein/_/Invention+No.+1+in+C+Major%2C+BWV+772",
+      "first_discovered": "20 Feb 2026, 23:50",
+      "last_seen": "20 Feb 2026, 15:50",
+      "top_tracks": []
+    },
+    "martha argerich": {
+      "artist": "Martha Argerich",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martha%20Argerich",
+      "recent_track": "J.S. Bach: Partita No. 2 in C Minor, BWV 826: IV. Sarabande",
+      "recent_track_url": "https://www.last.fm/music/Martha+Argerich/_/J.S.+Bach:+Partita+No.+2+in+C+Minor%2C+BWV+826:+IV.+Sarabande",
+      "first_discovered": "20 Feb 2026, 23:49",
+      "last_seen": "20 Feb 2026, 15:49",
+      "top_tracks": []
+    },
+    "daniil trifonov": {
+      "artist": "Daniil Trifonov",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Daniil%20Trifonov",
+      "recent_track": "C.P.E. Bach: Polonaise in G Minor, BWV Anh. 125 (Notebook for Anna Magdalena Bach, 1725)",
+      "recent_track_url": "https://www.last.fm/music/Daniil+Trifonov/_/C.P.E.+Bach:+Polonaise+in+G+Minor%2C+BWV+Anh.+125+%28Notebook+for+Anna+Magdalena+Bach%2C+1725%29",
+      "first_discovered": "20 Feb 2026, 23:45",
+      "last_seen": "03 Mar 2026, 17:17",
+      "top_tracks": []
+    },
+    "alfred brendel": {
+      "artist": "Alfred Brendel",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alfred%20Brendel",
+      "recent_track": "J.S. Bach: Ich ruf zu dir, Herr Jesu Christ, BWV 639",
+      "recent_track_url": "https://www.last.fm/music/Alfred+Brendel/_/J.S.+Bach:+Ich+ruf+zu+dir%2C+Herr+Jesu+Christ%2C+BWV+639",
+      "first_discovered": "20 Feb 2026, 23:40",
+      "last_seen": "20 Feb 2026, 15:40",
+      "top_tracks": []
+    },
+    "mitsuko uchida": {
+      "artist": "Mitsuko Uchida",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mitsuko%20Uchida",
+      "recent_track": "Mozart: Fantasia in D minor, K. 397",
+      "recent_track_url": "https://www.last.fm/music/Mitsuko+Uchida/_/Mozart:+Fantasia+in+D+minor%2C+K.+397",
+      "first_discovered": "20 Feb 2026, 23:37",
+      "last_seen": "20 Feb 2026, 15:37",
+      "top_tracks": []
+    },
+    "vladimir horowitz": {
+      "artist": "Vladimir Horowitz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vladimir%20Horowitz",
+      "recent_track": "Sonata in F Minor, K. 466 (L. 118)",
+      "recent_track_url": "https://www.last.fm/music/Vladimir+Horowitz/_/Sonata+in+F+Minor%2C+K.+466+%28L.+118%29",
+      "first_discovered": "20 Feb 2026, 23:30",
+      "last_seen": "20 Feb 2026, 15:30",
+      "top_tracks": []
+    },
+    "murray perahia, academy of st martin in the fields": {
+      "artist": "Murray Perahia, Academy of St Martin in the Fields",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "recent_track": "Keyboard Concerto No. 2 in E Major, BWV 1053: Keyboard Concerto No. 2 in E Major, BWV 1053: II. Siciliano",
+      "recent_track_url": "https://www.last.fm/music/Murray+Perahia%2C+Academy+of+St+Martin+in+the+Fields/_/Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+II.+Siciliano",
+      "first_discovered": "20 Feb 2026, 23:25",
+      "last_seen": "20 Feb 2026, 15:25",
+      "top_tracks": []
+    },
+    "jan lisiecki": {
+      "artist": "Jan Lisiecki",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jan%20Lisiecki",
+      "recent_track": "Mendelssohn: Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
+      "recent_track_url": "https://www.last.fm/music/Jan+Lisiecki/_/Mendelssohn:+Lieder+ohne+Worte%2C+Op.+19:+No.+6+in+G+Minor+%28Andante+sostenuto%29+%22Venetian+Gondola+Song%22%2C+MWV+U78",
+      "first_discovered": "20 Feb 2026, 22:52",
+      "last_seen": "24 Feb 2026, 17:30",
+      "top_tracks": []
+    },
+    "ivan moravec": {
+      "artist": "Ivan Moravec",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ivan%20Moravec",
+      "recent_track": "Kinderszenen, Op. 15: No. 7 in F Major, Träumerei",
+      "recent_track_url": "https://www.last.fm/music/Ivan+Moravec/_/Kinderszenen%2C+Op.+15:+No.+7+in+F+Major%2C+Tr%C3%A4umerei",
+      "first_discovered": "20 Feb 2026, 22:50",
+      "last_seen": "20 Feb 2026, 14:50",
+      "top_tracks": []
+    },
+    "leonard bernstein, ralph vaughan williams, new york philharmonic orchestra": {
+      "artist": "Leonard Bernstein, Ralph Vaughan Williams, New York Philharmonic Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leonard%20Bernstein%2C%20Ralph%20Vaughan%20Williams%2C%20New%20York%20Philharmonic%20Orchestra",
+      "recent_track": "Fantasia on a Theme by Thomas Tallis",
+      "recent_track_url": "https://www.last.fm/music/Leonard+Bernstein%2C+Ralph+Vaughan+Williams%2C+New+York+Philharmonic+Orchestra/_/Fantasia+on+a+Theme+by+Thomas+Tallis",
+      "first_discovered": "20 Feb 2026, 22:37",
+      "last_seen": "20 Feb 2026, 14:37",
+      "top_tracks": []
+    },
+    "fall out boy": {
+      "artist": "Fall Out Boy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fall%20Out%20Boy",
+      "recent_track": "The Phoenix",
+      "recent_track_url": "https://www.last.fm/music/Fall+Out+Boy/_/The+Phoenix",
+      "first_discovered": "20 Feb 2026, 19:23",
+      "last_seen": "20 Feb 2026, 11:23",
+      "top_tracks": []
+    },
+    "jazzanova, hajime yoshizawa": {
+      "artist": "Jazzanova, Hajime Yoshizawa",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzanova%2C%20Hajime%20Yoshizawa",
+      "recent_track": "Hanazono",
+      "recent_track_url": "https://www.last.fm/music/Jazzanova%2C+Hajime+Yoshizawa/_/Hanazono",
+      "first_discovered": "22 Feb 2026, 02:47",
+      "last_seen": "21 Feb 2026, 18:47",
+      "top_tracks": []
+    },
+    "marino marini": {
+      "artist": "Marino Marini",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Marino%20Marini",
+      "recent_track": "Guaglione",
+      "recent_track_url": "https://www.last.fm/music/Marino+Marini/_/Guaglione",
+      "first_discovered": "22 Feb 2026, 02:40",
+      "last_seen": "21 Feb 2026, 18:40",
+      "top_tracks": []
+    },
+    "tears for fears": {
+      "artist": "Tears for Fears",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tears%20for%20Fears",
+      "recent_track": "Woman in Chains",
+      "recent_track_url": "https://www.last.fm/music/Tears+for+Fears/_/Woman+in+Chains",
+      "first_discovered": "22 Feb 2026, 02:04",
+      "last_seen": "21 Feb 2026, 18:04",
+      "top_tracks": []
+    },
+    "dj snake & lil jon": {
+      "artist": "DJ Snake & Lil Jon",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%20%26%20Lil%20Jon",
+      "recent_track": "Turn Down for What",
+      "recent_track_url": "https://www.last.fm/music/DJ+Snake+%26+Lil+Jon/_/Turn+Down+for+What",
+      "first_discovered": "22 Feb 2026, 05:15",
+      "last_seen": "21 Feb 2026, 21:15",
+      "top_tracks": []
+    },
+    "inkosi namandla (michael barrett)": {
+      "artist": "Inkosi Namandla (Michael Barrett)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Inkosi%20Namandla%20%28Michael%20Barrett%29",
+      "recent_track": "Tuks Camerata",
+      "recent_track_url": "https://www.last.fm/music/Inkosi+Namandla+%28Michael+Barrett%29/_/Tuks+Camerata",
+      "first_discovered": "23 Feb 2026, 15:25",
+      "last_seen": "23 Feb 2026, 07:25",
+      "top_tracks": []
+    },
+    "gallium": {
+      "artist": "Gallium",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gallium",
+      "recent_track": "Centella",
+      "recent_track_url": "https://www.last.fm/music/Gallium/_/Centella",
+      "first_discovered": "25 Feb 2026, 01:23",
+      "last_seen": "03 Apr 2026, 16:33",
+      "top_tracks": []
+    },
+    "bobby comstock, the counts": {
+      "artist": "Bobby Comstock, The Counts",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bobby%20Comstock%2C%20The%20Counts",
+      "recent_track": "I Want To Do It",
+      "recent_track_url": "https://www.last.fm/music/Bobby+Comstock%2C+The+Counts/_/I+Want+To+Do+It",
+      "first_discovered": "25 Feb 2026, 01:01",
+      "last_seen": "24 Feb 2026, 17:01",
+      "top_tracks": []
+    },
+    "team sleep": {
+      "artist": "Team Sleep",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Team%20Sleep",
+      "recent_track": "Blvd. Nights",
+      "recent_track_url": "https://www.last.fm/music/Team+Sleep/_/Blvd.+Nights",
+      "first_discovered": "26 Feb 2026, 19:58",
+      "last_seen": "26 Feb 2026, 20:06",
+      "top_tracks": []
+    },
+    "the faint": {
+      "artist": "The Faint",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Faint",
+      "recent_track": "Agenda Suicide",
+      "recent_track_url": "https://www.last.fm/music/The+Faint/_/Agenda+Suicide",
+      "first_discovered": "26 Feb 2026, 19:37",
+      "last_seen": "02 Apr 2026, 18:24",
+      "top_tracks": []
+    },
+    "tokyo police club": {
+      "artist": "Tokyo Police Club",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tokyo%20Police%20Club",
+      "recent_track": "Nature Of The Experiment",
+      "recent_track_url": "https://www.last.fm/music/Tokyo+Police+Club/_/Nature+Of+The+Experiment",
+      "first_discovered": "26 Feb 2026, 19:35",
+      "last_seen": "06 Apr 2026, 16:58",
+      "top_tracks": []
+    },
+    "metric": {
+      "artist": "Metric",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Metric",
+      "recent_track": "Dead Disco",
+      "recent_track_url": "https://www.last.fm/music/Metric/_/Dead+Disco",
+      "first_discovered": "26 Feb 2026, 19:34",
+      "last_seen": "26 Feb 2026, 20:13",
+      "top_tracks": []
+    },
+    "liars": {
+      "artist": "Liars",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Liars",
+      "recent_track": "Mr Your On Fire Mr",
+      "recent_track_url": "https://www.last.fm/music/Liars/_/Mr+Your+On+Fire+Mr",
+      "first_discovered": "26 Feb 2026, 19:32",
+      "last_seen": "23 Apr 2026, 18:14",
+      "top_tracks": []
+    },
+    "bee gees": {
+      "artist": "Bee Gees",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bee%20Gees",
+      "recent_track": "Nights On Broadway",
+      "recent_track_url": "https://www.last.fm/music/Bee+Gees/_/Nights+On+Broadway",
+      "first_discovered": "26 Feb 2026, 19:06",
+      "last_seen": "26 Feb 2026, 19:06",
+      "top_tracks": []
+    },
+    "the crusaders": {
+      "artist": "The Crusaders",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Crusaders",
+      "recent_track": "Put It Where You Want It",
+      "recent_track_url": "https://www.last.fm/music/The+Crusaders/_/Put+It+Where+You+Want+It",
+      "first_discovered": "26 Feb 2026, 19:05",
+      "last_seen": "26 Feb 2026, 19:05",
+      "top_tracks": []
+    },
+    "spyro gyra": {
+      "artist": "Spyro Gyra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spyro%20Gyra",
+      "recent_track": "Morning Dance",
+      "recent_track_url": "https://www.last.fm/music/Spyro+Gyra/_/Morning+Dance",
+      "first_discovered": "26 Feb 2026, 19:04",
+      "last_seen": "26 Feb 2026, 19:04",
+      "top_tracks": []
+    },
+    "bossa nova": {
+      "artist": "Bossa Nova",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bossa%20Nova",
+      "recent_track": "City Nocturne",
+      "recent_track_url": "https://www.last.fm/music/Bossa+Nova/_/City+Nocturne",
+      "first_discovered": "27 Feb 2026, 18:18",
+      "last_seen": "27 Feb 2026, 18:18",
+      "top_tracks": []
+    },
+    "trevor kowalski": {
+      "artist": "Trevor Kowalski",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trevor%20Kowalski",
+      "recent_track": "A Fighting Chance",
+      "recent_track_url": "https://www.last.fm/music/Trevor+Kowalski/_/A+Fighting+Chance",
+      "first_discovered": "27 Feb 2026, 12:37",
+      "last_seen": "27 Feb 2026, 12:37",
+      "top_tracks": []
+    },
+    "alexandra oehler": {
+      "artist": "Alexandra Oehler",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandra%20Oehler",
+      "recent_track": "Impromtu, Op. 5, \"Une larme\"",
+      "recent_track_url": "https://www.last.fm/music/Alexandra+Oehler/_/Impromtu%2C+Op.+5%2C+%22Une+larme%22",
+      "first_discovered": "27 Feb 2026, 12:34",
+      "last_seen": "27 Feb 2026, 12:34",
+      "top_tracks": []
+    },
+    "martin helmchen": {
+      "artist": "Martin Helmchen",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Helmchen",
+      "recent_track": "Waldszenen, Op. 82: Abschied",
+      "recent_track_url": "https://www.last.fm/music/Martin+Helmchen/_/Waldszenen%2C+Op.+82:+Abschied",
+      "first_discovered": "27 Feb 2026, 12:30",
+      "last_seen": "27 Feb 2026, 12:30",
+      "top_tracks": []
+    },
+    "timothy walden, bournemouth symphony orchestra, josé serebrier": {
+      "artist": "Timothy Walden, Bournemouth Symphony Orchestra, José Serebrier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Timothy%20Walden%2C%20Bournemouth%20Symphony%20Orchestra%2C%20Jos%C3%A9%20Serebrier",
+      "recent_track": "Dido & Aeneas, Z. 626: When I Am Laid in Earth \"Dido's Lament\" (Transcr. L. Stokowski)",
+      "recent_track_url": "https://www.last.fm/music/Timothy+Walden%2C+Bournemouth+Symphony+Orchestra%2C+Jos%C3%A9+Serebrier/_/Dido+%26+Aeneas%2C+Z.+626:+When+I+Am+Laid+in+Earth+%22Dido's+Lament%22+%28Transcr.+L.+Stokowski%29",
+      "first_discovered": "27 Feb 2026, 12:27",
+      "last_seen": "27 Feb 2026, 12:27",
+      "top_tracks": []
+    },
+    "nemanja radulovic, double sens, stephanie fontanarosa": {
+      "artist": "Nemanja Radulovic, Double Sens, Stephanie Fontanarosa",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nemanja%20Radulovic%2C%20Double%20Sens%2C%20Stephanie%20Fontanarosa",
+      "recent_track": "Rimsky-Korsakov, Sedlar: Scheherazade, Op. 35 - I. The Sea and Sinbad's Ship",
+      "recent_track_url": "https://www.last.fm/music/Nemanja+Radulovic%2C+Double+Sens%2C+Stephanie+Fontanarosa/_/Rimsky-Korsakov%2C+Sedlar:+Scheherazade%2C+Op.+35+-+I.+The+Sea+and+Sinbad's+Ship",
+      "first_discovered": "27 Feb 2026, 12:22",
+      "last_seen": "27 Feb 2026, 12:22",
+      "top_tracks": []
+    },
+    "joshua bell, academy of st martin in the fields": {
+      "artist": "Joshua Bell, Academy of St Martin in the Fields",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joshua%20Bell%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "recent_track": "Scottish Fantasy for Violin and Orchestra, Op. 46: II. Scherzo: Allegro",
+      "recent_track_url": "https://www.last.fm/music/Joshua+Bell%2C+Academy+of+St+Martin+in+the+Fields/_/Scottish+Fantasy+for+Violin+and+Orchestra%2C+Op.+46:+II.+Scherzo:+Allegro",
+      "first_discovered": "27 Feb 2026, 12:19",
+      "last_seen": "27 Feb 2026, 12:19",
+      "top_tracks": []
+    },
+    "berliner philharmoniker, herbert von karajan": {
+      "artist": "Berliner Philharmoniker, Herbert von Karajan",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan",
+      "recent_track": "Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
+      "recent_track_url": "https://www.last.fm/music/Berliner+Philharmoniker%2C+Herbert+von+Karajan/_/Brahms:+Symphony+No.+3+in+F+Major%2C+Op.+90:+III.+Poco+allegretto",
+      "first_discovered": "27 Feb 2026, 12:13",
+      "last_seen": "27 Feb 2026, 12:13",
+      "top_tracks": []
+    },
+    "mischa maisky": {
+      "artist": "Mischa Maisky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mischa%20Maisky",
+      "recent_track": "J.S. Bach: Suite for Solo Cello No. 1 in G Major, BWV 1007: III. Courante",
+      "recent_track_url": "https://www.last.fm/music/Mischa+Maisky/_/J.S.+Bach:+Suite+for+Solo+Cello+No.+1+in+G+Major%2C+BWV+1007:+III.+Courante",
+      "first_discovered": "27 Feb 2026, 12:07",
+      "last_seen": "27 Feb 2026, 12:07",
+      "top_tracks": []
+    },
+    "martha argerich, orchestra mozart, claudio abbado": {
+      "artist": "Martha Argerich, Orchestra Mozart, Claudio Abbado",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martha%20Argerich%2C%20Orchestra%20Mozart%2C%20Claudio%20Abbado",
+      "recent_track": "Mozart: Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+      "recent_track_url": "https://www.last.fm/music/Martha+Argerich%2C+Orchestra+Mozart%2C+Claudio+Abbado/_/Mozart:+Piano+Concerto+No.+20+in+D+Minor%2C+K.+466:+II.+Romance",
+      "first_discovered": "27 Feb 2026, 12:03",
+      "last_seen": "27 Feb 2026, 12:03",
+      "top_tracks": []
+    },
+    "pure & rare": {
+      "artist": "pure & rare",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/pure%20%26%20rare",
+      "recent_track": "old room nostalgia",
+      "recent_track_url": "https://www.last.fm/music/pure+%26+rare/_/old+room+nostalgia",
+      "first_discovered": "27 Feb 2026, 11:57",
+      "last_seen": "27 Feb 2026, 11:57",
+      "top_tracks": []
+    },
+    "martin stadtfeld": {
+      "artist": "Martin Stadtfeld",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Stadtfeld",
+      "recent_track": "Piano Songs: No. 10 Lullaby",
+      "recent_track_url": "https://www.last.fm/music/Martin+Stadtfeld/_/Piano+Songs:+No.+10+Lullaby",
+      "first_discovered": "27 Feb 2026, 11:55",
+      "last_seen": "27 Feb 2026, 11:55",
+      "top_tracks": []
+    },
+    "hot hot heat": {
+      "artist": "Hot Hot Heat",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hot%20Hot%20Heat",
+      "recent_track": "Talk to Me, Dance With Me",
+      "recent_track_url": "https://www.last.fm/music/Hot+Hot+Heat/_/Talk+to+Me%2C+Dance+With+Me",
+      "first_discovered": "26 Feb 2026, 20:16",
+      "last_seen": "26 Feb 2026, 20:16",
+      "top_tracks": []
+    },
+    "buffalo philharmonic orchestra, joann falletta": {
+      "artist": "Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "recent_track": "Pines of Rome, P. 141: III. I pini del Gianicolo",
+      "recent_track_url": "https://www.last.fm/music/Buffalo+Philharmonic+Orchestra%2C+JoAnn+Falletta/_/Pines+of+Rome%2C+P.+141:+III.+I+pini+del+Gianicolo",
+      "first_discovered": "03 Mar 2026, 17:49",
+      "last_seen": "03 Mar 2026, 17:49",
+      "top_tracks": []
+    },
+    "sandy cameron, buffalo philharmonic orchestra, joann falletta": {
+      "artist": "Sandy Cameron, Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sandy%20Cameron%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "recent_track": "Violin Concerto, \"Eleven Eleven\": IV. Giacoso; Lacrime",
+      "recent_track_url": "https://www.last.fm/music/Sandy+Cameron%2C+Buffalo+Philharmonic+Orchestra%2C+JoAnn+Falletta/_/Violin+Concerto%2C+%22Eleven+Eleven%22:+IV.+Giacoso%3B+Lacrime",
+      "first_discovered": "03 Mar 2026, 17:42",
+      "last_seen": "03 Mar 2026, 17:42",
+      "top_tracks": []
+    },
+    "john fullam, buffalo philharmonic orchestra, joann falletta": {
+      "artist": "John Fullam, Buffalo Philharmonic Orchestra, JoAnn Falletta",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Fullam%2C%20Buffalo%20Philharmonic%20Orchestra%2C%20JoAnn%20Falletta",
+      "recent_track": "Promenade (Arr. S. Berkowitz for Clarinet & Orchestra)",
+      "recent_track_url": "https://www.last.fm/music/John+Fullam%2C+Buffalo+Philharmonic+Orchestra%2C+JoAnn+Falletta/_/Promenade+%28Arr.+S.+Berkowitz+for+Clarinet+%26+Orchestra%29",
+      "first_discovered": "03 Mar 2026, 17:24",
+      "last_seen": "03 Mar 2026, 17:24",
+      "top_tracks": []
+    },
+    "la floridiana": {
+      "artist": "La Floridiana",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/La%20Floridiana",
+      "recent_track": "Ouverture in C Major: III. Allegro spiritoso",
+      "recent_track_url": "https://www.last.fm/music/La+Floridiana/_/Ouverture+in+C+Major:+III.+Allegro+spiritoso",
+      "first_discovered": "03 Mar 2026, 17:15",
+      "last_seen": "03 Mar 2026, 17:15",
+      "top_tracks": []
+    },
+    "sir neville marriner, academy of st. martin in the fields": {
+      "artist": "Sir Neville Marriner, Academy of St. Martin in the Fields",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St.%20Martin%20in%20the%20Fields",
+      "recent_track": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro",
+      "recent_track_url": "https://www.last.fm/music/Sir+Neville+Marriner%2C+Academy+of+St.+Martin+in+the+Fields/_/Serenade+No.+13+in+G+Major%2C+K.+525+%22Eine+kleine+Nachtmusik%22:+I.+Allegro",
+      "first_discovered": "03 Mar 2026, 17:05",
+      "last_seen": "03 Mar 2026, 17:05",
+      "top_tracks": []
+    },
+    "tine thing helseth": {
+      "artist": "Tine Thing Helseth",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tine%20Thing%20Helseth",
+      "recent_track": "Hummel: Trumpet Concerto In E Flat - Iii Rondo",
+      "recent_track_url": "https://www.last.fm/music/Tine+Thing+Helseth/_/Hummel:+Trumpet+Concerto+In+E+Flat+-+Iii+Rondo",
+      "first_discovered": "03 Mar 2026, 16:59",
+      "last_seen": "03 Mar 2026, 16:59",
+      "top_tracks": []
+    },
+    "mischa maisky, orpheus chamber orchestra": {
+      "artist": "Mischa Maisky, Orpheus Chamber Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mischa%20Maisky%2C%20Orpheus%20Chamber%20Orchestra",
+      "recent_track": "Boccherini: Minuet From String Quintet in E Major, Op. 13 No. 5",
+      "recent_track_url": "https://www.last.fm/music/Mischa+Maisky%2C+Orpheus+Chamber+Orchestra/_/Boccherini:+Minuet+From+String+Quintet+in+E+Major%2C+Op.+13+No.+5",
+      "first_discovered": "03 Mar 2026, 16:55",
+      "last_seen": "03 Mar 2026, 16:55",
+      "top_tracks": []
+    },
+    "london symphony orchestra, claudio abbado": {
+      "artist": "London Symphony Orchestra, Claudio Abbado",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/London%20Symphony%20Orchestra%2C%20Claudio%20Abbado",
+      "recent_track": "Rossini: Il barbiere di Siviglia: Overture",
+      "recent_track_url": "https://www.last.fm/music/London+Symphony+Orchestra%2C+Claudio+Abbado/_/Rossini:+Il+barbiere+di+Siviglia:+Overture",
+      "first_discovered": "03 Mar 2026, 16:51",
+      "last_seen": "03 Mar 2026, 16:51",
+      "top_tracks": []
+    },
+    "andreas ottensamer, kammerakademie potsdam": {
+      "artist": "Andreas Ottensamer, Kammerakademie Potsdam",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andreas%20Ottensamer%2C%20Kammerakademie%20Potsdam",
+      "recent_track": "C. Stamitz: Clarinet Concerto No. 7 in E Flat Major (Darmstädter No. 1): 3. Rondeau",
+      "recent_track_url": "https://www.last.fm/music/Andreas+Ottensamer%2C+Kammerakademie+Potsdam/_/C.+Stamitz:+Clarinet+Concerto+No.+7+in+E+Flat+Major+%28Darmst%C3%A4dter+No.+1%29:+3.+Rondeau",
+      "first_discovered": "03 Mar 2026, 16:44",
+      "last_seen": "03 Mar 2026, 16:44",
+      "top_tracks": []
+    },
+    "jory vinikour, chamber orchestra of europe, yannick nézet-séguin": {
+      "artist": "Jory Vinikour, Chamber Orchestra of Europe, Yannick Nézet-Séguin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jory%20Vinikour%2C%20Chamber%20Orchestra%20of%20Europe%2C%20Yannick%20N%C3%A9zet-S%C3%A9guin",
+      "recent_track": "Mozart: Le nozze di Figaro, K.492: Sinfonia",
+      "recent_track_url": "https://www.last.fm/music/Jory+Vinikour%2C+Chamber+Orchestra+of+Europe%2C+Yannick+N%C3%A9zet-S%C3%A9guin/_/Mozart:+Le+nozze+di+Figaro%2C+K.492:+Sinfonia",
+      "first_discovered": "03 Mar 2026, 16:39",
+      "last_seen": "03 Mar 2026, 16:39",
+      "top_tracks": []
+    },
+    "patrick gallois, kammerorchester carl philipp emanuel bach, peter schreier": {
+      "artist": "Patrick Gallois, Kammerorchester Carl Philipp Emanuel Bach, Peter Schreier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Patrick%20Gallois%2C%20Kammerorchester%20Carl%20Philipp%20Emanuel%20Bach%2C%20Peter%20Schreier",
+      "recent_track": "C.P.E. Bach: Flute Concerto in G, Wq. 169: 2. Largo - Cadenza: C.P.E. Bach",
+      "recent_track_url": "https://www.last.fm/music/Patrick+Gallois%2C+Kammerorchester+Carl+Philipp+Emanuel+Bach%2C+Peter+Schreier/_/C.P.E.+Bach:+Flute+Concerto+in+G%2C+Wq.+169:+2.+Largo+-+Cadenza:+C.P.E.+Bach",
+      "first_discovered": "03 Mar 2026, 16:35",
+      "last_seen": "03 Mar 2026, 16:35",
+      "top_tracks": []
+    },
+    "trevor pinnock": {
+      "artist": "Trevor Pinnock",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trevor%20Pinnock",
+      "recent_track": "F. Couperin: Pièces de clavecin, Livre II, Ordre 6: V. Les Baricades Mistérieuses",
+      "recent_track_url": "https://www.last.fm/music/Trevor+Pinnock/_/F.+Couperin:+Pi%C3%A8ces+de+clavecin%2C+Livre+II%2C+Ordre+6:+V.+Les+Baricades+Mist%C3%A9rieuses",
+      "first_discovered": "03 Mar 2026, 16:27",
+      "last_seen": "03 Mar 2026, 16:27",
+      "top_tracks": []
+    },
+    "maarka": {
+      "artist": "Maarka",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maarka",
+      "recent_track": "White Railway",
+      "recent_track_url": "https://www.last.fm/music/Maarka/_/White+Railway",
+      "first_discovered": "03 Mar 2026, 16:05",
+      "last_seen": "04 Mar 2026, 15:39",
+      "top_tracks": []
+    },
+    "george kahumoku, jr.": {
+      "artist": "George Kahumoku, Jr.",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20Kahumoku%2C%20Jr.",
+      "recent_track": "E Maliu Mai",
+      "recent_track_url": "https://www.last.fm/music/George+Kahumoku%2C+Jr./_/E+Maliu+Mai",
+      "first_discovered": "04 Mar 2026, 16:35",
+      "last_seen": "04 Mar 2026, 16:35",
+      "top_tracks": []
+    },
+    "alex mass, james lavelle, james griffith, pablo clements, unkle": {
+      "artist": "Alex Mass, James Lavelle, James Griffith, Pablo Clements, UNKLE",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alex%20Mass%2C%20James%20Lavelle%2C%20James%20Griffith%2C%20Pablo%20Clements%2C%20UNKLE",
+      "recent_track": "With You in My Head (feat. The Black Angels)",
+      "recent_track_url": "https://www.last.fm/music/Alex+Mass%2C+James+Lavelle%2C+James+Griffith%2C+Pablo+Clements%2C+UNKLE/_/With+You+in+My+Head+%28feat.+The+Black+Angels%29",
+      "first_discovered": "04 Mar 2026, 16:03",
+      "last_seen": "04 Mar 2026, 16:03",
+      "top_tracks": []
+    },
+    "beady belle": {
+      "artist": "Beady Belle",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beady%20Belle",
+      "recent_track": "Game",
+      "recent_track_url": "https://www.last.fm/music/Beady+Belle/_/Game",
+      "first_discovered": "04 Mar 2026, 15:43",
+      "last_seen": "04 Mar 2026, 15:43",
+      "top_tracks": []
+    },
+    "angélique kidjo": {
+      "artist": "Angélique Kidjo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ang%C3%A9lique%20Kidjo",
+      "recent_track": "Bahia",
+      "recent_track_url": "https://www.last.fm/music/Ang%C3%A9lique+Kidjo/_/Bahia",
+      "first_discovered": "04 Mar 2026, 15:40",
+      "last_seen": "04 Mar 2026, 15:40",
+      "top_tracks": []
+    },
+    "dream theater": {
+      "artist": "Dream Theater",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dream%20Theater",
+      "recent_track": "Barstool Warrior",
+      "recent_track_url": "https://www.last.fm/music/Dream+Theater/_/Barstool+Warrior",
+      "first_discovered": "05 Mar 2026, 19:45",
+      "last_seen": "06 Mar 2026, 16:36",
+      "top_tracks": []
+    },
+    "skinny puppy": {
+      "artist": "Skinny Puppy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Skinny%20Puppy",
+      "recent_track": "Worlock",
+      "recent_track_url": "https://www.last.fm/music/Skinny+Puppy/_/Worlock",
+      "first_discovered": "05 Mar 2026, 19:40",
+      "last_seen": "05 Mar 2026, 19:40",
+      "top_tracks": []
+    },
+    "javier martinez maya": {
+      "artist": "Javier Martinez Maya",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Javier%20Martinez%20Maya",
+      "recent_track": "I Wear My Sunglasses At Night",
+      "recent_track_url": "https://www.last.fm/music/Javier+Martinez+Maya/_/I+Wear+My+Sunglasses+At+Night",
+      "first_discovered": "06 Mar 2026, 17:46",
+      "last_seen": "07 Mar 2026, 14:48",
+      "top_tracks": []
+    },
+    "cutting crew": {
+      "artist": "Cutting Crew",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cutting%20Crew",
+      "recent_track": "(I Just) Died in Your Arms",
+      "recent_track_url": "https://www.last.fm/music/Cutting+Crew/_/%28I+Just%29+Died+in+Your+Arms",
+      "first_discovered": "06 Mar 2026, 15:49",
+      "last_seen": "06 Mar 2026, 15:49",
+      "top_tracks": []
+    },
+    "eurythmics, annie lennox, dave stewart": {
+      "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart",
+      "recent_track": "Sweet Dreams (Are Made Of This)",
+      "recent_track_url": "https://www.last.fm/music/Eurythmics%2C+Annie+Lennox%2C+Dave+Stewart/_/Sweet+Dreams+%28Are+Made+Of+This%29",
+      "first_discovered": "06 Mar 2026, 15:45",
+      "last_seen": "06 Mar 2026, 15:45",
+      "top_tracks": []
+    },
+    "generation x, billy idol": {
+      "artist": "Generation X, Billy Idol",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Generation%20X%2C%20Billy%20Idol",
+      "recent_track": "Dancing with Myself",
+      "recent_track_url": "https://www.last.fm/music/Generation+X%2C+Billy+Idol/_/Dancing+with+Myself",
+      "first_discovered": "06 Mar 2026, 15:37",
+      "last_seen": "06 Mar 2026, 15:37",
+      "top_tracks": []
+    },
+    "daryl hall & john oates": {
+      "artist": "Daryl Hall & John Oates",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Daryl%20Hall%20%26%20John%20Oates",
+      "recent_track": "Maneater",
+      "recent_track_url": "https://www.last.fm/music/Daryl+Hall+%26+John+Oates/_/Maneater",
+      "first_discovered": "06 Mar 2026, 15:29",
+      "last_seen": "06 Mar 2026, 15:29",
+      "top_tracks": []
+    },
+    "the human league": {
+      "artist": "The Human League",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Human%20League",
+      "recent_track": "Don't You Want Me",
+      "recent_track_url": "https://www.last.fm/music/The+Human+League/_/Don't+You+Want+Me",
+      "first_discovered": "06 Mar 2026, 15:09",
+      "last_seen": "06 Mar 2026, 15:09",
+      "top_tracks": []
+    },
+    "aaron neville": {
+      "artist": "Aaron Neville",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaron%20Neville",
+      "recent_track": "Tell It Like It Is",
+      "recent_track_url": "https://www.last.fm/music/Aaron+Neville/_/Tell+It+Like+It+Is",
+      "first_discovered": "09 Mar 2026, 17:50",
+      "last_seen": "09 Mar 2026, 17:50",
+      "top_tracks": []
+    },
+    "ragna schirmer": {
+      "artist": "Ragna Schirmer",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
+      "recent_track": "III. Courante",
+      "recent_track_url": "https://www.last.fm/music/Ragna+Schirmer/_/III.+Courante",
+      "first_discovered": "09 Mar 2026, 17:48",
+      "last_seen": "22 Apr 2026, 18:09",
+      "top_tracks": []
+    },
+    "sir neville marriner, academy of st martin in the fields": {
+      "artist": "Sir Neville Marriner, Academy of St Martin in the Fields",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
+      "recent_track": "Orchestral Suite No. 3 in D Major, BWV 1068: IV. Bourrée",
+      "recent_track_url": "https://www.last.fm/music/Sir+Neville+Marriner%2C+Academy+of+St+Martin+in+the+Fields/_/Orchestral+Suite+No.+3+in+D+Major%2C+BWV+1068:+IV.+Bourr%C3%A9e",
+      "first_discovered": "12 Mar 2026, 15:20",
+      "last_seen": "12 Mar 2026, 15:20",
+      "top_tracks": []
+    },
+    "sir neville marriner, academy of st martin in the fields, george malcolm": {
+      "artist": "Sir Neville Marriner, Academy of St Martin in the Fields, George Malcolm",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sir%20Neville%20Marriner%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20George%20Malcolm",
+      "recent_track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: II. Adagio",
+      "recent_track_url": "https://www.last.fm/music/Sir+Neville+Marriner%2C+Academy+of+St+Martin+in+the+Fields%2C+George+Malcolm/_/Brandenburg+Concerto+No.+3+in+G+Major%2C+BWV+1048:+II.+Adagio",
+      "first_discovered": "12 Mar 2026, 15:13",
+      "last_seen": "12 Mar 2026, 15:13",
+      "top_tracks": []
+    },
+    "prince fatty, horseman": {
+      "artist": "Prince Fatty, Horseman",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Horseman",
+      "recent_track": "Insane in the Brain",
+      "recent_track_url": "https://www.last.fm/music/Prince+Fatty%2C+Horseman/_/Insane+in+the+Brain",
+      "first_discovered": "15 Mar 2026, 18:06",
+      "last_seen": "17 Apr 2026, 18:29",
+      "top_tracks": []
+    },
+    "falco": {
+      "artist": "Falco",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Falco",
+      "recent_track": "Der Kommissar",
+      "recent_track_url": "https://www.last.fm/music/Falco/_/Der+Kommissar",
+      "first_discovered": "15 Mar 2026, 17:24",
+      "last_seen": "03 Apr 2026, 16:14",
+      "top_tracks": []
+    },
+    "war": {
+      "artist": "War",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/War",
+      "recent_track": "Low Rider",
+      "recent_track_url": "https://www.last.fm/music/War/_/Low+Rider",
+      "first_discovered": "15 Mar 2026, 17:09",
+      "last_seen": "15 Mar 2026, 17:09",
+      "top_tracks": []
+    },
+    "adam gussow, sterling magee": {
+      "artist": "Adam Gussow, Sterling Magee",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Adam%20Gussow%2C%20Sterling%20Magee",
+      "recent_track": "Freedom for My People",
+      "recent_track_url": "https://www.last.fm/music/Adam+Gussow%2C+Sterling+Magee/_/Freedom+for+My+People",
+      "first_discovered": "15 Mar 2026, 16:29",
+      "last_seen": "15 Mar 2026, 16:29",
+      "top_tracks": []
+    },
+    "john lennon & yoko ono": {
+      "artist": "John Lennon & Yoko Ono",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Lennon%20%26%20Yoko%20Ono",
+      "recent_track": "Instant Karma! (We All Shine On)",
+      "recent_track_url": "https://www.last.fm/music/John+Lennon+%26+Yoko+Ono/_/Instant+Karma%21+%28We+All+Shine+On%29",
+      "first_discovered": "15 Mar 2026, 16:28",
+      "last_seen": "15 Mar 2026, 16:28",
+      "top_tracks": []
+    },
+    "the temptations": {
+      "artist": "The Temptations",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Temptations",
+      "recent_track": "Get Ready",
+      "recent_track_url": "https://www.last.fm/music/The+Temptations/_/Get+Ready",
+      "first_discovered": "18 Mar 2026, 20:04",
+      "last_seen": "18 Mar 2026, 20:04",
+      "top_tracks": []
+    },
+    "charles wright & the watts 103rd street rhythm band": {
+      "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Wright%20%26%20The%20Watts%20103rd%20Street%20Rhythm%20Band",
+      "recent_track": "Express Yourself",
+      "recent_track_url": "https://www.last.fm/music/Charles+Wright+%26+The+Watts+103rd+Street+Rhythm+Band/_/Express+Yourself",
+      "first_discovered": "18 Mar 2026, 19:59",
+      "last_seen": "18 Mar 2026, 19:59",
+      "top_tracks": []
+    },
+    "lost in vegas": {
+      "artist": "Lost In Vegas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lost%20In%20Vegas",
+      "recent_track": "Reaction",
+      "recent_track_url": "https://www.last.fm/music/Lost+In+Vegas/_/Reaction",
+      "first_discovered": "29 Mar 2026, 21:06",
+      "last_seen": "29 Mar 2026, 21:06",
+      "top_tracks": []
+    },
+    "lights": {
+      "artist": "Lights",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lights",
+      "recent_track": "Skydiving",
+      "recent_track_url": "https://www.last.fm/music/Lights/_/Skydiving",
+      "first_discovered": "29 Mar 2026, 20:57",
+      "last_seen": "29 Mar 2026, 20:57",
+      "top_tracks": []
+    },
+    "the neal schon interview": {
+      "artist": "The Neal Schon Interview",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Neal%20Schon%20Interview",
+      "recent_track": "the Riffs, the Solos, and the Soul of Journey",
+      "recent_track_url": "https://www.last.fm/music/The+Neal+Schon+Interview/_/the+Riffs%2C+the+Solos%2C+and+the+Soul+of+Journey",
+      "first_discovered": "29 Mar 2026, 20:53",
+      "last_seen": "29 Mar 2026, 20:53",
+      "top_tracks": []
+    },
+    "boston": {
+      "artist": "Boston",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Boston",
+      "recent_track": "Something About You",
+      "recent_track_url": "https://www.last.fm/music/Boston/_/Something+About+You",
+      "first_discovered": "29 Mar 2026, 14:03",
+      "last_seen": "29 Mar 2026, 14:03",
+      "top_tracks": []
+    },
+    "johann sebastian bach, esther apituley": {
+      "artist": "Johann Sebastian Bach, Esther Apituley",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Esther%20Apituley",
+      "recent_track": "Suite for Solo Cello No. 3 in C Major, BWV 1009: IV. Sarabande",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Esther+Apituley/_/Suite+for+Solo+Cello+No.+3+in+C+Major%2C+BWV+1009:+IV.+Sarabande",
+      "first_discovered": "30 Mar 2026, 16:35",
+      "last_seen": "30 Mar 2026, 16:35",
+      "top_tracks": []
+    },
+    "mark bennett, rachel beckett, paul goodwin, monica huggett, orchestra of the age of enlightenment": {
+      "artist": "Mark Bennett, Rachel Beckett, Paul Goodwin, Monica Huggett, Orchestra Of The Age Of Enlightenment",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mark%20Bennett%2C%20Rachel%20Beckett%2C%20Paul%20Goodwin%2C%20Monica%20Huggett%2C%20Orchestra%20Of%20The%20Age%20Of%20Enlightenment",
+      "recent_track": "Brandenburg Concerto No. 2 in F Major, BWV 1047: II. Andante",
+      "recent_track_url": "https://www.last.fm/music/Mark+Bennett%2C+Rachel+Beckett%2C+Paul+Goodwin%2C+Monica+Huggett%2C+Orchestra+Of+The+Age+Of+Enlightenment/_/Brandenburg+Concerto+No.+2+in+F+Major%2C+BWV+1047:+II.+Andante",
+      "first_discovered": "30 Mar 2026, 16:30",
+      "last_seen": "30 Mar 2026, 16:30",
+      "top_tracks": []
+    },
+    "jordi savall, ton koopman, johann sebastian bach": {
+      "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach",
+      "recent_track": "Sonata III (G Moll), BWV 1029: Adagio",
+      "recent_track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+III+%28G+Moll%29%2C+BWV+1029:+Adagio",
+      "first_discovered": "30 Mar 2026, 16:26",
+      "last_seen": "30 Mar 2026, 16:26",
+      "top_tracks": []
+    },
+    "musica amphion, rémy baudet, pieter-jan belder": {
+      "artist": "Musica Amphion, Rémy Baudet, Pieter-Jan Belder",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Musica%20Amphion%2C%20R%C3%A9my%20Baudet%2C%20Pieter-Jan%20Belder",
+      "recent_track": "III. Presto",
+      "recent_track_url": "https://www.last.fm/music/Musica+Amphion%2C+R%C3%A9my+Baudet%2C+Pieter-Jan+Belder/_/III.+Presto",
+      "first_discovered": "30 Mar 2026, 16:05",
+      "last_seen": "30 Mar 2026, 16:05",
+      "top_tracks": []
+    },
+    "studying music": {
+      "artist": "Studying Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Studying%20Music",
+      "recent_track": "Air",
+      "recent_track_url": "https://www.last.fm/music/Studying+Music/_/Air",
+      "first_discovered": "30 Mar 2026, 16:01",
+      "last_seen": "30 Mar 2026, 16:01",
+      "top_tracks": []
+    },
+    "johann sebastian bach, pierre fournier": {
+      "artist": "Johann Sebastian Bach, Pierre Fournier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Pierre%20Fournier",
+      "recent_track": "Suite For Solo Cello No. 1 In G Major, BWV 1007: III. Courante",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Pierre+Fournier/_/Suite+For+Solo+Cello+No.+1+In+G+Major%2C+BWV+1007:+III.+Courante",
+      "first_discovered": "30 Mar 2026, 15:54",
+      "last_seen": "30 Mar 2026, 15:54",
+      "top_tracks": []
+    },
+    "amsterdam bach soloists, henk rubingh, gewandhausorchester leipzig, kurt masur": {
+      "artist": "Amsterdam Bach Soloists, Henk Rubingh, Gewandhausorchester Leipzig, Kurt Masur",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Amsterdam%20Bach%20Soloists%2C%20Henk%20Rubingh%2C%20Gewandhausorchester%20Leipzig%2C%20Kurt%20Masur",
+      "recent_track": "III. Allegro assai",
+      "recent_track_url": "https://www.last.fm/music/Amsterdam+Bach+Soloists%2C+Henk+Rubingh%2C+Gewandhausorchester+Leipzig%2C+Kurt+Masur/_/III.+Allegro+assai",
+      "first_discovered": "30 Mar 2026, 15:51",
+      "last_seen": "30 Mar 2026, 15:51",
+      "top_tracks": []
+    },
+    "elizabeth wallfisch, lisa beznosiuk, malcolm proud": {
+      "artist": "Elizabeth Wallfisch, Lisa Beznosiuk, Malcolm Proud",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elizabeth%20Wallfisch%2C%20Lisa%20Beznosiuk%2C%20Malcolm%20Proud",
+      "recent_track": "Brandenburg Concerto No. 5 in D Major, BWV 1050: I. Allegro",
+      "recent_track_url": "https://www.last.fm/music/Elizabeth+Wallfisch%2C+Lisa+Beznosiuk%2C+Malcolm+Proud/_/Brandenburg+Concerto+No.+5+in+D+Major%2C+BWV+1050:+I.+Allegro",
+      "first_discovered": "30 Mar 2026, 15:47",
+      "last_seen": "30 Mar 2026, 15:47",
+      "top_tracks": []
+    },
+    "aaron rosand, johann sebastian bach": {
+      "artist": "Aaron Rosand, Johann Sebastian Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaron%20Rosand%2C%20Johann%20Sebastian%20Bach",
+      "recent_track": "Violin Sonata No. 1 in G Minor, BWV 1001: I. Adagio",
+      "recent_track_url": "https://www.last.fm/music/Aaron+Rosand%2C+Johann+Sebastian+Bach/_/Violin+Sonata+No.+1+in+G+Minor%2C+BWV+1001:+I.+Adagio",
+      "first_discovered": "30 Mar 2026, 15:35",
+      "last_seen": "30 Mar 2026, 15:35",
+      "top_tracks": []
+    },
+    "kajana pačko": {
+      "artist": "Kajana Pačko",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kajana%20Pa%C4%8Dko",
+      "recent_track": "Johann Sebastian Bach: Suite For Solo Cello No. 5 In C Minor, BWV 1011: Prelude",
+      "recent_track_url": "https://www.last.fm/music/Kajana+Pa%C4%8Dko/_/Johann+Sebastian+Bach:+Suite+For+Solo+Cello+No.+5+In+C+Minor%2C+BWV+1011:+Prelude",
+      "first_discovered": "30 Mar 2026, 15:34",
+      "last_seen": "30 Mar 2026, 15:34",
+      "top_tracks": []
+    },
+    "michael stipe, andrew watt": {
+      "artist": "Michael Stipe, Andrew Watt",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Michael%20Stipe%2C%20Andrew%20Watt",
+      "recent_track": "I Played the Fool (Main Title Theme from \"Rooster\")",
+      "recent_track_url": "https://www.last.fm/music/Michael+Stipe%2C+Andrew+Watt/_/I+Played+the+Fool+%28Main+Title+Theme+from+%22Rooster%22%29",
+      "first_discovered": "30 Mar 2026, 15:07",
+      "last_seen": "30 Mar 2026, 15:07",
+      "top_tracks": []
+    },
+    "olivier libaux, katharine whalen": {
+      "artist": "Olivier Libaux, Katharine Whalen",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivier%20Libaux%2C%20Katharine%20Whalen",
+      "recent_track": "Medication",
+      "recent_track_url": "https://www.last.fm/music/Olivier+Libaux%2C+Katharine+Whalen/_/Medication",
+      "first_discovered": "02 Apr 2026, 18:36",
+      "last_seen": "02 Apr 2026, 18:36",
+      "top_tracks": []
+    },
+    "king buffalo": {
+      "artist": "King Buffalo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/King%20Buffalo",
+      "recent_track": "Monolith",
+      "recent_track_url": "https://www.last.fm/music/King+Buffalo/_/Monolith",
+      "first_discovered": "02 Apr 2026, 17:20",
+      "last_seen": "02 Apr 2026, 17:20",
+      "top_tracks": []
+    },
+    "the bangles, susanna hoffs": {
+      "artist": "The Bangles, Susanna Hoffs",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Bangles%2C%20Susanna%20Hoffs",
+      "recent_track": "Walking Down Your Street",
+      "recent_track_url": "https://www.last.fm/music/The+Bangles%2C+Susanna+Hoffs/_/Walking+Down+Your+Street",
+      "first_discovered": "02 Apr 2026, 16:29",
+      "last_seen": "02 Apr 2026, 16:29",
+      "top_tracks": []
+    },
+    "jazzy moods": {
+      "artist": "Jazzy Moods",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzy%20Moods",
+      "recent_track": "MD Blues",
+      "recent_track_url": "https://www.last.fm/music/Jazzy+Moods/_/MD+Blues",
+      "first_discovered": "02 Apr 2026, 16:18",
+      "last_seen": "02 Apr 2026, 16:18",
+      "top_tracks": []
+    },
+    "heart, chris cornell, jerry cantrell, mike mccready": {
+      "artist": "Heart, Chris Cornell, Jerry Cantrell, Mike McCready",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heart%2C%20Chris%20Cornell%2C%20Jerry%20Cantrell%2C%20Mike%20McCready",
+      "recent_track": "Barracuda (with Jerry Cantrell, Chris Cornell & Mike McCready) [Live]",
+      "recent_track_url": "https://www.last.fm/music/Heart%2C+Chris+Cornell%2C+Jerry+Cantrell%2C+Mike+McCready/_/Barracuda+%28with+Jerry+Cantrell%2C+Chris+Cornell+%26+Mike+McCready%29+%5BLive%5D",
+      "first_discovered": "02 Apr 2026, 15:50",
+      "last_seen": "02 Apr 2026, 15:50",
+      "top_tracks": []
+    },
+    "my life is irrevocably changed": {
+      "artist": "My Life Is Irrevocably Changed",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/My%20Life%20Is%20Irrevocably%20Changed",
+      "recent_track": "How Paul Simon Felt Watching His First Hit Climb The Charts",
+      "recent_track_url": "https://www.last.fm/music/My+Life+Is+Irrevocably+Changed/_/How+Paul+Simon+Felt+Watching+His+First+Hit+Climb+The+Charts",
+      "first_discovered": "03 Apr 2026, 19:08",
+      "last_seen": "03 Apr 2026, 19:08",
+      "top_tracks": []
+    },
+    "dave grohl, joshua homme & trent reznor": {
+      "artist": "Dave Grohl, Joshua Homme & Trent Reznor",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dave%20Grohl%2C%20Joshua%20Homme%20%26%20Trent%20Reznor",
+      "recent_track": "Mantra",
+      "recent_track_url": "https://www.last.fm/music/Dave+Grohl%2C+Joshua+Homme+%26+Trent+Reznor/_/Mantra",
+      "first_discovered": "03 Apr 2026, 07:17",
+      "last_seen": "03 Apr 2026, 07:17",
+      "top_tracks": []
+    },
+    "jennie": {
+      "artist": "Jennie",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jennie",
+      "recent_track": "Mantra",
+      "recent_track_url": "https://www.last.fm/music/Jennie/_/Mantra",
+      "first_discovered": "03 Apr 2026, 07:15",
+      "last_seen": "03 Apr 2026, 07:15",
+      "top_tracks": []
+    },
+    "epic vampire battle (full ending scene) | twilight": {
+      "artist": "Epic Vampire Battle (FULL ENDING SCENE) | Twilight",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Epic%20Vampire%20Battle%20%28FULL%20ENDING%20SCENE%29%20%7C%20Twilight",
+      "recent_track": "Breaking Dawn Part 2 Ultra HD 4K",
+      "recent_track_url": "https://www.last.fm/music/Epic+Vampire+Battle+%28FULL+ENDING+SCENE%29+%7C+Twilight/_/Breaking+Dawn+Part+2+Ultra+HD+4K",
+      "first_discovered": "04 Apr 2026, 18:19",
+      "last_seen": "04 Apr 2026, 18:19",
+      "top_tracks": []
+    },
+    "baby": {
+      "artist": "Baby",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Baby",
+      "recent_track": "What Happened To That Boy",
+      "recent_track_url": "https://www.last.fm/music/Baby/_/What+Happened+To+That+Boy",
+      "first_discovered": "04 Apr 2026, 17:58",
+      "last_seen": "04 Apr 2026, 17:58",
+      "top_tracks": []
+    },
+    "how humanity created the borg!": {
+      "artist": "How Humanity Created The BORG!",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/How%20Humanity%20Created%20The%20BORG%21",
+      "recent_track": "Star Trek Explained",
+      "recent_track_url": "https://www.last.fm/music/How+Humanity+Created+The+BORG%21/_/Star+Trek+Explained",
+      "first_discovered": "04 Apr 2026, 17:50",
+      "last_seen": "04 Apr 2026, 17:50",
+      "top_tracks": []
+    },
+    "buzzfeed celeb": {
+      "artist": "BuzzFeed Celeb",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BuzzFeed%20Celeb",
+      "recent_track": "Results",
+      "recent_track_url": "https://www.last.fm/music/BuzzFeed+Celeb/_/Results",
+      "first_discovered": "04 Apr 2026, 17:37",
+      "last_seen": "04 Apr 2026, 17:37",
+      "top_tracks": []
+    },
+    "rewrite the stars": {
+      "artist": "Rewrite The Stars",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rewrite%20The%20Stars",
+      "recent_track": "THE GREATEST SHOWMAN (AJ Rafael x Isa Briones)",
+      "recent_track_url": "https://www.last.fm/music/Rewrite+The+Stars/_/THE+GREATEST+SHOWMAN+%28AJ+Rafael+x+Isa+Briones%29",
+      "first_discovered": "04 Apr 2026, 17:28",
+      "last_seen": "04 Apr 2026, 17:28",
+      "top_tracks": []
+    },
+    "binge central": {
+      "artist": "Binge Central",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Binge%20Central",
+      "recent_track": "When Celebrities Couldn't Handle Robin Williams",
+      "recent_track_url": "https://www.last.fm/music/Binge+Central/_/When+Celebrities+Couldn't+Handle+Robin+Williams",
+      "first_discovered": "04 Apr 2026, 17:20",
+      "last_seen": "04 Apr 2026, 17:20",
+      "top_tracks": []
+    },
+    "baby, clipse": {
+      "artist": "Baby, Clipse",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Baby%2C%20Clipse",
+      "recent_track": "What Happened To That Boy",
+      "recent_track_url": "https://www.last.fm/music/Baby%2C+Clipse/_/What+Happened+To+That+Boy",
+      "first_discovered": "04 Apr 2026, 14:04",
+      "last_seen": "05 Apr 2026, 16:06",
+      "top_tracks": []
+    },
+    "paul simon": {
+      "artist": "Paul Simon",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paul%20Simon",
+      "recent_track": "Late in the Evening",
+      "recent_track_url": "https://www.last.fm/music/Paul+Simon/_/Late+in+the+Evening",
+      "first_discovered": "03 Apr 2026, 22:18",
+      "last_seen": "03 Apr 2026, 22:18",
+      "top_tracks": []
+    },
+    "deadmau5, lights": {
+      "artist": "deadmau5, Lights",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/deadmau5%2C%20Lights",
+      "recent_track": "Drama Free (feat. LIGHTS)",
+      "recent_track_url": "https://www.last.fm/music/deadmau5%2C+Lights/_/Drama+Free+%28feat.+LIGHTS%29",
+      "first_discovered": "05 Apr 2026, 16:13",
+      "last_seen": "05 Apr 2026, 16:13",
+      "top_tracks": []
+    },
+    "polock": {
+      "artist": "Polock",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Polock",
+      "recent_track": "Everlasting",
+      "recent_track_url": "https://www.last.fm/music/Polock/_/Everlasting",
+      "first_discovered": "06 Apr 2026, 17:27",
+      "last_seen": "07 Apr 2026, 16:26",
+      "top_tracks": []
+    },
+    "meatbodies": {
+      "artist": "Meatbodies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Meatbodies",
+      "recent_track": "Wahoo",
+      "recent_track_url": "https://www.last.fm/music/Meatbodies/_/Wahoo",
+      "first_discovered": "06 Apr 2026, 16:56",
+      "last_seen": "06 Apr 2026, 16:56",
+      "top_tracks": []
+    },
+    "coachwhips": {
+      "artist": "Coachwhips",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coachwhips",
+      "recent_track": "I Drank What?",
+      "recent_track_url": "https://www.last.fm/music/Coachwhips/_/I+Drank+What%3F",
+      "first_discovered": "06 Apr 2026, 16:53",
+      "last_seen": "06 Apr 2026, 16:53",
+      "top_tracks": []
+    },
+    "japanther": {
+      "artist": "Japanther",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Japanther",
+      "recent_track": "Tender People",
+      "recent_track_url": "https://www.last.fm/music/Japanther/_/Tender+People",
+      "first_discovered": "06 Apr 2026, 16:38",
+      "last_seen": "06 Apr 2026, 16:38",
+      "top_tracks": []
+    },
+    "bully": {
+      "artist": "Bully",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bully",
+      "recent_track": "Milkman",
+      "recent_track_url": "https://www.last.fm/music/Bully/_/Milkman",
+      "first_discovered": "06 Apr 2026, 16:36",
+      "last_seen": "06 Apr 2026, 16:36",
+      "top_tracks": []
+    },
+    "iceage": {
+      "artist": "Iceage",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Iceage",
+      "recent_track": "Vendetta",
+      "recent_track_url": "https://www.last.fm/music/Iceage/_/Vendetta",
+      "first_discovered": "06 Apr 2026, 16:28",
+      "last_seen": "06 Apr 2026, 16:28",
+      "top_tracks": []
+    },
+    "albion": {
+      "artist": "Albion",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Albion",
+      "recent_track": "Air",
+      "recent_track_url": "https://www.last.fm/music/Albion/_/Air",
+      "first_discovered": "07 Apr 2026, 18:09",
+      "last_seen": "07 Apr 2026, 18:09",
+      "top_tracks": []
+    },
+    "snoop dogg, pharrell williams, uncle charlie wilson": {
+      "artist": "Snoop Dogg, Pharrell Williams, Uncle Charlie Wilson",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Snoop%20Dogg%2C%20Pharrell%20Williams%2C%20Uncle%20Charlie%20Wilson",
+      "recent_track": "Beautiful",
+      "recent_track_url": "https://www.last.fm/music/Snoop+Dogg%2C+Pharrell+Williams%2C+Uncle+Charlie+Wilson/_/Beautiful",
+      "first_discovered": "07 Apr 2026, 17:58",
+      "last_seen": "07 Apr 2026, 17:58",
+      "top_tracks": []
+    },
+    "harry connick, jr. trio": {
+      "artist": "Harry Connick, Jr. Trio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Harry%20Connick%2C%20Jr.%20Trio",
+      "recent_track": "Christmas Day",
+      "recent_track_url": "https://www.last.fm/music/Harry+Connick%2C+Jr.+Trio/_/Christmas+Day",
+      "first_discovered": "07 Apr 2026, 17:53",
+      "last_seen": "07 Apr 2026, 17:53",
+      "top_tracks": []
+    },
+    "lutz kirchhof": {
+      "artist": "Lutz Kirchhof",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lutz%20Kirchhof",
+      "recent_track": "Sir John Langton, his Pavin",
+      "recent_track_url": "https://www.last.fm/music/Lutz+Kirchhof/_/Sir+John+Langton%2C+his+Pavin",
+      "first_discovered": "07 Apr 2026, 17:35",
+      "last_seen": "07 Apr 2026, 17:35",
+      "top_tracks": []
+    },
+    "próxima parada": {
+      "artist": "Próxima Parada",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pr%C3%B3xima%20Parada",
+      "recent_track": "Desert Bloom II",
+      "recent_track_url": "https://www.last.fm/music/Pr%C3%B3xima+Parada/_/Desert+Bloom+II",
+      "first_discovered": "07 Apr 2026, 17:26",
+      "last_seen": "07 Apr 2026, 17:26",
+      "top_tracks": []
+    },
+    "jeff goldblum & the mildred snitzer orchestra, imelda may, till brönner": {
+      "artist": "Jeff Goldblum & the Mildred Snitzer Orchestra, Imelda May, Till Brönner",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jeff%20Goldblum%20%26%20the%20Mildred%20Snitzer%20Orchestra%2C%20Imelda%20May%2C%20Till%20Br%C3%B6nner",
+      "recent_track": "Straighten Up And Fly Right",
+      "recent_track_url": "https://www.last.fm/music/Jeff+Goldblum+%26+the+Mildred+Snitzer+Orchestra%2C+Imelda+May%2C+Till+Br%C3%B6nner/_/Straighten+Up+And+Fly+Right",
+      "first_discovered": "07 Apr 2026, 17:22",
+      "last_seen": "07 Apr 2026, 17:22",
+      "top_tracks": []
+    },
+    "dj snake, yellow claw & spanker, dj snake, spanker, yellow claw": {
+      "artist": "DJ Snake, Yellow Claw & Spanker, DJ Snake, Spanker, Yellow Claw",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Snake%2C%20Yellow%20Claw%20%26%20Spanker%2C%20DJ%20Snake%2C%20Spanker%2C%20Yellow%20Claw",
+      "recent_track": "Slow Down",
+      "recent_track_url": "https://www.last.fm/music/DJ+Snake%2C+Yellow+Claw+%26+Spanker%2C+DJ+Snake%2C+Spanker%2C+Yellow+Claw/_/Slow+Down",
+      "first_discovered": "07 Apr 2026, 16:36",
+      "last_seen": "23 Apr 2026, 16:48",
+      "top_tracks": []
+    },
+    "lang lang, franz liszt": {
+      "artist": "Lang Lang, Franz Liszt",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lang%20Lang%2C%20Franz%20Liszt",
+      "recent_track": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141/3)",
+      "recent_track_url": "https://www.last.fm/music/Lang+Lang%2C+Franz+Liszt/_/La+campanella+in+G-Sharp+Minor+%28From+%22Grandes+%C3%A9tudes+de+Paganini%22%2C+S.+141%2F3%29",
+      "first_discovered": "07 Apr 2026, 16:22",
+      "last_seen": "07 Apr 2026, 16:22",
+      "top_tracks": []
+    },
+    "stéphane blet, frédéric chopin": {
+      "artist": "Stéphane Blet, Frédéric Chopin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/St%C3%A9phane%20Blet%2C%20Fr%C3%A9d%C3%A9ric%20Chopin",
+      "recent_track": "Nocturne N°2 En Mi Bémol Majeur Opus 9 N°2",
+      "recent_track_url": "https://www.last.fm/music/St%C3%A9phane+Blet%2C+Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+N%C2%B02+En+Mi+B%C3%A9mol+Majeur+Opus+9+N%C2%B02",
+      "first_discovered": "07 Apr 2026, 16:17",
+      "last_seen": "07 Apr 2026, 16:17",
+      "top_tracks": []
+    },
+    "dune": {
+      "artist": "Dune",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dune",
+      "recent_track": "Part Three",
+      "recent_track_url": "https://www.last.fm/music/Dune/_/Part+Three",
+      "first_discovered": "07 Apr 2026, 16:09",
+      "last_seen": "07 Apr 2026, 16:09",
+      "top_tracks": []
+    },
+    "janusz olejniczak": {
+      "artist": "Janusz Olejniczak",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Janusz%20Olejniczak",
+      "recent_track": "Nocturne in E minor, Op. 72, No. 1",
+      "recent_track_url": "https://www.last.fm/music/Janusz+Olejniczak/_/Nocturne+in+E+minor%2C+Op.+72%2C+No.+1",
+      "first_discovered": "07 Apr 2026, 16:03",
+      "last_seen": "07 Apr 2026, 16:03",
+      "top_tracks": []
+    },
+    "yundi": {
+      "artist": "Yundi",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yundi",
+      "recent_track": "Beethoven: Piano Sonata No. 8 in C minor, Op. 13 -\"Pathétique\": 2. Adagio cantabile",
+      "recent_track_url": "https://www.last.fm/music/Yundi/_/Beethoven:+Piano+Sonata+No.+8+in+C+minor%2C+Op.+13+-%22Path%C3%A9tique%22:+2.+Adagio+cantabile",
+      "first_discovered": "07 Apr 2026, 15:59",
+      "last_seen": "14 Apr 2026, 14:55",
+      "top_tracks": []
+    },
+    "khatia buniatishvili": {
+      "artist": "Khatia Buniatishvili",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili",
+      "recent_track": "Waltz in C-Sharp Minor, Op. 64 No. 2",
+      "recent_track_url": "https://www.last.fm/music/Khatia+Buniatishvili/_/Waltz+in+C-Sharp+Minor%2C+Op.+64+No.+2",
+      "first_discovered": "07 Apr 2026, 15:51",
+      "last_seen": "07 Apr 2026, 15:51",
+      "top_tracks": []
+    },
+    "jian wang, göran söllscher": {
+      "artist": "Jian Wang, Göran Söllscher",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jian%20Wang%2C%20G%C3%B6ran%20S%C3%B6llscher",
+      "recent_track": "Sibelius: 13 Pieces for Piano, Op. 76: No. 2, Etude (Arr. Sandquist for Cello & Piano)",
+      "recent_track_url": "https://www.last.fm/music/Jian+Wang%2C+G%C3%B6ran+S%C3%B6llscher/_/Sibelius:+13+Pieces+for+Piano%2C+Op.+76:+No.+2%2C+Etude+%28Arr.+Sandquist+for+Cello+%26+Piano%29",
+      "first_discovered": "07 Apr 2026, 15:43",
+      "last_seen": "07 Apr 2026, 15:43",
+      "top_tracks": []
+    },
+    "christina pluhar, l'arpeggiata, philippe jaroussky, nuria rial": {
+      "artist": "Christina Pluhar, L'Arpeggiata, Philippe Jaroussky, Nuria Rial",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Christina%20Pluhar%2C%20L'Arpeggiata%2C%20Philippe%20Jaroussky%2C%20Nuria%20Rial",
+      "recent_track": "L'incoronazione di Poppea, SV 308, Act 3: \"Pur ti miro\" (Nerone, Poppea)",
+      "recent_track_url": "https://www.last.fm/music/Christina+Pluhar%2C+L'Arpeggiata%2C+Philippe+Jaroussky%2C+Nuria+Rial/_/L'incoronazione+di+Poppea%2C+SV+308%2C+Act+3:+%22Pur+ti+miro%22+%28Nerone%2C+Poppea%29",
+      "first_discovered": "07 Apr 2026, 15:40",
+      "last_seen": "07 Apr 2026, 15:40",
+      "top_tracks": []
+    },
+    "khatia buniatishvili, paavo järvi, czech philharmonic": {
+      "artist": "Khatia Buniatishvili, Paavo Järvi, Czech Philharmonic",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili%2C%20Paavo%20J%C3%A4rvi%2C%20Czech%20Philharmonic",
+      "recent_track": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto",
+      "recent_track_url": "https://www.last.fm/music/Khatia+Buniatishvili%2C+Paavo+J%C3%A4rvi%2C+Czech+Philharmonic/_/Piano+Concerto+No.+3+in+D+Minor%2C+Op.+30:+I.+Allegro+ma+non+tanto",
+      "first_discovered": "07 Apr 2026, 15:36",
+      "last_seen": "07 Apr 2026, 15:36",
+      "top_tracks": []
+    },
+    "arthur rubinstein, frédéric chopin": {
+      "artist": "Arthur Rubinstein, Frédéric Chopin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arthur%20Rubinstein%2C%20Fr%C3%A9d%C3%A9ric%20Chopin",
+      "recent_track": "Nocturnes, Op. 9: No. 2 in E-Flat Major. Andante",
+      "recent_track_url": "https://www.last.fm/music/Arthur+Rubinstein%2C+Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturnes%2C+Op.+9:+No.+2+in+E-Flat+Major.+Andante",
+      "first_discovered": "07 Apr 2026, 15:18",
+      "last_seen": "07 Apr 2026, 15:18",
+      "top_tracks": []
+    },
+    "cécile ousset": {
+      "artist": "Cécile Ousset",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/C%C3%A9cile%20Ousset",
+      "recent_track": "Impromptu No. 2 in F Minor, Op. 31",
+      "recent_track_url": "https://www.last.fm/music/C%C3%A9cile+Ousset/_/Impromptu+No.+2+in+F+Minor%2C+Op.+31",
+      "first_discovered": "08 Apr 2026, 17:55",
+      "last_seen": "08 Apr 2026, 17:55",
+      "top_tracks": []
+    },
+    "simian mobile disco": {
+      "artist": "Simian Mobile Disco",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Simian%20Mobile%20Disco",
+      "recent_track": "Hustler",
+      "recent_track_url": "https://www.last.fm/music/Simian+Mobile+Disco/_/Hustler",
+      "first_discovered": "09 Apr 2026, 14:59",
+      "last_seen": "09 Apr 2026, 14:59",
+      "top_tracks": []
+    },
+    "new young pony club": {
+      "artist": "New Young Pony Club",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/New%20Young%20Pony%20Club",
+      "recent_track": "Ice Cream",
+      "recent_track_url": "https://www.last.fm/music/New+Young+Pony+Club/_/Ice+Cream",
+      "first_discovered": "09 Apr 2026, 14:56",
+      "last_seen": "09 Apr 2026, 14:56",
+      "top_tracks": []
+    },
+    "matthew sweet": {
+      "artist": "Matthew Sweet",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Matthew%20Sweet",
+      "recent_track": "Sick of Myself",
+      "recent_track_url": "https://www.last.fm/music/Matthew+Sweet/_/Sick+of+Myself",
+      "first_discovered": "09 Apr 2026, 09:40",
+      "last_seen": "09 Apr 2026, 09:40",
+      "top_tracks": []
+    },
+    "olga scheps, erik satie": {
+      "artist": "Olga Scheps, Erik Satie",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olga%20Scheps%2C%20Erik%20Satie",
+      "recent_track": "Gymnopédie No. 1: Lent et douloureux",
+      "recent_track_url": "https://www.last.fm/music/Olga+Scheps%2C+Erik+Satie/_/Gymnop%C3%A9die+No.+1:+Lent+et+douloureux",
+      "first_discovered": "14 Apr 2026, 15:23",
+      "last_seen": "14 Apr 2026, 15:23",
+      "top_tracks": []
+    },
+    "jacques rouvier": {
+      "artist": "Jacques Rouvier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jacques%20Rouvier",
+      "recent_track": "DEBUSSY: The Girl with the Flaxen Hair",
+      "recent_track_url": "https://www.last.fm/music/Jacques+Rouvier/_/DEBUSSY:+The+Girl+with+the+Flaxen+Hair",
+      "first_discovered": "14 Apr 2026, 15:19",
+      "last_seen": "14 Apr 2026, 15:19",
+      "top_tracks": []
+    },
+    "olivia belli, john metcalfe, louisa fuller, chris worsey": {
+      "artist": "Olivia Belli, John Metcalfe, Louisa Fuller, Chris Worsey",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivia%20Belli%2C%20John%20Metcalfe%2C%20Louisa%20Fuller%2C%20Chris%20Worsey",
+      "recent_track": "Triune",
+      "recent_track_url": "https://www.last.fm/music/Olivia+Belli%2C+John+Metcalfe%2C+Louisa+Fuller%2C+Chris+Worsey/_/Triune",
+      "first_discovered": "14 Apr 2026, 15:12",
+      "last_seen": "14 Apr 2026, 15:12",
+      "top_tracks": []
+    },
+    "mao fujita": {
+      "artist": "Mao Fujita",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mao%20Fujita",
+      "recent_track": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+      "recent_track_url": "https://www.last.fm/music/Mao+Fujita/_/Andante+from+the+Sonata+for+Solo+Violin%2C+BWV+1003+%28Transcribed+by+Alexander+Siloti%29",
+      "first_discovered": "14 Apr 2026, 15:08",
+      "last_seen": "14 Apr 2026, 15:08",
+      "top_tracks": []
+    },
+    "maxim shostakovich, i musici de montréal, dmitri shostakovich jr.": {
+      "artist": "Maxim Shostakovich, I Musici De Montréal, Dmitri Shostakovich Jr.",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Maxim%20Shostakovich%2C%20I%20Musici%20De%20Montr%C3%A9al%2C%20Dmitri%20Shostakovich%20Jr.",
+      "recent_track": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+      "recent_track_url": "https://www.last.fm/music/Maxim+Shostakovich%2C+I+Musici+De+Montr%C3%A9al%2C+Dmitri+Shostakovich+Jr./_/Piano+Concerto+No.+2+in+F+Major%2C+Op.+102:+II.+Andante",
+      "first_discovered": "14 Apr 2026, 15:03",
+      "last_seen": "14 Apr 2026, 15:03",
+      "top_tracks": []
+    },
+    "gryphon trio": {
+      "artist": "Gryphon Trio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gryphon%20Trio",
+      "recent_track": "Piano Trio No. 2 in E-flat Major, D. 929, Op. 100 / II. Andante con moto",
+      "recent_track_url": "https://www.last.fm/music/Gryphon+Trio/_/Piano+Trio+No.+2+in+E-flat+Major%2C+D.+929%2C+Op.+100+%2F+II.+Andante+con+moto",
+      "first_discovered": "14 Apr 2026, 14:50",
+      "last_seen": "14 Apr 2026, 14:50",
+      "top_tracks": []
+    },
+    "prince fatty, winston francis": {
+      "artist": "Prince Fatty, Winston Francis",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Winston%20Francis",
+      "recent_track": "Dry Your Tears",
+      "recent_track_url": "https://www.last.fm/music/Prince+Fatty%2C+Winston+Francis/_/Dry+Your+Tears",
+      "first_discovered": "16 Apr 2026, 21:05",
+      "last_seen": "17 Apr 2026, 18:37",
+      "top_tracks": []
+    },
+    "janice hagan": {
+      "artist": "Janice Hagan",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Janice%20Hagan",
+      "recent_track": "Mambo Italiano",
+      "recent_track_url": "https://www.last.fm/music/Janice+Hagan/_/Mambo+Italiano",
+      "first_discovered": "17 Apr 2026, 18:57",
+      "last_seen": "17 Apr 2026, 18:57",
+      "top_tracks": []
+    },
+    "james rhodes, johann sebastian bach, alexander siloti": {
+      "artist": "James Rhodes, Johann Sebastian Bach, Alexander Siloti",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach%2C%20Alexander%20Siloti",
+      "recent_track": "Prelude in B Minor, BWV 855a",
+      "recent_track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach%2C+Alexander+Siloti/_/Prelude+in+B+Minor%2C+BWV+855a",
+      "first_discovered": "17 Apr 2026, 15:34",
+      "last_seen": "17 Apr 2026, 15:34",
+      "top_tracks": []
+    },
+    "l'orchestre de la suisse romande, pyotr ilyich tchaikovsky": {
+      "artist": "L'orchestre De La Suisse Romande, Pyotr Ilyich Tchaikovsky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/L%27orchestre%20De%20La%20Suisse%20Romande%2C%20Pyotr%20Ilyich%20Tchaikovsky",
+      "recent_track": "The Nutcracker, Op. 71, Act II, Tableau III: XII. Divertissement e. Dance of the Reed Flutes",
+      "recent_track_url": "https://www.last.fm/music/L'orchestre+De+La+Suisse+Romande%2C+Pyotr+Ilyich+Tchaikovsky/_/The+Nutcracker%2C+Op.+71%2C+Act+II%2C+Tableau+III:+XII.+Divertissement+e.+Dance+of+the+Reed+Flutes",
+      "first_discovered": "17 Apr 2026, 15:31",
+      "last_seen": "17 Apr 2026, 15:31",
+      "top_tracks": []
+    },
+    "pau casals": {
+      "artist": "Pau Casals",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pau%20Casals",
+      "recent_track": "Cello Suite No. 1 in G major, BWV 1007: I. Prelude",
+      "recent_track_url": "https://www.last.fm/music/Pau+Casals/_/Cello+Suite+No.+1+in+G+major%2C+BWV+1007:+I.+Prelude",
+      "first_discovered": "17 Apr 2026, 15:28",
+      "last_seen": "17 Apr 2026, 15:28",
+      "top_tracks": []
+    },
+    "johann sebastian bach, german bach soloists": {
+      "artist": "Johann Sebastian Bach, German Bach Soloists",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20German%20Bach%20Soloists",
+      "recent_track": "Air (from Orchestral Suite No.3)",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+German+Bach+Soloists/_/Air+%28from+Orchestral+Suite+No.3%29",
+      "first_discovered": "17 Apr 2026, 15:26",
+      "last_seen": "17 Apr 2026, 15:26",
+      "top_tracks": []
+    },
+    "franz liszt, martin jones": {
+      "artist": "Franz Liszt, Martin Jones",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Liszt%2C%20Martin%20Jones",
+      "recent_track": "Liebestraum No. 3 in A-Flat Minor, S. 541",
+      "recent_track_url": "https://www.last.fm/music/Franz+Liszt%2C+Martin+Jones/_/Liebestraum+No.+3+in+A-Flat+Minor%2C+S.+541",
+      "first_discovered": "17 Apr 2026, 15:13",
+      "last_seen": "17 Apr 2026, 15:13",
+      "top_tracks": []
+    },
+    "martin jacoby, ludwig van beethoven": {
+      "artist": "Martin Jacoby, Ludwig van Beethoven",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Martin%20Jacoby%2C%20Ludwig%20van%20Beethoven",
+      "recent_track": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\": II. Adagio cantabile",
+      "recent_track_url": "https://www.last.fm/music/Martin+Jacoby%2C+Ludwig+van+Beethoven/_/Piano+Sonata+No.+8+in+C+Minor%2C+Op.+13+%22Path%C3%A9tique%22:+II.+Adagio+cantabile",
+      "first_discovered": "17 Apr 2026, 15:11",
+      "last_seen": "17 Apr 2026, 15:11",
+      "top_tracks": []
+    },
+    "colourmusic": {
+      "artist": "Colourmusic",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colourmusic",
+      "recent_track": "Put in a Little Gas",
+      "recent_track_url": "https://www.last.fm/music/Colourmusic/_/Put+in+a+Little+Gas",
+      "first_discovered": "21 Apr 2026, 16:49",
+      "last_seen": "21 Apr 2026, 16:49",
+      "top_tracks": []
+    },
+    "the sonics": {
+      "artist": "The Sonics",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Sonics",
+      "recent_track": "The Witch",
+      "recent_track_url": "https://www.last.fm/music/The+Sonics/_/The+Witch",
+      "first_discovered": "21 Apr 2026, 08:21",
+      "last_seen": "21 Apr 2026, 08:21",
+      "top_tracks": []
+    },
+    "debbie deb": {
+      "artist": "Debbie Deb",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Debbie%20Deb",
+      "recent_track": "Lookout Weekend",
+      "recent_track_url": "https://www.last.fm/music/Debbie+Deb/_/Lookout+Weekend",
+      "first_discovered": "22 Apr 2026, 18:17",
+      "last_seen": "22 Apr 2026, 18:17",
+      "top_tracks": []
+    },
+    "brant bjork trio, brant bjork": {
+      "artist": "Brant Bjork Trio, Brant Bjork",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Brant%20Bjork%20Trio%2C%20Brant%20Bjork",
+      "recent_track": "Backin' The Daze",
+      "recent_track_url": "https://www.last.fm/music/Brant+Bjork+Trio%2C+Brant+Bjork/_/Backin'+The+Daze",
+      "first_discovered": "22 Apr 2026, 18:16",
+      "last_seen": "22 Apr 2026, 18:16",
+      "top_tracks": []
+    },
+    "ludwig goransson": {
+      "artist": "Ludwig Goransson",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ludwig%20Goransson",
+      "recent_track": "FREEPORT",
+      "recent_track_url": "https://www.last.fm/music/Ludwig+Goransson/_/FREEPORT",
+      "first_discovered": "22 Apr 2026, 18:07",
+      "last_seen": "22 Apr 2026, 18:07",
+      "top_tracks": [
+        {
+          "title": "The Mandalorian",
+          "url": "https://www.last.fm/music/Ludwig+Goransson/_/The+Mandalorian"
+        }
+      ]
+    },
+    "oh sees": {
+      "artist": "oh sees",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/oh%20sees",
+      "recent_track": "Unwrap the Fiend Pt. 2",
+      "recent_track_url": "https://www.last.fm/music/oh+sees/_/Unwrap+the+Fiend+Pt.+2",
+      "first_discovered": "22 Apr 2026, 17:40",
+      "last_seen": "22 Apr 2026, 17:40",
+      "top_tracks": []
+    },
+    "busta rhymes, jamal": {
+      "artist": "Busta Rhymes, Jamal",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Busta%20Rhymes%2C%20Jamal",
+      "recent_track": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
+      "recent_track_url": "https://www.last.fm/music/Busta+Rhymes%2C+Jamal/_/Put+Your+Hands+Where+My+Eyes+Could+See+%28feat.+Jamal%29",
+      "first_discovered": "22 Apr 2026, 17:19",
+      "last_seen": "22 Apr 2026, 17:19",
+      "top_tracks": []
+    },
+    "unkle, black mountain": {
+      "artist": "UNKLE, Black Mountain",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/UNKLE%2C%20Black%20Mountain",
+      "recent_track": "Clouds Feat Black Mountain",
+      "recent_track_url": "https://www.last.fm/music/UNKLE%2C+Black+Mountain/_/Clouds+Feat+Black+Mountain",
+      "first_discovered": "23 Apr 2026, 17:55",
+      "last_seen": "23 Apr 2026, 17:55",
+      "top_tracks": []
+    },
+    "pepper": {
+      "artist": "Pepper",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pepper",
+      "recent_track": "Back Home",
+      "recent_track_url": "https://www.last.fm/music/Pepper/_/Back+Home",
+      "first_discovered": "23 Apr 2026, 17:10",
+      "last_seen": "23 Apr 2026, 17:10",
+      "top_tracks": []
+    },
+    "pixl, pairanoid": {
+      "artist": "PIXL, Pairanoid",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/PIXL%2C%20Pairanoid",
+      "recent_track": "Bring It",
+      "recent_track_url": "https://www.last.fm/music/PIXL%2C+Pairanoid/_/Bring+It",
+      "first_discovered": "23 Apr 2026, 16:41",
+      "last_seen": "23 Apr 2026, 16:41",
+      "top_tracks": []
+    },
+    "duran duran, nile rodgers": {
+      "artist": "Duran Duran, Nile Rodgers",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duran%20Duran%2C%20Nile%20Rodgers",
+      "recent_track": "Free to Love",
+      "recent_track_url": "https://www.last.fm/music/Duran+Duran%2C+Nile+Rodgers/_/Free+to+Love",
+      "first_discovered": "23 Apr 2026, 16:26",
+      "last_seen": "23 Apr 2026, 16:26",
+      "top_tracks": []
+    },
+    "james rhodes, johann sebastian bach, alessandro marcello": {
+      "artist": "James Rhodes, Johann Sebastian Bach, Alessandro Marcello",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach%2C%20Alessandro%20Marcello",
+      "recent_track": "Concerto No. 3 in D Minor, BWV 974: Adagio",
+      "recent_track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach%2C+Alessandro+Marcello/_/Concerto+No.+3+in+D+Minor%2C+BWV+974:+Adagio",
+      "first_discovered": "23 Apr 2026, 11:05",
+      "last_seen": "23 Apr 2026, 11:05",
+      "top_tracks": []
+    },
+    "barbershop jazz": {
+      "artist": "Barbershop Jazz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Barbershop%20Jazz",
+      "recent_track": "Smooth Swing Trim",
+      "recent_track_url": "https://www.last.fm/music/Barbershop+Jazz/_/Smooth+Swing+Trim",
+      "first_discovered": "24 Apr 2026, 18:38",
+      "last_seen": "24 Apr 2026, 18:38",
+      "top_tracks": []
+    },
+    "tv theme players, best movie soundtracks, original motion picture soundtrack": {
+      "artist": "TV Theme Players, Best Movie Soundtracks, Original Motion Picture Soundtrack",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/TV%20Theme%20Players%2C%20Best%20Movie%20Soundtracks%2C%20Original%20Motion%20Picture%20Soundtrack",
+      "recent_track": "Eye of the Tiger (From \"Rocky Iii\")",
+      "recent_track_url": "https://www.last.fm/music/TV+Theme+Players%2C+Best+Movie+Soundtracks%2C+Original+Motion+Picture+Soundtrack/_/Eye+of+the+Tiger+%28From+%22Rocky+Iii%22%29",
+      "first_discovered": "24 Apr 2026, 09:28",
+      "last_seen": "24 Apr 2026, 09:28",
+      "top_tracks": []
+    }
+  }
 }
