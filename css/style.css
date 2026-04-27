@@ -9,6 +9,7 @@
     --hover-color: #f5f5f5;
     --classical-color: #5f60ff; /* Classical accent */
     --performer-color: #1A6BFF;
+    --familiar-color: #D4780A;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -300,4 +301,49 @@ footer {
     color: var(--text-muted);
     margin-top: 8px;
     font-style: italic;
+}
+
+/* ---- Familiar (Old Favorites) page header ---- */
+.familiar-title {
+    color: var(--familiar-color);
+}
+
+/* ---- Familiar cards ---- */
+
+.badge-playcount {
+    background-color: rgba(212, 120, 10, 0.12);
+    color: var(--familiar-color);
+}
+
+.top-tracks-section {
+    margin-top: 14px;
+}
+
+.top-tracks-list {
+    list-style: decimal;
+    padding-left: 18px;
+    margin-top: 4px;
+}
+
+.top-tracks-list li {
+    margin-bottom: 4px;
+    font-size: 0.9rem;
+}
+
+.top-track-link {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.top-track-link:hover {
+    text-decoration: underline;
+    color: var(--familiar-color);
+}
+
+.top-tracks-empty {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-top: 4px;
 }

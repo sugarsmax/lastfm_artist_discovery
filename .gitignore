@@ -39,3 +39,4 @@ venv.bak/
 
 # App Data
 data/state.json
+data/familiar_state.json

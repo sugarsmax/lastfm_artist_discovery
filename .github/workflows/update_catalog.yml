@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual trigger from the UI
 
 permissions:
-  contents: write # Needed to commit the updated JSON file back
+  contents: write # Needed to commit the updated JSON files back
 
 jobs:
   update-catalog:
@@ -35,15 +35,22 @@ jobs:
         run: |
           python scripts/update_catalog.py --username sugarsmax --days 7 --no-cache
 
+      - name: Run familiar catalog script
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
+        run: |
+          python scripts/update_familiar.py --username sugarsmax --no-cache
+
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/discovery_catalog.json
+          git add data/discovery_catalog.json data/familiar_catalog.json
           # Check if there are changes to commit
           if git diff --staged --quiet; then
-            echo "No new discoveries to commit."
+            echo "No catalog changes to commit."
           else
-            git commit -m "Automated update: Last.fm discovery catalog"
+            git commit -m "Automated update: Last.fm catalogs"
             git push
           fi
