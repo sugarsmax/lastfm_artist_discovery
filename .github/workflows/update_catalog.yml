@@ -40,7 +40,7 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
         run: |
-          python scripts/update_familiar.py --username sugarsmax --min-scrobbles 10 --no-cache
+          python scripts/update_familiar.py --username sugarsmax --no-cache
 
       - name: Commit and push if changed
         run: |

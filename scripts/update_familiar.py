@@ -2,21 +2,17 @@
 """
 Familiar Artist Deep Cuts
 
-For each artist in the discovery catalog (not in the all-time top 1000),
-check if they have 50+ total scrobbles. If so, include them on the
-"Old Favorites" page with their top 3 tracks from your listening history.
+For each non-graduated artist in the discovery catalog, fetch the user's
+all-time top tracks and surface the top 3 for that artist (if any exist).
 
-These are artists you've built real history with but who haven't cracked
-the top 1000 yet — the middle tier between brand-new discoveries and
-established favorites.
+This page shows the same cohort as the main discoveries page but enriches
+each card with the user's personal top tracks for that artist.
 
 Workflow:
 1. Load existing discovery catalog (data/discovery_catalog.json)
-2. Fetch extended top artists (limit=2000) with playcount data
-3. Filter catalog entries where playcount >= min_scrobbles
-4. Fetch user's all-time top tracks (limit=500)
-5. For each qualifying artist, find their top 3 tracks
-6. Write data/familiar_catalog.json
+2. Fetch user's all-time top tracks (limit=500)
+3. For each non-graduated discovery artist, find their top 3 tracks
+4. Write data/familiar_catalog.json
 
 Supports:
 - --dry-run mode for testing without API calls
@@ -94,7 +90,7 @@ SAMPLE_CATALOG_ENTRIES = {
         "album": "A Foul Form",
         "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Osees",
         "track_url": "https://www.last.fm/music/Osees/_/The+Dream",
-        "graduated": False,
+        "graduated": True,
     },
     "nala sinephro": {
         "artist": "Nala Sinephro",
@@ -108,28 +104,17 @@ SAMPLE_CATALOG_ENTRIES = {
     },
 }
 
-# Simulated playcount for discovery artists (key -> playcount)
-SAMPLE_PLAYCOUNTS = {
-    "mdou moctar": 87,
-    "yussef dayes": 63,
-    "arooj aftab": 120,
-    "osees": 31,          # below 50 -- will not qualify
-    "nala sinephro": 18,  # below 50 -- will not qualify
-}
-
 # Simulated user all-time top tracks: (artist_key, title, playcount)
 SAMPLE_TOP_TRACKS = [
     ("mdou moctar", "Afrique Victime", 22),
     ("mdou moctar", "Chismiten", 18),
     ("mdou moctar", "Tala Tannam", 15),
-    ("mdou moctar", "Bismilahi Atagah", 10),
     ("yussef dayes", "Black Classical Music", 19),
     ("yussef dayes", "Vibe 5000", 12),
     ("yussef dayes", "Tonight Is the Night", 9),
     ("arooj aftab", "Mohabbat", 31),
     ("arooj aftab", "Last Night", 24),
     ("arooj aftab", "Udhero Na", 17),
-    ("arooj aftab", "Saans Lo", 12),
 ]
 
 
@@ -196,66 +181,8 @@ def save_familiar_catalog(catalog: dict) -> None:
 
 
 # ---------------------------------------------------------------------------
-# API fetches
+# API fetch
 # ---------------------------------------------------------------------------
-
-def fetch_top_artists_with_counts(
-    username: str,
-    limit: int = 2000,
-    dry_run: bool = False,
-    cached_state: dict | None = None,
-) -> dict[str, int]:
-    """
-    Fetch the user's all-time top artists with per-artist playcount.
-
-    Uses a higher limit than the discovery catalog script (which uses 1000)
-    so that artists outside the top 1000 (the discovery cohort) are included.
-
-    Returns:
-        Dict mapping lowercase artist name -> total scrobble count
-    """
-    if dry_run:
-        print(f"[DRY-RUN] Would fetch top {limit} artists with playcounts for: {username}")
-        print(f"[DRY-RUN] Returning {len(SAMPLE_PLAYCOUNTS)} sample entries")
-        return dict(SAMPLE_PLAYCOUNTS)
-
-    if cached_state and "top_artists_counts" in cached_state:
-        cached = cached_state["top_artists_counts"]
-        cached_time = datetime.fromisoformat(cached["fetched_at"])
-        age_hours = (datetime.now(PACIFIC) - cached_time).total_seconds() / 3600
-        if age_hours < 24:
-            print(f"Using cached top artist counts (fetched {age_hours:.1f}h ago)")
-            return cached["data"]
-        print("Cached top artist counts are stale, re-fetching...")
-
-    print(f"Fetching top {limit} artists with playcounts for: {username}")
-
-    try:
-        network = get_lastfm_network()
-        user = network.get_user(username)
-        top_artists = user.get_top_artists(
-            period=pylast.PERIOD_OVERALL,
-            limit=limit,
-        )
-        counts = {}
-        for item in top_artists:
-            key = str(item.item).lower()
-            try:
-                counts[key] = int(item.weight)
-            except (ValueError, TypeError):
-                counts[key] = 0
-        print(f"Fetched playcounts for {len(counts)} artists")
-        return counts
-
-    except pylast.WSError as e:
-        print(f"Last.fm API error: {e}")
-        return {}
-    except Exception as e:
-        print(f"Error fetching top artists: {e}")
-        import traceback
-        traceback.print_exc()
-        return {}
-
 
 def fetch_user_top_tracks(
     username: str,
@@ -336,32 +263,28 @@ def fetch_user_top_tracks(
 
 def build_familiar_catalog(
     discovery_catalog: dict,
-    artist_counts: dict[str, int],
     user_top_tracks: list[dict],
     username: str,
-    min_scrobbles: int = 10,
 ) -> tuple[dict, dict]:
     """
-    Cross-reference the discovery catalog against playcount and top-track data.
+    Enrich every non-graduated discovery artist with their top 3 tracks.
 
     Args:
         discovery_catalog: Loaded discovery_catalog.json
-        artist_counts: Map of lowercase artist name -> playcount
         user_top_tracks: User's all-time top tracks (descending playcount)
         username: Last.fm username
-        min_scrobbles: Minimum playcount to qualify for this page
 
     Returns:
         (familiar_catalog dict, stats dict)
     """
     stats = {
-        "discovery_artists": len(discovery_catalog["catalog"]),
-        "qualifying_artists": 0,
-        "skipped_below_threshold": 0,
-        "skipped_no_playcount": 0,
+        "total_in_catalog": len(discovery_catalog["catalog"]),
+        "graduated_skipped": 0,
+        "artists_included": 0,
+        "with_top_tracks": 0,
     }
 
-    # Build lookup: artist_key -> list of top tracks (sorted desc by playcount)
+    # Build lookup: artist_key -> top tracks (already ordered desc by playcount)
     tracks_by_artist: dict[str, list[dict]] = {}
     for track in user_top_tracks:
         key = track["artist_key"]
@@ -371,15 +294,8 @@ def build_familiar_catalog(
 
     artists_out = {}
     for key, entry in discovery_catalog["catalog"].items():
-        playcount = artist_counts.get(key)
-
-        if playcount is None:
-            # Not found even in the extended top-artist list -- playcount is negligible
-            stats["skipped_no_playcount"] += 1
-            continue
-
-        if playcount < min_scrobbles:
-            stats["skipped_below_threshold"] += 1
+        if entry.get("graduated"):
+            stats["graduated_skipped"] += 1
             continue
 
         top3 = [
@@ -390,20 +306,21 @@ def build_familiar_catalog(
         artists_out[key] = {
             "artist": entry["artist"],
             "artist_url": entry["artist_url"],
-            "playcount": playcount,
             "recent_track": entry["track"],
             "recent_track_url": entry["track_url"],
+            "first_discovered": entry["first_discovered"],
             "last_seen": entry["last_listened"],
             "top_tracks": top3,
         }
-        stats["qualifying_artists"] += 1
+        stats["artists_included"] += 1
+        if top3:
+            stats["with_top_tracks"] += 1
 
     familiar_catalog = {
         "metadata": {
             "last_updated": datetime.now(PACIFIC).isoformat(),
             "username": username,
             "total_artists": len(artists_out),
-            "min_scrobbles": min_scrobbles,
         },
         "artists": artists_out,
     }
@@ -417,43 +334,47 @@ def print_results(stats: dict, familiar_catalog: dict) -> None:
     print("  Familiar Artist Deep Cuts -- Results")
     print("=" * 72)
     print()
-    print(f"  Discovery catalog size:              {stats['discovery_artists']:>5}")
-    print(f"  No playcount data (very low plays):  {stats['skipped_no_playcount']:>5}")
-    print(f"  Below threshold (< min scrobbles):   {stats['skipped_below_threshold']:>5}")
-    print(f"  Qualifying artists:                  {stats['qualifying_artists']:>5}")
+    print(f"  Total in discovery catalog:  {stats['total_in_catalog']:>5}")
+    print(f"  Graduated (skipped):         {stats['graduated_skipped']:>5}")
+    print(f"  Artists included:            {stats['artists_included']:>5}")
+    print(f"  With top tracks found:       {stats['with_top_tracks']:>5}")
     print()
 
     artists = list(familiar_catalog["artists"].values())
     if not artists:
-        print("  No qualifying artists found.")
+        print("  No artists found.")
         print("=" * 72)
         return
 
-    artists.sort(key=lambda a: a["playcount"], reverse=True)
+    # Show those with top tracks first
+    with_tracks = [a for a in artists if a["top_tracks"]]
+    without_tracks = [a for a in artists if not a["top_tracks"]]
 
-    max_name = max(len(a["artist"]) for a in artists)
-    name_w = min(max(max_name, 6), 28)
+    if with_tracks:
+        with_tracks.sort(key=lambda a: len(a["top_tracks"]), reverse=True)
+        max_name = max(len(a["artist"]) for a in with_tracks)
+        name_w = min(max(max_name, 6), 28)
+        print(f"  Artists with top tracks ({len(with_tracks)}):")
+        print(f"  {'Artist':<{name_w}}  Top Tracks")
+        print(f"  {'-' * name_w}  {'-' * 36}")
+        for a in with_tracks[:20]:
+            name = a["artist"]
+            if len(name) > name_w:
+                name = name[:name_w - 1] + "\u2026"
+            tracks_str = ", ".join(t["title"] for t in a["top_tracks"])
+            if len(tracks_str) > 40:
+                tracks_str = tracks_str[:39] + "\u2026"
+            print(f"  {name:<{name_w}}  {tracks_str}")
 
-    print(f"  {'Artist':<{name_w}}  {'Plays':>6}  Top Tracks")
-    print(f"  {'-' * name_w}  {'-' * 6}  {'-' * 36}")
-
-    for a in artists:
-        name = a["artist"]
-        if len(name) > name_w:
-            name = name[:name_w - 1] + "\u2026"
-        tracks_str = ", ".join(t["title"] for t in a["top_tracks"]) or "(none in top 500)"
-        if len(tracks_str) > 40:
-            tracks_str = tracks_str[:39] + "\u2026"
-        print(f"  {name:<{name_w}}  {a['playcount']:>6}  {tracks_str}")
-
+    print(f"\n  Artists with no top-track data: {len(without_tracks)}")
     print("=" * 72)
 
 
 def main():
     parser = argparse.ArgumentParser(
         description=(
-            "Find discovery catalog artists with significant listening history "
-            "and list their top 3 tracks."
+            "Enrich each non-graduated discovery catalog artist with their "
+            "top 3 all-time tracks."
         )
     )
     parser.add_argument(
@@ -465,18 +386,6 @@ def main():
         "--username", "-u",
         default="sugarsmax",
         help="Last.fm username (default: sugarsmax)",
-    )
-    parser.add_argument(
-        "--min-scrobbles", "-m",
-        type=int,
-        default=10,
-        help="Minimum total scrobbles for an artist to qualify (default: 50)",
-    )
-    parser.add_argument(
-        "--top-artist-limit",
-        type=int,
-        default=2000,
-        help="How many top artists to fetch for playcount lookup (default: 2000)",
     )
     parser.add_argument(
         "--top-track-limit",
@@ -497,8 +406,6 @@ def main():
     print("  Familiar Artist Deep Cuts")
     print("=" * 72)
     print(f"  Username:           {args.username}")
-    print(f"  Min scrobbles:      {args.min_scrobbles}")
-    print(f"  Top artist limit:   {args.top_artist_limit}")
     print(f"  Top track limit:    {args.top_track_limit}")
     print(f"  Mode:               {'DRY-RUN' if args.dry_run else 'LIVE'}")
     if state:
@@ -507,7 +414,7 @@ def main():
     print()
 
     # Step 1: Load discovery catalog
-    print("Step 1/4: Loading discovery catalog...")
+    print("Step 1/3: Loading discovery catalog...")
     if args.dry_run:
         print("[DRY-RUN] Using sample catalog entries")
         discovery_catalog = {
@@ -518,27 +425,8 @@ def main():
         discovery_catalog = load_discovery_catalog()
     print(f"  Loaded {len(discovery_catalog['catalog'])} catalog entries.")
 
-    # Step 2: Fetch top artists with playcounts
-    print("\nStep 2/4: Fetching top artist playcounts...")
-    artist_counts = fetch_top_artists_with_counts(
-        username=args.username,
-        limit=args.top_artist_limit,
-        dry_run=args.dry_run,
-        cached_state=state,
-    )
-    if not artist_counts and not args.dry_run:
-        print("Warning: No artist playcount data returned.")
-
-    if not args.dry_run and "top_artists_counts" not in state:
-        state["top_artists_counts"] = {
-            "fetched_at": datetime.now(PACIFIC).isoformat(),
-            "data": artist_counts,
-        }
-        save_state(state)
-        print("  (Cached top artist counts to familiar_state.json)")
-
-    # Step 3: Fetch user top tracks
-    print("\nStep 3/4: Fetching user top tracks...")
+    # Step 2: Fetch user top tracks
+    print("\nStep 2/3: Fetching user top tracks...")
     user_top_tracks = fetch_user_top_tracks(
         username=args.username,
         limit=args.top_track_limit,
@@ -556,14 +444,12 @@ def main():
         save_state(state)
         print("  (Cached top tracks to familiar_state.json)")
 
-    # Step 4: Build familiar catalog
-    print("\nStep 4/4: Building familiar catalog...")
+    # Step 3: Build familiar catalog
+    print("\nStep 3/3: Building familiar catalog...")
     familiar_catalog, stats = build_familiar_catalog(
         discovery_catalog=discovery_catalog,
-        artist_counts=artist_counts,
         user_top_tracks=user_top_tracks,
         username=args.username,
-        min_scrobbles=args.min_scrobbles,
     )
 
     print_results(stats, familiar_catalog)

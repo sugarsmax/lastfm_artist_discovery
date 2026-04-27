@@ -16,7 +16,7 @@
                 <a href="familiar.html" class="nav-link nav-link-active">&#9733; Old Favorites</a>
             </nav>
             <h1 class="familiar-title">Old Favorites</h1>
-            <p>Discovery artists you've already built real history with — not in the top 1000, but with 10+ scrobbles.</p>
+            <p>Discovery artists you've already built real history with — not in the top 1000 — enriched with your all-time top tracks for each artist.</p>
             <div id="stats" class="stats-bar">
                 <!-- Stats injected here -->
             </div>
@@ -27,8 +27,9 @@
         <div class="controls">
             <input type="text" id="searchInput" placeholder="Search artists or tracks...">
             <select id="sortSelect">
-                <option value="playcount">Most Scrobbles</option>
                 <option value="last_seen">Recently Played</option>
+                <option value="top_tracks">Has Top Tracks First</option>
+                <option value="first_discovered">First Discovered</option>
                 <option value="artist_asc">Artist (A-Z)</option>
             </select>
         </div>
@@ -41,7 +42,7 @@
     <footer>
         <div class="container">
             <p id="lastUpdated">Last updated: ...</p>
-            <p>Artists from the discovery catalog with 10+ total scrobbles — your middle-tier favorites.</p>
+            <p>Discovery artists with your listening history surfaced — top tracks shown where available.</p>
         </div>
     </footer>
 

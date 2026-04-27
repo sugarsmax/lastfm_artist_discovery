@@ -1,9 +1,9 @@
 /**
  * Old Favorites
  *
- * Reads familiar_catalog.json and renders cards for discovery-catalog artists
- * who have 50+ total scrobbles. Each card shows the artist's total playcount,
- * the track most recently heard, and their top 3 tracks from all-time history.
+ * Reads familiar_catalog.json and renders a card for every non-graduated
+ * discovery artist. Cards show the most recently heard track and the user's
+ * personal top 3 all-time tracks for that artist (where available).
  */
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -33,10 +33,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updateHeader() {
     const statsBar = document.getElementById("stats");
-    const threshold = metadata.min_scrobbles || 50;
+    const withTracks = allArtists.filter(a => a.top_tracks && a.top_tracks.length > 0).length;
     statsBar.innerHTML = `
-      <div class="stat-item">Old Favorites: <span>${metadata.total_artists}</span></div>
-      <div class="stat-item">Scrobble threshold: <span>${threshold}+</span></div>
+      <div class="stat-item">Discovery Artists: <span>${metadata.total_artists}</span></div>
+      <div class="stat-item">With Top Tracks: <span>${withTracks}</span></div>
     `;
 
     const lastUpdated = document.getElementById("lastUpdated");
@@ -61,12 +61,14 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     filtered.sort((a, b) => {
-      if (sortMode === "playcount") {
-        return b.playcount - a.playcount;
-      } else if (sortMode === "last_seen") {
+      if (sortMode === "last_seen") {
         return new Date(b.last_seen) - new Date(a.last_seen);
+      } else if (sortMode === "first_discovered") {
+        return new Date(b.first_discovered) - new Date(a.first_discovered);
       } else if (sortMode === "artist_asc") {
         return a.artist.localeCompare(b.artist);
+      } else if (sortMode === "top_tracks") {
+        return (b.top_tracks || []).length - (a.top_tracks || []).length;
       }
       return 0;
     });
@@ -79,19 +81,23 @@ document.addEventListener("DOMContentLoaded", () => {
     grid.innerHTML = filtered.map(artist => {
       const lastSeenStr = (artist.last_seen || "").replace(" 2026", "");
 
-      const topTracksHtml = (artist.top_tracks || []).length > 0
+      const hasTopTracks = artist.top_tracks && artist.top_tracks.length > 0;
+      const badgeText = hasTopTracks ? `${artist.top_tracks.length} top tracks` : "No top tracks";
+      const badgeClass = hasTopTracks ? "badge-playcount" : "badge-no-tracks";
+
+      const topTracksHtml = hasTopTracks
         ? `<ol class="top-tracks-list">
             ${artist.top_tracks.map(t =>
               `<li><a href="${t.url}" target="_blank" class="top-track-link">${t.title}</a></li>`
             ).join("")}
           </ol>`
-        : `<p class="top-tracks-empty">No top tracks found</p>`;
+        : `<p class="top-tracks-empty">No tracks in your top 500</p>`;
 
       return `
         <div class="card">
           <div class="card-header">
             <a href="${artist.artist_url}" target="_blank" class="artist-name">${artist.artist}</a>
-            <span class="badge badge-playcount">${artist.playcount} plays</span>
+            <span class="badge ${badgeClass}">${badgeText}</span>
           </div>
           <div class="card-body">
             <div class="track-info">
