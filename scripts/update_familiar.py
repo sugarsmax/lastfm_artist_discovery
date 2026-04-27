@@ -339,7 +339,7 @@ def build_familiar_catalog(
     artist_counts: dict[str, int],
     user_top_tracks: list[dict],
     username: str,
-    min_scrobbles: int = 50,
+    min_scrobbles: int = 10,
 ) -> tuple[dict, dict]:
     """
     Cross-reference the discovery catalog against playcount and top-track data.
@@ -469,7 +469,7 @@ def main():
     parser.add_argument(
         "--min-scrobbles", "-m",
         type=int,
-        default=50,
+        default=10,
         help="Minimum total scrobbles for an artist to qualify (default: 50)",
     )
     parser.add_argument(
