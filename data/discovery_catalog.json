@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-27T22:22:53.153405-07:00",
+    "last_updated": "2026-04-28T22:19:02.066692-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 210,
+    "total_discoveries": 224,
     "total_graduated": 26
   },
   "catalog": {
@@ -1952,6 +1952,146 @@
       "album": "Screen Songs",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/TV%20Theme%20Players%2C%20Best%20Movie%20Soundtracks%2C%20Original%20Motion%20Picture%20Soundtrack",
       "track_url": "https://www.last.fm/music/TV+Theme+Players%2C+Best+Movie+Soundtracks%2C+Original+Motion+Picture+Soundtrack/_/Eye+of+the+Tiger+%28From+%22Rocky+Iii%22%29",
+      "graduated": false
+    },
+    "the black keys, billy f gibbons": {
+      "artist": "The Black Keys, Billy F Gibbons",
+      "first_discovered": "28 Apr 2026, 21:06",
+      "last_listened": "28 Apr 2026, 21:06",
+      "track": "Good Love (feat. Billy F Gibbons)",
+      "album": "Dropout Boogie",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Black%20Keys%2C%20Billy%20F%20Gibbons",
+      "track_url": "https://www.last.fm/music/The+Black+Keys%2C+Billy+F+Gibbons/_/Good+Love+%28feat.+Billy+F+Gibbons%29",
+      "graduated": false
+    },
+    "kiss": {
+      "artist": "Kiss",
+      "first_discovered": "28 Apr 2026, 21:04",
+      "last_listened": "28 Apr 2026, 21:04",
+      "track": "Parasite",
+      "album": "Hotter Than Hell (Remastered 1997)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kiss",
+      "track_url": "https://www.last.fm/music/Kiss/_/Parasite",
+      "graduated": false
+    },
+    "montrose": {
+      "artist": "Montrose",
+      "first_discovered": "28 Apr 2026, 18:55",
+      "last_listened": "28 Apr 2026, 18:55",
+      "track": "Rock Candy",
+      "album": "Montrose",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Montrose",
+      "track_url": "https://www.last.fm/music/Montrose/_/Rock+Candy",
+      "graduated": false
+    },
+    "white lion": {
+      "artist": "White Lion",
+      "first_discovered": "28 Apr 2026, 18:55",
+      "last_listened": "28 Apr 2026, 18:55",
+      "track": "Radar Love",
+      "album": "Big Game",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/White%20Lion",
+      "track_url": "https://www.last.fm/music/White+Lion/_/Radar+Love",
+      "graduated": false
+    },
+    "fehrplay": {
+      "artist": "Fehrplay",
+      "first_discovered": "28 Apr 2026, 17:37",
+      "last_listened": "28 Apr 2026, 17:37",
+      "track": "Prophet",
+      "album": "Prophet",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fehrplay",
+      "track_url": "https://www.last.fm/music/Fehrplay/_/Prophet",
+      "graduated": false
+    },
+    "colleen d'agostino, deadmau5": {
+      "artist": "Colleen D'agostino, deadmau5",
+      "first_discovered": "28 Apr 2026, 17:27",
+      "last_listened": "28 Apr 2026, 17:27",
+      "track": "Stay (feat. deadmau5) (No Mana Remix)",
+      "album": "mau5trap Ten Year Anniversary",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colleen%20D%27agostino%2C%20deadmau5",
+      "track_url": "https://www.last.fm/music/Colleen+D'agostino%2C+deadmau5/_/Stay+%28feat.+deadmau5%29+%28No+Mana+Remix%29",
+      "graduated": false
+    },
+    "no mana, winnie ford": {
+      "artist": "No Mana, Winnie Ford",
+      "first_discovered": "28 Apr 2026, 17:26",
+      "last_listened": "28 Apr 2026, 17:26",
+      "track": "Constellations (feat. Winnie Ford)",
+      "album": "Constellations",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/No%20Mana%2C%20Winnie%20Ford",
+      "track_url": "https://www.last.fm/music/No+Mana%2C+Winnie+Ford/_/Constellations+%28feat.+Winnie+Ford%29",
+      "graduated": false
+    },
+    "1788-l": {
+      "artist": "1788-L",
+      "first_discovered": "28 Apr 2026, 17:25",
+      "last_listened": "28 Apr 2026, 17:25",
+      "track": "Pulsar Beam",
+      "album": "Pulsar Beam",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/1788-L",
+      "track_url": "https://www.last.fm/music/1788-L/_/Pulsar+Beam",
+      "graduated": false
+    },
+    "blackgummy": {
+      "artist": "BlackGummy",
+      "first_discovered": "28 Apr 2026, 17:23",
+      "last_listened": "28 Apr 2026, 17:23",
+      "track": "Lullaby",
+      "album": "We Are Friends, Vol. 4",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BlackGummy",
+      "track_url": "https://www.last.fm/music/BlackGummy/_/Lullaby",
+      "graduated": false
+    },
+    "feed me, kill the noise, anjulie": {
+      "artist": "Feed Me, Kill The Noise, Anjulie",
+      "first_discovered": "28 Apr 2026, 17:18",
+      "last_listened": "28 Apr 2026, 17:18",
+      "track": "Crazy Maybe (feat. Anjulie) (No Mana Remix)",
+      "album": "Crazy Maybe [No Mana Remix] (feat. Anjulie)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Feed%20Me%2C%20Kill%20The%20Noise%2C%20Anjulie",
+      "track_url": "https://www.last.fm/music/Feed+Me%2C+Kill+The+Noise%2C+Anjulie/_/Crazy+Maybe+%28feat.+Anjulie%29+%28No+Mana+Remix%29",
+      "graduated": false
+    },
+    "i_o": {
+      "artist": "i_o",
+      "first_discovered": "28 Apr 2026, 17:11",
+      "last_listened": "28 Apr 2026, 17:11",
+      "track": "Warning",
+      "album": "We Are Friends, Vol. 7",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/i_o",
+      "track_url": "https://www.last.fm/music/i_o/_/Warning",
+      "graduated": false
+    },
+    "no mana": {
+      "artist": "No Mana",
+      "first_discovered": "28 Apr 2026, 17:10",
+      "last_listened": "28 Apr 2026, 17:10",
+      "track": "Fade",
+      "album": "10UP",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/No%20Mana",
+      "track_url": "https://www.last.fm/music/No+Mana/_/Fade",
+      "graduated": false
+    },
+    "deadmau5, shotty horroh": {
+      "artist": "Deadmau5, SHOTTY HORROH",
+      "first_discovered": "28 Apr 2026, 17:02",
+      "last_listened": "28 Apr 2026, 17:02",
+      "track": "Are You Not Afraid (J. Worra F No Remix)",
+      "album": "mau5ville: Level 3",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Deadmau5%2C%20SHOTTY%20HORROH",
+      "track_url": "https://www.last.fm/music/Deadmau5%2C+SHOTTY+HORROH/_/Are+You+Not+Afraid+%28J.+Worra+F+No+Remix%29",
+      "graduated": false
+    },
+    "deadmau5 & kaskade": {
+      "artist": "deadmau5 & Kaskade",
+      "first_discovered": "28 Apr 2026, 17:01",
+      "last_listened": "28 Apr 2026, 17:01",
+      "track": "Move For Me",
+      "album": "I Remember",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/deadmau5%20%26%20Kaskade",
+      "track_url": "https://www.last.fm/music/deadmau5+%26+Kaskade/_/Move+For+Me",
       "graduated": false
     }
   }
