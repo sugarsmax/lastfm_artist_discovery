@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28T22:19:02.066692-07:00",
+    "last_updated": "2026-04-29T22:22:47.933380-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 224,
-    "total_graduated": 26
+    "total_discoveries": 234,
+    "total_graduated": 27
   },
   "catalog": {
     "rjd2, supastition": {
@@ -1420,7 +1420,8 @@
       "track": "Late in the Evening",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paul%20Simon",
       "track_url": "https://www.last.fm/music/Paul+Simon/_/Late+in+the+Evening",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-04-29T22:22:47.932897-07:00"
     },
     "deadmau5, lights": {
       "artist": "deadmau5, Lights",
@@ -1957,7 +1958,7 @@
     "the black keys, billy f gibbons": {
       "artist": "The Black Keys, Billy F Gibbons",
       "first_discovered": "28 Apr 2026, 21:06",
-      "last_listened": "28 Apr 2026, 21:06",
+      "last_listened": "29 Apr 2026, 15:58",
       "track": "Good Love (feat. Billy F Gibbons)",
       "album": "Dropout Boogie",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Black%20Keys%2C%20Billy%20F%20Gibbons",
@@ -2047,7 +2048,7 @@
     "feed me, kill the noise, anjulie": {
       "artist": "Feed Me, Kill The Noise, Anjulie",
       "first_discovered": "28 Apr 2026, 17:18",
-      "last_listened": "28 Apr 2026, 17:18",
+      "last_listened": "29 Apr 2026, 16:30",
       "track": "Crazy Maybe (feat. Anjulie) (No Mana Remix)",
       "album": "Crazy Maybe [No Mana Remix] (feat. Anjulie)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Feed%20Me%2C%20Kill%20The%20Noise%2C%20Anjulie",
@@ -2092,6 +2093,106 @@
       "album": "I Remember",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/deadmau5%20%26%20Kaskade",
       "track_url": "https://www.last.fm/music/deadmau5+%26+Kaskade/_/Move+For+Me",
+      "graduated": false
+    },
+    "estiva": {
+      "artist": "Estiva",
+      "first_discovered": "29 Apr 2026, 17:46",
+      "last_listened": "29 Apr 2026, 17:46",
+      "track": "Alive",
+      "album": "Spectacle",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Estiva",
+      "track_url": "https://www.last.fm/music/Estiva/_/Alive",
+      "graduated": false
+    },
+    "fuzz": {
+      "artist": "Fuzz",
+      "first_discovered": "29 Apr 2026, 16:45",
+      "last_listened": "29 Apr 2026, 16:45",
+      "track": "What's In My Head?",
+      "album": "Fuzz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fuzz",
+      "track_url": "https://www.last.fm/music/Fuzz/_/What's+In+My+Head%3F",
+      "graduated": false
+    },
+    "paper dragon": {
+      "artist": "Paper Dragon",
+      "first_discovered": "29 Apr 2026, 16:40",
+      "last_listened": "29 Apr 2026, 16:40",
+      "track": "Self Control",
+      "album": "Self Control",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paper%20Dragon",
+      "track_url": "https://www.last.fm/music/Paper+Dragon/_/Self+Control",
+      "graduated": false
+    },
+    "george mccrae, christian dio": {
+      "artist": "George McCrae, Christian Dio",
+      "first_discovered": "29 Apr 2026, 16:36",
+      "last_listened": "29 Apr 2026, 16:36",
+      "track": "I Get Lifted (Disco Mix)",
+      "album": "I Get Lifted",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20McCrae%2C%20Christian%20Dio",
+      "track_url": "https://www.last.fm/music/George+McCrae%2C+Christian+Dio/_/I+Get+Lifted+%28Disco+Mix%29",
+      "graduated": false
+    },
+    "billy f gibbons": {
+      "artist": "Billy F Gibbons",
+      "first_discovered": "29 Apr 2026, 16:21",
+      "last_listened": "29 Apr 2026, 16:21",
+      "track": "Seemed A Better Way",
+      "album": "The Son (Music From The AMC Original Series)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20F%20Gibbons",
+      "track_url": "https://www.last.fm/music/Billy+F+Gibbons/_/Seemed+A+Better+Way",
+      "graduated": false
+    },
+    "la mississippi, billy f gibbons": {
+      "artist": "La Mississippi, Billy F Gibbons",
+      "first_discovered": "29 Apr 2026, 16:16",
+      "last_listened": "29 Apr 2026, 16:16",
+      "track": "Foxy Lady",
+      "album": "Siete Hombres - Una Noche (En Vivo Luna Park)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/La%20Mississippi%2C%20Billy%20F%20Gibbons",
+      "track_url": "https://www.last.fm/music/La+Mississippi%2C+Billy+F+Gibbons/_/Foxy+Lady",
+      "graduated": false
+    },
+    "don mclean": {
+      "artist": "Don McLean",
+      "first_discovered": "29 Apr 2026, 14:44",
+      "last_listened": "29 Apr 2026, 14:44",
+      "track": "Vincent",
+      "album": "American Pie (Expanded Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Don%20McLean",
+      "track_url": "https://www.last.fm/music/Don+McLean/_/Vincent",
+      "graduated": false
+    },
+    "vincent nguini": {
+      "artist": "Vincent Nguini",
+      "first_discovered": "29 Apr 2026, 14:39",
+      "last_listened": "29 Apr 2026, 14:39",
+      "track": "Spirit",
+      "album": "Traveler",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vincent%20Nguini",
+      "track_url": "https://www.last.fm/music/Vincent+Nguini/_/Spirit",
+      "graduated": false
+    },
+    "vincent nguini, osei tutu": {
+      "artist": "Vincent Nguini, Osei Tutu",
+      "first_discovered": "29 Apr 2026, 14:37",
+      "last_listened": "29 Apr 2026, 14:37",
+      "track": "Kasmoses",
+      "album": "African Jazz Classics",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vincent%20Nguini%2C%20Osei%20Tutu",
+      "track_url": "https://www.last.fm/music/Vincent+Nguini%2C+Osei+Tutu/_/Kasmoses",
+      "graduated": false
+    },
+    "nick drake": {
+      "artist": "Nick Drake",
+      "first_discovered": "29 Apr 2026, 14:30",
+      "last_listened": "29 Apr 2026, 14:30",
+      "track": "Pink Moon",
+      "album": "Pink Moon",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nick%20Drake",
+      "track_url": "https://www.last.fm/music/Nick+Drake/_/Pink+Moon",
       "graduated": false
     }
   }
