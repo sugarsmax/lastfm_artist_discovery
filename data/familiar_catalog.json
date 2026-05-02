@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-30T22:34:30.524349-07:00",
+    "last_updated": "2026-05-01T21:52:01.942060-07:00",
     "username": "sugarsmax",
-    "total_artists": 207
+    "total_artists": 208
   },
   "artists": {
     "rjd2, supastition": {
@@ -1871,6 +1871,15 @@
       "recent_track_url": "https://www.last.fm/music/Nick+Drake/_/Pink+Moon",
       "first_discovered": "29 Apr 2026, 14:30",
       "last_seen": "29 Apr 2026, 14:30",
+      "top_tracks": []
+    },
+    "all powers explained": {
+      "artist": "All Powers Explained",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/All%20Powers%20Explained",
+      "recent_track": "Crimson Countess   All Powers from The Boys",
+      "recent_track_url": "https://www.last.fm/music/All+Powers+Explained/_/Crimson+Countess+++All+Powers+from+The+Boys",
+      "first_discovered": "01 May 2026, 15:15",
+      "last_seen": "01 May 2026, 15:15",
       "top_tracks": []
     }
   }
