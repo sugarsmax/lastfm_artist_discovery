@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-01T21:52:00.316298-07:00",
+    "last_updated": "2026-05-02T22:21:57.643159-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 235,
+    "total_discoveries": 241,
     "total_graduated": 27
   },
   "catalog": {
@@ -756,11 +756,12 @@
     "berliner philharmoniker, herbert von karajan": {
       "artist": "Berliner Philharmoniker, Herbert von Karajan",
       "first_discovered": "27 Feb 2026, 12:13",
-      "last_listened": "27 Feb 2026, 12:13",
-      "track": "Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
+      "last_listened": "02 May 2026, 19:00",
+      "track": "J. Strauss II: An der schönen blauen Donau, Waltz, Op. 314",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan",
-      "track_url": "https://www.last.fm/music/Berliner+Philharmoniker%2C+Herbert+von+Karajan/_/Brahms:+Symphony+No.+3+in+F+Major%2C+Op.+90:+III.+Poco+allegretto",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Berliner+Philharmoniker%2C+Herbert+von+Karajan/_/J.+Strauss+II:+An+der+sch%C3%B6nen+blauen+Donau%2C+Waltz%2C+Op.+314",
+      "graduated": false,
+      "album": "Strauss, J.: An der schönen blauen Donau (The Blue Danube)"
     },
     "mischa maisky": {
       "artist": "Mischa Maisky",
@@ -1958,7 +1959,7 @@
     "the black keys, billy f gibbons": {
       "artist": "The Black Keys, Billy F Gibbons",
       "first_discovered": "28 Apr 2026, 21:06",
-      "last_listened": "29 Apr 2026, 15:58",
+      "last_listened": "02 May 2026, 17:54",
       "track": "Good Love (feat. Billy F Gibbons)",
       "album": "Dropout Boogie",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Black%20Keys%2C%20Billy%20F%20Gibbons",
@@ -2203,6 +2204,66 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/All%20Powers%20Explained",
       "track_url": "https://www.last.fm/music/All+Powers+Explained/_/Crimson+Countess+++All+Powers+from+The+Boys",
+      "graduated": false
+    },
+    "nas, ms. lauryn hill": {
+      "artist": "Nas, Ms. Lauryn Hill",
+      "first_discovered": "02 May 2026, 19:11",
+      "last_listened": "02 May 2026, 19:11",
+      "track": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "album": "Greatest Hits",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nas%2C%20Ms.%20Lauryn%20Hill",
+      "track_url": "https://www.last.fm/music/Nas%2C+Ms.+Lauryn+Hill/_/If+I+Ruled+the+World+%28Imagine+That%29+%28feat.+Lauryn+Hill%29",
+      "graduated": false
+    },
+    "david fray": {
+      "artist": "David Fray",
+      "first_discovered": "02 May 2026, 19:01",
+      "last_listened": "02 May 2026, 19:01",
+      "track": "Goldberg Variations, BWV 988: Aria",
+      "album": "Bach, JS: Goldberg Variations",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Fray",
+      "track_url": "https://www.last.fm/music/David+Fray/_/Goldberg+Variations%2C+BWV+988:+Aria",
+      "graduated": false
+    },
+    "player": {
+      "artist": "Player",
+      "first_discovered": "02 May 2026, 18:51",
+      "last_listened": "02 May 2026, 18:51",
+      "track": "Baby Come Back",
+      "album": "Player",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Player",
+      "track_url": "https://www.last.fm/music/Player/_/Baby+Come+Back",
+      "graduated": false
+    },
+    "i marc 4": {
+      "artist": "I Marc 4",
+      "first_discovered": "02 May 2026, 18:27",
+      "last_listened": "02 May 2026, 18:27",
+      "track": "Ray Ban",
+      "album": "G.L.P. 1005",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/I%20Marc%204",
+      "track_url": "https://www.last.fm/music/I+Marc+4/_/Ray+Ban",
+      "graduated": false
+    },
+    "christopher cross": {
+      "artist": "Christopher Cross",
+      "first_discovered": "02 May 2026, 18:15",
+      "last_listened": "02 May 2026, 18:15",
+      "track": "Ride Like the Wind",
+      "album": "Christopher Cross",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Christopher%20Cross",
+      "track_url": "https://www.last.fm/music/Christopher+Cross/_/Ride+Like+the+Wind",
+      "graduated": false
+    },
+    "massive attack, sarah jay hawley": {
+      "artist": "Massive Attack, Sarah Jay Hawley",
+      "first_discovered": "02 May 2026, 18:13",
+      "last_listened": "02 May 2026, 18:13",
+      "track": "Dissolved Girl",
+      "album": "Mezzanine",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Massive%20Attack%2C%20Sarah%20Jay%20Hawley",
+      "track_url": "https://www.last.fm/music/Massive+Attack%2C+Sarah+Jay+Hawley/_/Dissolved+Girl",
       "graduated": false
     }
   }
