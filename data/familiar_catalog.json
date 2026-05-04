@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-02T22:21:59.500470-07:00",
+    "last_updated": "2026-05-03T22:25:19.429586-07:00",
     "username": "sugarsmax",
-    "total_artists": 214
+    "total_artists": 215
   },
   "artists": {
     "rjd2, supastition": {
@@ -1934,6 +1934,15 @@
       "recent_track_url": "https://www.last.fm/music/Massive+Attack%2C+Sarah+Jay+Hawley/_/Dissolved+Girl",
       "first_discovered": "02 May 2026, 18:13",
       "last_seen": "02 May 2026, 18:13",
+      "top_tracks": []
+    },
+    "fatlip": {
+      "artist": "Fatlip",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatlip",
+      "recent_track": "What's Up Fatlip?",
+      "recent_track_url": "https://www.last.fm/music/Fatlip/_/What's+Up+Fatlip%3F",
+      "first_discovered": "03 May 2026, 20:55",
+      "last_seen": "03 May 2026, 20:55",
       "top_tracks": []
     }
   }

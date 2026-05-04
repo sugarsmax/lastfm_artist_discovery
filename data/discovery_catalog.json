@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-02T22:21:57.643159-07:00",
+    "last_updated": "2026-05-03T22:25:17.819221-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 241,
+    "total_discoveries": 242,
     "total_graduated": 27
   },
   "catalog": {
@@ -2264,6 +2264,16 @@
       "album": "Mezzanine",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Massive%20Attack%2C%20Sarah%20Jay%20Hawley",
       "track_url": "https://www.last.fm/music/Massive+Attack%2C+Sarah+Jay+Hawley/_/Dissolved+Girl",
+      "graduated": false
+    },
+    "fatlip": {
+      "artist": "Fatlip",
+      "first_discovered": "03 May 2026, 20:55",
+      "last_listened": "03 May 2026, 20:55",
+      "track": "What's Up Fatlip?",
+      "album": "The Loneliest Punk",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatlip",
+      "track_url": "https://www.last.fm/music/Fatlip/_/What's+Up+Fatlip%3F",
       "graduated": false
     }
   }
