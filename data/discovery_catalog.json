@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-04T21:53:28.229871-07:00",
+    "last_updated": "2026-05-05T22:20:23.734615-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 242,
+    "total_discoveries": 244,
     "total_graduated": 27
   },
   "catalog": {
@@ -2274,6 +2274,26 @@
       "album": "The Loneliest Punk",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatlip",
       "track_url": "https://www.last.fm/music/Fatlip/_/What's+Up+Fatlip%3F",
+      "graduated": false
+    },
+    "hopeton lewis": {
+      "artist": "Hopeton Lewis",
+      "first_discovered": "05 May 2026, 17:36",
+      "last_listened": "05 May 2026, 17:36",
+      "track": "Express Yourself",
+      "album": "Grooving Out On Life",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hopeton%20Lewis",
+      "track_url": "https://www.last.fm/music/Hopeton+Lewis/_/Express+Yourself",
+      "graduated": false
+    },
+    "omar faruk tebilek and kodomo": {
+      "artist": "Omar Faruk Tebilek and Kodomo",
+      "first_discovered": "05 May 2026, 15:43",
+      "last_listened": "05 May 2026, 15:43",
+      "track": "Omar's Chocco ((Kodomo Remix))",
+      "album": "Rare Elements - Omar Faruk Tebilek",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Omar%20Faruk%20Tebilek%20and%20Kodomo",
+      "track_url": "https://www.last.fm/music/Omar+Faruk+Tebilek+and+Kodomo/_/Omar's+Chocco+%28%28Kodomo+Remix%29%29",
       "graduated": false
     }
   }
