@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-05T22:20:25.488425-07:00",
+    "last_updated": "2026-05-06T22:23:20.205233-07:00",
     "username": "sugarsmax",
-    "total_artists": 217
+    "total_artists": 219
   },
   "artists": {
     "rjd2, supastition": {
@@ -1961,6 +1961,24 @@
       "recent_track_url": "https://www.last.fm/music/Omar+Faruk+Tebilek+and+Kodomo/_/Omar's+Chocco+%28%28Kodomo+Remix%29%29",
       "first_discovered": "05 May 2026, 15:43",
       "last_seen": "05 May 2026, 15:43",
+      "top_tracks": []
+    },
+    "arc de soleil": {
+      "artist": "Arc De Soleil",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arc%20De%20Soleil",
+      "recent_track": "Sahara Cowboy",
+      "recent_track_url": "https://www.last.fm/music/Arc+De+Soleil/_/Sahara+Cowboy",
+      "first_discovered": "06 May 2026, 15:28",
+      "last_seen": "06 May 2026, 15:28",
+      "top_tracks": []
+    },
+    "mr sanka": {
+      "artist": "Mr Sanka",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mr%20Sanka",
+      "recent_track": "Flight Mode",
+      "recent_track_url": "https://www.last.fm/music/Mr+Sanka/_/Flight+Mode",
+      "first_discovered": "06 May 2026, 15:14",
+      "last_seen": "06 May 2026, 15:14",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-05T22:20:23.734615-07:00",
+    "last_updated": "2026-05-06T22:23:18.480995-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 244,
+    "total_discoveries": 246,
     "total_graduated": 27
   },
   "catalog": {
@@ -2294,6 +2294,26 @@
       "album": "Rare Elements - Omar Faruk Tebilek",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Omar%20Faruk%20Tebilek%20and%20Kodomo",
       "track_url": "https://www.last.fm/music/Omar+Faruk+Tebilek+and+Kodomo/_/Omar's+Chocco+%28%28Kodomo+Remix%29%29",
+      "graduated": false
+    },
+    "arc de soleil": {
+      "artist": "Arc De Soleil",
+      "first_discovered": "06 May 2026, 15:28",
+      "last_listened": "06 May 2026, 15:28",
+      "track": "Sahara Cowboy",
+      "album": "Chameleon Sunday",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arc%20De%20Soleil",
+      "track_url": "https://www.last.fm/music/Arc+De+Soleil/_/Sahara+Cowboy",
+      "graduated": false
+    },
+    "mr sanka": {
+      "artist": "Mr Sanka",
+      "first_discovered": "06 May 2026, 15:14",
+      "last_listened": "06 May 2026, 15:14",
+      "track": "Flight Mode",
+      "album": "Flight Mode / Midnight Air",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mr%20Sanka",
+      "track_url": "https://www.last.fm/music/Mr+Sanka/_/Flight+Mode",
       "graduated": false
     }
   }
