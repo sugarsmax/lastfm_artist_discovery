@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-07T21:47:54.071989-07:00",
+    "last_updated": "2026-05-08T22:14:23.101944-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 246,
+    "total_discoveries": 250,
     "total_graduated": 27
   },
   "catalog": {
@@ -2314,6 +2314,46 @@
       "album": "Flight Mode / Midnight Air",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mr%20Sanka",
       "track_url": "https://www.last.fm/music/Mr+Sanka/_/Flight+Mode",
+      "graduated": false
+    },
+    "dead ghosts": {
+      "artist": "Dead Ghosts",
+      "first_discovered": "08 May 2026, 16:06",
+      "last_listened": "08 May 2026, 16:06",
+      "track": "Roky Said",
+      "album": "Can't Get No",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dead%20Ghosts",
+      "track_url": "https://www.last.fm/music/Dead+Ghosts/_/Roky+Said",
+      "graduated": false
+    },
+    "bela banfalvi, budapest strings, karoly botvay": {
+      "artist": "Bela Banfalvi, Budapest Strings, Karoly Botvay",
+      "first_discovered": "08 May 2026, 15:59",
+      "last_listened": "08 May 2026, 15:59",
+      "track": "The Four Seasons - Concerto No. 4 in F Minor, RV 297 \"Winter\": I. Allegro non molto",
+      "album": "Antonio Vivaldi: The Four Seasons and Other String Favorites",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bela%20Banfalvi%2C%20Budapest%20Strings%2C%20Karoly%20Botvay",
+      "track_url": "https://www.last.fm/music/Bela+Banfalvi%2C+Budapest+Strings%2C+Karoly+Botvay/_/The+Four+Seasons+-+Concerto+No.+4+in+F+Minor%2C+RV+297+%22Winter%22:+I.+Allegro+non+molto",
+      "graduated": false
+    },
+    "yonderboi": {
+      "artist": "Yonderboi",
+      "first_discovered": "08 May 2026, 15:35",
+      "last_listened": "08 May 2026, 15:35",
+      "track": "Riders On The Storm",
+      "album": "Shallow and Profound",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yonderboi",
+      "track_url": "https://www.last.fm/music/Yonderboi/_/Riders+On+The+Storm",
+      "graduated": false
+    },
+    "johann sebastian bach, sara sant'ambrogio": {
+      "artist": "Johann Sebastian Bach, Sara Sant'Ambrogio",
+      "first_discovered": "08 May 2026, 15:28",
+      "last_listened": "08 May 2026, 15:28",
+      "track": "Suite for Solo Cello No. 6 in D Major, BWV 1012: VI. Gigue",
+      "album": "Bach: Cello Suites 246",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Sara%20Sant%27Ambrogio",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Sara+Sant'Ambrogio/_/Suite+for+Solo+Cello+No.+6+in+D+Major%2C+BWV+1012:+VI.+Gigue",
       "graduated": false
     }
   }
