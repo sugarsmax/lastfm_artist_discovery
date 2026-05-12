@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-10T22:50:24.594879-07:00",
+    "last_updated": "2026-05-11T22:30:50.246121-07:00",
     "username": "sugarsmax",
     "total_discoveries": 250,
     "total_graduated": 27
@@ -9,11 +9,12 @@
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_listened": "03 Apr 2026, 16:40",
+      "last_listened": "11 May 2026, 17:37",
       "track": "One Last Time",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
       "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
-      "graduated": false
+      "graduated": false,
+      "album": "One Last Time"
     },
     "leon mccawley": {
       "artist": "Leon McCawley",
@@ -2049,17 +2050,17 @@
     "feed me, kill the noise, anjulie": {
       "artist": "Feed Me, Kill The Noise, Anjulie",
       "first_discovered": "28 Apr 2026, 17:18",
-      "last_listened": "29 Apr 2026, 16:30",
-      "track": "Crazy Maybe (feat. Anjulie) (No Mana Remix)",
-      "album": "Crazy Maybe [No Mana Remix] (feat. Anjulie)",
+      "last_listened": "11 May 2026, 17:29",
+      "track": "Crazy Maybe (feat. Anjulie)",
+      "album": "Feed Me's Existential Crisis",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Feed%20Me%2C%20Kill%20The%20Noise%2C%20Anjulie",
-      "track_url": "https://www.last.fm/music/Feed+Me%2C+Kill+The+Noise%2C+Anjulie/_/Crazy+Maybe+%28feat.+Anjulie%29+%28No+Mana+Remix%29",
+      "track_url": "https://www.last.fm/music/Feed+Me%2C+Kill+The+Noise%2C+Anjulie/_/Crazy+Maybe+%28feat.+Anjulie%29",
       "graduated": false
     },
     "i_o": {
       "artist": "i_o",
       "first_discovered": "28 Apr 2026, 17:11",
-      "last_listened": "28 Apr 2026, 17:11",
+      "last_listened": "11 May 2026, 17:26",
       "track": "Warning",
       "album": "We Are Friends, Vol. 7",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/i_o",
@@ -2149,7 +2150,7 @@
     "la mississippi, billy f gibbons": {
       "artist": "La Mississippi, Billy F Gibbons",
       "first_discovered": "29 Apr 2026, 16:16",
-      "last_listened": "29 Apr 2026, 16:16",
+      "last_listened": "11 May 2026, 16:56",
       "track": "Foxy Lady",
       "album": "Siete Hombres - Una Noche (En Vivo Luna Park)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/La%20Mississippi%2C%20Billy%20F%20Gibbons",
@@ -2339,7 +2340,7 @@
     "yonderboi": {
       "artist": "Yonderboi",
       "first_discovered": "08 May 2026, 15:35",
-      "last_listened": "08 May 2026, 15:35",
+      "last_listened": "11 May 2026, 16:37",
       "track": "Riders On The Storm",
       "album": "Shallow and Profound",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yonderboi",
