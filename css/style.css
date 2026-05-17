@@ -162,6 +162,48 @@ input[type="text"] {
     flex: 1;
 }
 
+.card-actions {
+    display: flex;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.btn {
+    flex: 1;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid var(--border-color);
+    transition: all 0.15s;
+    display: inline-block;
+}
+
+.btn-lastfm {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    border-color: var(--primary-color);
+}
+
+.btn-lastfm:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+.btn-tidal {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border-color: var(--primary-color);
+}
+
+.btn-tidal:hover {
+    background-color: rgba(213, 16, 7, 0.1);
+    color: var(--primary-color);
+    transform: translateY(-1px);
+}
+
 .track-info {
     margin-bottom: 15px;
 }

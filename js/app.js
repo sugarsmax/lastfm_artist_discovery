@@ -90,6 +90,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const firstDateStr = item.first_discovered.replace(' 2026', ''); // simplify display
             const lastDateStr = item.last_listened.replace(' 2026', '');
 
+            const tidalSearchUrl = `https://tidal.com/search?q=${encodeURIComponent(item.artist + ' ' + item.track)}`;
+
             return `
                 <div class="card">
                     <div class="card-header">
@@ -101,6 +103,10 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div class="track-label">Latest Track</div>
                             <a href="${item.track_url}" target="_blank" class="track-name">${item.track}</a>
                         </div>
+                    </div>
+                    <div class="card-actions">
+                        <a href="${item.artist_url}" target="_blank" class="btn btn-lastfm">Last.fm</a>
+                        <a href="${tidalSearchUrl}" target="_blank" class="btn btn-tidal">Tidal</a>
                     </div>
                     <div class="meta-info">
                         <div class="meta-row">
