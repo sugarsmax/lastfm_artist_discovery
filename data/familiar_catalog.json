@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-05-15T22:19:31.784849-07:00",
+    "last_updated": "2026-05-16T22:40:37.630439-07:00",
     "username": "sugarsmax",
-    "total_artists": 223
+    "total_artists": 227
   },
   "artists": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
-      "recent_track": "One Last Time",
-      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
+      "recent_track": "Reset (Better Friends)",
+      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/Reset+%28Better+Friends%29",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_seen": "11 May 2026, 17:37",
+      "last_seen": "16 May 2026, 20:21",
       "top_tracks": []
     },
     "leon mccawley": {
@@ -2015,6 +2015,42 @@
       "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Sara+Sant'Ambrogio/_/Suite+for+Solo+Cello+No.+6+in+D+Major%2C+BWV+1012:+VI.+Gigue",
       "first_discovered": "08 May 2026, 15:28",
       "last_seen": "08 May 2026, 15:28",
+      "top_tracks": []
+    },
+    "chicane, moya": {
+      "artist": "Chicane, Moya",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chicane%2C%20Moya",
+      "recent_track": "Who Do You Give Your Love To?",
+      "recent_track_url": "https://www.last.fm/music/Chicane%2C+Moya/_/Who+Do+You+Give+Your+Love+To%3F",
+      "first_discovered": "16 May 2026, 20:49",
+      "last_seen": "16 May 2026, 20:49",
+      "top_tracks": []
+    },
+    "chris lorenzo": {
+      "artist": "Chris Lorenzo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chris%20Lorenzo",
+      "recent_track": "Appetite",
+      "recent_track_url": "https://www.last.fm/music/Chris+Lorenzo/_/Appetite",
+      "first_discovered": "16 May 2026, 20:36",
+      "last_seen": "16 May 2026, 20:36",
+      "top_tracks": []
+    },
+    "coco & clair clair, okthxbb": {
+      "artist": "Coco & Clair Clair, Okthxbb",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coco%20%26%20Clair%20Clair%2C%20Okthxbb",
+      "recent_track": "Pretty",
+      "recent_track_url": "https://www.last.fm/music/Coco+%26+Clair+Clair%2C+Okthxbb/_/Pretty",
+      "first_discovered": "16 May 2026, 20:32",
+      "last_seen": "16 May 2026, 20:32",
+      "top_tracks": []
+    },
+    "sza": {
+      "artist": "SZA",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/SZA",
+      "recent_track": "Prom",
+      "recent_track_url": "https://www.last.fm/music/SZA/_/Prom",
+      "first_discovered": "16 May 2026, 20:25",
+      "last_seen": "16 May 2026, 20:25",
       "top_tracks": []
     }
   }

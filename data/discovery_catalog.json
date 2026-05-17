@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "last_updated": "2026-05-15T22:19:30.239950-07:00",
+    "last_updated": "2026-05-16T22:40:35.771027-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 250,
+    "total_discoveries": 254,
     "total_graduated": 27
   },
   "catalog": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_listened": "11 May 2026, 17:37",
-      "track": "One Last Time",
+      "last_listened": "16 May 2026, 20:21",
+      "track": "Reset (Better Friends)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
-      "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
+      "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/Reset+%28Better+Friends%29",
       "graduated": false,
-      "album": "One Last Time"
+      "album": "According To..."
     },
     "leon mccawley": {
       "artist": "Leon McCawley",
@@ -2355,6 +2355,46 @@
       "album": "Bach: Cello Suites 246",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Sara%20Sant%27Ambrogio",
       "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Sara+Sant'Ambrogio/_/Suite+for+Solo+Cello+No.+6+in+D+Major%2C+BWV+1012:+VI.+Gigue",
+      "graduated": false
+    },
+    "chicane, moya": {
+      "artist": "Chicane, Moya",
+      "first_discovered": "16 May 2026, 20:49",
+      "last_listened": "16 May 2026, 20:49",
+      "track": "Who Do You Give Your Love To?",
+      "album": "Who Do You Give Your Love To?",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chicane%2C%20Moya",
+      "track_url": "https://www.last.fm/music/Chicane%2C+Moya/_/Who+Do+You+Give+Your+Love+To%3F",
+      "graduated": false
+    },
+    "chris lorenzo": {
+      "artist": "Chris Lorenzo",
+      "first_discovered": "16 May 2026, 20:36",
+      "last_listened": "16 May 2026, 20:36",
+      "track": "Appetite",
+      "album": "Appetite",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chris%20Lorenzo",
+      "track_url": "https://www.last.fm/music/Chris+Lorenzo/_/Appetite",
+      "graduated": false
+    },
+    "coco & clair clair, okthxbb": {
+      "artist": "Coco & Clair Clair, Okthxbb",
+      "first_discovered": "16 May 2026, 20:32",
+      "last_listened": "16 May 2026, 20:32",
+      "track": "Pretty",
+      "album": "Pretty",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coco%20%26%20Clair%20Clair%2C%20Okthxbb",
+      "track_url": "https://www.last.fm/music/Coco+%26+Clair+Clair%2C+Okthxbb/_/Pretty",
+      "graduated": false
+    },
+    "sza": {
+      "artist": "SZA",
+      "first_discovered": "16 May 2026, 20:25",
+      "last_listened": "16 May 2026, 20:25",
+      "track": "Prom",
+      "album": "Ctrl",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/SZA",
+      "track_url": "https://www.last.fm/music/SZA/_/Prom",
       "graduated": false
     }
   }
