@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-16T22:40:37.630439-07:00",
+    "last_updated": "2026-05-17T23:03:25.163723-07:00",
     "username": "sugarsmax",
-    "total_artists": 227
+    "total_artists": 229
   },
   "artists": {
     "rjd2, supastition": {
@@ -2051,6 +2051,24 @@
       "recent_track_url": "https://www.last.fm/music/SZA/_/Prom",
       "first_discovered": "16 May 2026, 20:25",
       "last_seen": "16 May 2026, 20:25",
+      "top_tracks": []
+    },
+    "foghat": {
+      "artist": "Foghat",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Foghat",
+      "recent_track": "Slow Ride",
+      "recent_track_url": "https://www.last.fm/music/Foghat/_/Slow+Ride",
+      "first_discovered": "17 May 2026, 17:52",
+      "last_seen": "17 May 2026, 17:52",
+      "top_tracks": []
+    },
+    "ella fitzgerald, marty paich & his orchestra": {
+      "artist": "Ella Fitzgerald, Marty Paich & His Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%2C%20Marty%20Paich%20%26%20His%20Orchestra",
+      "recent_track": "Sweet Georgia Brown",
+      "recent_track_url": "https://www.last.fm/music/Ella+Fitzgerald%2C+Marty+Paich+%26+His+Orchestra/_/Sweet+Georgia+Brown",
+      "first_discovered": "17 May 2026, 10:54",
+      "last_seen": "17 May 2026, 10:54",
       "top_tracks": []
     }
   }

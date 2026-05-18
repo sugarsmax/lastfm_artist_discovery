@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-16T22:40:35.771027-07:00",
+    "last_updated": "2026-05-17T23:03:22.378113-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 254,
+    "total_discoveries": 256,
     "total_graduated": 27
   },
   "catalog": {
@@ -2395,6 +2395,26 @@
       "album": "Ctrl",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/SZA",
       "track_url": "https://www.last.fm/music/SZA/_/Prom",
+      "graduated": false
+    },
+    "foghat": {
+      "artist": "Foghat",
+      "first_discovered": "17 May 2026, 17:52",
+      "last_listened": "17 May 2026, 17:52",
+      "track": "Slow Ride",
+      "album": "Fool for the City",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Foghat",
+      "track_url": "https://www.last.fm/music/Foghat/_/Slow+Ride",
+      "graduated": false
+    },
+    "ella fitzgerald, marty paich & his orchestra": {
+      "artist": "Ella Fitzgerald, Marty Paich & His Orchestra",
+      "first_discovered": "17 May 2026, 10:54",
+      "last_listened": "17 May 2026, 10:54",
+      "track": "Sweet Georgia Brown",
+      "album": "Whisper Not",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%2C%20Marty%20Paich%20%26%20His%20Orchestra",
+      "track_url": "https://www.last.fm/music/Ella+Fitzgerald%2C+Marty+Paich+%26+His+Orchestra/_/Sweet+Georgia+Brown",
       "graduated": false
     }
   }
