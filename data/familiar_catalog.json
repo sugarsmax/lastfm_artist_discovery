@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-17T23:03:25.163723-07:00",
+    "last_updated": "2026-05-18T22:57:52.589578-07:00",
     "username": "sugarsmax",
-    "total_artists": 229
+    "total_artists": 237
   },
   "artists": {
     "rjd2, supastition": {
@@ -2069,6 +2069,78 @@
       "recent_track_url": "https://www.last.fm/music/Ella+Fitzgerald%2C+Marty+Paich+%26+His+Orchestra/_/Sweet+Georgia+Brown",
       "first_discovered": "17 May 2026, 10:54",
       "last_seen": "17 May 2026, 10:54",
+      "top_tracks": []
+    },
+    "velvet revolver": {
+      "artist": "Velvet Revolver",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Velvet%20Revolver",
+      "recent_track": "Do It For The Kids",
+      "recent_track_url": "https://www.last.fm/music/Velvet+Revolver/_/Do+It+For+The+Kids",
+      "first_discovered": "18 May 2026, 17:07",
+      "last_seen": "18 May 2026, 17:07",
+      "top_tracks": []
+    },
+    "gluecifer": {
+      "artist": "Gluecifer",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gluecifer",
+      "recent_track": "Car Full Of Stash",
+      "recent_track_url": "https://www.last.fm/music/Gluecifer/_/Car+Full+Of+Stash",
+      "first_discovered": "18 May 2026, 17:05",
+      "last_seen": "18 May 2026, 17:05",
+      "top_tracks": []
+    },
+    "the sisters of mercy": {
+      "artist": "The Sisters of Mercy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Sisters%20of%20Mercy",
+      "recent_track": "Vision Thing LP - Doctor Jeep",
+      "recent_track_url": "https://www.last.fm/music/The+Sisters+of+Mercy/_/Vision+Thing+LP+-+Doctor+Jeep",
+      "first_discovered": "18 May 2026, 16:44",
+      "last_seen": "18 May 2026, 16:44",
+      "top_tracks": []
+    },
+    "sammy virji": {
+      "artist": "Sammy Virji",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sammy%20Virji",
+      "recent_track": "If U Need It",
+      "recent_track_url": "https://www.last.fm/music/Sammy+Virji/_/If+U+Need+It",
+      "first_discovered": "18 May 2026, 14:55",
+      "last_seen": "18 May 2026, 14:55",
+      "top_tracks": []
+    },
+    "eli brown": {
+      "artist": "Eli Brown",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eli%20Brown",
+      "recent_track": "Diamonds On My Mind",
+      "recent_track_url": "https://www.last.fm/music/Eli+Brown/_/Diamonds+On+My+Mind",
+      "first_discovered": "18 May 2026, 14:52",
+      "last_seen": "18 May 2026, 14:52",
+      "top_tracks": []
+    },
+    "jazzy": {
+      "artist": "Jazzy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzy",
+      "recent_track": "Giving Me",
+      "recent_track_url": "https://www.last.fm/music/Jazzy/_/Giving+Me",
+      "first_discovered": "18 May 2026, 14:49",
+      "last_seen": "18 May 2026, 14:49",
+      "top_tracks": []
+    },
+    "marlon hoffstadt, dj daddy trance": {
+      "artist": "Marlon Hoffstadt, DJ Daddy Trance",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Marlon%20Hoffstadt%2C%20DJ%20Daddy%20Trance",
+      "recent_track": "It's That Time",
+      "recent_track_url": "https://www.last.fm/music/Marlon+Hoffstadt%2C+DJ+Daddy+Trance/_/It's+That+Time",
+      "first_discovered": "18 May 2026, 14:47",
+      "last_seen": "18 May 2026, 14:47",
+      "top_tracks": []
+    },
+    "tom fuller, roro": {
+      "artist": "Tom Fuller, Roro",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tom%20Fuller%2C%20Roro",
+      "recent_track": "Know Me",
+      "recent_track_url": "https://www.last.fm/music/Tom+Fuller%2C+Roro/_/Know+Me",
+      "first_discovered": "18 May 2026, 13:55",
+      "last_seen": "18 May 2026, 13:55",
       "top_tracks": []
     }
   }

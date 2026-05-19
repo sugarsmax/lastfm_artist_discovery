@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-17T23:03:22.378113-07:00",
+    "last_updated": "2026-05-18T22:57:50.901240-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 256,
+    "total_discoveries": 264,
     "total_graduated": 27
   },
   "catalog": {
@@ -2415,6 +2415,86 @@
       "album": "Whisper Not",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%2C%20Marty%20Paich%20%26%20His%20Orchestra",
       "track_url": "https://www.last.fm/music/Ella+Fitzgerald%2C+Marty+Paich+%26+His+Orchestra/_/Sweet+Georgia+Brown",
+      "graduated": false
+    },
+    "velvet revolver": {
+      "artist": "Velvet Revolver",
+      "first_discovered": "18 May 2026, 17:07",
+      "last_listened": "18 May 2026, 17:07",
+      "track": "Do It For The Kids",
+      "album": "Contraband",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Velvet%20Revolver",
+      "track_url": "https://www.last.fm/music/Velvet+Revolver/_/Do+It+For+The+Kids",
+      "graduated": false
+    },
+    "gluecifer": {
+      "artist": "Gluecifer",
+      "first_discovered": "18 May 2026, 17:05",
+      "last_listened": "18 May 2026, 17:05",
+      "track": "Car Full Of Stash",
+      "album": "Automatic Thrill",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gluecifer",
+      "track_url": "https://www.last.fm/music/Gluecifer/_/Car+Full+Of+Stash",
+      "graduated": false
+    },
+    "the sisters of mercy": {
+      "artist": "The Sisters of Mercy",
+      "first_discovered": "18 May 2026, 16:44",
+      "last_listened": "18 May 2026, 16:44",
+      "track": "Vision Thing LP - Doctor Jeep",
+      "album": "Vision Thing",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Sisters%20of%20Mercy",
+      "track_url": "https://www.last.fm/music/The+Sisters+of+Mercy/_/Vision+Thing+LP+-+Doctor+Jeep",
+      "graduated": false
+    },
+    "sammy virji": {
+      "artist": "Sammy Virji",
+      "first_discovered": "18 May 2026, 14:55",
+      "last_listened": "18 May 2026, 14:55",
+      "track": "If U Need It",
+      "album": "If U Need It",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sammy%20Virji",
+      "track_url": "https://www.last.fm/music/Sammy+Virji/_/If+U+Need+It",
+      "graduated": false
+    },
+    "eli brown": {
+      "artist": "Eli Brown",
+      "first_discovered": "18 May 2026, 14:52",
+      "last_listened": "18 May 2026, 14:52",
+      "track": "Diamonds On My Mind",
+      "album": "Diamonds On My Mind",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eli%20Brown",
+      "track_url": "https://www.last.fm/music/Eli+Brown/_/Diamonds+On+My+Mind",
+      "graduated": false
+    },
+    "jazzy": {
+      "artist": "Jazzy",
+      "first_discovered": "18 May 2026, 14:49",
+      "last_listened": "18 May 2026, 14:49",
+      "track": "Giving Me",
+      "album": "Giving Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazzy",
+      "track_url": "https://www.last.fm/music/Jazzy/_/Giving+Me",
+      "graduated": false
+    },
+    "marlon hoffstadt, dj daddy trance": {
+      "artist": "Marlon Hoffstadt, DJ Daddy Trance",
+      "first_discovered": "18 May 2026, 14:47",
+      "last_listened": "18 May 2026, 14:47",
+      "track": "It's That Time",
+      "album": "It's That Time",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Marlon%20Hoffstadt%2C%20DJ%20Daddy%20Trance",
+      "track_url": "https://www.last.fm/music/Marlon+Hoffstadt%2C+DJ+Daddy+Trance/_/It's+That+Time",
+      "graduated": false
+    },
+    "tom fuller, roro": {
+      "artist": "Tom Fuller, Roro",
+      "first_discovered": "18 May 2026, 13:55",
+      "last_listened": "18 May 2026, 13:55",
+      "track": "Know Me",
+      "album": "Know Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tom%20Fuller%2C%20Roro",
+      "track_url": "https://www.last.fm/music/Tom+Fuller%2C+Roro/_/Know+Me",
       "graduated": false
     }
   }
