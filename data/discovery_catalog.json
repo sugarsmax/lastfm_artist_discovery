@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-18T22:57:50.901240-07:00",
+    "last_updated": "2026-05-19T22:57:12.919262-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 264,
+    "total_discoveries": 265,
     "total_graduated": 27
   },
   "catalog": {
@@ -2495,6 +2495,16 @@
       "album": "Know Me",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tom%20Fuller%2C%20Roro",
       "track_url": "https://www.last.fm/music/Tom+Fuller%2C+Roro/_/Know+Me",
+      "graduated": false
+    },
+    "mark wahlberg talks to animals": {
+      "artist": "Mark Wahlberg Talks to Animals",
+      "first_discovered": "19 May 2026, 10:30",
+      "last_listened": "19 May 2026, 10:30",
+      "track": "SNL",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mark%20Wahlberg%20Talks%20to%20Animals",
+      "track_url": "https://www.last.fm/music/Mark+Wahlberg+Talks+to+Animals/_/SNL",
       "graduated": false
     }
   }
