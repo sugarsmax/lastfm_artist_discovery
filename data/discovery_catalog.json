@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-20T23:01:14.132194-07:00",
+    "last_updated": "2026-05-21T22:57:15.897150-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 265,
+    "total_discoveries": 268,
     "total_graduated": 27
   },
   "catalog": {
@@ -1001,11 +1001,12 @@
     "eurythmics, annie lennox, dave stewart": {
       "artist": "Eurythmics, Annie Lennox, Dave Stewart",
       "first_discovered": "06 Mar 2026, 15:45",
-      "last_listened": "06 Mar 2026, 15:45",
+      "last_listened": "21 May 2026, 20:05",
       "track": "Sweet Dreams (Are Made Of This)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart",
       "track_url": "https://www.last.fm/music/Eurythmics%2C+Annie+Lennox%2C+Dave+Stewart/_/Sweet+Dreams+%28Are+Made+Of+This%29",
-      "graduated": false
+      "graduated": false,
+      "album": "Sweet Dreams (Are Made Of This)"
     },
     "generation x, billy idol": {
       "artist": "Generation X, Billy Idol",
@@ -2505,6 +2506,36 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mark%20Wahlberg%20Talks%20to%20Animals",
       "track_url": "https://www.last.fm/music/Mark+Wahlberg+Talks+to+Animals/_/SNL",
+      "graduated": false
+    },
+    "michael sembello": {
+      "artist": "Michael Sembello",
+      "first_discovered": "21 May 2026, 19:31",
+      "last_listened": "21 May 2026, 19:31",
+      "track": "Maniac",
+      "album": "Flashdance (Original soundtrack from the motion picture)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Michael%20Sembello",
+      "track_url": "https://www.last.fm/music/Michael+Sembello/_/Maniac",
+      "graduated": false
+    },
+    "george thorogood": {
+      "artist": "George Thorogood",
+      "first_discovered": "21 May 2026, 18:55",
+      "last_listened": "21 May 2026, 18:55",
+      "track": "Who Do You Love?",
+      "album": "Who Do You Love?",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20Thorogood",
+      "track_url": "https://www.last.fm/music/George+Thorogood/_/Who+Do+You+Love%3F",
+      "graduated": false
+    },
+    "lynyrd skynyrd": {
+      "artist": "Lynyrd Skynyrd",
+      "first_discovered": "21 May 2026, 18:54",
+      "last_listened": "21 May 2026, 18:54",
+      "track": "Gimme Back My Bullets",
+      "album": "Gimme Back My Bullets (expanded edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lynyrd%20Skynyrd",
+      "track_url": "https://www.last.fm/music/Lynyrd+Skynyrd/_/Gimme+Back+My+Bullets",
       "graduated": false
     }
   }

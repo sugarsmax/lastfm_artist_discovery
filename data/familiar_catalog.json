@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-20T23:01:16.558233-07:00",
+    "last_updated": "2026-05-21T22:57:17.634532-07:00",
     "username": "sugarsmax",
-    "total_artists": 238
+    "total_artists": 241
   },
   "artists": {
     "rjd2, supastition": {
@@ -749,7 +749,7 @@
       "recent_track": "Sweet Dreams (Are Made Of This)",
       "recent_track_url": "https://www.last.fm/music/Eurythmics%2C+Annie+Lennox%2C+Dave+Stewart/_/Sweet+Dreams+%28Are+Made+Of+This%29",
       "first_discovered": "06 Mar 2026, 15:45",
-      "last_seen": "06 Mar 2026, 15:45",
+      "last_seen": "21 May 2026, 20:05",
       "top_tracks": []
     },
     "generation x, billy idol": {
@@ -2150,6 +2150,33 @@
       "recent_track_url": "https://www.last.fm/music/Mark+Wahlberg+Talks+to+Animals/_/SNL",
       "first_discovered": "19 May 2026, 10:30",
       "last_seen": "19 May 2026, 10:30",
+      "top_tracks": []
+    },
+    "michael sembello": {
+      "artist": "Michael Sembello",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Michael%20Sembello",
+      "recent_track": "Maniac",
+      "recent_track_url": "https://www.last.fm/music/Michael+Sembello/_/Maniac",
+      "first_discovered": "21 May 2026, 19:31",
+      "last_seen": "21 May 2026, 19:31",
+      "top_tracks": []
+    },
+    "george thorogood": {
+      "artist": "George Thorogood",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20Thorogood",
+      "recent_track": "Who Do You Love?",
+      "recent_track_url": "https://www.last.fm/music/George+Thorogood/_/Who+Do+You+Love%3F",
+      "first_discovered": "21 May 2026, 18:55",
+      "last_seen": "21 May 2026, 18:55",
+      "top_tracks": []
+    },
+    "lynyrd skynyrd": {
+      "artist": "Lynyrd Skynyrd",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lynyrd%20Skynyrd",
+      "recent_track": "Gimme Back My Bullets",
+      "recent_track_url": "https://www.last.fm/music/Lynyrd+Skynyrd/_/Gimme+Back+My+Bullets",
+      "first_discovered": "21 May 2026, 18:54",
+      "last_seen": "21 May 2026, 18:54",
       "top_tracks": []
     }
   }
