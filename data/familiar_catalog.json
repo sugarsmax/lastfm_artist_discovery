@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-22T22:32:19.647714-07:00",
+    "last_updated": "2026-05-23T22:53:28.910675-07:00",
     "username": "sugarsmax",
-    "total_artists": 241
+    "total_artists": 243
   },
   "artists": {
     "rjd2, supastition": {
@@ -2177,6 +2177,24 @@
       "recent_track_url": "https://www.last.fm/music/Lynyrd+Skynyrd/_/Gimme+Back+My+Bullets",
       "first_discovered": "21 May 2026, 18:54",
       "last_seen": "21 May 2026, 18:54",
+      "top_tracks": []
+    },
+    "late of the pier": {
+      "artist": "Late of the Pier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Late%20of%20the%20Pier",
+      "recent_track": "Space And The Woods (Cenzo Townshend Mix)",
+      "recent_track_url": "https://www.last.fm/music/Late+of+the+Pier/_/Space+And+The+Woods+%28Cenzo+Townshend+Mix%29",
+      "first_discovered": "23 May 2026, 12:00",
+      "last_seen": "23 May 2026, 12:00",
+      "top_tracks": []
+    },
+    "does it offend you, yeah?": {
+      "artist": "Does It Offend You, Yeah?",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Does%20It%20Offend%20You%2C%20Yeah%3F",
+      "recent_track": "Let's Make Out",
+      "recent_track_url": "https://www.last.fm/music/Does+It+Offend+You%2C+Yeah%3F/_/Let's+Make+Out",
+      "first_discovered": "23 May 2026, 10:36",
+      "last_seen": "23 May 2026, 10:36",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-22T22:32:17.475462-07:00",
+    "last_updated": "2026-05-23T22:53:25.201937-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 268,
+    "total_discoveries": 270,
     "total_graduated": 27
   },
   "catalog": {
@@ -2536,6 +2536,26 @@
       "album": "Gimme Back My Bullets (expanded edition)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lynyrd%20Skynyrd",
       "track_url": "https://www.last.fm/music/Lynyrd+Skynyrd/_/Gimme+Back+My+Bullets",
+      "graduated": false
+    },
+    "late of the pier": {
+      "artist": "Late of the Pier",
+      "first_discovered": "23 May 2026, 12:00",
+      "last_listened": "23 May 2026, 12:00",
+      "track": "Space And The Woods (Cenzo Townshend Mix)",
+      "album": "Fantasy Black Channel",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Late%20of%20the%20Pier",
+      "track_url": "https://www.last.fm/music/Late+of+the+Pier/_/Space+And+The+Woods+%28Cenzo+Townshend+Mix%29",
+      "graduated": false
+    },
+    "does it offend you, yeah?": {
+      "artist": "Does It Offend You, Yeah?",
+      "first_discovered": "23 May 2026, 10:36",
+      "last_listened": "23 May 2026, 10:36",
+      "track": "Let's Make Out",
+      "album": "You Have No Idea What You're Getting Yourself Into",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Does%20It%20Offend%20You%2C%20Yeah%3F",
+      "track_url": "https://www.last.fm/music/Does+It+Offend+You%2C+Yeah%3F/_/Let's+Make+Out",
       "graduated": false
     }
   }
