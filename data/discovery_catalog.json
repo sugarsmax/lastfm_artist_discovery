@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-25T22:58:20.100700-07:00",
+    "last_updated": "2026-05-26T23:08:37.577141-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 271,
+    "total_discoveries": 293,
     "total_graduated": 27
   },
   "catalog": {
@@ -371,12 +371,13 @@
     "death from above 1979": {
       "artist": "Death from Above 1979",
       "first_discovered": "25 Feb 2026, 15:53",
-      "last_listened": "25 Feb 2026, 15:53",
-      "track": "Turn It Out",
+      "last_listened": "23 May 2026, 12:01",
+      "track": "Caught Up",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Death%20from%20Above%201979",
-      "track_url": "https://www.last.fm/music/Death+from+Above+1979/_/Turn+It+Out",
+      "track_url": "https://www.last.fm/music/Death+from+Above+1979/_/Caught+Up",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474024-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474024-08:00",
+      "album": "Outrage! Is Now"
     },
     "the police": {
       "artist": "The Police",
@@ -411,12 +412,13 @@
     "mayer hawthorne": {
       "artist": "Mayer Hawthorne",
       "first_discovered": "23 Feb 2026, 10:58",
-      "last_listened": "23 Feb 2026, 10:58",
-      "track": "Henny & Gingerale (Album Version)",
+      "last_listened": "26 May 2026, 19:11",
+      "track": "A Long Time",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mayer%20Hawthorne",
-      "track_url": "https://www.last.fm/music/Mayer+Hawthorne/_/Henny+%26+Gingerale+%28Album+Version%29",
+      "track_url": "https://www.last.fm/music/Mayer+Hawthorne/_/A+Long+Time",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474038-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474038-08:00",
+      "album": "How Do You Do"
     },
     "deftones": {
       "artist": "Deftones",
@@ -451,12 +453,13 @@
     "billy idol": {
       "artist": "Billy Idol",
       "first_discovered": "21 Feb 2026, 18:26",
-      "last_listened": "21 Feb 2026, 18:26",
-      "track": "Flesh for Fantasy",
+      "last_listened": "21 May 2026, 20:02",
+      "track": "Eyes Without a Face",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20Idol",
-      "track_url": "https://www.last.fm/music/Billy+Idol/_/Flesh+for+Fantasy",
+      "track_url": "https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474045-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474045-08:00",
+      "album": "Rebel Yell"
     },
     "depeche mode": {
       "artist": "Depeche Mode",
@@ -571,12 +574,13 @@
     "the cult": {
       "artist": "The Cult",
       "first_discovered": "20 Feb 2026, 13:54",
-      "last_listened": "20 Feb 2026, 13:54",
-      "track": "Phoenix",
+      "last_listened": "22 May 2026, 20:00",
+      "track": "Bad Fun",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cult",
-      "track_url": "https://www.last.fm/music/The+Cult/_/Phoenix",
+      "track_url": "https://www.last.fm/music/The+Cult/_/Bad+Fun",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474065-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474065-08:00",
+      "album": "Electric"
     },
     "johnny cash": {
       "artist": "Johnny Cash",
@@ -2561,11 +2565,231 @@
     "sarah mclachlan": {
       "artist": "Sarah McLachlan",
       "first_discovered": "25 May 2026, 15:54",
-      "last_listened": "25 May 2026, 15:54",
-      "track": "Fallen (Album Mix)",
-      "album": "Afterglow",
+      "last_listened": "26 May 2026, 18:30",
+      "track": "Possession",
+      "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sarah%20McLachlan",
-      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Fallen+%28Album+Mix%29",
+      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Possession",
+      "graduated": false
+    },
+    "franc moody": {
+      "artist": "Franc Moody",
+      "first_discovered": "26 May 2026, 19:22",
+      "last_listened": "26 May 2026, 19:22",
+      "track": "Dopamine",
+      "album": "Dance Moves",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franc%20Moody",
+      "track_url": "https://www.last.fm/music/Franc+Moody/_/Dopamine",
+      "graduated": false
+    },
+    "ekkah": {
+      "artist": "Ekkah",
+      "first_discovered": "26 May 2026, 19:18",
+      "last_listened": "26 May 2026, 19:18",
+      "track": "Figure It Out (Night Edit)",
+      "album": "Ekkah x Real Love",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ekkah",
+      "track_url": "https://www.last.fm/music/Ekkah/_/Figure+It+Out+%28Night+Edit%29",
+      "graduated": false
+    },
+    "crazy p": {
+      "artist": "Crazy P",
+      "first_discovered": "26 May 2026, 19:08",
+      "last_listened": "26 May 2026, 19:08",
+      "track": "Like A Fool",
+      "album": "Walk Dance Talk Sing",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Crazy%20P",
+      "track_url": "https://www.last.fm/music/Crazy+P/_/Like+A+Fool",
+      "graduated": false
+    },
+    "darondo": {
+      "artist": "Darondo",
+      "first_discovered": "26 May 2026, 19:03",
+      "last_listened": "26 May 2026, 19:03",
+      "track": "Didn't I",
+      "album": "Didn't I",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Darondo",
+      "track_url": "https://www.last.fm/music/Darondo/_/Didn't+I",
+      "graduated": false
+    },
+    "david marston, brigitte zozula, frano": {
+      "artist": "David Marston, Brigitte Zozula, Frano",
+      "first_discovered": "26 May 2026, 18:57",
+      "last_listened": "26 May 2026, 18:57",
+      "track": "Feel Your Soul",
+      "album": "Under the Covers",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Marston%2C%20Brigitte%20Zozula%2C%20Frano",
+      "track_url": "https://www.last.fm/music/David+Marston%2C+Brigitte+Zozula%2C+Frano/_/Feel+Your+Soul",
+      "graduated": false
+    },
+    "the pharcyde": {
+      "artist": "The Pharcyde",
+      "first_discovered": "26 May 2026, 15:49",
+      "last_listened": "26 May 2026, 15:49",
+      "track": "Runnin'",
+      "album": "Labcabincalifornia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Pharcyde",
+      "track_url": "https://www.last.fm/music/The+Pharcyde/_/Runnin'",
+      "graduated": false
+    },
+    "u2": {
+      "artist": "U2",
+      "first_discovered": "26 May 2026, 08:49",
+      "last_listened": "26 May 2026, 08:49",
+      "track": "All I Want Is You",
+      "album": "Rattle and Hum",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/U2",
+      "track_url": "https://www.last.fm/music/U2/_/All+I+Want+Is+You",
+      "graduated": false
+    },
+    "miguel": {
+      "artist": "Miguel",
+      "first_discovered": "26 May 2026, 08:48",
+      "last_listened": "26 May 2026, 08:48",
+      "track": "Sure Thing",
+      "album": "All I Want Is You",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Miguel",
+      "track_url": "https://www.last.fm/music/Miguel/_/Sure+Thing",
+      "graduated": false
+    },
+    "public enemy": {
+      "artist": "Public Enemy",
+      "first_discovered": "25 May 2026, 20:43",
+      "last_listened": "25 May 2026, 20:43",
+      "track": "By the Time I Get to Arizona",
+      "album": "Apocalypse 91… The Enemy Strikes Black",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Public%20Enemy",
+      "track_url": "https://www.last.fm/music/Public+Enemy/_/By+the+Time+I+Get+to+Arizona",
+      "graduated": false
+    },
+    "steely dan": {
+      "artist": "Steely Dan",
+      "first_discovered": "25 May 2026, 15:10",
+      "last_listened": "25 May 2026, 15:10",
+      "track": "Josie",
+      "album": "Aja",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steely%20Dan",
+      "track_url": "https://www.last.fm/music/Steely+Dan/_/Josie",
+      "graduated": false
+    },
+    "steve miller band": {
+      "artist": "Steve Miller Band",
+      "first_discovered": "24 May 2026, 16:39",
+      "last_listened": "24 May 2026, 16:39",
+      "track": "Abracadabra",
+      "album": "Abracadabra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steve%20Miller%20Band",
+      "track_url": "https://www.last.fm/music/Steve+Miller+Band/_/Abracadabra",
+      "graduated": false
+    },
+    "at the drive-in": {
+      "artist": "At the Drive-In",
+      "first_discovered": "23 May 2026, 12:02",
+      "last_listened": "23 May 2026, 12:02",
+      "track": "Enfilade",
+      "album": "Relationship of Command",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/At%20the%20Drive-In",
+      "track_url": "https://www.last.fm/music/At+the+Drive-In/_/Enfilade",
+      "graduated": false
+    },
+    "screaming trees": {
+      "artist": "Screaming Trees",
+      "first_discovered": "22 May 2026, 20:01",
+      "last_listened": "22 May 2026, 20:01",
+      "track": "Shadow of the Season",
+      "album": "Sweet Oblivion",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Screaming%20Trees",
+      "track_url": "https://www.last.fm/music/Screaming+Trees/_/Shadow+of+the+Season",
+      "graduated": false
+    },
+    "a flock of seagulls": {
+      "artist": "A Flock of Seagulls",
+      "first_discovered": "21 May 2026, 19:56",
+      "last_listened": "21 May 2026, 19:56",
+      "track": "I Ran (So Far Away)",
+      "album": "Come And Get Your Love: Feel Good Summer Hits",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/A%20Flock%20of%20Seagulls",
+      "track_url": "https://www.last.fm/music/A+Flock+of+Seagulls/_/I+Ran+%28So+Far+Away%29",
+      "graduated": false
+    },
+    "the romantics": {
+      "artist": "The Romantics",
+      "first_discovered": "21 May 2026, 19:51",
+      "last_listened": "21 May 2026, 19:51",
+      "track": "Talking in Your Sleep",
+      "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Romantics",
+      "track_url": "https://www.last.fm/music/The+Romantics/_/Talking+in+Your+Sleep",
+      "graduated": false
+    },
+    "the rolling stones": {
+      "artist": "The Rolling Stones",
+      "first_discovered": "21 May 2026, 19:41",
+      "last_listened": "21 May 2026, 19:41",
+      "track": "Sympathy for the Devil",
+      "album": "Beggars Banquet",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Rolling%20Stones",
+      "track_url": "https://www.last.fm/music/The+Rolling+Stones/_/Sympathy+for+the+Devil",
+      "graduated": false
+    },
+    "creedence clearwater revival": {
+      "artist": "Creedence Clearwater Revival",
+      "first_discovered": "21 May 2026, 19:38",
+      "last_listened": "21 May 2026, 19:38",
+      "track": "I Put a Spell on You",
+      "album": "Creedence Clearwater Revival (Expanded Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Creedence%20Clearwater%20Revival",
+      "track_url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/I+Put+a+Spell+on+You",
+      "graduated": false
+    },
+    "soft cell": {
+      "artist": "Soft Cell",
+      "first_discovered": "21 May 2026, 19:33",
+      "last_listened": "21 May 2026, 19:33",
+      "track": "Tainted Love",
+      "album": "Non-Stop Erotic Cabaret",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Soft%20Cell",
+      "track_url": "https://www.last.fm/music/Soft+Cell/_/Tainted+Love",
+      "graduated": false
+    },
+    "blondie": {
+      "artist": "Blondie",
+      "first_discovered": "21 May 2026, 19:27",
+      "last_listened": "21 May 2026, 19:27",
+      "track": "Call Me",
+      "album": "Call Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blondie",
+      "track_url": "https://www.last.fm/music/Blondie/_/Call+Me",
+      "graduated": false
+    },
+    "zz top": {
+      "artist": "ZZ Top",
+      "first_discovered": "21 May 2026, 18:49",
+      "last_listened": "21 May 2026, 18:49",
+      "track": "Cheap Sunglasses (2019 Remaster)",
+      "album": "Goin' 50",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/ZZ%20Top",
+      "track_url": "https://www.last.fm/music/ZZ+Top/_/Cheap+Sunglasses+%282019+Remaster%29",
+      "graduated": false
+    },
+    "tool": {
+      "artist": "Tool",
+      "first_discovered": "21 May 2026, 15:45",
+      "last_listened": "21 May 2026, 15:45",
+      "track": "Ænema",
+      "album": "Ænima",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tool",
+      "track_url": "https://www.last.fm/music/Tool/_/%C3%86nema",
+      "graduated": false
+    },
+    "beck": {
+      "artist": "Beck",
+      "first_discovered": "20 May 2026, 17:53",
+      "last_listened": "20 May 2026, 17:53",
+      "track": "Hell Yes",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beck",
+      "track_url": "https://www.last.fm/music/Beck/_/Hell+Yes",
       "graduated": false
     }
   }
