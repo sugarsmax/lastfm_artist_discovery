@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-05-26T23:08:37.577141-07:00",
+    "last_updated": "2026-05-27T23:01:23.893528-07:00",
     "username": "sugarsmax",
     "total_discoveries": 293,
-    "total_graduated": 27
+    "total_graduated": 44
   },
   "catalog": {
     "rjd2, supastition": {
@@ -2570,7 +2570,8 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sarah%20McLachlan",
       "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Possession",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893328-07:00"
     },
     "franc moody": {
       "artist": "Franc Moody",
@@ -2630,7 +2631,8 @@
       "album": "Labcabincalifornia",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Pharcyde",
       "track_url": "https://www.last.fm/music/The+Pharcyde/_/Runnin'",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893337-07:00"
     },
     "u2": {
       "artist": "U2",
@@ -2640,7 +2642,8 @@
       "album": "Rattle and Hum",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/U2",
       "track_url": "https://www.last.fm/music/U2/_/All+I+Want+Is+You",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893340-07:00"
     },
     "miguel": {
       "artist": "Miguel",
@@ -2660,7 +2663,8 @@
       "album": "Apocalypse 91… The Enemy Strikes Black",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Public%20Enemy",
       "track_url": "https://www.last.fm/music/Public+Enemy/_/By+the+Time+I+Get+to+Arizona",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893342-07:00"
     },
     "steely dan": {
       "artist": "Steely Dan",
@@ -2670,7 +2674,8 @@
       "album": "Aja",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steely%20Dan",
       "track_url": "https://www.last.fm/music/Steely+Dan/_/Josie",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893344-07:00"
     },
     "steve miller band": {
       "artist": "Steve Miller Band",
@@ -2680,7 +2685,8 @@
       "album": "Abracadabra",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steve%20Miller%20Band",
       "track_url": "https://www.last.fm/music/Steve+Miller+Band/_/Abracadabra",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893346-07:00"
     },
     "at the drive-in": {
       "artist": "At the Drive-In",
@@ -2690,7 +2696,8 @@
       "album": "Relationship of Command",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/At%20the%20Drive-In",
       "track_url": "https://www.last.fm/music/At+the+Drive-In/_/Enfilade",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893348-07:00"
     },
     "screaming trees": {
       "artist": "Screaming Trees",
@@ -2700,7 +2707,8 @@
       "album": "Sweet Oblivion",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Screaming%20Trees",
       "track_url": "https://www.last.fm/music/Screaming+Trees/_/Shadow+of+the+Season",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893350-07:00"
     },
     "a flock of seagulls": {
       "artist": "A Flock of Seagulls",
@@ -2710,7 +2718,8 @@
       "album": "Come And Get Your Love: Feel Good Summer Hits",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/A%20Flock%20of%20Seagulls",
       "track_url": "https://www.last.fm/music/A+Flock+of+Seagulls/_/I+Ran+%28So+Far+Away%29",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893351-07:00"
     },
     "the romantics": {
       "artist": "The Romantics",
@@ -2720,7 +2729,8 @@
       "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Romantics",
       "track_url": "https://www.last.fm/music/The+Romantics/_/Talking+in+Your+Sleep",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893353-07:00"
     },
     "the rolling stones": {
       "artist": "The Rolling Stones",
@@ -2730,7 +2740,8 @@
       "album": "Beggars Banquet",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Rolling%20Stones",
       "track_url": "https://www.last.fm/music/The+Rolling+Stones/_/Sympathy+for+the+Devil",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893355-07:00"
     },
     "creedence clearwater revival": {
       "artist": "Creedence Clearwater Revival",
@@ -2740,7 +2751,8 @@
       "album": "Creedence Clearwater Revival (Expanded Edition)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Creedence%20Clearwater%20Revival",
       "track_url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/I+Put+a+Spell+on+You",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893357-07:00"
     },
     "soft cell": {
       "artist": "Soft Cell",
@@ -2750,7 +2762,8 @@
       "album": "Non-Stop Erotic Cabaret",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Soft%20Cell",
       "track_url": "https://www.last.fm/music/Soft+Cell/_/Tainted+Love",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893358-07:00"
     },
     "blondie": {
       "artist": "Blondie",
@@ -2760,7 +2773,8 @@
       "album": "Call Me",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blondie",
       "track_url": "https://www.last.fm/music/Blondie/_/Call+Me",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893360-07:00"
     },
     "zz top": {
       "artist": "ZZ Top",
@@ -2770,7 +2784,8 @@
       "album": "Goin' 50",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/ZZ%20Top",
       "track_url": "https://www.last.fm/music/ZZ+Top/_/Cheap+Sunglasses+%282019+Remaster%29",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893361-07:00"
     },
     "tool": {
       "artist": "Tool",
@@ -2780,7 +2795,8 @@
       "album": "Ænima",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tool",
       "track_url": "https://www.last.fm/music/Tool/_/%C3%86nema",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893363-07:00"
     },
     "beck": {
       "artist": "Beck",
@@ -2790,7 +2806,8 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beck",
       "track_url": "https://www.last.fm/music/Beck/_/Hell+Yes",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-05-27T23:01:23.893365-07:00"
     }
   }
 }
