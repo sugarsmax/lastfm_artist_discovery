@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-28T23:03:47.269172-07:00",
+    "last_updated": "2026-05-29T22:40:31.637920-07:00",
     "username": "sugarsmax",
-    "total_artists": 249
+    "total_artists": 253
   },
   "artists": {
     "rjd2, supastition": {
@@ -2068,7 +2068,7 @@
       "recent_track": "Sweet Georgia Brown",
       "recent_track_url": "https://www.last.fm/music/Ella+Fitzgerald%2C+Marty+Paich+%26+His+Orchestra/_/Sweet+Georgia+Brown",
       "first_discovered": "17 May 2026, 10:54",
-      "last_seen": "17 May 2026, 10:54",
+      "last_seen": "29 May 2026, 16:06",
       "top_tracks": []
     },
     "velvet revolver": {
@@ -2249,6 +2249,42 @@
       "recent_track_url": "https://www.last.fm/music/Miguel/_/Sure+Thing",
       "first_discovered": "26 May 2026, 08:48",
       "last_seen": "26 May 2026, 08:48",
+      "top_tracks": []
+    },
+    "ella fitzgerald & louis armstrong": {
+      "artist": "Ella Fitzgerald & Louis Armstrong",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%20%26%20Louis%20Armstrong",
+      "recent_track": "Cheek to Cheek",
+      "recent_track_url": "https://www.last.fm/music/Ella+Fitzgerald+%26+Louis+Armstrong/_/Cheek+to+Cheek",
+      "first_discovered": "29 May 2026, 17:51",
+      "last_seen": "29 May 2026, 17:51",
+      "top_tracks": []
+    },
+    "coleman hawkins": {
+      "artist": "Coleman Hawkins",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coleman%20Hawkins",
+      "recent_track": "Body and Soul",
+      "recent_track_url": "https://www.last.fm/music/Coleman+Hawkins/_/Body+and+Soul",
+      "first_discovered": "29 May 2026, 17:41",
+      "last_seen": "29 May 2026, 17:41",
+      "top_tracks": []
+    },
+    "nina simone": {
+      "artist": "Nina Simone",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nina%20Simone",
+      "recent_track": "My Baby Just Cares for Me",
+      "recent_track_url": "https://www.last.fm/music/Nina+Simone/_/My+Baby+Just+Cares+for+Me",
+      "first_discovered": "29 May 2026, 17:36",
+      "last_seen": "29 May 2026, 17:36",
+      "top_tracks": []
+    },
+    "black box": {
+      "artist": "Black Box",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Box",
+      "recent_track": "Everybody Everybody (Le Freak Mix)",
+      "recent_track_url": "https://www.last.fm/music/Black+Box/_/Everybody+Everybody+%28Le+Freak+Mix%29",
+      "first_discovered": "29 May 2026, 15:26",
+      "last_seen": "29 May 2026, 15:26",
       "top_tracks": []
     }
   }

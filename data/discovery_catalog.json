@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-28T23:03:45.788712-07:00",
+    "last_updated": "2026-05-29T22:40:29.572296-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 293,
+    "total_discoveries": 297,
     "total_graduated": 44
   },
   "catalog": {
@@ -2415,7 +2415,7 @@
     "ella fitzgerald, marty paich & his orchestra": {
       "artist": "Ella Fitzgerald, Marty Paich & His Orchestra",
       "first_discovered": "17 May 2026, 10:54",
-      "last_listened": "17 May 2026, 10:54",
+      "last_listened": "29 May 2026, 16:06",
       "track": "Sweet Georgia Brown",
       "album": "Whisper Not",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%2C%20Marty%20Paich%20%26%20His%20Orchestra",
@@ -2808,6 +2808,46 @@
       "track_url": "https://www.last.fm/music/Beck/_/Hell+Yes",
       "graduated": true,
       "graduated_date": "2026-05-27T23:01:23.893365-07:00"
+    },
+    "ella fitzgerald & louis armstrong": {
+      "artist": "Ella Fitzgerald & Louis Armstrong",
+      "first_discovered": "29 May 2026, 17:51",
+      "last_listened": "29 May 2026, 17:51",
+      "track": "Cheek to Cheek",
+      "album": "Jazz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ella%20Fitzgerald%20%26%20Louis%20Armstrong",
+      "track_url": "https://www.last.fm/music/Ella+Fitzgerald+%26+Louis+Armstrong/_/Cheek+to+Cheek",
+      "graduated": false
+    },
+    "coleman hawkins": {
+      "artist": "Coleman Hawkins",
+      "first_discovered": "29 May 2026, 17:41",
+      "last_listened": "29 May 2026, 17:41",
+      "track": "Body and Soul",
+      "album": "Body & Soul",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coleman%20Hawkins",
+      "track_url": "https://www.last.fm/music/Coleman+Hawkins/_/Body+and+Soul",
+      "graduated": false
+    },
+    "nina simone": {
+      "artist": "Nina Simone",
+      "first_discovered": "29 May 2026, 17:36",
+      "last_listened": "29 May 2026, 17:36",
+      "track": "My Baby Just Cares for Me",
+      "album": "Little Girl Blue (Remastered 2013)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nina%20Simone",
+      "track_url": "https://www.last.fm/music/Nina+Simone/_/My+Baby+Just+Cares+for+Me",
+      "graduated": false
+    },
+    "black box": {
+      "artist": "Black Box",
+      "first_discovered": "29 May 2026, 15:26",
+      "last_listened": "29 May 2026, 15:26",
+      "track": "Everybody Everybody (Le Freak Mix)",
+      "album": "Everybody Everybody",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Box",
+      "track_url": "https://www.last.fm/music/Black+Box/_/Everybody+Everybody+%28Le+Freak+Mix%29",
+      "graduated": false
     }
   }
 }
