@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-29T22:40:31.637920-07:00",
+    "last_updated": "2026-05-30T23:08:18.289258-07:00",
     "username": "sugarsmax",
-    "total_artists": 253
+    "total_artists": 257
   },
   "artists": {
     "rjd2, supastition": {
@@ -2285,6 +2285,42 @@
       "recent_track_url": "https://www.last.fm/music/Black+Box/_/Everybody+Everybody+%28Le+Freak+Mix%29",
       "first_discovered": "29 May 2026, 15:26",
       "last_seen": "29 May 2026, 15:26",
+      "top_tracks": []
+    },
+    "asteroid": {
+      "artist": "Asteroid",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Asteroid",
+      "recent_track": "Wolf & Snake",
+      "recent_track_url": "https://www.last.fm/music/Asteroid/_/Wolf+%26+Snake",
+      "first_discovered": "30 May 2026, 17:21",
+      "last_seen": "30 May 2026, 17:21",
+      "top_tracks": []
+    },
+    "scorpions": {
+      "artist": "Scorpions",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Scorpions",
+      "recent_track": "Rock You Like a Hurricane",
+      "recent_track_url": "https://www.last.fm/music/Scorpions/_/Rock+You+Like+a+Hurricane",
+      "first_discovered": "30 May 2026, 16:10",
+      "last_seen": "30 May 2026, 16:10",
+      "top_tracks": []
+    },
+    "strong bad": {
+      "artist": "Strong Bad",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Strong%20Bad",
+      "recent_track": "The System is Down",
+      "recent_track_url": "https://www.last.fm/music/Strong+Bad/_/The+System+is+Down",
+      "first_discovered": "30 May 2026, 16:03",
+      "last_seen": "30 May 2026, 16:03",
+      "top_tracks": []
+    },
+    "blade the soundtrack, new order": {
+      "artist": "Blade The Soundtrack, New Order",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blade%20The%20Soundtrack%2C%20New%20Order",
+      "recent_track": "Confusion",
+      "recent_track_url": "https://www.last.fm/music/Blade+The+Soundtrack%2C+New+Order/_/Confusion",
+      "first_discovered": "30 May 2026, 16:02",
+      "last_seen": "30 May 2026, 16:02",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-29T22:40:29.572296-07:00",
+    "last_updated": "2026-05-30T23:08:16.465371-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 297,
+    "total_discoveries": 301,
     "total_graduated": 44
   },
   "catalog": {
@@ -2847,6 +2847,46 @@
       "album": "Everybody Everybody",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Box",
       "track_url": "https://www.last.fm/music/Black+Box/_/Everybody+Everybody+%28Le+Freak+Mix%29",
+      "graduated": false
+    },
+    "asteroid": {
+      "artist": "Asteroid",
+      "first_discovered": "30 May 2026, 17:21",
+      "last_listened": "30 May 2026, 17:21",
+      "track": "Wolf & Snake",
+      "album": "III",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Asteroid",
+      "track_url": "https://www.last.fm/music/Asteroid/_/Wolf+%26+Snake",
+      "graduated": false
+    },
+    "scorpions": {
+      "artist": "Scorpions",
+      "first_discovered": "30 May 2026, 16:10",
+      "last_listened": "30 May 2026, 16:10",
+      "track": "Rock You Like a Hurricane",
+      "album": "Comeblack",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Scorpions",
+      "track_url": "https://www.last.fm/music/Scorpions/_/Rock+You+Like+a+Hurricane",
+      "graduated": false
+    },
+    "strong bad": {
+      "artist": "Strong Bad",
+      "first_discovered": "30 May 2026, 16:03",
+      "last_listened": "30 May 2026, 16:03",
+      "track": "The System is Down",
+      "album": "Strong Bad Sings",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Strong%20Bad",
+      "track_url": "https://www.last.fm/music/Strong+Bad/_/The+System+is+Down",
+      "graduated": false
+    },
+    "blade the soundtrack, new order": {
+      "artist": "Blade The Soundtrack, New Order",
+      "first_discovered": "30 May 2026, 16:02",
+      "last_listened": "30 May 2026, 16:02",
+      "track": "Confusion",
+      "album": "Blade The Soundtrack",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blade%20The%20Soundtrack%2C%20New%20Order",
+      "track_url": "https://www.last.fm/music/Blade+The+Soundtrack%2C+New+Order/_/Confusion",
       "graduated": false
     }
   }
