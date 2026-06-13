@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-05T22:46:03.423832-07:00",
+    "last_updated": "2026-06-12T23:07:12.051435-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 301,
+    "total_discoveries": 307,
     "total_graduated": 44
   },
   "catalog": {
@@ -2887,6 +2887,66 @@
       "album": "Blade The Soundtrack",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blade%20The%20Soundtrack%2C%20New%20Order",
       "track_url": "https://www.last.fm/music/Blade+The+Soundtrack%2C+New+Order/_/Confusion",
+      "graduated": false
+    },
+    "heavy hands": {
+      "artist": "Heavy Hands",
+      "first_discovered": "12 Jun 2026, 17:57",
+      "last_listened": "12 Jun 2026, 17:57",
+      "track": "Can't See Thru",
+      "album": "Smoke Signals",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heavy%20Hands",
+      "track_url": "https://www.last.fm/music/Heavy+Hands/_/Can't+See+Thru",
+      "graduated": false
+    },
+    "peshay": {
+      "artist": "Peshay",
+      "first_discovered": "12 Jun 2026, 17:53",
+      "last_listened": "12 Jun 2026, 17:53",
+      "track": "Pacific",
+      "album": "Miles From Home",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Peshay",
+      "track_url": "https://www.last.fm/music/Peshay/_/Pacific",
+      "graduated": false
+    },
+    "blood red shoes, queen kwong": {
+      "artist": "Blood Red Shoes, Queen Kwong",
+      "first_discovered": "12 Jun 2026, 17:06",
+      "last_listened": "12 Jun 2026, 17:06",
+      "track": "Kid Don't Be So Shy",
+      "album": "Kid Don't Be So Shy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blood%20Red%20Shoes%2C%20Queen%20Kwong",
+      "track_url": "https://www.last.fm/music/Blood+Red+Shoes%2C+Queen+Kwong/_/Kid+Don't+Be+So+Shy",
+      "graduated": false
+    },
+    "chastity belt": {
+      "artist": "Chastity Belt",
+      "first_discovered": "12 Jun 2026, 17:03",
+      "last_listened": "12 Jun 2026, 17:03",
+      "track": "Drown",
+      "album": "Chastity Belt",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chastity%20Belt",
+      "track_url": "https://www.last.fm/music/Chastity+Belt/_/Drown",
+      "graduated": false
+    },
+    "beastie boys, q-tip": {
+      "artist": "Beastie Boys, Q-Tip",
+      "first_discovered": "12 Jun 2026, 16:29",
+      "last_listened": "12 Jun 2026, 16:29",
+      "track": "Get It Together",
+      "album": "Ill Communication (Deluxe Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beastie%20Boys%2C%20Q-Tip",
+      "track_url": "https://www.last.fm/music/Beastie+Boys%2C+Q-Tip/_/Get+It+Together",
+      "graduated": false
+    },
+    "butcher & starlight destroy the deep & black noir": {
+      "artist": "Butcher & Starlight DESTROY The Deep & Black Noir",
+      "first_discovered": "12 Jun 2026, 11:21",
+      "last_listened": "12 Jun 2026, 11:21",
+      "track": "The Boys",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Butcher%20%26%20Starlight%20DESTROY%20The%20Deep%20%26%20Black%20Noir",
+      "track_url": "https://www.last.fm/music/Butcher+%26+Starlight+DESTROY+The+Deep+%26+Black+Noir/_/The+Boys",
       "graduated": false
     }
   }

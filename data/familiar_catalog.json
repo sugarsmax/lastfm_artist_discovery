@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-11T23:24:12.389292-07:00",
+    "last_updated": "2026-06-12T23:07:13.938432-07:00",
     "username": "sugarsmax",
-    "total_artists": 257
+    "total_artists": 263
   },
   "artists": {
     "rjd2, supastition": {
@@ -2321,6 +2321,60 @@
       "recent_track_url": "https://www.last.fm/music/Blade+The+Soundtrack%2C+New+Order/_/Confusion",
       "first_discovered": "30 May 2026, 16:02",
       "last_seen": "30 May 2026, 16:02",
+      "top_tracks": []
+    },
+    "heavy hands": {
+      "artist": "Heavy Hands",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heavy%20Hands",
+      "recent_track": "Can't See Thru",
+      "recent_track_url": "https://www.last.fm/music/Heavy+Hands/_/Can't+See+Thru",
+      "first_discovered": "12 Jun 2026, 17:57",
+      "last_seen": "12 Jun 2026, 17:57",
+      "top_tracks": []
+    },
+    "peshay": {
+      "artist": "Peshay",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Peshay",
+      "recent_track": "Pacific",
+      "recent_track_url": "https://www.last.fm/music/Peshay/_/Pacific",
+      "first_discovered": "12 Jun 2026, 17:53",
+      "last_seen": "12 Jun 2026, 17:53",
+      "top_tracks": []
+    },
+    "blood red shoes, queen kwong": {
+      "artist": "Blood Red Shoes, Queen Kwong",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blood%20Red%20Shoes%2C%20Queen%20Kwong",
+      "recent_track": "Kid Don't Be So Shy",
+      "recent_track_url": "https://www.last.fm/music/Blood+Red+Shoes%2C+Queen+Kwong/_/Kid+Don't+Be+So+Shy",
+      "first_discovered": "12 Jun 2026, 17:06",
+      "last_seen": "12 Jun 2026, 17:06",
+      "top_tracks": []
+    },
+    "chastity belt": {
+      "artist": "Chastity Belt",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chastity%20Belt",
+      "recent_track": "Drown",
+      "recent_track_url": "https://www.last.fm/music/Chastity+Belt/_/Drown",
+      "first_discovered": "12 Jun 2026, 17:03",
+      "last_seen": "12 Jun 2026, 17:03",
+      "top_tracks": []
+    },
+    "beastie boys, q-tip": {
+      "artist": "Beastie Boys, Q-Tip",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beastie%20Boys%2C%20Q-Tip",
+      "recent_track": "Get It Together",
+      "recent_track_url": "https://www.last.fm/music/Beastie+Boys%2C+Q-Tip/_/Get+It+Together",
+      "first_discovered": "12 Jun 2026, 16:29",
+      "last_seen": "12 Jun 2026, 16:29",
+      "top_tracks": []
+    },
+    "butcher & starlight destroy the deep & black noir": {
+      "artist": "Butcher & Starlight DESTROY The Deep & Black Noir",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Butcher%20%26%20Starlight%20DESTROY%20The%20Deep%20%26%20Black%20Noir",
+      "recent_track": "The Boys",
+      "recent_track_url": "https://www.last.fm/music/Butcher+%26+Starlight+DESTROY+The+Deep+%26+Black+Noir/_/The+Boys",
+      "first_discovered": "12 Jun 2026, 11:21",
+      "last_seen": "12 Jun 2026, 11:21",
       "top_tracks": []
     }
   }
