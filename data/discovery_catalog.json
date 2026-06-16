@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-15T00:07:23.343249-07:00",
+    "last_updated": "2026-06-16T00:13:16.767672-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 307,
+    "total_discoveries": 308,
     "total_graduated": 44
   },
   "catalog": {
@@ -2947,6 +2947,16 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Butcher%20%26%20Starlight%20DESTROY%20The%20Deep%20%26%20Black%20Noir",
       "track_url": "https://www.last.fm/music/Butcher+%26+Starlight+DESTROY+The+Deep+%26+Black+Noir/_/The+Boys",
+      "graduated": false
+    },
+    "spaceface": {
+      "artist": "Spaceface",
+      "first_discovered": "15 Jun 2026, 17:25",
+      "last_listened": "15 Jun 2026, 17:25",
+      "track": "Cowboy Lightning",
+      "album": "Sun Kids",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spaceface",
+      "track_url": "https://www.last.fm/music/Spaceface/_/Cowboy+Lightning",
       "graduated": false
     }
   }

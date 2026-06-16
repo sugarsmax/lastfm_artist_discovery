@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-15T00:07:24.921994-07:00",
+    "last_updated": "2026-06-16T00:13:18.476499-07:00",
     "username": "sugarsmax",
-    "total_artists": 263
+    "total_artists": 264
   },
   "artists": {
     "rjd2, supastition": {
@@ -2375,6 +2375,15 @@
       "recent_track_url": "https://www.last.fm/music/Butcher+%26+Starlight+DESTROY+The+Deep+%26+Black+Noir/_/The+Boys",
       "first_discovered": "12 Jun 2026, 11:21",
       "last_seen": "12 Jun 2026, 11:21",
+      "top_tracks": []
+    },
+    "spaceface": {
+      "artist": "Spaceface",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spaceface",
+      "recent_track": "Cowboy Lightning",
+      "recent_track_url": "https://www.last.fm/music/Spaceface/_/Cowboy+Lightning",
+      "first_discovered": "15 Jun 2026, 17:25",
+      "last_seen": "15 Jun 2026, 17:25",
       "top_tracks": []
     }
   }
