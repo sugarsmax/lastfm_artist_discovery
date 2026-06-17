@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-16T00:13:18.476499-07:00",
+    "last_updated": "2026-06-16T23:58:45.005231-07:00",
     "username": "sugarsmax",
-    "total_artists": 264
+    "total_artists": 281
   },
   "artists": {
     "rjd2, supastition": {
@@ -2384,6 +2384,159 @@
       "recent_track_url": "https://www.last.fm/music/Spaceface/_/Cowboy+Lightning",
       "first_discovered": "15 Jun 2026, 17:25",
       "last_seen": "15 Jun 2026, 17:25",
+      "top_tracks": []
+    },
+    "delirium division": {
+      "artist": "Delirium Division",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Delirium%20Division",
+      "recent_track": "Little Pink Houses",
+      "recent_track_url": "https://www.last.fm/music/Delirium+Division/_/Little+Pink+Houses",
+      "first_discovered": "16 Jun 2026, 18:37",
+      "last_seen": "16 Jun 2026, 18:37",
+      "top_tracks": []
+    },
+    "joe cuba sextet": {
+      "artist": "Joe Cuba Sextet",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joe%20Cuba%20Sextet",
+      "recent_track": "Mujer Divina",
+      "recent_track_url": "https://www.last.fm/music/Joe+Cuba+Sextet/_/Mujer+Divina",
+      "first_discovered": "16 Jun 2026, 18:02",
+      "last_seen": "16 Jun 2026, 18:02",
+      "top_tracks": []
+    },
+    "joe bataan": {
+      "artist": "Joe Bataan",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joe%20Bataan",
+      "recent_track": "Special Girl",
+      "recent_track_url": "https://www.last.fm/music/Joe+Bataan/_/Special+Girl",
+      "first_discovered": "16 Jun 2026, 17:57",
+      "last_seen": "16 Jun 2026, 17:57",
+      "top_tracks": []
+    },
+    "pete rodriguez": {
+      "artist": "Pete Rodriguez",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pete%20Rodriguez",
+      "recent_track": "I Like It Like That",
+      "recent_track_url": "https://www.last.fm/music/Pete+Rodriguez/_/I+Like+It+Like+That",
+      "first_discovered": "16 Jun 2026, 17:52",
+      "last_seen": "16 Jun 2026, 17:52",
+      "top_tracks": []
+    },
+    "willie bobo": {
+      "artist": "Willie Bobo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Willie%20Bobo",
+      "recent_track": "It's Not Unusual",
+      "recent_track_url": "https://www.last.fm/music/Willie+Bobo/_/It's+Not+Unusual",
+      "first_discovered": "16 Jun 2026, 17:47",
+      "last_seen": "16 Jun 2026, 17:47",
+      "top_tracks": []
+    },
+    "fania all stars, jan hammer": {
+      "artist": "Fania All Stars, Jan Hammer",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fania%20All%20Stars%2C%20Jan%20Hammer",
+      "recent_track": "Viva Tirado",
+      "recent_track_url": "https://www.last.fm/music/Fania+All+Stars%2C+Jan+Hammer/_/Viva+Tirado",
+      "first_discovered": "16 Jun 2026, 17:45",
+      "last_seen": "16 Jun 2026, 17:45",
+      "top_tracks": []
+    },
+    "boogaloo assassins": {
+      "artist": "Boogaloo Assassins",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Boogaloo%20Assassins",
+      "recent_track": "No No No",
+      "recent_track_url": "https://www.last.fm/music/Boogaloo+Assassins/_/No+No+No",
+      "first_discovered": "16 Jun 2026, 17:39",
+      "last_seen": "16 Jun 2026, 17:39",
+      "top_tracks": []
+    },
+    "pete rodríguez": {
+      "artist": "Pete Rodríguez",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pete%20Rodr%C3%ADguez",
+      "recent_track": "Micaela",
+      "recent_track_url": "https://www.last.fm/music/Pete+Rodr%C3%ADguez/_/Micaela",
+      "first_discovered": "16 Jun 2026, 17:34",
+      "last_seen": "16 Jun 2026, 17:34",
+      "top_tracks": []
+    },
+    "charlie palmieri": {
+      "artist": "Charlie Palmieri",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charlie%20Palmieri",
+      "recent_track": "Panama's Boogaloo",
+      "recent_track_url": "https://www.last.fm/music/Charlie+Palmieri/_/Panama's+Boogaloo",
+      "first_discovered": "16 Jun 2026, 17:29",
+      "last_seen": "16 Jun 2026, 17:29",
+      "top_tracks": []
+    },
+    "bobby valentin": {
+      "artist": "Bobby Valentin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bobby%20Valentin",
+      "recent_track": "Bad Breath",
+      "recent_track_url": "https://www.last.fm/music/Bobby+Valentin/_/Bad+Breath",
+      "first_discovered": "16 Jun 2026, 17:18",
+      "last_seen": "16 Jun 2026, 17:18",
+      "top_tracks": []
+    },
+    "mongo santamaria": {
+      "artist": "Mongo Santamaria",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mongo%20Santamaria",
+      "recent_track": "We Got Latin Soul",
+      "recent_track_url": "https://www.last.fm/music/Mongo+Santamaria/_/We+Got+Latin+Soul",
+      "first_discovered": "16 Jun 2026, 17:06",
+      "last_seen": "16 Jun 2026, 17:06",
+      "top_tracks": []
+    },
+    "fania all stars, celia cruz": {
+      "artist": "Fania All Stars, Celia Cruz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fania%20All%20Stars%2C%20Celia%20Cruz",
+      "recent_track": "Bamboléo",
+      "recent_track_url": "https://www.last.fm/music/Fania+All+Stars%2C+Celia+Cruz/_/Bambol%C3%A9o",
+      "first_discovered": "16 Jun 2026, 16:47",
+      "last_seen": "16 Jun 2026, 16:47",
+      "top_tracks": []
+    },
+    "george guzman": {
+      "artist": "George Guzman",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/George%20Guzman",
+      "recent_track": "Lazy Boogaloo",
+      "recent_track_url": "https://www.last.fm/music/George+Guzman/_/Lazy+Boogaloo",
+      "first_discovered": "16 Jun 2026, 16:34",
+      "last_seen": "16 Jun 2026, 16:34",
+      "top_tracks": []
+    },
+    "cheo feliciano, joe cuba sextette": {
+      "artist": "Cheo Feliciano, Joe Cuba Sextette",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cheo%20Feliciano%2C%20Joe%20Cuba%20Sextette",
+      "recent_track": "El Pito (I'll Never Go Back To Georgia)",
+      "recent_track_url": "https://www.last.fm/music/Cheo+Feliciano%2C+Joe+Cuba+Sextette/_/El+Pito+%28I'll+Never+Go+Back+To+Georgia%29",
+      "first_discovered": "16 Jun 2026, 16:28",
+      "last_seen": "16 Jun 2026, 16:28",
+      "top_tracks": []
+    },
+    "fania all stars, tito puente, eddie palmieri, ricardo \"richie\" ray, jimmy sabater": {
+      "artist": "Fania All Stars, Tito Puente, Eddie Palmieri, Ricardo \"Richie\" Ray, Jimmy Sabater",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fania%20All%20Stars%2C%20Tito%20Puente%2C%20Eddie%20Palmieri%2C%20Ricardo%20%22Richie%22%20Ray%2C%20Jimmy%20Sabater",
+      "recent_track": "Son Cuero Y Boogaloo",
+      "recent_track_url": "https://www.last.fm/music/Fania+All+Stars%2C+Tito+Puente%2C+Eddie+Palmieri%2C+Ricardo+%22Richie%22+Ray%2C+Jimmy+Sabater/_/Son+Cuero+Y+Boogaloo",
+      "first_discovered": "16 Jun 2026, 16:15",
+      "last_seen": "16 Jun 2026, 16:15",
+      "top_tracks": []
+    },
+    "gerry woo, jack costanzo": {
+      "artist": "Gerry Woo, Jack Costanzo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gerry%20Woo%2C%20Jack%20Costanzo",
+      "recent_track": "Jive Samba",
+      "recent_track_url": "https://www.last.fm/music/Gerry+Woo%2C+Jack+Costanzo/_/Jive+Samba",
+      "first_discovered": "16 Jun 2026, 16:12",
+      "last_seen": "16 Jun 2026, 16:12",
+      "top_tracks": []
+    },
+    "the lebrón brothers orchestra": {
+      "artist": "The Lebrón Brothers Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Lebr%C3%B3n%20Brothers%20Orchestra",
+      "recent_track": "Summertime Blues",
+      "recent_track_url": "https://www.last.fm/music/The+Lebr%C3%B3n+Brothers+Orchestra/_/Summertime+Blues",
+      "first_discovered": "16 Jun 2026, 15:21",
+      "last_seen": "16 Jun 2026, 15:21",
       "top_tracks": []
     }
   }
