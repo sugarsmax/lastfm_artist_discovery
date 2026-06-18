@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-16T23:58:45.005231-07:00",
+    "last_updated": "2026-06-17T23:42:49.593167-07:00",
     "username": "sugarsmax",
-    "total_artists": 281
+    "total_artists": 283
   },
   "artists": {
     "rjd2, supastition": {
@@ -413,10 +413,10 @@
     "bee gees": {
       "artist": "Bee Gees",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bee%20Gees",
-      "recent_track": "Nights On Broadway",
-      "recent_track_url": "https://www.last.fm/music/Bee+Gees/_/Nights+On+Broadway",
+      "recent_track": "You Should Be Dancing",
+      "recent_track_url": "https://www.last.fm/music/Bee+Gees/_/You+Should+Be+Dancing",
       "first_discovered": "26 Feb 2026, 19:06",
-      "last_seen": "26 Feb 2026, 19:06",
+      "last_seen": "17 Jun 2026, 20:52",
       "top_tracks": []
     },
     "the crusaders": {
@@ -2537,6 +2537,24 @@
       "recent_track_url": "https://www.last.fm/music/The+Lebr%C3%B3n+Brothers+Orchestra/_/Summertime+Blues",
       "first_discovered": "16 Jun 2026, 15:21",
       "last_seen": "16 Jun 2026, 15:21",
+      "top_tracks": []
+    },
+    "prince, prince & the revolution": {
+      "artist": "Prince, Prince & the Revolution",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%2C%20Prince%20%26%20the%20Revolution",
+      "recent_track": "Kiss",
+      "recent_track_url": "https://www.last.fm/music/Prince%2C+Prince+%26+the+Revolution/_/Kiss",
+      "first_discovered": "17 Jun 2026, 20:57",
+      "last_seen": "17 Jun 2026, 20:57",
+      "top_tracks": []
+    },
+    "carly simon": {
+      "artist": "Carly Simon",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Simon",
+      "recent_track": "Nobody Does It Better",
+      "recent_track_url": "https://www.last.fm/music/Carly+Simon/_/Nobody+Does+It+Better",
+      "first_discovered": "17 Jun 2026, 15:59",
+      "last_seen": "17 Jun 2026, 15:59",
       "top_tracks": []
     }
   }

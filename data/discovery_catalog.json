@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-16T23:58:43.362850-07:00",
+    "last_updated": "2026-06-17T23:42:47.908580-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 325,
+    "total_discoveries": 327,
     "total_graduated": 44
   },
   "catalog": {
@@ -671,11 +671,12 @@
     "bee gees": {
       "artist": "Bee Gees",
       "first_discovered": "26 Feb 2026, 19:06",
-      "last_listened": "26 Feb 2026, 19:06",
-      "track": "Nights On Broadway",
+      "last_listened": "17 Jun 2026, 20:52",
+      "track": "You Should Be Dancing",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bee%20Gees",
-      "track_url": "https://www.last.fm/music/Bee+Gees/_/Nights+On+Broadway",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Bee+Gees/_/You+Should+Be+Dancing",
+      "graduated": false,
+      "album": "The Ultimate Bee Gees"
     },
     "the crusaders": {
       "artist": "The Crusaders",
@@ -3127,6 +3128,26 @@
       "album": "Psychedelic Goes Latin",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Lebr%C3%B3n%20Brothers%20Orchestra",
       "track_url": "https://www.last.fm/music/The+Lebr%C3%B3n+Brothers+Orchestra/_/Summertime+Blues",
+      "graduated": false
+    },
+    "prince, prince & the revolution": {
+      "artist": "Prince, Prince & the Revolution",
+      "first_discovered": "17 Jun 2026, 20:57",
+      "last_listened": "17 Jun 2026, 20:57",
+      "track": "Kiss",
+      "album": "The Very Best Of Prince",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%2C%20Prince%20%26%20the%20Revolution",
+      "track_url": "https://www.last.fm/music/Prince%2C+Prince+%26+the+Revolution/_/Kiss",
+      "graduated": false
+    },
+    "carly simon": {
+      "artist": "Carly Simon",
+      "first_discovered": "17 Jun 2026, 15:59",
+      "last_listened": "17 Jun 2026, 15:59",
+      "track": "Nobody Does It Better",
+      "album": "The Spy Who Loved Me (Original Motion Picture Soundtrack)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Simon",
+      "track_url": "https://www.last.fm/music/Carly+Simon/_/Nobody+Does+It+Better",
       "graduated": false
     }
   }
