@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-17T23:42:47.908580-07:00",
+    "last_updated": "2026-06-18T23:55:55.976937-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 327,
+    "total_discoveries": 332,
     "total_graduated": 44
   },
   "catalog": {
@@ -3143,11 +3143,61 @@
     "carly simon": {
       "artist": "Carly Simon",
       "first_discovered": "17 Jun 2026, 15:59",
-      "last_listened": "17 Jun 2026, 15:59",
-      "track": "Nobody Does It Better",
-      "album": "The Spy Who Loved Me (Original Motion Picture Soundtrack)",
+      "last_listened": "18 Jun 2026, 18:59",
+      "track": "You Belong To Me",
+      "album": "Boys In The Trees",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Simon",
-      "track_url": "https://www.last.fm/music/Carly+Simon/_/Nobody+Does+It+Better",
+      "track_url": "https://www.last.fm/music/Carly+Simon/_/You+Belong+To+Me",
+      "graduated": false
+    },
+    "mandalay": {
+      "artist": "Mandalay",
+      "first_discovered": "18 Jun 2026, 20:39",
+      "last_listened": "18 Jun 2026, 20:39",
+      "track": "Nicky Marrero  &  Ray Barretto .......  Se Soltaron Los Anormales",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mandalay",
+      "track_url": "https://www.last.fm/music/Mandalay/_/Nicky+Marrero++%26++Ray+Barretto+.......++Se+Soltaron+Los+Anormales",
+      "graduated": false
+    },
+    "urban dance squad @ jay leno": {
+      "artist": "Urban Dance Squad @ Jay Leno",
+      "first_discovered": "18 Jun 2026, 20:38",
+      "last_listened": "18 Jun 2026, 20:38",
+      "track": "Deeper Shade of Soul",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Urban%20Dance%20Squad%20%40%20Jay%20Leno",
+      "track_url": "https://www.last.fm/music/Urban+Dance+Squad+%40+Jay+Leno/_/Deeper+Shade+of+Soul",
+      "graduated": false
+    },
+    "forcian, idontneedalot": {
+      "artist": "forcian, idontneedalot",
+      "first_discovered": "18 Jun 2026, 15:44",
+      "last_listened": "18 Jun 2026, 15:44",
+      "track": "Woo 2 (feat. idontneedalot)",
+      "album": "Woo 2 (feat. idontneedalot)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/forcian%2C%20idontneedalot",
+      "track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Woo+2+%28feat.+idontneedalot%29",
+      "graduated": false
+    },
+    "idontneedalot, sabana": {
+      "artist": "idontneedalot, Sabana",
+      "first_discovered": "18 Jun 2026, 15:39",
+      "last_listened": "18 Jun 2026, 15:39",
+      "track": "Limn",
+      "album": "Limn",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/idontneedalot%2C%20Sabana",
+      "track_url": "https://www.last.fm/music/idontneedalot%2C+Sabana/_/Limn",
+      "graduated": false
+    },
+    "ivo pogorelich": {
+      "artist": "Ivo Pogorelich",
+      "first_discovered": "18 Jun 2026, 09:48",
+      "last_listened": "18 Jun 2026, 09:48",
+      "track": "D. Scarlatti: Keyboard Sonata in D Minor, Kk. 141",
+      "album": "Scarlatti, D.: Sonatas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ivo%20Pogorelich",
+      "track_url": "https://www.last.fm/music/Ivo+Pogorelich/_/D.+Scarlatti:+Keyboard+Sonata+in+D+Minor%2C+Kk.+141",
       "graduated": false
     }
   }
