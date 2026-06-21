@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-19T23:09:47.963925-07:00",
+    "last_updated": "2026-06-20T23:41:58.427310-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 332,
+    "total_discoveries": 342,
     "total_graduated": 44
   },
   "catalog": {
@@ -263,11 +263,12 @@
     "murray perahia, academy of st martin in the fields": {
       "artist": "Murray Perahia, Academy of St Martin in the Fields",
       "first_discovered": "20 Feb 2026, 23:25",
-      "last_listened": "20 Feb 2026, 15:25",
-      "track": "Keyboard Concerto No. 2 in E Major, BWV 1053: Keyboard Concerto No. 2 in E Major, BWV 1053: II. Siciliano",
+      "last_listened": "20 Jun 2026, 10:20",
+      "track": "Keyboard Concerto No. 2 in E Major, BWV 1053: III. Allegro",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields",
-      "track_url": "https://www.last.fm/music/Murray+Perahia%2C+Academy+of+St+Martin+in+the+Fields/_/Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+II.+Siciliano",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Murray+Perahia%2C+Academy+of+St+Martin+in+the+Fields/_/Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+III.+Allegro",
+      "graduated": false,
+      "album": "Murray Perahia plays Bach - The Complete Recordings"
     },
     "jan lisiecki": {
       "artist": "Jan Lisiecki",
@@ -1190,20 +1191,22 @@
     "johann sebastian bach, esther apituley": {
       "artist": "Johann Sebastian Bach, Esther Apituley",
       "first_discovered": "30 Mar 2026, 16:35",
-      "last_listened": "30 Mar 2026, 16:35",
-      "track": "Suite for Solo Cello No. 3 in C Major, BWV 1009: IV. Sarabande",
+      "last_listened": "20 Jun 2026, 09:25",
+      "track": "Suite for Solo Cello No. 5 in C Minor, BWV 1011: IV. Sarabande",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Esther%20Apituley",
-      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Esther+Apituley/_/Suite+for+Solo+Cello+No.+3+in+C+Major%2C+BWV+1009:+IV.+Sarabande",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Esther+Apituley/_/Suite+for+Solo+Cello+No.+5+in+C+Minor%2C+BWV+1011:+IV.+Sarabande",
+      "graduated": false,
+      "album": "Stirring Stills"
     },
     "mark bennett, rachel beckett, paul goodwin, monica huggett, orchestra of the age of enlightenment": {
       "artist": "Mark Bennett, Rachel Beckett, Paul Goodwin, Monica Huggett, Orchestra Of The Age Of Enlightenment",
       "first_discovered": "30 Mar 2026, 16:30",
-      "last_listened": "30 Mar 2026, 16:30",
-      "track": "Brandenburg Concerto No. 2 in F Major, BWV 1047: II. Andante",
+      "last_listened": "20 Jun 2026, 10:37",
+      "track": "Brandenburg Concerto No. 2 in F Major, BWV 1047: III. Allegro assai",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mark%20Bennett%2C%20Rachel%20Beckett%2C%20Paul%20Goodwin%2C%20Monica%20Huggett%2C%20Orchestra%20Of%20The%20Age%20Of%20Enlightenment",
-      "track_url": "https://www.last.fm/music/Mark+Bennett%2C+Rachel+Beckett%2C+Paul+Goodwin%2C+Monica+Huggett%2C+Orchestra+Of+The+Age+Of+Enlightenment/_/Brandenburg+Concerto+No.+2+in+F+Major%2C+BWV+1047:+II.+Andante",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Mark+Bennett%2C+Rachel+Beckett%2C+Paul+Goodwin%2C+Monica+Huggett%2C+Orchestra+Of+The+Age+Of+Enlightenment/_/Brandenburg+Concerto+No.+2+in+F+Major%2C+BWV+1047:+III.+Allegro+assai",
+      "graduated": false,
+      "album": "Bach: Brandenburg Concertos"
     },
     "jordi savall, ton koopman, johann sebastian bach": {
       "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
@@ -1217,11 +1220,12 @@
     "musica amphion, rémy baudet, pieter-jan belder": {
       "artist": "Musica Amphion, Rémy Baudet, Pieter-Jan Belder",
       "first_discovered": "30 Mar 2026, 16:05",
-      "last_listened": "30 Mar 2026, 16:05",
-      "track": "III. Presto",
+      "last_listened": "20 Jun 2026, 10:05",
+      "track": "I. —",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Musica%20Amphion%2C%20R%C3%A9my%20Baudet%2C%20Pieter-Jan%20Belder",
-      "track_url": "https://www.last.fm/music/Musica+Amphion%2C+R%C3%A9my+Baudet%2C+Pieter-Jan+Belder/_/III.+Presto",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Musica+Amphion%2C+R%C3%A9my+Baudet%2C+Pieter-Jan+Belder/_/I.+%E2%80%94",
+      "graduated": false,
+      "album": "J.S. Bach: Complete Concertos"
     },
     "studying music": {
       "artist": "Studying Music",
@@ -1235,11 +1239,12 @@
     "johann sebastian bach, pierre fournier": {
       "artist": "Johann Sebastian Bach, Pierre Fournier",
       "first_discovered": "30 Mar 2026, 15:54",
-      "last_listened": "30 Mar 2026, 15:54",
+      "last_listened": "20 Jun 2026, 09:46",
       "track": "Suite For Solo Cello No. 1 In G Major, BWV 1007: III. Courante",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Pierre%20Fournier",
       "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Pierre+Fournier/_/Suite+For+Solo+Cello+No.+1+In+G+Major%2C+BWV+1007:+III.+Courante",
-      "graduated": false
+      "graduated": false,
+      "album": "François Couperin - Antonio Vivaldi - Carl Philipp Emanuel Bach - Johann Sebastian Bach"
     },
     "amsterdam bach soloists, henk rubingh, gewandhausorchester leipzig, kurt masur": {
       "artist": "Amsterdam Bach Soloists, Henk Rubingh, Gewandhausorchester Leipzig, Kurt Masur",
@@ -1262,20 +1267,22 @@
     "aaron rosand, johann sebastian bach": {
       "artist": "Aaron Rosand, Johann Sebastian Bach",
       "first_discovered": "30 Mar 2026, 15:35",
-      "last_listened": "30 Mar 2026, 15:35",
+      "last_listened": "20 Jun 2026, 09:32",
       "track": "Violin Sonata No. 1 in G Minor, BWV 1001: I. Adagio",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaron%20Rosand%2C%20Johann%20Sebastian%20Bach",
       "track_url": "https://www.last.fm/music/Aaron+Rosand%2C+Johann+Sebastian+Bach/_/Violin+Sonata+No.+1+in+G+Minor%2C+BWV+1001:+I.+Adagio",
-      "graduated": false
+      "graduated": false,
+      "album": "My Bach"
     },
     "kajana pačko": {
       "artist": "Kajana Pačko",
       "first_discovered": "30 Mar 2026, 15:34",
-      "last_listened": "30 Mar 2026, 15:34",
-      "track": "Johann Sebastian Bach: Suite For Solo Cello No. 5 In C Minor, BWV 1011: Prelude",
+      "last_listened": "20 Jun 2026, 09:35",
+      "track": "Johann Sebastian Bach: Suite For Solo Cello No. 3 In C Major BWV 1009: Courante",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kajana%20Pa%C4%8Dko",
-      "track_url": "https://www.last.fm/music/Kajana+Pa%C4%8Dko/_/Johann+Sebastian+Bach:+Suite+For+Solo+Cello+No.+5+In+C+Minor%2C+BWV+1011:+Prelude",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Kajana+Pa%C4%8Dko/_/Johann+Sebastian+Bach:+Suite+For+Solo+Cello+No.+3+In+C+Major+BWV+1009:+Courante",
+      "graduated": false,
+      "album": "Bach+"
     },
     "michael stipe, andrew watt": {
       "artist": "Michael Stipe, Andrew Watt",
@@ -2356,11 +2363,11 @@
     "johann sebastian bach, sara sant'ambrogio": {
       "artist": "Johann Sebastian Bach, Sara Sant'Ambrogio",
       "first_discovered": "08 May 2026, 15:28",
-      "last_listened": "08 May 2026, 15:28",
-      "track": "Suite for Solo Cello No. 6 in D Major, BWV 1012: VI. Gigue",
+      "last_listened": "20 Jun 2026, 09:20",
+      "track": "Suite for Solo Cello No. 4 in E-flat Major BWV 1010: V. Bouree I and II",
       "album": "Bach: Cello Suites 246",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Sara%20Sant%27Ambrogio",
-      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Sara+Sant'Ambrogio/_/Suite+for+Solo+Cello+No.+6+in+D+Major%2C+BWV+1012:+VI.+Gigue",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Sara+Sant'Ambrogio/_/Suite+for+Solo+Cello+No.+4+in+E-flat+Major+BWV+1010:+V.+Bouree+I+and+II",
       "graduated": false
     },
     "chicane, moya": {
@@ -3198,6 +3205,106 @@
       "album": "Scarlatti, D.: Sonatas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ivo%20Pogorelich",
       "track_url": "https://www.last.fm/music/Ivo+Pogorelich/_/D.+Scarlatti:+Keyboard+Sonata+in+D+Minor%2C+Kk.+141",
+      "graduated": false
+    },
+    "neues bachisches collegium musicum, burkhard glaetzner, christine schornsheim": {
+      "artist": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner, Christine Schornsheim",
+      "first_discovered": "20 Jun 2026, 10:51",
+      "last_listened": "20 Jun 2026, 10:51",
+      "track": "I. Allegro",
+      "album": "J.S. Bach: Complete Concertos",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Neues%20Bachisches%20Collegium%20Musicum%2C%20Burkhard%20Glaetzner%2C%20Christine%20Schornsheim",
+      "track_url": "https://www.last.fm/music/Neues+Bachisches+Collegium+Musicum%2C+Burkhard+Glaetzner%2C+Christine+Schornsheim/_/I.+Allegro",
+      "graduated": false
+    },
+    "monica huggett, john toll, pavlo beznosiuk, richard campbell, richard tunnicliffe, sarah cunningham, william hunt": {
+      "artist": "Monica Huggett, John Toll, Pavlo Beznosiuk, Richard Campbell, Richard Tunnicliffe, Sarah Cunningham, William Hunt",
+      "first_discovered": "20 Jun 2026, 10:43",
+      "last_listened": "20 Jun 2026, 10:43",
+      "track": "Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051: III. Allegro",
+      "album": "Bach: Brandenburg Concertos",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Monica%20Huggett%2C%20John%20Toll%2C%20Pavlo%20Beznosiuk%2C%20Richard%20Campbell%2C%20Richard%20Tunnicliffe%2C%20Sarah%20Cunningham%2C%20William%20Hunt",
+      "track_url": "https://www.last.fm/music/Monica+Huggett%2C+John+Toll%2C+Pavlo+Beznosiuk%2C+Richard+Campbell%2C+Richard+Tunnicliffe%2C+Sarah+Cunningham%2C+William+Hunt/_/Brandenburg+Concerto+No.+6+in+B-Flat+Major%2C+BWV+1051:+III.+Allegro",
+      "graduated": false
+    },
+    "patricia holmberg & johann sebastian bach": {
+      "artist": "Patricia Holmberg & Johann Sebastian Bach",
+      "first_discovered": "20 Jun 2026, 10:35",
+      "last_listened": "20 Jun 2026, 10:35",
+      "track": "Partita No.5 in G Major, BWV 829: Passepied",
+      "album": "Relaxing Piano Works from Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Patricia%20Holmberg%20%26%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Patricia+Holmberg+%26+Johann+Sebastian+Bach/_/Partita+No.5+in+G+Major%2C+BWV+829:+Passepied",
+      "graduated": false
+    },
+    "mstislav rostropovich & johann sebastian bach & alexander dedukhin": {
+      "artist": "Mstislav Rostropovich & Johann Sebastian Bach & Alexander Dedukhin",
+      "first_discovered": "20 Jun 2026, 10:22",
+      "last_listened": "20 Jun 2026, 10:22",
+      "track": "Suite For Cello Solo No. 5 In C Minor, BWV 1011: III Courante",
+      "album": "Rostropovich Plays Britten, Bridge, Handel and Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mstislav%20Rostropovich%20%26%20Johann%20Sebastian%20Bach%20%26%20Alexander%20Dedukhin",
+      "track_url": "https://www.last.fm/music/Mstislav+Rostropovich+%26+Johann+Sebastian+Bach+%26+Alexander+Dedukhin/_/Suite+For+Cello+Solo+No.+5+In+C+Minor%2C+BWV+1011:+III+Courante",
+      "graduated": false
+    },
+    "ralph kirshbaum": {
+      "artist": "Ralph Kirshbaum",
+      "first_discovered": "20 Jun 2026, 09:55",
+      "last_listened": "20 Jun 2026, 09:55",
+      "track": "Cello Suite No. 1 in G major, BWV 1007: II. Allemande",
+      "album": "Bach: Cello Suites, BWV 1007 - 1012",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ralph%20Kirshbaum",
+      "track_url": "https://www.last.fm/music/Ralph+Kirshbaum/_/Cello+Suite+No.+1+in+G+major%2C+BWV+1007:+II.+Allemande",
+      "graduated": false
+    },
+    "jörg hähnlein, johann sebastian bach": {
+      "artist": "Jörg Hähnlein, Johann Sebastian Bach",
+      "first_discovered": "20 Jun 2026, 09:51",
+      "last_listened": "20 Jun 2026, 09:51",
+      "track": "Partita in A Minor for Solo Flute, BWV 1013: IV. Bourrée Anglaise",
+      "album": "The Bach Collection: Study",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/J%C3%B6rg%20H%C3%A4hnlein%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/J%C3%B6rg+H%C3%A4hnlein%2C+Johann+Sebastian+Bach/_/Partita+in+A+Minor+for+Solo+Flute%2C+BWV+1013:+IV.+Bourr%C3%A9e+Anglaise",
+      "graduated": false
+    },
+    "murray perahia, academy of st martin in the fields, johann sebastian bach": {
+      "artist": "Murray Perahia, Academy of St Martin in the Fields, Johann Sebastian Bach",
+      "first_discovered": "20 Jun 2026, 09:43",
+      "last_listened": "20 Jun 2026, 09:43",
+      "track": "Keyboard Concerto No. 2 in E Major, BWV 1053: Keyboard Concerto No. 2 in E Major, BWV 1053: I. [Allegro]",
+      "album": "Murray Perahia - The Bach Album",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Murray+Perahia%2C+Academy+of+St+Martin+in+the+Fields%2C+Johann+Sebastian+Bach/_/Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+Keyboard+Concerto+No.+2+in+E+Major%2C+BWV+1053:+I.+%5BAllegro%5D",
+      "graduated": false
+    },
+    "liona boyd, j.s. bach": {
+      "artist": "Liona Boyd, J.S. Bach",
+      "first_discovered": "20 Jun 2026, 09:14",
+      "last_listened": "20 Jun 2026, 09:14",
+      "track": "Sleepers Awake",
+      "album": "Baroque Favourites",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Liona%20Boyd%2C%20J.S.%20Bach",
+      "track_url": "https://www.last.fm/music/Liona+Boyd%2C+J.S.+Bach/_/Sleepers+Awake",
+      "graduated": false
+    },
+    "gerlad hambitzer": {
+      "artist": "Gerlad Hambitzer",
+      "first_discovered": "20 Jun 2026, 09:06",
+      "last_listened": "20 Jun 2026, 09:06",
+      "track": "Harpsichord Concerto in G Minor: III. Allegro",
+      "album": "Baroque Favorites",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gerlad%20Hambitzer",
+      "track_url": "https://www.last.fm/music/Gerlad+Hambitzer/_/Harpsichord+Concerto+in+G+Minor:+III.+Allegro",
+      "graduated": false
+    },
+    "yo-yo ma, johann sebastian bach, ton koopman, amsterdam baroque orchestra": {
+      "artist": "Yo-Yo Ma, Johann Sebastian Bach, Ton Koopman, Amsterdam Baroque Orchestra",
+      "first_discovered": "20 Jun 2026, 08:41",
+      "last_listened": "20 Jun 2026, 08:41",
+      "track": "Kommst du nun, Jesu, vom Himmel herunter, BWV 650",
+      "album": "Yo-Yo Ma Plays Bach & Boccherini",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yo-Yo%20Ma%2C%20Johann%20Sebastian%20Bach%2C%20Ton%20Koopman%2C%20Amsterdam%20Baroque%20Orchestra",
+      "track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Johann+Sebastian+Bach%2C+Ton+Koopman%2C+Amsterdam+Baroque+Orchestra/_/Kommst+du+nun%2C+Jesu%2C+vom+Himmel+herunter%2C+BWV+650",
       "graduated": false
     }
   }
