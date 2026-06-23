@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T00:10:27.373987-07:00",
+    "last_updated": "2026-06-22T22:58:00.254372-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 342,
+    "total_discoveries": 343,
     "total_graduated": 44
   },
   "catalog": {
@@ -1211,11 +1211,12 @@
     "jordi savall, ton koopman, johann sebastian bach": {
       "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
       "first_discovered": "30 Mar 2026, 16:26",
-      "last_listened": "30 Mar 2026, 16:26",
+      "last_listened": "22 Jun 2026, 17:52",
       "track": "Sonata III (G Moll), BWV 1029: Adagio",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach",
       "track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+III+%28G+Moll%29%2C+BWV+1029:+Adagio",
-      "graduated": false
+      "graduated": false,
+      "album": "Bach: Die Sonaten Für Viola Da Gamba und Cembalo"
     },
     "musica amphion, rémy baudet, pieter-jan belder": {
       "artist": "Musica Amphion, Rémy Baudet, Pieter-Jan Belder",
@@ -3305,6 +3306,16 @@
       "album": "Yo-Yo Ma Plays Bach & Boccherini",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yo-Yo%20Ma%2C%20Johann%20Sebastian%20Bach%2C%20Ton%20Koopman%2C%20Amsterdam%20Baroque%20Orchestra",
       "track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Johann+Sebastian+Bach%2C+Ton+Koopman%2C+Amsterdam+Baroque+Orchestra/_/Kommst+du+nun%2C+Jesu%2C+vom+Himmel+herunter%2C+BWV+650",
+      "graduated": false
+    },
+    "trouble funk": {
+      "artist": "Trouble Funk",
+      "first_discovered": "22 Jun 2026, 18:27",
+      "last_listened": "22 Jun 2026, 18:27",
+      "track": "Drop The Bomb",
+      "album": "D.C. Go-Go - Sonic Funk from the Chocolate City",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trouble%20Funk",
+      "track_url": "https://www.last.fm/music/Trouble+Funk/_/Drop+The+Bomb",
       "graduated": false
     }
   }

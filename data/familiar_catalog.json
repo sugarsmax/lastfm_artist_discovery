@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T00:10:29.013100-07:00",
+    "last_updated": "2026-06-22T22:58:01.671690-07:00",
     "username": "sugarsmax",
-    "total_artists": 298
+    "total_artists": 299
   },
   "artists": {
     "rjd2, supastition": {
@@ -938,7 +938,7 @@
       "recent_track": "Sonata III (G Moll), BWV 1029: Adagio",
       "recent_track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+III+%28G+Moll%29%2C+BWV+1029:+Adagio",
       "first_discovered": "30 Mar 2026, 16:26",
-      "last_seen": "30 Mar 2026, 16:26",
+      "last_seen": "22 Jun 2026, 17:52",
       "top_tracks": []
     },
     "musica amphion, rémy baudet, pieter-jan belder": {
@@ -2690,6 +2690,15 @@
       "recent_track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Johann+Sebastian+Bach%2C+Ton+Koopman%2C+Amsterdam+Baroque+Orchestra/_/Kommst+du+nun%2C+Jesu%2C+vom+Himmel+herunter%2C+BWV+650",
       "first_discovered": "20 Jun 2026, 08:41",
       "last_seen": "20 Jun 2026, 08:41",
+      "top_tracks": []
+    },
+    "trouble funk": {
+      "artist": "Trouble Funk",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trouble%20Funk",
+      "recent_track": "Drop The Bomb",
+      "recent_track_url": "https://www.last.fm/music/Trouble+Funk/_/Drop+The+Bomb",
+      "first_discovered": "22 Jun 2026, 18:27",
+      "last_seen": "22 Jun 2026, 18:27",
       "top_tracks": []
     }
   }
