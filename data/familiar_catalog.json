@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T22:58:01.671690-07:00",
+    "last_updated": "2026-06-23T22:57:51.323703-07:00",
     "username": "sugarsmax",
-    "total_artists": 299
+    "total_artists": 300
   },
   "artists": {
     "rjd2, supastition": {
@@ -2699,6 +2699,15 @@
       "recent_track_url": "https://www.last.fm/music/Trouble+Funk/_/Drop+The+Bomb",
       "first_discovered": "22 Jun 2026, 18:27",
       "last_seen": "22 Jun 2026, 18:27",
+      "top_tracks": []
+    },
+    "alexander rudin": {
+      "artist": "Alexander Rudin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexander%20Rudin",
+      "recent_track": "Cello Suite No. 3 in C major, BWV 1009: V. Bourree I and II",
+      "recent_track_url": "https://www.last.fm/music/Alexander+Rudin/_/Cello+Suite+No.+3+in+C+major%2C+BWV+1009:+V.+Bourree+I+and+II",
+      "first_discovered": "23 Jun 2026, 08:30",
+      "last_seen": "23 Jun 2026, 08:30",
       "top_tracks": []
     }
   }

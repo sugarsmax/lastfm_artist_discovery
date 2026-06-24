@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T22:58:00.254372-07:00",
+    "last_updated": "2026-06-23T22:57:49.723981-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 343,
+    "total_discoveries": 344,
     "total_graduated": 44
   },
   "catalog": {
@@ -3316,6 +3316,16 @@
       "album": "D.C. Go-Go - Sonic Funk from the Chocolate City",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Trouble%20Funk",
       "track_url": "https://www.last.fm/music/Trouble+Funk/_/Drop+The+Bomb",
+      "graduated": false
+    },
+    "alexander rudin": {
+      "artist": "Alexander Rudin",
+      "first_discovered": "23 Jun 2026, 08:30",
+      "last_listened": "23 Jun 2026, 08:30",
+      "track": "Cello Suite No. 3 in C major, BWV 1009: V. Bourree I and II",
+      "album": "The Essential J.S. Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexander%20Rudin",
+      "track_url": "https://www.last.fm/music/Alexander+Rudin/_/Cello+Suite+No.+3+in+C+major%2C+BWV+1009:+V.+Bourree+I+and+II",
       "graduated": false
     }
   }
