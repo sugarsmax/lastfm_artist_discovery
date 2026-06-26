@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-24T22:57:00.151114-07:00",
+    "last_updated": "2026-06-25T23:00:42.284591-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 344,
+    "total_discoveries": 356,
     "total_graduated": 44
   },
   "catalog": {
@@ -1614,11 +1614,12 @@
     "khatia buniatishvili": {
       "artist": "Khatia Buniatishvili",
       "first_discovered": "07 Apr 2026, 15:51",
-      "last_listened": "07 Apr 2026, 15:51",
-      "track": "Waltz in C-Sharp Minor, Op. 64 No. 2",
+      "last_listened": "25 Jun 2026, 17:07",
+      "track": "Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili",
-      "track_url": "https://www.last.fm/music/Khatia+Buniatishvili/_/Waltz+in+C-Sharp+Minor%2C+Op.+64+No.+2",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Khatia+Buniatishvili/_/Prelude+in+B+minor%2C+BWV+855a+%28Arr.+by+Alexander+Siloti%29",
+      "graduated": false,
+      "album": "Labyrinth: Ephemera"
     },
     "jian wang, göran söllscher": {
       "artist": "Jian Wang, Göran Söllscher",
@@ -1814,7 +1815,7 @@
     "franz liszt, martin jones": {
       "artist": "Franz Liszt, Martin Jones",
       "first_discovered": "17 Apr 2026, 15:13",
-      "last_listened": "17 Apr 2026, 15:13",
+      "last_listened": "25 Jun 2026, 16:56",
       "track": "Liebestraum No. 3 in A-Flat Minor, S. 541",
       "album": "60 Piano Classics for Relaxation",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Liszt%2C%20Martin%20Jones",
@@ -3321,11 +3322,131 @@
     "alexander rudin": {
       "artist": "Alexander Rudin",
       "first_discovered": "23 Jun 2026, 08:30",
-      "last_listened": "23 Jun 2026, 08:30",
+      "last_listened": "25 Jun 2026, 16:31",
       "track": "Cello Suite No. 3 in C major, BWV 1009: V. Bourree I and II",
       "album": "The Essential J.S. Bach",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexander%20Rudin",
       "track_url": "https://www.last.fm/music/Alexander+Rudin/_/Cello+Suite+No.+3+in+C+major%2C+BWV+1009:+V.+Bourree+I+and+II",
+      "graduated": false
+    },
+    "dietrich fischer-dieskau, gerald moore": {
+      "artist": "Dietrich Fischer-Dieskau, Gerald Moore",
+      "first_discovered": "25 Jun 2026, 17:53",
+      "last_listened": "25 Jun 2026, 17:53",
+      "track": "Erlkönig, Op. 1, D. 328",
+      "album": "Schubert: 21 Lieder",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dietrich%20Fischer-Dieskau%2C%20Gerald%20Moore",
+      "track_url": "https://www.last.fm/music/Dietrich+Fischer-Dieskau%2C+Gerald+Moore/_/Erlk%C3%B6nig%2C+Op.+1%2C+D.+328",
+      "graduated": false
+    },
+    "khatia buniatishvili, johann sebastian bach": {
+      "artist": "Khatia Buniatishvili, Johann Sebastian Bach",
+      "first_discovered": "25 Jun 2026, 17:50",
+      "last_listened": "25 Jun 2026, 17:50",
+      "track": "Bach: Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
+      "album": "Bach: Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khatia%20Buniatishvili%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Khatia+Buniatishvili%2C+Johann+Sebastian+Bach/_/Bach:+Prelude+in+B+minor%2C+BWV+855a+%28Arr.+by+Alexander+Siloti%29",
+      "graduated": false
+    },
+    "mozart, wolfgang amadeus mozart": {
+      "artist": "Mozart, Wolfgang Amadeus Mozart",
+      "first_discovered": "25 Jun 2026, 17:44",
+      "last_listened": "25 Jun 2026, 17:44",
+      "track": "Mozart: Don Giovanni Suite KV 527 - (3) Madamina (Leporello)",
+      "album": "Mozart: DON GIOVANNI - Opera without Voices",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mozart%2C%20Wolfgang%20Amadeus%20Mozart",
+      "track_url": "https://www.last.fm/music/Mozart%2C+Wolfgang+Amadeus+Mozart/_/Mozart:+Don+Giovanni+Suite+KV+527+-+%283%29+Madamina+%28Leporello%29",
+      "graduated": false
+    },
+    "pablo ferrández, denis kozhukhin": {
+      "artist": "Pablo Ferrández, Denis Kozhukhin",
+      "first_discovered": "25 Jun 2026, 17:41",
+      "last_listened": "25 Jun 2026, 17:41",
+      "track": "Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7",
+      "album": "Reflections",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pablo%20Ferr%C3%A1ndez%2C%20Denis%20Kozhukhin",
+      "track_url": "https://www.last.fm/music/Pablo+Ferr%C3%A1ndez%2C+Denis+Kozhukhin/_/Zdes'+khorosho+%28'How+Fair+This+Spot'%29%2C+Op.+21%2C+No.+7",
+      "graduated": false
+    },
+    "johann pachelbel, london philharmonic orchestra, traditonal": {
+      "artist": "Johann Pachelbel, London Philharmonic Orchestra, Traditonal",
+      "first_discovered": "25 Jun 2026, 17:17",
+      "last_listened": "25 Jun 2026, 17:17",
+      "track": "Pachelbel Canon",
+      "album": "The Greatest Classical Masterpieces! (Digitally Remastered) (Re-mastered)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Pachelbel%2C%20London%20Philharmonic%20Orchestra%2C%20Traditonal",
+      "track_url": "https://www.last.fm/music/Johann+Pachelbel%2C+London+Philharmonic+Orchestra%2C+Traditonal/_/Pachelbel+Canon",
+      "graduated": false
+    },
+    "yo-yo ma, leonidas kavakos, emanuel ax, ludwig van beethoven": {
+      "artist": "Yo-Yo Ma, Leonidas Kavakos, Emanuel Ax, Ludwig van Beethoven",
+      "first_discovered": "25 Jun 2026, 17:03",
+      "last_listened": "25 Jun 2026, 17:03",
+      "track": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
+      "album": "Symphony No. 1 in C Major, Op. 21/III. Menuetto. Allegro molto e vivace",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yo-Yo%20Ma%2C%20Leonidas%20Kavakos%2C%20Emanuel%20Ax%2C%20Ludwig%20van%20Beethoven",
+      "track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Leonidas+Kavakos%2C+Emanuel+Ax%2C+Ludwig+van+Beethoven/_/Symphony+No.+1+in+C+Major%2C+Op.+21:+III.+Menuetto.+Allegro+molto+e+vivace",
+      "graduated": false
+    },
+    "grigory sokolov": {
+      "artist": "Grigory Sokolov",
+      "first_discovered": "25 Jun 2026, 16:52",
+      "last_listened": "25 Jun 2026, 16:52",
+      "track": "English Suite No. 2 in A Minor, BWV 807: IV. Sarabande",
+      "album": "Bach: Goldberg Variations, BWV 988",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Grigory%20Sokolov",
+      "track_url": "https://www.last.fm/music/Grigory+Sokolov/_/English+Suite+No.+2+in+A+Minor%2C+BWV+807:+IV.+Sarabande",
+      "graduated": false
+    },
+    "slovak radio symphony orchestra": {
+      "artist": "Slovak Radio Symphony Orchestra",
+      "first_discovered": "25 Jun 2026, 16:47",
+      "last_listened": "25 Jun 2026, 16:47",
+      "track": "Carnival Of The Animals: XIV. Finale",
+      "album": "Stor musik för små öron",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Slovak%20Radio%20Symphony%20Orchestra",
+      "track_url": "https://www.last.fm/music/Slovak+Radio+Symphony+Orchestra/_/Carnival+Of+The+Animals:+XIV.+Finale",
+      "graduated": false
+    },
+    "johann sebastian bach, slovak philharmonic orchestra, rudolf pribil": {
+      "artist": "Johann Sebastian Bach, Slovak Philharmonic Orchestra, Rudolf Pribil",
+      "first_discovered": "25 Jun 2026, 16:45",
+      "last_listened": "25 Jun 2026, 16:45",
+      "track": "Brandenburg Concerto No. 1 in F Major, BWV 1046: III. Allegro",
+      "album": "Bach: The Complete Brandenburg Concertos",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Slovak%20Philharmonic%20Orchestra%2C%20Rudolf%20Pribil",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+1+in+F+Major%2C+BWV+1046:+III.+Allegro",
+      "graduated": false
+    },
+    "sergei rachmaninoff, martin jacoby": {
+      "artist": "Sergei Rachmaninoff, Martin Jacoby",
+      "first_discovered": "25 Jun 2026, 16:41",
+      "last_listened": "25 Jun 2026, 16:41",
+      "track": "Rhapsody on a Theme of Paganini",
+      "album": "60 Piano Classics for Relaxation",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sergei%20Rachmaninoff%2C%20Martin%20Jacoby",
+      "track_url": "https://www.last.fm/music/Sergei+Rachmaninoff%2C+Martin+Jacoby/_/Rhapsody+on+a+Theme+of+Paganini",
+      "graduated": false
+    },
+    "carol rosenberger": {
+      "artist": "Carol Rosenberger",
+      "first_discovered": "25 Jun 2026, 16:35",
+      "last_listened": "25 Jun 2026, 16:35",
+      "track": "Menuet in G Major, BWV Anh 114",
+      "album": "Baby Needs Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carol%20Rosenberger",
+      "track_url": "https://www.last.fm/music/Carol+Rosenberger/_/Menuet+in+G+Major%2C+BWV+Anh+114",
+      "graduated": false
+    },
+    "georg friderich handel, sarah francis": {
+      "artist": "Georg Friderich Handel, Sarah Francis",
+      "first_discovered": "25 Jun 2026, 16:34",
+      "last_listened": "25 Jun 2026, 16:34",
+      "track": "Oboe Sonata in G Minor, HWV 364a: IV. Allegro",
+      "album": "Handel: Complete Oboe Concertos and Sonatas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Friderich%20Handel%2C%20Sarah%20Francis",
+      "track_url": "https://www.last.fm/music/Georg+Friderich+Handel%2C+Sarah+Francis/_/Oboe+Sonata+in+G+Minor%2C+HWV+364a:+IV.+Allegro",
       "graduated": false
     }
   }
