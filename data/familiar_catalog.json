@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25T23:00:44.190831-07:00",
+    "last_updated": "2026-06-26T22:45:05.417182-07:00",
     "username": "sugarsmax",
-    "total_artists": 312
+    "total_artists": 313
   },
   "artists": {
     "rjd2, supastition": {
@@ -2578,10 +2578,10 @@
     "forcian, idontneedalot": {
       "artist": "forcian, idontneedalot",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/forcian%2C%20idontneedalot",
-      "recent_track": "Woo 2 (feat. idontneedalot)",
-      "recent_track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Woo+2+%28feat.+idontneedalot%29",
+      "recent_track": "Odyssey",
+      "recent_track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Odyssey",
       "first_discovered": "18 Jun 2026, 15:44",
-      "last_seen": "18 Jun 2026, 15:44",
+      "last_seen": "26 Jun 2026, 13:50",
       "top_tracks": []
     },
     "idontneedalot, sabana": {
@@ -2816,6 +2816,15 @@
       "recent_track_url": "https://www.last.fm/music/Georg+Friderich+Handel%2C+Sarah+Francis/_/Oboe+Sonata+in+G+Minor%2C+HWV+364a:+IV.+Allegro",
       "first_discovered": "25 Jun 2026, 16:34",
       "last_seen": "25 Jun 2026, 16:34",
+      "top_tracks": []
+    },
+    "idontneedalot, sabanadze": {
+      "artist": "idontneedalot, Sabanadze",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/idontneedalot%2C%20Sabanadze",
+      "recent_track": "Clocks",
+      "recent_track_url": "https://www.last.fm/music/idontneedalot%2C+Sabanadze/_/Clocks",
+      "first_discovered": "26 Jun 2026, 13:55",
+      "last_seen": "26 Jun 2026, 13:55",
       "top_tracks": []
     }
   }

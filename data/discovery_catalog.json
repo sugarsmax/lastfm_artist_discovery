@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25T23:00:42.284591-07:00",
+    "last_updated": "2026-06-26T22:45:03.926723-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 356,
+    "total_discoveries": 357,
     "total_graduated": 44
   },
   "catalog": {
@@ -3182,11 +3182,11 @@
     "forcian, idontneedalot": {
       "artist": "forcian, idontneedalot",
       "first_discovered": "18 Jun 2026, 15:44",
-      "last_listened": "18 Jun 2026, 15:44",
-      "track": "Woo 2 (feat. idontneedalot)",
-      "album": "Woo 2 (feat. idontneedalot)",
+      "last_listened": "26 Jun 2026, 13:50",
+      "track": "Odyssey",
+      "album": "Odyssey",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/forcian%2C%20idontneedalot",
-      "track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Woo+2+%28feat.+idontneedalot%29",
+      "track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Odyssey",
       "graduated": false
     },
     "idontneedalot, sabana": {
@@ -3447,6 +3447,16 @@
       "album": "Handel: Complete Oboe Concertos and Sonatas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Friderich%20Handel%2C%20Sarah%20Francis",
       "track_url": "https://www.last.fm/music/Georg+Friderich+Handel%2C+Sarah+Francis/_/Oboe+Sonata+in+G+Minor%2C+HWV+364a:+IV.+Allegro",
+      "graduated": false
+    },
+    "idontneedalot, sabanadze": {
+      "artist": "idontneedalot, Sabanadze",
+      "first_discovered": "26 Jun 2026, 13:55",
+      "last_listened": "26 Jun 2026, 13:55",
+      "track": "Clocks",
+      "album": "Clocks",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/idontneedalot%2C%20Sabanadze",
+      "track_url": "https://www.last.fm/music/idontneedalot%2C+Sabanadze/_/Clocks",
       "graduated": false
     }
   }
