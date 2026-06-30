@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-28T23:27:40.793021-07:00",
+    "last_updated": "2026-06-29T23:01:01.662594-07:00",
     "username": "sugarsmax",
-    "total_artists": 313
+    "total_artists": 316
   },
   "artists": {
     "rjd2, supastition": {
@@ -1232,10 +1232,10 @@
     "harry connick, jr. trio": {
       "artist": "Harry Connick, Jr. Trio",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Harry%20Connick%2C%20Jr.%20Trio",
-      "recent_track": "Christmas Day",
-      "recent_track_url": "https://www.last.fm/music/Harry+Connick%2C+Jr.+Trio/_/Christmas+Day",
+      "recent_track": "Santarrific",
+      "recent_track_url": "https://www.last.fm/music/Harry+Connick%2C+Jr.+Trio/_/Santarrific",
       "first_discovered": "07 Apr 2026, 17:53",
-      "last_seen": "07 Apr 2026, 17:53",
+      "last_seen": "29 Jun 2026, 17:47",
       "top_tracks": []
     },
     "lutz kirchhof": {
@@ -2825,6 +2825,33 @@
       "recent_track_url": "https://www.last.fm/music/idontneedalot%2C+Sabanadze/_/Clocks",
       "first_discovered": "26 Jun 2026, 13:55",
       "last_seen": "26 Jun 2026, 13:55",
+      "top_tracks": []
+    },
+    "frédéric chopin, wolfgang leibnitz": {
+      "artist": "Frédéric Chopin, Wolfgang Leibnitz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fr%C3%A9d%C3%A9ric%20Chopin%2C%20Wolfgang%20Leibnitz",
+      "recent_track": "24 Preludes, Op. 28: Prelude No. 11 in B Major. Vivace",
+      "recent_track_url": "https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin%2C+Wolfgang+Leibnitz/_/24+Preludes%2C+Op.+28:+Prelude+No.+11+in+B+Major.+Vivace",
+      "first_discovered": "29 Jun 2026, 17:54",
+      "last_seen": "29 Jun 2026, 17:54",
+      "top_tracks": []
+    },
+    "dom & roland, fierce": {
+      "artist": "Dom & Roland, Fierce",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dom%20%26%20Roland%2C%20Fierce",
+      "recent_track": "Just Loop It",
+      "recent_track_url": "https://www.last.fm/music/Dom+%26+Roland%2C+Fierce/_/Just+Loop+It",
+      "first_discovered": "29 Jun 2026, 17:27",
+      "last_seen": "29 Jun 2026, 17:27",
+      "top_tracks": []
+    },
+    "karen ramirez": {
+      "artist": "Karen Ramirez",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Karen%20Ramirez",
+      "recent_track": "Troubled Girl",
+      "recent_track_url": "https://www.last.fm/music/Karen+Ramirez/_/Troubled+Girl",
+      "first_discovered": "29 Jun 2026, 17:21",
+      "last_seen": "29 Jun 2026, 17:21",
       "top_tracks": []
     }
   }
