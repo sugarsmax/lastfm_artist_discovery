@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-29T23:01:01.662594-07:00",
+    "last_updated": "2026-06-30T23:16:05.533607-07:00",
     "username": "sugarsmax",
-    "total_artists": 316
+    "total_artists": 318
   },
   "artists": {
     "rjd2, supastition": {
@@ -2852,6 +2852,24 @@
       "recent_track_url": "https://www.last.fm/music/Karen+Ramirez/_/Troubled+Girl",
       "first_discovered": "29 Jun 2026, 17:21",
       "last_seen": "29 Jun 2026, 17:21",
+      "top_tracks": []
+    },
+    "dj krush, hideo": {
+      "artist": "DJ Krush, Hideo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Krush%2C%20Hideo",
+      "recent_track": "1200",
+      "recent_track_url": "https://www.last.fm/music/DJ+Krush%2C+Hideo/_/1200",
+      "first_discovered": "30 Jun 2026, 16:29",
+      "last_seen": "30 Jun 2026, 16:29",
+      "top_tracks": []
+    },
+    "method man, mary j. blige": {
+      "artist": "Method Man, Mary J. Blige",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Method%20Man%2C%20Mary%20J.%20Blige",
+      "recent_track": "I'll Be There for You/You're All I Need to Get By",
+      "recent_track_url": "https://www.last.fm/music/Method+Man%2C+Mary+J.+Blige/_/I'll+Be+There+for+You%2FYou're+All+I+Need+to+Get+By",
+      "first_discovered": "30 Jun 2026, 16:24",
+      "last_seen": "30 Jun 2026, 16:24",
       "top_tracks": []
     }
   }
