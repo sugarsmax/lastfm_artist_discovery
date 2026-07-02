@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-30T23:16:04.082412-07:00",
+    "last_updated": "2026-07-01T22:48:51.953306-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 362,
+    "total_discoveries": 366,
     "total_graduated": 44
   },
   "catalog": {
@@ -3413,11 +3413,11 @@
     "johann sebastian bach, slovak philharmonic orchestra, rudolf pribil": {
       "artist": "Johann Sebastian Bach, Slovak Philharmonic Orchestra, Rudolf Pribil",
       "first_discovered": "25 Jun 2026, 16:45",
-      "last_listened": "25 Jun 2026, 16:45",
-      "track": "Brandenburg Concerto No. 1 in F Major, BWV 1046: III. Allegro",
+      "last_listened": "25 Jun 2026, 16:38",
+      "track": "Brandenburg Concerto No. 4 in G Major, BWV 1049: II. Andante",
       "album": "Bach: The Complete Brandenburg Concertos",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Slovak%20Philharmonic%20Orchestra%2C%20Rudolf%20Pribil",
-      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+1+in+F+Major%2C+BWV+1046:+III.+Allegro",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+4+in+G+Major%2C+BWV+1049:+II.+Andante",
       "graduated": false
     },
     "sergei rachmaninoff, martin jacoby": {
@@ -3443,7 +3443,7 @@
     "georg friderich handel, sarah francis": {
       "artist": "Georg Friderich Handel, Sarah Francis",
       "first_discovered": "25 Jun 2026, 16:34",
-      "last_listened": "25 Jun 2026, 16:34",
+      "last_listened": "01 Jul 2026, 12:59",
       "track": "Oboe Sonata in G Minor, HWV 364a: IV. Allegro",
       "album": "Handel: Complete Oboe Concertos and Sonatas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Friderich%20Handel%2C%20Sarah%20Francis",
@@ -3508,6 +3508,46 @@
       "album": "I'll Be There For You/ You're All I Need To Get By",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Method%20Man%2C%20Mary%20J.%20Blige",
       "track_url": "https://www.last.fm/music/Method+Man%2C+Mary+J.+Blige/_/I'll+Be+There+for+You%2FYou're+All+I+Need+to+Get+By",
+      "graduated": false
+    },
+    "samuel kim": {
+      "artist": "Samuel Kim",
+      "first_discovered": "01 Jul 2026, 19:23",
+      "last_listened": "01 Jul 2026, 19:23",
+      "track": "Toss a Coin to Your Witcher (feat. Black Gryph0n)",
+      "album": "Toss a Coin to Your Witcher (feat. Black Gryph0n) (Cover)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Samuel%20Kim",
+      "track_url": "https://www.last.fm/music/Samuel+Kim/_/Toss+a+Coin+to+Your+Witcher+%28feat.+Black+Gryph0n%29",
+      "graduated": false
+    },
+    "damian marley": {
+      "artist": "Damian Marley",
+      "first_discovered": "01 Jul 2026, 19:14",
+      "last_listened": "01 Jul 2026, 19:14",
+      "track": "Harder (Interlude)",
+      "album": "Halfway Tree",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Damian%20Marley",
+      "track_url": "https://www.last.fm/music/Damian+Marley/_/Harder+%28Interlude%29",
+      "graduated": false
+    },
+    "duke ellington and his famous orchestra, duke ellington": {
+      "artist": "Duke Ellington and his Famous Orchestra, Duke Ellington",
+      "first_discovered": "01 Jul 2026, 19:01",
+      "last_listened": "01 Jul 2026, 19:01",
+      "track": "Dusk",
+      "album": "Never No Lament: The Blanton-Webster Band",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duke%20Ellington%20and%20his%20Famous%20Orchestra%2C%20Duke%20Ellington",
+      "track_url": "https://www.last.fm/music/Duke+Ellington+and+his+Famous+Orchestra%2C+Duke+Ellington/_/Dusk",
+      "graduated": false
+    },
+    "andy mineo, lecrae": {
+      "artist": "Andy Mineo, Lecrae",
+      "first_discovered": "01 Jul 2026, 11:38",
+      "last_listened": "01 Jul 2026, 11:38",
+      "track": "Been About It",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andy%20Mineo%2C%20Lecrae",
+      "track_url": "https://www.last.fm/music/Andy+Mineo%2C+Lecrae/_/Been+About+It",
       "graduated": false
     }
   }

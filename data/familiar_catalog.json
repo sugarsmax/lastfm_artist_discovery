@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-30T23:16:05.533607-07:00",
+    "last_updated": "2026-07-01T22:48:53.927896-07:00",
     "username": "sugarsmax",
-    "total_artists": 318
+    "total_artists": 322
   },
   "artists": {
     "rjd2, supastition": {
@@ -2785,10 +2785,10 @@
     "johann sebastian bach, slovak philharmonic orchestra, rudolf pribil": {
       "artist": "Johann Sebastian Bach, Slovak Philharmonic Orchestra, Rudolf Pribil",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Slovak%20Philharmonic%20Orchestra%2C%20Rudolf%20Pribil",
-      "recent_track": "Brandenburg Concerto No. 1 in F Major, BWV 1046: III. Allegro",
-      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+1+in+F+Major%2C+BWV+1046:+III.+Allegro",
+      "recent_track": "Brandenburg Concerto No. 4 in G Major, BWV 1049: II. Andante",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+4+in+G+Major%2C+BWV+1049:+II.+Andante",
       "first_discovered": "25 Jun 2026, 16:45",
-      "last_seen": "25 Jun 2026, 16:45",
+      "last_seen": "25 Jun 2026, 16:38",
       "top_tracks": []
     },
     "sergei rachmaninoff, martin jacoby": {
@@ -2815,7 +2815,7 @@
       "recent_track": "Oboe Sonata in G Minor, HWV 364a: IV. Allegro",
       "recent_track_url": "https://www.last.fm/music/Georg+Friderich+Handel%2C+Sarah+Francis/_/Oboe+Sonata+in+G+Minor%2C+HWV+364a:+IV.+Allegro",
       "first_discovered": "25 Jun 2026, 16:34",
-      "last_seen": "25 Jun 2026, 16:34",
+      "last_seen": "01 Jul 2026, 12:59",
       "top_tracks": []
     },
     "idontneedalot, sabanadze": {
@@ -2870,6 +2870,42 @@
       "recent_track_url": "https://www.last.fm/music/Method+Man%2C+Mary+J.+Blige/_/I'll+Be+There+for+You%2FYou're+All+I+Need+to+Get+By",
       "first_discovered": "30 Jun 2026, 16:24",
       "last_seen": "30 Jun 2026, 16:24",
+      "top_tracks": []
+    },
+    "samuel kim": {
+      "artist": "Samuel Kim",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Samuel%20Kim",
+      "recent_track": "Toss a Coin to Your Witcher (feat. Black Gryph0n)",
+      "recent_track_url": "https://www.last.fm/music/Samuel+Kim/_/Toss+a+Coin+to+Your+Witcher+%28feat.+Black+Gryph0n%29",
+      "first_discovered": "01 Jul 2026, 19:23",
+      "last_seen": "01 Jul 2026, 19:23",
+      "top_tracks": []
+    },
+    "damian marley": {
+      "artist": "Damian Marley",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Damian%20Marley",
+      "recent_track": "Harder (Interlude)",
+      "recent_track_url": "https://www.last.fm/music/Damian+Marley/_/Harder+%28Interlude%29",
+      "first_discovered": "01 Jul 2026, 19:14",
+      "last_seen": "01 Jul 2026, 19:14",
+      "top_tracks": []
+    },
+    "duke ellington and his famous orchestra, duke ellington": {
+      "artist": "Duke Ellington and his Famous Orchestra, Duke Ellington",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duke%20Ellington%20and%20his%20Famous%20Orchestra%2C%20Duke%20Ellington",
+      "recent_track": "Dusk",
+      "recent_track_url": "https://www.last.fm/music/Duke+Ellington+and+his+Famous+Orchestra%2C+Duke+Ellington/_/Dusk",
+      "first_discovered": "01 Jul 2026, 19:01",
+      "last_seen": "01 Jul 2026, 19:01",
+      "top_tracks": []
+    },
+    "andy mineo, lecrae": {
+      "artist": "Andy Mineo, Lecrae",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andy%20Mineo%2C%20Lecrae",
+      "recent_track": "Been About It",
+      "recent_track_url": "https://www.last.fm/music/Andy+Mineo%2C+Lecrae/_/Been+About+It",
+      "first_discovered": "01 Jul 2026, 11:38",
+      "last_seen": "01 Jul 2026, 11:38",
       "top_tracks": []
     }
   }
