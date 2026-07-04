@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-04T10:40:25.238661-07:00",
+    "last_updated": "2026-07-04T11:01:20.027810-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 367,
+    "total_discoveries": 368,
     "total_graduated": 44
   },
   "catalog": {
@@ -3558,6 +3558,16 @@
       "album": "Corporeal",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jon%20Kennedy",
       "track_url": "https://www.last.fm/music/Jon+Kennedy/_/Tonto+Rides+the+Gain",
+      "graduated": false
+    },
+    "the witcher": {
+      "artist": "The Witcher",
+      "first_discovered": "04 Jul 2026, 10:57",
+      "last_listened": "04 Jul 2026, 10:57",
+      "track": "EPIC VERSION (feat. @Black Gryph0n )",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Witcher",
+      "track_url": "https://www.last.fm/music/The+Witcher/_/EPIC+VERSION+%28feat.+%40Black+Gryph0n+%29",
       "graduated": false
     }
   }
