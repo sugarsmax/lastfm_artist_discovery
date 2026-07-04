@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-07-02T22:43:10.787175-07:00",
+    "last_updated": "2026-07-03T22:36:45.555925-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 366,
+    "total_discoveries": 367,
     "total_graduated": 44
   },
   "catalog": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_listened": "16 May 2026, 20:21",
-      "track": "Reset (Better Friends)",
+      "last_listened": "03 Jul 2026, 16:58",
+      "track": "One Last Time",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
-      "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/Reset+%28Better+Friends%29",
+      "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
       "graduated": false,
       "album": "According To..."
     },
@@ -2476,7 +2476,7 @@
     "eli brown": {
       "artist": "Eli Brown",
       "first_discovered": "18 May 2026, 14:52",
-      "last_listened": "18 May 2026, 14:52",
+      "last_listened": "03 Jul 2026, 16:57",
       "track": "Diamonds On My Mind",
       "album": "Diamonds On My Mind",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eli%20Brown",
@@ -3548,6 +3548,16 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andy%20Mineo%2C%20Lecrae",
       "track_url": "https://www.last.fm/music/Andy+Mineo%2C+Lecrae/_/Been+About+It",
+      "graduated": false
+    },
+    "jon kennedy": {
+      "artist": "Jon Kennedy",
+      "first_discovered": "03 Jul 2026, 16:59",
+      "last_listened": "03 Jul 2026, 16:59",
+      "track": "Tonto Rides the Gain",
+      "album": "Corporeal",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jon%20Kennedy",
+      "track_url": "https://www.last.fm/music/Jon+Kennedy/_/Tonto+Rides+the+Gain",
       "graduated": false
     }
   }

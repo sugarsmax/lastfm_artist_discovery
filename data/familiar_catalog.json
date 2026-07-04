@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-02T22:43:12.530309-07:00",
+    "last_updated": "2026-07-03T22:36:47.141063-07:00",
     "username": "sugarsmax",
-    "total_artists": 322
+    "total_artists": 323
   },
   "artists": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
-      "recent_track": "Reset (Better Friends)",
-      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/Reset+%28Better+Friends%29",
+      "recent_track": "One Last Time",
+      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_seen": "16 May 2026, 20:21",
+      "last_seen": "03 Jul 2026, 16:58",
       "top_tracks": []
     },
     "leon mccawley": {
@@ -2113,7 +2113,7 @@
       "recent_track": "Diamonds On My Mind",
       "recent_track_url": "https://www.last.fm/music/Eli+Brown/_/Diamonds+On+My+Mind",
       "first_discovered": "18 May 2026, 14:52",
-      "last_seen": "18 May 2026, 14:52",
+      "last_seen": "03 Jul 2026, 16:57",
       "top_tracks": []
     },
     "jazzy": {
@@ -2906,6 +2906,15 @@
       "recent_track_url": "https://www.last.fm/music/Andy+Mineo%2C+Lecrae/_/Been+About+It",
       "first_discovered": "01 Jul 2026, 11:38",
       "last_seen": "01 Jul 2026, 11:38",
+      "top_tracks": []
+    },
+    "jon kennedy": {
+      "artist": "Jon Kennedy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jon%20Kennedy",
+      "recent_track": "Tonto Rides the Gain",
+      "recent_track_url": "https://www.last.fm/music/Jon+Kennedy/_/Tonto+Rides+the+Gain",
+      "first_discovered": "03 Jul 2026, 16:59",
+      "last_seen": "03 Jul 2026, 16:59",
       "top_tracks": []
     }
   }
