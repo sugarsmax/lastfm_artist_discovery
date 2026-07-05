@@ -4,18 +4,18 @@ Find New Artist Discoveries from Last.fm
 
 Maintains a living catalog of new artists discovered in the past week.
 Any artist listened to in the past 7 days that doesn't appear in the
-user's all-time top 1000 artists is added to the catalog, or has their
+user's all-time top 500 artists is added to the catalog, or has their
 `last_listened` date updated.
 
 Workflow:
 1. Load existing discovery catalog (data/discovery_catalog.json)
 2. Fetch all scrobbles from the last 7 days via user.get_recent_tracks()
 3. Group by artist, identifying the most recent track for each
-4. Fetch all-time top 1000 artists via user.get_top_artists()
-5. For each recent artist not in the top 1000:
+4. Fetch all-time top 500 artists via user.get_top_artists()
+5. For each recent artist not in the top 500:
     - Add to catalog if new
     - Update last_listened and track if already in catalog
-6. Check if any catalog artists have "graduated" into the top 1000
+6. Check if any catalog artists have "graduated" into the top 500
 7. Save updated catalog
 
 Supports:
@@ -186,7 +186,7 @@ SAMPLE_RECENT_TRACKS = [
     {"artist": "Mitsuko Uchida", "track": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 'Moonlight': I. Adagio sostenuto", "album": "Beethoven: Piano Sonatas", "timestamp": "2026-02-13 22:00"},
     {"artist": "Vienna Philharmonic", "track": "The Magic Flute, K. 620: Overture", "album": "Mozart: The Magic Flute", "timestamp": "2026-02-12 09:15"},
     {"artist": "Hilary Hahn", "track": "Violin Concerto in D Major, Op. 77: I. Allegro non troppo", "album": "Brahms: Violin Concerto", "timestamp": "2026-02-11 20:00"},
-    # Multi-scrobble artists (should be excluded if in Top 1000, included if new)
+    # Multi-scrobble artists (should be excluded if in Top 500, included if new)
     {"artist": "Radiohead", "track": "Everything In Its Right Place", "album": "Kid A", "timestamp": "2026-02-16 10:00"},
     {"artist": "Radiohead", "track": "Idioteque", "album": "Kid A", "timestamp": "2026-02-15 09:30"},
     {"artist": "Radiohead", "track": "The National Anthem", "album": "Kid A", "timestamp": "2026-02-14 08:00"},
@@ -198,7 +198,7 @@ SAMPLE_RECENT_TRACKS = [
 ]
 
 SAMPLE_TOP_ARTISTS = [
-    # Simulated all-time top 1000 (abbreviated)
+    # Simulated all-time top 500 (abbreviated)
     "Radiohead", "Tame Impala", "Khruangbin", "BADBADNOTGOOD",
     "Floating Points", "Little Simz", "Sault",
     "Boards of Canada", "Aphex Twin", "Four Tet",
@@ -292,7 +292,7 @@ def fetch_recent_tracks(
 
 def fetch_top_artists(
     username: str,
-    limit: int = 1000,
+    limit: int = 500,
     dry_run: bool = False,
     cached_state: dict | None = None,
 ) -> set[str]:
@@ -404,7 +404,7 @@ def update_catalog(
     for key, track_info in latest_tracks.items():
         artist_display = track_info["artist"]
         
-        # Skip if they are in the all-time Top 1000
+        # Skip if they are in the all-time Top 500
         if key in top_artists:
             stats["matched_to_top"] += 1
             continue
@@ -451,11 +451,11 @@ def print_results(stats: dict, catalog: dict) -> None:
     print("=" * 72)
     print()
     print(f"  Unique artists heard this week: {stats['unique_artists_this_week']:>5}")
-    print(f"  Already in all-time Top 1000:   {stats['matched_to_top']:>5}")
+    print(f"  Already in all-time Top 500:    {stats['matched_to_top']:>5}")
     print(f"  Brand new discoveries added:    {stats['new_to_catalog']:>5}")
     print(f"  Existing discoveries updated:   {stats['updated_in_catalog']:>5}")
     if stats["graduated_to_top"] > 0:
-        print(f"  Graduated to Top 1000:          {stats['graduated_to_top']:>5}")
+        print(f"  Graduated to Top 500:           {stats['graduated_to_top']:>5}")
     print()
     
     if stats["new_to_catalog"] == 0 and stats["updated_in_catalog"] == 0:
@@ -515,7 +515,7 @@ def main():
     parser = argparse.ArgumentParser(
         description=(
             "Maintain a catalog of new artist discoveries from the "
-            "last 7 days that are not in your all-time top 1000."
+            "last 7 days that are not in your all-time top 500."
         )
     )
     parser.add_argument(
@@ -537,8 +537,8 @@ def main():
     parser.add_argument(
         "--top-limit", "-t",
         type=int,
-        default=1000,
-        help="Number of all-time top artists to compare against (default: 1000)",
+        default=500,
+        help="Number of all-time top artists to compare against (default: 500)",
     )
     parser.add_argument(
         "--no-cache",

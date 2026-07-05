@@ -31,6 +31,21 @@ document.addEventListener("DOMContentLoaded", () => {
   searchInput.addEventListener("input", renderGrid);
   sortSelect.addEventListener("change", renderGrid);
 
+  function artistLinks(artist) {
+    if (!artist.artist.includes(",")) {
+      return `<a href="${artist.artist_url}" target="_blank" class="artist-name">${artist.artist}</a>`;
+    }
+    return artist.artist
+      .split(",")
+      .map(name => name.trim())
+      .filter(Boolean)
+      .map(name => {
+        const url = `https://www.last.fm/user/${metadata.username}/library/music/${encodeURIComponent(name)}`;
+        return `<a href="${url}" target="_blank" class="artist-name">${name}</a>`;
+      })
+      .join(", ");
+  }
+
   function updateHeader() {
     const statsBar = document.getElementById("stats");
     const withTracks = allArtists.filter(a => a.top_tracks && a.top_tracks.length > 0).length;
@@ -93,10 +108,12 @@ document.addEventListener("DOMContentLoaded", () => {
           </ol>`
         : `<p class="top-tracks-empty">No tracks in your top 500</p>`;
 
+      const tidalSearchUrl = `https://tidal.com/search?q=${encodeURIComponent(artist.artist + " " + artist.recent_track)}`;
+
       return `
         <div class="card">
           <div class="card-header">
-            <a href="${artist.artist_url}" target="_blank" class="artist-name">${artist.artist}</a>
+            ${artistLinks(artist)}
             <span class="badge ${badgeClass}">${badgeText}</span>
           </div>
           <div class="card-body">
@@ -108,6 +125,10 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="track-label">Your Top Tracks</div>
               ${topTracksHtml}
             </div>
+          </div>
+          <div class="card-actions">
+            <a href="${artist.artist_url}" target="_blank" class="btn btn-lastfm">Last.fm</a>
+            <a href="${tidalSearchUrl}" target="_blank" class="btn btn-tidal">Tidal</a>
           </div>
           <div class="meta-info">
             <div class="meta-row">

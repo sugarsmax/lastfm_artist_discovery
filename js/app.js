@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const statsBar = document.getElementById('stats');
         statsBar.innerHTML = `
             <div class="stat-item">Total Discoveries: <span>${metadata.total_discoveries}</span></div>
-            <div class="stat-item">Graduated to Top 1000: <span>${metadata.total_graduated}</span></div>
+            <div class="stat-item">Graduated to Top 500: <span>${metadata.total_graduated}</span></div>
         `;
 
         const lastUpdated = document.getElementById('lastUpdated');
