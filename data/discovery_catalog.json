@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-04T22:54:36.445202-07:00",
+    "last_updated": "2026-07-05T23:17:50.855897-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 368,
+    "total_discoveries": 370,
     "total_graduated": 44
   },
   "catalog": {
@@ -555,12 +555,13 @@
     "víkingur ólafsson": {
       "artist": "Víkingur Ólafsson",
       "first_discovered": "20 Feb 2026, 15:55",
-      "last_listened": "14 Apr 2026, 14:57",
-      "track": "J.S. Bach: Goldberg Variations, BWV 988: Var. 1",
+      "last_listened": "30 Jun 2026, 18:04",
+      "track": "J.S. Bach: Sinfonia No. 15 in B Minor, BWV 801",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
-      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Goldberg+Variations%2C+BWV+988:+Var.+1",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Sinfonia+No.+15+in+B+Minor%2C+BWV+801",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474062-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474062-08:00",
+      "album": "The Best Bach"
     },
     "andrás schiff": {
       "artist": "András Schiff",
@@ -3568,6 +3569,26 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Witcher",
       "track_url": "https://www.last.fm/music/The+Witcher/_/EPIC+VERSION+%28feat.+%40Black+Gryph0n+%29",
+      "graduated": false
+    },
+    "gwen stefani": {
+      "artist": "Gwen Stefani",
+      "first_discovered": "29 Jun 2026, 17:16",
+      "last_listened": "29 Jun 2026, 17:16",
+      "track": "Rich Girl",
+      "album": "Love. Angel. Music. Baby. (Deluxe Version)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gwen%20Stefani",
+      "track_url": "https://www.last.fm/music/Gwen+Stefani/_/Rich+Girl",
+      "graduated": false
+    },
+    "blur": {
+      "artist": "Blur",
+      "first_discovered": "28 Jun 2026, 23:40",
+      "last_listened": "28 Jun 2026, 23:40",
+      "track": "Sing",
+      "album": "Midlife: A Beginner's Guide To Blur",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blur",
+      "track_url": "https://www.last.fm/music/Blur/_/Sing",
       "graduated": false
     }
   }

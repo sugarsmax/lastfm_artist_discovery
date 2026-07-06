@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-04T22:54:38.032328-07:00",
+    "last_updated": "2026-07-05T23:17:52.279440-07:00",
     "username": "sugarsmax",
-    "total_artists": 324
+    "total_artists": 326
   },
   "artists": {
     "rjd2, supastition": {
@@ -2924,6 +2924,24 @@
       "recent_track_url": "https://www.last.fm/music/The+Witcher/_/EPIC+VERSION+%28feat.+%40Black+Gryph0n+%29",
       "first_discovered": "04 Jul 2026, 10:57",
       "last_seen": "04 Jul 2026, 10:57",
+      "top_tracks": []
+    },
+    "gwen stefani": {
+      "artist": "Gwen Stefani",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gwen%20Stefani",
+      "recent_track": "Rich Girl",
+      "recent_track_url": "https://www.last.fm/music/Gwen+Stefani/_/Rich+Girl",
+      "first_discovered": "29 Jun 2026, 17:16",
+      "last_seen": "29 Jun 2026, 17:16",
+      "top_tracks": []
+    },
+    "blur": {
+      "artist": "Blur",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blur",
+      "recent_track": "Sing",
+      "recent_track_url": "https://www.last.fm/music/Blur/_/Sing",
+      "first_discovered": "28 Jun 2026, 23:40",
+      "last_seen": "28 Jun 2026, 23:40",
       "top_tracks": []
     }
   }
