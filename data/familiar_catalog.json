@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T23:04:55.856955-07:00",
+    "last_updated": "2026-07-09T22:54:03.316844-07:00",
     "username": "sugarsmax",
-    "total_artists": 329
+    "total_artists": 330
   },
   "artists": {
     "rjd2, supastition": {
@@ -2969,6 +2969,15 @@
       "recent_track_url": "https://www.last.fm/music/Re/_/Arranged",
       "first_discovered": "08 Jul 2026, 22:20",
       "last_seen": "08 Jul 2026, 22:20",
+      "top_tracks": []
+    },
+    "ross meets russ": {
+      "artist": "Ross Meets Russ",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ross%20Meets%20Russ",
+      "recent_track": "Friends",
+      "recent_track_url": "https://www.last.fm/music/Ross+Meets+Russ/_/Friends",
+      "first_discovered": "09 Jul 2026, 14:01",
+      "last_seen": "09 Jul 2026, 14:01",
       "top_tracks": []
     }
   }

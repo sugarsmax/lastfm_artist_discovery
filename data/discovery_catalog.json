@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T23:04:53.924126-07:00",
+    "last_updated": "2026-07-09T22:54:01.063938-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 373,
+    "total_discoveries": 374,
     "total_graduated": 44
   },
   "catalog": {
@@ -3619,6 +3619,16 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Re",
       "track_url": "https://www.last.fm/music/Re/_/Arranged",
+      "graduated": false
+    },
+    "ross meets russ": {
+      "artist": "Ross Meets Russ",
+      "first_discovered": "09 Jul 2026, 14:01",
+      "last_listened": "09 Jul 2026, 14:01",
+      "track": "Friends",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ross%20Meets%20Russ",
+      "track_url": "https://www.last.fm/music/Ross+Meets+Russ/_/Friends",
       "graduated": false
     }
   }
