@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-09T22:54:03.316844-07:00",
+    "last_updated": "2026-07-10T21:53:10.126494-07:00",
     "username": "sugarsmax",
-    "total_artists": 330
+    "total_artists": 332
   },
   "artists": {
     "rjd2, supastition": {
@@ -11,7 +11,7 @@
       "recent_track": "One Last Time",
       "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_seen": "03 Jul 2026, 16:58",
+      "last_seen": "10 Jul 2026, 16:04",
       "top_tracks": []
     },
     "leon mccawley": {
@@ -2113,7 +2113,7 @@
       "recent_track": "Diamonds On My Mind",
       "recent_track_url": "https://www.last.fm/music/Eli+Brown/_/Diamonds+On+My+Mind",
       "first_discovered": "18 May 2026, 14:52",
-      "last_seen": "03 Jul 2026, 16:57",
+      "last_seen": "10 Jul 2026, 16:03",
       "top_tracks": []
     },
     "jazzy": {
@@ -2578,10 +2578,10 @@
     "forcian, idontneedalot": {
       "artist": "forcian, idontneedalot",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/forcian%2C%20idontneedalot",
-      "recent_track": "Muza II",
-      "recent_track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Muza+II",
+      "recent_track": "Odyssey",
+      "recent_track_url": "https://www.last.fm/music/forcian%2C+idontneedalot/_/Odyssey",
       "first_discovered": "18 Jun 2026, 15:44",
-      "last_seen": "02 Jul 2026, 16:31",
+      "last_seen": "10 Jul 2026, 16:58",
       "top_tracks": []
     },
     "idontneedalot, sabana": {
@@ -2947,10 +2947,10 @@
     "limp bizkit": {
       "artist": "Limp Bizkit",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Limp%20Bizkit",
-      "recent_track": "Break Stuff",
-      "recent_track_url": "https://www.last.fm/music/Limp+Bizkit/_/Break+Stuff",
+      "recent_track": "Re-Arranged",
+      "recent_track_url": "https://www.last.fm/music/Limp+Bizkit/_/Re-Arranged",
       "first_discovered": "08 Jul 2026, 22:24",
-      "last_seen": "08 Jul 2026, 22:24",
+      "last_seen": "10 Jul 2026, 15:16",
       "top_tracks": []
     },
     "pete cottrell": {
@@ -2978,6 +2978,24 @@
       "recent_track_url": "https://www.last.fm/music/Ross+Meets+Russ/_/Friends",
       "first_discovered": "09 Jul 2026, 14:01",
       "last_seen": "09 Jul 2026, 14:01",
+      "top_tracks": []
+    },
+    "harold alexander": {
+      "artist": "Harold Alexander",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Harold%20Alexander",
+      "recent_track": "Mama Soul",
+      "recent_track_url": "https://www.last.fm/music/Harold+Alexander/_/Mama+Soul",
+      "first_discovered": "10 Jul 2026, 16:37",
+      "last_seen": "10 Jul 2026, 16:37",
+      "top_tracks": []
+    },
+    "16b, omid 16b": {
+      "artist": "16B, Omid 16B",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/16B%2C%20Omid%2016B",
+      "recent_track": "Inbetween Your Choice",
+      "recent_track_url": "https://www.last.fm/music/16B%2C+Omid+16B/_/Inbetween+Your+Choice",
+      "first_discovered": "10 Jul 2026, 16:13",
+      "last_seen": "10 Jul 2026, 16:13",
       "top_tracks": []
     }
   }
