@@ -40,3 +40,6 @@ venv.bak/
 # App Data
 data/state.json
 data/familiar_state.json
+
+# Extension build artifacts
+tools/open-in-github-pages/*.vsix

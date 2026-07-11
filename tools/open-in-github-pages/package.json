@@ -1,0 +1,34 @@
+{
+  "name": "open-in-github-pages",
+  "displayName": "Open in GitHub Pages",
+  "description": "Right-click an HTML file to open it on the GitHub Pages deployment.",
+  "version": "0.1.0",
+  "engines": { "vscode": "^1.75.0" },
+  "categories": ["Other"],
+  "activationEvents": ["onCommand:open-in-github-pages.open"],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "open-in-github-pages.open",
+        "title": "Open in GitHub Pages"
+      }
+    ],
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "open-in-github-pages.open",
+          "when": "resourceExtname == .html",
+          "group": "navigation@99"
+        }
+      ],
+      "editor/title/context": [
+        {
+          "command": "open-in-github-pages.open",
+          "when": "resourceExtname == .html",
+          "group": "navigation@99"
+        }
+      ]
+    }
+  }
+}
