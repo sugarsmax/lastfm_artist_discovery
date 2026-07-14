@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T22:25:18.506674-07:00",
+    "last_updated": "2026-07-13T21:40:06.076071-07:00",
     "username": "sugarsmax",
-    "total_artists": 332
+    "total_artists": 337
   },
   "artists": {
     "rjd2, supastition": {
@@ -2996,6 +2996,51 @@
       "recent_track_url": "https://www.last.fm/music/16B%2C+Omid+16B/_/Inbetween+Your+Choice",
       "first_discovered": "10 Jul 2026, 16:13",
       "last_seen": "10 Jul 2026, 16:13",
+      "top_tracks": []
+    },
+    "piotr anderszewski": {
+      "artist": "Piotr Anderszewski",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Piotr%20Anderszewski",
+      "recent_track": "Piano Sonata No. 14 in C Minor, K. 457: II. Adagio",
+      "recent_track_url": "https://www.last.fm/music/Piotr+Anderszewski/_/Piano+Sonata+No.+14+in+C+Minor%2C+K.+457:+II.+Adagio",
+      "first_discovered": "13 Jul 2026, 14:06",
+      "last_seen": "13 Jul 2026, 14:06",
+      "top_tracks": []
+    },
+    "enrique bagaría": {
+      "artist": "Enrique Bagaría",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Enrique%20Bagar%C3%ADa",
+      "recent_track": "Piano Sonata No. 31 in A-Flat Major, Hob. XVI: 46: II. Adagio",
+      "recent_track_url": "https://www.last.fm/music/Enrique+Bagar%C3%ADa/_/Piano+Sonata+No.+31+in+A-Flat+Major%2C+Hob.+XVI:+46:+II.+Adagio",
+      "first_discovered": "13 Jul 2026, 13:41",
+      "last_seen": "13 Jul 2026, 13:41",
+      "top_tracks": []
+    },
+    "wolfgang plagge, piotr janowski": {
+      "artist": "Wolfgang Plagge, Piotr Janowski",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Plagge%2C%20Piotr%20Janowski",
+      "recent_track": "Wieniawski: Rêverie",
+      "recent_track_url": "https://www.last.fm/music/Wolfgang+Plagge%2C+Piotr+Janowski/_/Wieniawski:+R%C3%AAverie",
+      "first_discovered": "13 Jul 2026, 13:30",
+      "last_seen": "13 Jul 2026, 13:30",
+      "top_tracks": []
+    },
+    "niu niu": {
+      "artist": "Niu Niu",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Niu%20Niu",
+      "recent_track": "Schubert: Schubert: Impromptu In G Flat, D899, No. 3",
+      "recent_track_url": "https://www.last.fm/music/Niu+Niu/_/Schubert:+Schubert:+Impromptu+In+G+Flat%2C+D899%2C+No.+3",
+      "first_discovered": "13 Jul 2026, 13:16",
+      "last_seen": "13 Jul 2026, 13:16",
+      "top_tracks": []
+    },
+    "josep colom": {
+      "artist": "Josep Colom",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Josep%20Colom",
+      "recent_track": "The Well-Tempered Clavier, Book I, BWV 853: No. 8 in E-Flat Minor, Prelude",
+      "recent_track_url": "https://www.last.fm/music/Josep+Colom/_/The+Well-Tempered+Clavier%2C+Book+I%2C+BWV+853:+No.+8+in+E-Flat+Minor%2C+Prelude",
+      "first_discovered": "13 Jul 2026, 13:10",
+      "last_seen": "13 Jul 2026, 13:10",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T22:25:16.816145-07:00",
+    "last_updated": "2026-07-13T21:40:04.435335-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 376,
+    "total_discoveries": 381,
     "total_graduated": 44
   },
   "catalog": {
@@ -555,13 +555,13 @@
     "víkingur ólafsson": {
       "artist": "Víkingur Ólafsson",
       "first_discovered": "20 Feb 2026, 15:55",
-      "last_listened": "30 Jun 2026, 18:04",
-      "track": "J.S. Bach: Sinfonia No. 15 in B Minor, BWV 801",
+      "last_listened": "13 Jul 2026, 13:33",
+      "track": "J.S. Bach: Suite from the Partita No. 3 in E Major for Solo Violin, BWV 1006: II. Gavotte (Transcr. by Sergey Rachmaninov)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
-      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Sinfonia+No.+15+in+B+Minor%2C+BWV+801",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Suite+from+the+Partita+No.+3+in+E+Major+for+Solo+Violin%2C+BWV+1006:+II.+Gavotte+%28Transcr.+by+Sergey+Rachmaninov%29",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474062-08:00",
-      "album": "The Best Bach"
+      "album": "Johann Sebastian Bach"
     },
     "andrás schiff": {
       "artist": "András Schiff",
@@ -3649,6 +3649,56 @@
       "album": "How To Live 100 Years",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/16B%2C%20Omid%2016B",
       "track_url": "https://www.last.fm/music/16B%2C+Omid+16B/_/Inbetween+Your+Choice",
+      "graduated": false
+    },
+    "piotr anderszewski": {
+      "artist": "Piotr Anderszewski",
+      "first_discovered": "13 Jul 2026, 14:06",
+      "last_listened": "13 Jul 2026, 14:06",
+      "track": "Piano Sonata No. 14 in C Minor, K. 457: II. Adagio",
+      "album": "Fantaisies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Piotr%20Anderszewski",
+      "track_url": "https://www.last.fm/music/Piotr+Anderszewski/_/Piano+Sonata+No.+14+in+C+Minor%2C+K.+457:+II.+Adagio",
+      "graduated": false
+    },
+    "enrique bagaría": {
+      "artist": "Enrique Bagaría",
+      "first_discovered": "13 Jul 2026, 13:41",
+      "last_listened": "13 Jul 2026, 13:41",
+      "track": "Piano Sonata No. 31 in A-Flat Major, Hob. XVI: 46: II. Adagio",
+      "album": "Enrique Bagaría plays Haydn",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Enrique%20Bagar%C3%ADa",
+      "track_url": "https://www.last.fm/music/Enrique+Bagar%C3%ADa/_/Piano+Sonata+No.+31+in+A-Flat+Major%2C+Hob.+XVI:+46:+II.+Adagio",
+      "graduated": false
+    },
+    "wolfgang plagge, piotr janowski": {
+      "artist": "Wolfgang Plagge, Piotr Janowski",
+      "first_discovered": "13 Jul 2026, 13:30",
+      "last_listened": "13 Jul 2026, 13:30",
+      "track": "Wieniawski: Rêverie",
+      "album": "Wieniawski, Vol. 1",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Plagge%2C%20Piotr%20Janowski",
+      "track_url": "https://www.last.fm/music/Wolfgang+Plagge%2C+Piotr+Janowski/_/Wieniawski:+R%C3%AAverie",
+      "graduated": false
+    },
+    "niu niu": {
+      "artist": "Niu Niu",
+      "first_discovered": "13 Jul 2026, 13:16",
+      "last_listened": "13 Jul 2026, 13:16",
+      "track": "Schubert: Schubert: Impromptu In G Flat, D899, No. 3",
+      "album": "Liszt · Chopin ‧ Schubert ‧ Mendelssohn",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Niu%20Niu",
+      "track_url": "https://www.last.fm/music/Niu+Niu/_/Schubert:+Schubert:+Impromptu+In+G+Flat%2C+D899%2C+No.+3",
+      "graduated": false
+    },
+    "josep colom": {
+      "artist": "Josep Colom",
+      "first_discovered": "13 Jul 2026, 13:10",
+      "last_listened": "13 Jul 2026, 13:10",
+      "track": "The Well-Tempered Clavier, Book I, BWV 853: No. 8 in E-Flat Minor, Prelude",
+      "album": "Confluences - Bach & Chopin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Josep%20Colom",
+      "track_url": "https://www.last.fm/music/Josep+Colom/_/The+Well-Tempered+Clavier%2C+Book+I%2C+BWV+853:+No.+8+in+E-Flat+Minor%2C+Prelude",
       "graduated": false
     }
   }
