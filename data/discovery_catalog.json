@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T21:40:04.435335-07:00",
+    "last_updated": "2026-07-14T21:39:54.274220-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 381,
+    "total_discoveries": 382,
     "total_graduated": 44
   },
   "catalog": {
@@ -3699,6 +3699,16 @@
       "album": "Confluences - Bach & Chopin",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Josep%20Colom",
       "track_url": "https://www.last.fm/music/Josep+Colom/_/The+Well-Tempered+Clavier%2C+Book+I%2C+BWV+853:+No.+8+in+E-Flat+Minor%2C+Prelude",
+      "graduated": false
+    },
+    "dead poet society": {
+      "artist": "DEAD POET SOCIETY",
+      "first_discovered": "14 Jul 2026, 13:57",
+      "last_listened": "14 Jul 2026, 13:57",
+      "track": "Dempsey",
+      "album": "DEMPSEY",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DEAD%20POET%20SOCIETY",
+      "track_url": "https://www.last.fm/music/DEAD+POET+SOCIETY/_/Dempsey",
       "graduated": false
     }
   }

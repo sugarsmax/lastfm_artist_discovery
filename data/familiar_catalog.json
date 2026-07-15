@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T21:40:06.076071-07:00",
+    "last_updated": "2026-07-14T21:39:56.036442-07:00",
     "username": "sugarsmax",
-    "total_artists": 337
+    "total_artists": 338
   },
   "artists": {
     "rjd2, supastition": {
@@ -3041,6 +3041,15 @@
       "recent_track_url": "https://www.last.fm/music/Josep+Colom/_/The+Well-Tempered+Clavier%2C+Book+I%2C+BWV+853:+No.+8+in+E-Flat+Minor%2C+Prelude",
       "first_discovered": "13 Jul 2026, 13:10",
       "last_seen": "13 Jul 2026, 13:10",
+      "top_tracks": []
+    },
+    "dead poet society": {
+      "artist": "DEAD POET SOCIETY",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DEAD%20POET%20SOCIETY",
+      "recent_track": "Dempsey",
+      "recent_track_url": "https://www.last.fm/music/DEAD+POET+SOCIETY/_/Dempsey",
+      "first_discovered": "14 Jul 2026, 13:57",
+      "last_seen": "14 Jul 2026, 13:57",
       "top_tracks": []
     }
   }
