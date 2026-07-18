@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-16T21:53:15.424850-07:00",
+    "last_updated": "2026-07-17T21:38:22.042652-07:00",
     "username": "sugarsmax",
-    "total_artists": 338
+    "total_artists": 339
   },
   "artists": {
     "rjd2, supastition": {
@@ -3049,7 +3049,16 @@
       "recent_track": "Dempsey",
       "recent_track_url": "https://www.last.fm/music/DEAD+POET+SOCIETY/_/Dempsey",
       "first_discovered": "14 Jul 2026, 13:57",
-      "last_seen": "14 Jul 2026, 13:57",
+      "last_seen": "17 Jul 2026, 12:44",
+      "top_tracks": []
+    },
+    "charles williams": {
+      "artist": "Charles Williams",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Williams",
+      "recent_track": "Trees, Grass and Things",
+      "recent_track_url": "https://www.last.fm/music/Charles+Williams/_/Trees%2C+Grass+and+Things",
+      "first_discovered": "17 Jul 2026, 12:34",
+      "last_seen": "17 Jul 2026, 12:34",
       "top_tracks": []
     }
   }
