@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T22:10:31.047786-07:00",
+    "last_updated": "2026-07-19T22:29:38.539972-07:00",
     "username": "sugarsmax",
-    "total_artists": 339
+    "total_artists": 341
   },
   "artists": {
     "rjd2, supastition": {
@@ -2914,7 +2914,7 @@
       "recent_track": "Tonto Rides the Gain",
       "recent_track_url": "https://www.last.fm/music/Jon+Kennedy/_/Tonto+Rides+the+Gain",
       "first_discovered": "03 Jul 2026, 16:59",
-      "last_seen": "03 Jul 2026, 16:59",
+      "last_seen": "19 Jul 2026, 11:56",
       "top_tracks": []
     },
     "the witcher": {
@@ -3049,7 +3049,7 @@
       "recent_track": "Dempsey",
       "recent_track_url": "https://www.last.fm/music/DEAD+POET+SOCIETY/_/Dempsey",
       "first_discovered": "14 Jul 2026, 13:57",
-      "last_seen": "17 Jul 2026, 12:44",
+      "last_seen": "19 Jul 2026, 11:36",
       "top_tracks": []
     },
     "charles williams": {
@@ -3059,6 +3059,24 @@
       "recent_track_url": "https://www.last.fm/music/Charles+Williams/_/Trees%2C+Grass+and+Things",
       "first_discovered": "17 Jul 2026, 12:34",
       "last_seen": "17 Jul 2026, 12:34",
+      "top_tracks": []
+    },
+    "donna shows harvey how she feels": {
+      "artist": "Donna Shows Harvey How She Feels",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Donna%20Shows%20Harvey%20How%20She%20Feels",
+      "recent_track": "Suits",
+      "recent_track_url": "https://www.last.fm/music/Donna+Shows+Harvey+How+She+Feels/_/Suits",
+      "first_discovered": "19 Jul 2026, 10:19",
+      "last_seen": "19 Jul 2026, 10:19",
+      "top_tracks": []
+    },
+    "the harvey and scottie timeline": {
+      "artist": "The Harvey and Scottie Timeline",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Harvey%20and%20Scottie%20Timeline",
+      "recent_track": "Suits",
+      "recent_track_url": "https://www.last.fm/music/The+Harvey+and+Scottie+Timeline/_/Suits",
+      "first_discovered": "19 Jul 2026, 10:19",
+      "last_seen": "19 Jul 2026, 10:19",
       "top_tracks": []
     }
   }

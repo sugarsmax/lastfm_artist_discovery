@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-18T22:10:29.371556-07:00",
+    "last_updated": "2026-07-19T22:29:36.875161-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 383,
+    "total_discoveries": 385,
     "total_graduated": 44
   },
   "catalog": {
@@ -3554,7 +3554,7 @@
     "jon kennedy": {
       "artist": "Jon Kennedy",
       "first_discovered": "03 Jul 2026, 16:59",
-      "last_listened": "03 Jul 2026, 16:59",
+      "last_listened": "19 Jul 2026, 11:56",
       "track": "Tonto Rides the Gain",
       "album": "Corporeal",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jon%20Kennedy",
@@ -3704,7 +3704,7 @@
     "dead poet society": {
       "artist": "DEAD POET SOCIETY",
       "first_discovered": "14 Jul 2026, 13:57",
-      "last_listened": "17 Jul 2026, 12:44",
+      "last_listened": "19 Jul 2026, 11:36",
       "track": "Dempsey",
       "album": "DEMPSEY",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DEAD%20POET%20SOCIETY",
@@ -3719,6 +3719,26 @@
       "album": "Trees, Grass and Things",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Williams",
       "track_url": "https://www.last.fm/music/Charles+Williams/_/Trees%2C+Grass+and+Things",
+      "graduated": false
+    },
+    "donna shows harvey how she feels": {
+      "artist": "Donna Shows Harvey How She Feels",
+      "first_discovered": "19 Jul 2026, 10:19",
+      "last_listened": "19 Jul 2026, 10:19",
+      "track": "Suits",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Donna%20Shows%20Harvey%20How%20She%20Feels",
+      "track_url": "https://www.last.fm/music/Donna+Shows+Harvey+How+She+Feels/_/Suits",
+      "graduated": false
+    },
+    "the harvey and scottie timeline": {
+      "artist": "The Harvey and Scottie Timeline",
+      "first_discovered": "19 Jul 2026, 10:19",
+      "last_listened": "19 Jul 2026, 10:19",
+      "track": "Suits",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Harvey%20and%20Scottie%20Timeline",
+      "track_url": "https://www.last.fm/music/The+Harvey+and+Scottie+Timeline/_/Suits",
       "graduated": false
     }
   }
