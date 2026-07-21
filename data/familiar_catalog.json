@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-19T22:29:38.539972-07:00",
+    "last_updated": "2026-07-20T21:58:11.492277-07:00",
     "username": "sugarsmax",
-    "total_artists": 341
+    "total_artists": 344
   },
   "artists": {
     "rjd2, supastition": {
@@ -3077,6 +3077,33 @@
       "recent_track_url": "https://www.last.fm/music/The+Harvey+and+Scottie+Timeline/_/Suits",
       "first_discovered": "19 Jul 2026, 10:19",
       "last_seen": "19 Jul 2026, 10:19",
+      "top_tracks": []
+    },
+    "mars red sky": {
+      "artist": "Mars Red Sky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mars%20Red%20Sky",
+      "recent_track": "Strong Reflection",
+      "recent_track_url": "https://www.last.fm/music/Mars+Red+Sky/_/Strong+Reflection",
+      "first_discovered": "20 Jul 2026, 13:31",
+      "last_seen": "20 Jul 2026, 13:31",
+      "top_tracks": []
+    },
+    "colour haze": {
+      "artist": "Colour Haze",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colour%20Haze",
+      "recent_track": "Aquamaria",
+      "recent_track_url": "https://www.last.fm/music/Colour+Haze/_/Aquamaria",
+      "first_discovered": "20 Jul 2026, 13:27",
+      "last_seen": "20 Jul 2026, 13:27",
+      "top_tracks": []
+    },
+    "somali yacht club": {
+      "artist": "Somali Yacht Club",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Somali%20Yacht%20Club",
+      "recent_track": "Loom",
+      "recent_track_url": "https://www.last.fm/music/Somali+Yacht+Club/_/Loom",
+      "first_discovered": "20 Jul 2026, 13:18",
+      "last_seen": "20 Jul 2026, 13:18",
       "top_tracks": []
     }
   }
