@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-20T21:58:09.614826-07:00",
+    "last_updated": "2026-07-21T21:57:44.147761-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 388,
+    "total_discoveries": 406,
     "total_graduated": 44
   },
   "catalog": {
@@ -1689,11 +1689,12 @@
     "matthew sweet": {
       "artist": "Matthew Sweet",
       "first_discovered": "09 Apr 2026, 09:40",
-      "last_listened": "09 Apr 2026, 09:40",
-      "track": "Sick of Myself",
+      "last_listened": "21 Jul 2026, 15:48",
+      "track": "Girlfriend",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Matthew%20Sweet",
-      "track_url": "https://www.last.fm/music/Matthew+Sweet/_/Sick+of+Myself",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Matthew+Sweet/_/Girlfriend",
+      "graduated": false,
+      "album": "Girlfriend (Legacy Edition)"
     },
     "olga scheps, erik satie": {
       "artist": "Olga Scheps, Erik Satie",
@@ -3714,7 +3715,7 @@
     "charles williams": {
       "artist": "Charles Williams",
       "first_discovered": "17 Jul 2026, 12:34",
-      "last_listened": "17 Jul 2026, 12:34",
+      "last_listened": "21 Jul 2026, 16:04",
       "track": "Trees, Grass and Things",
       "album": "Trees, Grass and Things",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Williams",
@@ -3744,31 +3745,211 @@
     "mars red sky": {
       "artist": "Mars Red Sky",
       "first_discovered": "20 Jul 2026, 13:31",
-      "last_listened": "20 Jul 2026, 13:31",
-      "track": "Strong Reflection",
+      "last_listened": "21 Jul 2026, 08:56",
+      "track": "Up the Stairs",
       "album": "Mars Red Sky",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mars%20Red%20Sky",
-      "track_url": "https://www.last.fm/music/Mars+Red+Sky/_/Strong+Reflection",
+      "track_url": "https://www.last.fm/music/Mars+Red+Sky/_/Up+the+Stairs",
       "graduated": false
     },
     "colour haze": {
       "artist": "Colour Haze",
       "first_discovered": "20 Jul 2026, 13:27",
-      "last_listened": "20 Jul 2026, 13:27",
-      "track": "Aquamaria",
-      "album": "Tempel",
+      "last_listened": "21 Jul 2026, 07:05",
+      "track": "Love",
+      "album": "Colour Haze",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colour%20Haze",
-      "track_url": "https://www.last.fm/music/Colour+Haze/_/Aquamaria",
+      "track_url": "https://www.last.fm/music/Colour+Haze/_/Love",
       "graduated": false
     },
     "somali yacht club": {
       "artist": "Somali Yacht Club",
       "first_discovered": "20 Jul 2026, 13:18",
-      "last_listened": "20 Jul 2026, 13:18",
-      "track": "Loom",
+      "last_listened": "21 Jul 2026, 06:28",
+      "track": "Sightwaster",
       "album": "The Sun",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Somali%20Yacht%20Club",
-      "track_url": "https://www.last.fm/music/Somali+Yacht+Club/_/Loom",
+      "track_url": "https://www.last.fm/music/Somali+Yacht+Club/_/Sightwaster",
+      "graduated": false
+    },
+    "assemble head in sunburst sound": {
+      "artist": "Assemble Head In Sunburst Sound",
+      "first_discovered": "21 Jul 2026, 15:56",
+      "last_listened": "21 Jul 2026, 15:56",
+      "track": "Blue Wire",
+      "album": "Manzanita",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Assemble%20Head%20In%20Sunburst%20Sound",
+      "track_url": "https://www.last.fm/music/Assemble+Head+In+Sunburst+Sound/_/Blue+Wire",
+      "graduated": false
+    },
+    "johnny marr": {
+      "artist": "Johnny Marr",
+      "first_discovered": "21 Jul 2026, 15:54",
+      "last_listened": "21 Jul 2026, 15:54",
+      "track": "How Soon Is Now?",
+      "album": "Adrenalin Baby - Johnny Marr Live",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johnny%20Marr",
+      "track_url": "https://www.last.fm/music/Johnny+Marr/_/How+Soon+Is+Now%3F",
+      "graduated": false
+    },
+    "corridor crew": {
+      "artist": "Corridor Crew",
+      "first_discovered": "21 Jul 2026, 14:53",
+      "last_listened": "21 Jul 2026, 14:53",
+      "track": "We Remade TRON in One Day",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Corridor%20Crew",
+      "track_url": "https://www.last.fm/music/Corridor+Crew/_/We+Remade+TRON+in+One+Day",
+      "graduated": false
+    },
+    "the standells": {
+      "artist": "The Standells",
+      "first_discovered": "21 Jul 2026, 14:46",
+      "last_listened": "21 Jul 2026, 14:46",
+      "track": "Dirty Water",
+      "album": "The Very Best Of The Standells",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Standells",
+      "track_url": "https://www.last.fm/music/The+Standells/_/Dirty+Water",
+      "graduated": false
+    },
+    "the strangeloves": {
+      "artist": "The Strangeloves",
+      "first_discovered": "21 Jul 2026, 14:45",
+      "last_listened": "21 Jul 2026, 14:45",
+      "track": "I Want Candy",
+      "album": "I Want Candy: The Best Of The Strangeloves",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Strangeloves",
+      "track_url": "https://www.last.fm/music/The+Strangeloves/_/I+Want+Candy",
+      "graduated": false
+    },
+    "bo diddley": {
+      "artist": "Bo Diddley",
+      "first_discovered": "21 Jul 2026, 14:42",
+      "last_listened": "21 Jul 2026, 14:42",
+      "track": "Hush Your Mouth",
+      "album": "Bo Diddley",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bo%20Diddley",
+      "track_url": "https://www.last.fm/music/Bo+Diddley/_/Hush+Your+Mouth",
+      "graduated": false
+    },
+    "rick beato": {
+      "artist": "Rick Beato",
+      "first_discovered": "21 Jul 2026, 14:39",
+      "last_listened": "21 Jul 2026, 14:39",
+      "track": "Intro",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rick%20Beato",
+      "track_url": "https://www.last.fm/music/Rick+Beato/_/Intro",
+      "graduated": false
+    },
+    "surfstyley4": {
+      "artist": "surfstyley4",
+      "first_discovered": "21 Jul 2026, 14:35",
+      "last_listened": "21 Jul 2026, 14:35",
+      "track": "BO DIDDLEY 1965",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/surfstyley4",
+      "track_url": "https://www.last.fm/music/surfstyley4/_/BO+DIDDLEY+1965",
+      "graduated": false
+    },
+    "buddy holly": {
+      "artist": "Buddy Holly",
+      "first_discovered": "21 Jul 2026, 14:26",
+      "last_listened": "21 Jul 2026, 14:26",
+      "track": "Rave On",
+      "album": "The Complete Early Recordings",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Buddy%20Holly",
+      "track_url": "https://www.last.fm/music/Buddy+Holly/_/Rave+On",
+      "graduated": false
+    },
+    "elmore james": {
+      "artist": "Elmore James",
+      "first_discovered": "21 Jul 2026, 14:25",
+      "last_listened": "21 Jul 2026, 14:25",
+      "track": "Dust My Blues",
+      "album": "Blues After Hours",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elmore%20James",
+      "track_url": "https://www.last.fm/music/Elmore+James/_/Dust+My+Blues",
+      "graduated": false
+    },
+    "little walter": {
+      "artist": "Little Walter",
+      "first_discovered": "21 Jul 2026, 14:22",
+      "last_listened": "21 Jul 2026, 14:22",
+      "track": "Boom, Boom out Goes the Light",
+      "album": "The Essential Little Walter",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Little%20Walter",
+      "track_url": "https://www.last.fm/music/Little+Walter/_/Boom%2C+Boom+out+Goes+the+Light",
+      "graduated": false
+    },
+    "howlin' wolf": {
+      "artist": "Howlin' Wolf",
+      "first_discovered": "21 Jul 2026, 14:19",
+      "last_listened": "21 Jul 2026, 14:19",
+      "track": "Smokestack Lightnin'",
+      "album": "Moanin' In The Moonlight",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Howlin%27%20Wolf",
+      "track_url": "https://www.last.fm/music/Howlin'+Wolf/_/Smokestack+Lightnin'",
+      "graduated": false
+    },
+    "the iguanas": {
+      "artist": "The Iguanas",
+      "first_discovered": "21 Jul 2026, 14:13",
+      "last_listened": "21 Jul 2026, 14:13",
+      "track": "Mona (feat. Iggy Pop)",
+      "album": "Iguanas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Iguanas",
+      "track_url": "https://www.last.fm/music/The+Iguanas/_/Mona+%28feat.+Iggy+Pop%29",
+      "graduated": false
+    },
+    "the beach boys": {
+      "artist": "The Beach Boys",
+      "first_discovered": "21 Jul 2026, 14:10",
+      "last_listened": "21 Jul 2026, 14:10",
+      "track": "Mona",
+      "album": "Love You",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Beach%20Boys",
+      "track_url": "https://www.last.fm/music/The+Beach+Boys/_/Mona",
+      "graduated": false
+    },
+    "can": {
+      "artist": "Can",
+      "first_discovered": "21 Jul 2026, 14:07",
+      "last_listened": "21 Jul 2026, 14:07",
+      "track": "I Want More",
+      "album": "Flow Motion (Remastered)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Can",
+      "track_url": "https://www.last.fm/music/Can/_/I+Want+More",
+      "graduated": false
+    },
+    "how soon is now": {
+      "artist": "How Soon Is Now",
+      "first_discovered": "21 Jul 2026, 14:00",
+      "last_listened": "21 Jul 2026, 14:00",
+      "track": "Johnny Marr Live At The Crazy Face Factory",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/How%20Soon%20Is%20Now",
+      "track_url": "https://www.last.fm/music/How+Soon+Is+Now/_/Johnny+Marr+Live+At+The+Crazy+Face+Factory",
+      "graduated": false
+    },
+    "soulja boy": {
+      "artist": "Soulja Boy",
+      "first_discovered": "21 Jul 2026, 13:53",
+      "last_listened": "21 Jul 2026, 13:53",
+      "track": "Crank That",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Soulja%20Boy",
+      "track_url": "https://www.last.fm/music/Soulja+Boy/_/Crank+That",
+      "graduated": false
+    },
+    "the flying eyes": {
+      "artist": "The Flying Eyes",
+      "first_discovered": "21 Jul 2026, 07:17",
+      "last_listened": "21 Jul 2026, 07:17",
+      "track": "Bad Blood",
+      "album": "Bad Blood & Winter",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Flying%20Eyes",
+      "track_url": "https://www.last.fm/music/The+Flying+Eyes/_/Bad+Blood",
       "graduated": false
     }
   }
