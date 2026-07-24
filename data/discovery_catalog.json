@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-22T22:15:20.104198-07:00",
+    "last_updated": "2026-07-23T21:59:58.376438-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 406,
+    "total_discoveries": 412,
     "total_graduated": 44
   },
   "catalog": {
@@ -3445,7 +3445,7 @@
     "georg friderich handel, sarah francis": {
       "artist": "Georg Friderich Handel, Sarah Francis",
       "first_discovered": "25 Jun 2026, 16:34",
-      "last_listened": "01 Jul 2026, 12:59",
+      "last_listened": "23 Jul 2026, 08:17",
       "track": "Oboe Sonata in G Minor, HWV 364a: IV. Allegro",
       "album": "Handel: Complete Oboe Concertos and Sonatas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Friderich%20Handel%2C%20Sarah%20Francis",
@@ -3555,7 +3555,7 @@
     "jon kennedy": {
       "artist": "Jon Kennedy",
       "first_discovered": "03 Jul 2026, 16:59",
-      "last_listened": "19 Jul 2026, 11:56",
+      "last_listened": "23 Jul 2026, 09:41",
       "track": "Tonto Rides the Gain",
       "album": "Corporeal",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jon%20Kennedy",
@@ -3705,7 +3705,7 @@
     "dead poet society": {
       "artist": "DEAD POET SOCIETY",
       "first_discovered": "14 Jul 2026, 13:57",
-      "last_listened": "19 Jul 2026, 11:36",
+      "last_listened": "23 Jul 2026, 09:17",
       "track": "Dempsey",
       "album": "DEMPSEY",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DEAD%20POET%20SOCIETY",
@@ -3715,7 +3715,7 @@
     "charles williams": {
       "artist": "Charles Williams",
       "first_discovered": "17 Jul 2026, 12:34",
-      "last_listened": "21 Jul 2026, 16:04",
+      "last_listened": "23 Jul 2026, 08:52",
       "track": "Trees, Grass and Things",
       "album": "Trees, Grass and Things",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Williams",
@@ -3775,7 +3775,7 @@
     "assemble head in sunburst sound": {
       "artist": "Assemble Head In Sunburst Sound",
       "first_discovered": "21 Jul 2026, 15:56",
-      "last_listened": "21 Jul 2026, 15:56",
+      "last_listened": "23 Jul 2026, 08:44",
       "track": "Blue Wire",
       "album": "Manzanita",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Assemble%20Head%20In%20Sunburst%20Sound",
@@ -3785,7 +3785,7 @@
     "johnny marr": {
       "artist": "Johnny Marr",
       "first_discovered": "21 Jul 2026, 15:54",
-      "last_listened": "21 Jul 2026, 15:54",
+      "last_listened": "23 Jul 2026, 08:38",
       "track": "How Soon Is Now?",
       "album": "Adrenalin Baby - Johnny Marr Live",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johnny%20Marr",
@@ -3895,7 +3895,7 @@
     "the iguanas": {
       "artist": "The Iguanas",
       "first_discovered": "21 Jul 2026, 14:13",
-      "last_listened": "21 Jul 2026, 14:13",
+      "last_listened": "23 Jul 2026, 09:44",
       "track": "Mona (feat. Iggy Pop)",
       "album": "Iguanas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Iguanas",
@@ -3950,6 +3950,66 @@
       "album": "Bad Blood & Winter",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Flying%20Eyes",
       "track_url": "https://www.last.fm/music/The+Flying+Eyes/_/Bad+Blood",
+      "graduated": false
+    },
+    "ray barretto": {
+      "artist": "Ray Barretto",
+      "first_discovered": "23 Jul 2026, 09:24",
+      "last_listened": "23 Jul 2026, 09:24",
+      "track": "A Deeper Shade Of Soul",
+      "album": "The Latin Soul Man",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ray%20Barretto",
+      "track_url": "https://www.last.fm/music/Ray+Barretto/_/A+Deeper+Shade+Of+Soul",
+      "graduated": false
+    },
+    "afro cuban all stars": {
+      "artist": "Afro Cuban All Stars",
+      "first_discovered": "23 Jul 2026, 09:18",
+      "last_listened": "23 Jul 2026, 09:18",
+      "track": "Tumba Pala Cocuyé",
+      "album": "Distinto, Diferente",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Afro%20Cuban%20All%20Stars",
+      "track_url": "https://www.last.fm/music/Afro+Cuban+All+Stars/_/Tumba+Pala+Cocuy%C3%A9",
+      "graduated": false
+    },
+    "bernard purdie": {
+      "artist": "Bernard Purdie",
+      "first_discovered": "23 Jul 2026, 09:10",
+      "last_listened": "23 Jul 2026, 09:10",
+      "track": "Heavy Soul Slinger",
+      "album": "Mama Soul / Heavy Soul Slinger",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bernard%20Purdie",
+      "track_url": "https://www.last.fm/music/Bernard+Purdie/_/Heavy+Soul+Slinger",
+      "graduated": false
+    },
+    "robert schumann, martin jacoby": {
+      "artist": "Robert Schumann, Martin Jacoby",
+      "first_discovered": "23 Jul 2026, 08:36",
+      "last_listened": "23 Jul 2026, 08:36",
+      "track": "Scenes from Childhood, Op. 15: VII. Dreaming",
+      "album": "60 Piano Classics for Relaxation",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Robert%20Schumann%2C%20Martin%20Jacoby",
+      "track_url": "https://www.last.fm/music/Robert+Schumann%2C+Martin+Jacoby/_/Scenes+from+Childhood%2C+Op.+15:+VII.+Dreaming",
+      "graduated": false
+    },
+    "london symphony orchestra, antal dorati": {
+      "artist": "London Symphony Orchestra, Antal Dorati",
+      "first_discovered": "23 Jul 2026, 08:32",
+      "last_listened": "23 Jul 2026, 08:32",
+      "track": "Casse-Noisette, Op. 71, Acte II Scène 3: Le café (Danse arabe)",
+      "album": "Tchaikovsky: Casse-Noisette (Les indispensables de Diapason)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/London%20Symphony%20Orchestra%2C%20Antal%20Dorati",
+      "track_url": "https://www.last.fm/music/London+Symphony+Orchestra%2C+Antal+Dorati/_/Casse-Noisette%2C+Op.+71%2C+Acte+II+Sc%C3%A8ne+3:+Le+caf%C3%A9+%28Danse+arabe%29",
+      "graduated": false
+    },
+    "timeless music baby club": {
+      "artist": "Timeless Music Baby Club",
+      "first_discovered": "23 Jul 2026, 08:19",
+      "last_listened": "23 Jul 2026, 08:19",
+      "track": "Violin Sonata No. 28 in E-Flat Major, K. 380: II. Andante con moto (Piano Version)",
+      "album": "Baby Needs Classical Music – Music for Toddlers, Train Brain Your Baby, Classical Songs for Listening and Relaxation, Bulid your Baby IQ",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Timeless%20Music%20Baby%20Club",
+      "track_url": "https://www.last.fm/music/Timeless+Music+Baby+Club/_/Violin+Sonata+No.+28+in+E-Flat+Major%2C+K.+380:+II.+Andante+con+moto+%28Piano+Version%29",
       "graduated": false
     }
   }
