@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-27T21:53:31.999537-07:00",
+    "last_updated": "2026-07-28T21:58:23.595617-07:00",
     "username": "sugarsmax",
-    "total_artists": 368
+    "total_artists": 370
   },
   "artists": {
     "rjd2, supastition": {
@@ -3320,6 +3320,24 @@
       "recent_track_url": "https://www.last.fm/music/Timeless+Music+Baby+Club/_/Violin+Sonata+No.+28+in+E-Flat+Major%2C+K.+380:+II.+Andante+con+moto+%28Piano+Version%29",
       "first_discovered": "23 Jul 2026, 08:19",
       "last_seen": "23 Jul 2026, 08:19",
+      "top_tracks": []
+    },
+    "blade runner 2099": {
+      "artist": "Blade Runner 2099",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blade%20Runner%202099",
+      "recent_track": "Official Teaser | Prime Video",
+      "recent_track_url": "https://www.last.fm/music/Blade+Runner+2099/_/Official+Teaser+%7C+Prime+Video",
+      "first_discovered": "28 Jul 2026, 14:35",
+      "last_seen": "28 Jul 2026, 14:35",
+      "top_tracks": []
+    },
+    "neuromancer": {
+      "artist": "Neuromancer",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Neuromancer",
+      "recent_track": "Official Teaser | Apple TV",
+      "recent_track_url": "https://www.last.fm/music/Neuromancer/_/Official+Teaser+%7C+Apple+TV",
+      "first_discovered": "28 Jul 2026, 14:34",
+      "last_seen": "28 Jul 2026, 14:34",
       "top_tracks": []
     }
   }

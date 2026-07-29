@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-27T21:53:30.285746-07:00",
+    "last_updated": "2026-07-28T21:58:21.898490-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 412,
+    "total_discoveries": 414,
     "total_graduated": 44
   },
   "catalog": {
@@ -4010,6 +4010,26 @@
       "album": "Baby Needs Classical Music – Music for Toddlers, Train Brain Your Baby, Classical Songs for Listening and Relaxation, Bulid your Baby IQ",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Timeless%20Music%20Baby%20Club",
       "track_url": "https://www.last.fm/music/Timeless+Music+Baby+Club/_/Violin+Sonata+No.+28+in+E-Flat+Major%2C+K.+380:+II.+Andante+con+moto+%28Piano+Version%29",
+      "graduated": false
+    },
+    "blade runner 2099": {
+      "artist": "Blade Runner 2099",
+      "first_discovered": "28 Jul 2026, 14:35",
+      "last_listened": "28 Jul 2026, 14:35",
+      "track": "Official Teaser | Prime Video",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blade%20Runner%202099",
+      "track_url": "https://www.last.fm/music/Blade+Runner+2099/_/Official+Teaser+%7C+Prime+Video",
+      "graduated": false
+    },
+    "neuromancer": {
+      "artist": "Neuromancer",
+      "first_discovered": "28 Jul 2026, 14:34",
+      "last_listened": "28 Jul 2026, 14:34",
+      "track": "Official Teaser | Apple TV",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Neuromancer",
+      "track_url": "https://www.last.fm/music/Neuromancer/_/Official+Teaser+%7C+Apple+TV",
       "graduated": false
     }
   }
