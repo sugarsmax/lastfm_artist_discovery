@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-28T21:58:23.595617-07:00",
+    "last_updated": "2026-07-29T21:47:02.509272-07:00",
     "username": "sugarsmax",
-    "total_artists": 370
+    "total_artists": 371
   },
   "artists": {
     "rjd2, supastition": {
@@ -3338,6 +3338,15 @@
       "recent_track_url": "https://www.last.fm/music/Neuromancer/_/Official+Teaser+%7C+Apple+TV",
       "first_discovered": "28 Jul 2026, 14:34",
       "last_seen": "28 Jul 2026, 14:34",
+      "top_tracks": []
+    },
+    "alabaster\" live in berkeley, ca": {
+      "artist": "Alabaster\" Live In Berkeley, CA",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alabaster%22%20Live%20In%20Berkeley%2C%20CA",
+      "recent_track": "ENCORE Performance",
+      "recent_track_url": "https://www.last.fm/music/Alabaster%22+Live+In+Berkeley%2C+CA/_/ENCORE+Performance",
+      "first_discovered": "29 Jul 2026, 08:48",
+      "last_seen": "29 Jul 2026, 08:48",
       "top_tracks": []
     }
   }
