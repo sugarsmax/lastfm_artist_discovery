@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-02T22:30:54.395149-07:00",
+    "last_updated": "2026-08-03T21:53:27.128392-07:00",
     "username": "sugarsmax",
-    "total_artists": 371
+    "total_artists": 377
   },
   "artists": {
     "rjd2, supastition": {
@@ -80,10 +80,10 @@
     "sinéad o'connor": {
       "artist": "Sinéad O'Connor",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sin%C3%A9ad%20O'Connor",
-      "recent_track": "Nothing Compares 2 U",
-      "recent_track_url": "https://www.last.fm/music/Sin%C3%A9ad+O'Connor/_/Nothing+Compares+2+U",
+      "recent_track": "Just Like U Said It Would B",
+      "recent_track_url": "https://www.last.fm/music/Sin%C3%A9ad+O'Connor/_/Just+Like+U+Said+It+Would+B",
       "first_discovered": "15 Feb 2026, 01:26",
-      "last_seen": "15 Feb 2026, 01:26",
+      "last_seen": "03 Aug 2026, 14:54",
       "top_tracks": []
     },
     "bad bunny, chencho corleone": {
@@ -3347,6 +3347,60 @@
       "recent_track_url": "https://www.last.fm/music/Alabaster%22+Live+In+Berkeley%2C+CA/_/ENCORE+Performance",
       "first_discovered": "29 Jul 2026, 08:48",
       "last_seen": "29 Jul 2026, 08:48",
+      "top_tracks": []
+    },
+    "b.b. king": {
+      "artist": "B.B. King",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/B.B.%20King",
+      "recent_track": "When Love Comes To Town",
+      "recent_track_url": "https://www.last.fm/music/B.B.+King/_/When+Love+Comes+To+Town",
+      "first_discovered": "03 Aug 2026, 15:22",
+      "last_seen": "03 Aug 2026, 15:22",
+      "top_tracks": []
+    },
+    "american bandstand 1979": {
+      "artist": "American Bandstand 1979",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/American%20Bandstand%201979",
+      "recent_track": "Interview Blondie",
+      "recent_track_url": "https://www.last.fm/music/American+Bandstand+1979/_/Interview+Blondie",
+      "first_discovered": "03 Aug 2026, 15:00",
+      "last_seen": "03 Aug 2026, 15:00",
+      "top_tracks": []
+    },
+    "awards show network": {
+      "artist": "Awards Show Network",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Awards%20Show%20Network",
+      "recent_track": "Half Hour Comedy Hour 1983 Ridiculous News Break",
+      "recent_track_url": "https://www.last.fm/music/Awards+Show+Network/_/Half+Hour+Comedy+Hour+1983+Ridiculous+News+Break",
+      "first_discovered": "03 Aug 2026, 14:59",
+      "last_seen": "03 Aug 2026, 14:59",
+      "top_tracks": []
+    },
+    "the cranberries": {
+      "artist": "The Cranberries",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cranberries",
+      "recent_track": "Wanted",
+      "recent_track_url": "https://www.last.fm/music/The+Cranberries/_/Wanted",
+      "first_discovered": "03 Aug 2026, 14:59",
+      "last_seen": "03 Aug 2026, 14:59",
+      "top_tracks": []
+    },
+    "spin doctors": {
+      "artist": "Spin Doctors",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spin%20Doctors",
+      "recent_track": "Two Princes",
+      "recent_track_url": "https://www.last.fm/music/Spin+Doctors/_/Two+Princes",
+      "first_discovered": "03 Aug 2026, 14:49",
+      "last_seen": "03 Aug 2026, 14:49",
+      "top_tracks": []
+    },
+    "elder": {
+      "artist": "Elder",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elder",
+      "recent_track": "Sanctuary",
+      "recent_track_url": "https://www.last.fm/music/Elder/_/Sanctuary",
+      "first_discovered": "03 Aug 2026, 13:50",
+      "last_seen": "03 Aug 2026, 13:50",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-02T22:30:52.435795-07:00",
+    "last_updated": "2026-08-03T21:53:25.310398-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 415,
+    "total_discoveries": 421,
     "total_graduated": 44
   },
   "catalog": {
@@ -82,11 +82,12 @@
     "sinéad o'connor": {
       "artist": "Sinéad O'Connor",
       "first_discovered": "15 Feb 2026, 01:26",
-      "last_listened": "15 Feb 2026, 01:26",
-      "track": "Nothing Compares 2 U",
+      "last_listened": "03 Aug 2026, 14:54",
+      "track": "Just Like U Said It Would B",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sin%C3%A9ad%20O'Connor",
-      "track_url": "https://www.last.fm/music/Sin%C3%A9ad+O'Connor/_/Nothing+Compares+2+U",
-      "graduated": false
+      "track_url": "https://www.last.fm/music/Sin%C3%A9ad+O'Connor/_/Just+Like+U+Said+It+Would+B",
+      "graduated": false,
+      "album": "Lion and the Cobra"
     },
     "bad bunny, chencho corleone": {
       "artist": "Bad Bunny, Chencho Corleone",
@@ -4040,6 +4041,66 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alabaster%22%20Live%20In%20Berkeley%2C%20CA",
       "track_url": "https://www.last.fm/music/Alabaster%22+Live+In+Berkeley%2C+CA/_/ENCORE+Performance",
+      "graduated": false
+    },
+    "b.b. king": {
+      "artist": "B.B. King",
+      "first_discovered": "03 Aug 2026, 15:22",
+      "last_listened": "03 Aug 2026, 15:22",
+      "track": "When Love Comes To Town",
+      "album": "Rattle and Hum",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/B.B.%20King",
+      "track_url": "https://www.last.fm/music/B.B.+King/_/When+Love+Comes+To+Town",
+      "graduated": false
+    },
+    "american bandstand 1979": {
+      "artist": "American Bandstand 1979",
+      "first_discovered": "03 Aug 2026, 15:00",
+      "last_listened": "03 Aug 2026, 15:00",
+      "track": "Interview Blondie",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/American%20Bandstand%201979",
+      "track_url": "https://www.last.fm/music/American+Bandstand+1979/_/Interview+Blondie",
+      "graduated": false
+    },
+    "awards show network": {
+      "artist": "Awards Show Network",
+      "first_discovered": "03 Aug 2026, 14:59",
+      "last_listened": "03 Aug 2026, 14:59",
+      "track": "Half Hour Comedy Hour 1983 Ridiculous News Break",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Awards%20Show%20Network",
+      "track_url": "https://www.last.fm/music/Awards+Show+Network/_/Half+Hour+Comedy+Hour+1983+Ridiculous+News+Break",
+      "graduated": false
+    },
+    "the cranberries": {
+      "artist": "The Cranberries",
+      "first_discovered": "03 Aug 2026, 14:59",
+      "last_listened": "03 Aug 2026, 14:59",
+      "track": "Wanted",
+      "album": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cranberries",
+      "track_url": "https://www.last.fm/music/The+Cranberries/_/Wanted",
+      "graduated": false
+    },
+    "spin doctors": {
+      "artist": "Spin Doctors",
+      "first_discovered": "03 Aug 2026, 14:49",
+      "last_listened": "03 Aug 2026, 14:49",
+      "track": "Two Princes",
+      "album": "Pocket Full of Kryptonite",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Spin%20Doctors",
+      "track_url": "https://www.last.fm/music/Spin+Doctors/_/Two+Princes",
+      "graduated": false
+    },
+    "elder": {
+      "artist": "Elder",
+      "first_discovered": "03 Aug 2026, 13:50",
+      "last_listened": "03 Aug 2026, 13:50",
+      "track": "Sanctuary",
+      "album": "Reflections of a Floating World",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elder",
+      "track_url": "https://www.last.fm/music/Elder/_/Sanctuary",
       "graduated": false
     }
   }
