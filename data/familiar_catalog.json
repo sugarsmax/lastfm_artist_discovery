@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-03T21:53:27.128392-07:00",
+    "last_updated": "2026-08-04T21:54:35.884052-07:00",
     "username": "sugarsmax",
-    "total_artists": 377
+    "total_artists": 380
   },
   "artists": {
     "rjd2, supastition": {
@@ -3401,6 +3401,33 @@
       "recent_track_url": "https://www.last.fm/music/Elder/_/Sanctuary",
       "first_discovered": "03 Aug 2026, 13:50",
       "last_seen": "03 Aug 2026, 13:50",
+      "top_tracks": []
+    },
+    "parliament": {
+      "artist": "Parliament",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Parliament",
+      "recent_track": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "recent_track_url": "https://www.last.fm/music/Parliament/_/Give+Up+The+Funk+%28Tear+The+Roof+Off+The+Sucker%29",
+      "first_discovered": "04 Aug 2026, 18:14",
+      "last_seen": "04 Aug 2026, 18:14",
+      "top_tracks": []
+    },
+    "diana ross": {
+      "artist": "Diana Ross",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Diana%20Ross",
+      "recent_track": "Ain't No Mountain High Enough 1981",
+      "recent_track_url": "https://www.last.fm/music/Diana+Ross/_/Ain't+No+Mountain+High+Enough+1981",
+      "first_discovered": "04 Aug 2026, 17:52",
+      "last_seen": "04 Aug 2026, 17:52",
+      "top_tracks": []
+    },
+    "release": {
+      "artist": "Release",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Release",
+      "recent_track": "Diesel Power",
+      "recent_track_url": "https://www.last.fm/music/Release/_/Diesel+Power",
+      "first_discovered": "04 Aug 2026, 17:38",
+      "last_seen": "04 Aug 2026, 17:38",
       "top_tracks": []
     }
   }

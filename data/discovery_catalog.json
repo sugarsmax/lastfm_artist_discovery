@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-03T21:53:25.310398-07:00",
+    "last_updated": "2026-08-04T21:54:34.401452-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 421,
+    "total_discoveries": 424,
     "total_graduated": 44
   },
   "catalog": {
@@ -4101,6 +4101,36 @@
       "album": "Reflections of a Floating World",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Elder",
       "track_url": "https://www.last.fm/music/Elder/_/Sanctuary",
+      "graduated": false
+    },
+    "parliament": {
+      "artist": "Parliament",
+      "first_discovered": "04 Aug 2026, 18:14",
+      "last_listened": "04 Aug 2026, 18:14",
+      "track": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "album": "The Best Of Parliament: Give Up The Funk",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Parliament",
+      "track_url": "https://www.last.fm/music/Parliament/_/Give+Up+The+Funk+%28Tear+The+Roof+Off+The+Sucker%29",
+      "graduated": false
+    },
+    "diana ross": {
+      "artist": "Diana Ross",
+      "first_discovered": "04 Aug 2026, 17:52",
+      "last_listened": "04 Aug 2026, 17:52",
+      "track": "Ain't No Mountain High Enough 1981",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Diana%20Ross",
+      "track_url": "https://www.last.fm/music/Diana+Ross/_/Ain't+No+Mountain+High+Enough+1981",
+      "graduated": false
+    },
+    "release": {
+      "artist": "Release",
+      "first_discovered": "04 Aug 2026, 17:38",
+      "last_listened": "04 Aug 2026, 17:38",
+      "track": "Diesel Power",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Release",
+      "track_url": "https://www.last.fm/music/Release/_/Diesel+Power",
       "graduated": false
     }
   }
