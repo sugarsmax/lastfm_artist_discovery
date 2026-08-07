@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-05T21:54:54.479542-07:00",
+    "last_updated": "2026-08-06T21:17:56.039452-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 424,
+    "total_discoveries": 428,
     "total_graduated": 44
   },
   "catalog": {
@@ -4131,6 +4131,46 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Release",
       "track_url": "https://www.last.fm/music/Release/_/Diesel+Power",
+      "graduated": false
+    },
+    "dietrich fischer-dieskau, münchener bach-orchester, karl richter": {
+      "artist": "Dietrich Fischer-Dieskau, Münchener Bach-Orchester, Karl Richter",
+      "first_discovered": "06 Aug 2026, 18:42",
+      "last_listened": "06 Aug 2026, 18:42",
+      "track": "J.S. Bach: Ich habe genug, Cantata BWV 82: III. \"Schlummert ein, ihr matten Augen\"",
+      "album": "J.S. Bach: Cantatas - Advent and Christmas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dietrich%20Fischer-Dieskau%2C%20M%C3%BCnchener%20Bach-Orchester%2C%20Karl%20Richter",
+      "track_url": "https://www.last.fm/music/Dietrich+Fischer-Dieskau%2C+M%C3%BCnchener+Bach-Orchester%2C+Karl+Richter/_/J.S.+Bach:+Ich+habe+genug%2C+Cantata+BWV+82:+III.+%22Schlummert+ein%2C+ihr+matten+Augen%22",
+      "graduated": false
+    },
+    "magdalena kožená, gabrieli, paul mccreesh": {
+      "artist": "Magdalena Kožená, Gabrieli, Paul McCreesh",
+      "first_discovered": "06 Aug 2026, 18:18",
+      "last_listened": "06 Aug 2026, 18:18",
+      "track": "J.S. Bach: St. Matthew Passion, BWV 244, Pt. 2: No. 39, Aria. Erbarme dich (Alto)",
+      "album": "Bach, J.S.: St. Matthew Passion BWV 244",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Magdalena%20Ko%C5%BEen%C3%A1%2C%20Gabrieli%2C%20Paul%20McCreesh",
+      "track_url": "https://www.last.fm/music/Magdalena+Ko%C5%BEen%C3%A1%2C+Gabrieli%2C+Paul+McCreesh/_/J.S.+Bach:+St.+Matthew+Passion%2C+BWV+244%2C+Pt.+2:+No.+39%2C+Aria.+Erbarme+dich+%28Alto%29",
+      "graduated": false
+    },
+    "helmut walcha": {
+      "artist": "Helmut Walcha",
+      "first_discovered": "06 Aug 2026, 17:32",
+      "last_listened": "06 Aug 2026, 17:32",
+      "track": "J.S. Bach: Toccata & Fugue in D Minor, BWV 565: II. Fugue",
+      "album": "Bach, J.S.: Organ Works",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Helmut%20Walcha",
+      "track_url": "https://www.last.fm/music/Helmut+Walcha/_/J.S.+Bach:+Toccata+%26+Fugue+in+D+Minor%2C+BWV+565:+II.+Fugue",
+      "graduated": false
+    },
+    "frank zappa": {
+      "artist": "Frank Zappa",
+      "first_discovered": "06 Aug 2026, 17:16",
+      "last_listened": "06 Aug 2026, 17:16",
+      "track": "Apostrophe'",
+      "album": "Apostrophe(')",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Frank%20Zappa",
+      "track_url": "https://www.last.fm/music/Frank+Zappa/_/Apostrophe'",
       "graduated": false
     }
   }
