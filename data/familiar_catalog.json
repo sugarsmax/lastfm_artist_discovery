@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-06T21:17:57.591124-07:00",
+    "last_updated": "2026-08-07T20:15:29.395361-07:00",
     "username": "sugarsmax",
-    "total_artists": 384
+    "total_artists": 386
   },
   "artists": {
     "rjd2, supastition": {
@@ -791,10 +791,10 @@
     "ragna schirmer": {
       "artist": "Ragna Schirmer",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
-      "recent_track": "I. Adagio",
-      "recent_track_url": "https://www.last.fm/music/Ragna+Schirmer/_/I.+Adagio",
+      "recent_track": "IV. Sarabande",
+      "recent_track_url": "https://www.last.fm/music/Ragna+Schirmer/_/IV.+Sarabande",
       "first_discovered": "09 Mar 2026, 17:48",
-      "last_seen": "04 May 2026, 17:43",
+      "last_seen": "07 Aug 2026, 16:31",
       "top_tracks": []
     },
     "sir neville marriner, academy of st martin in the fields": {
@@ -3464,6 +3464,24 @@
       "recent_track_url": "https://www.last.fm/music/Frank+Zappa/_/Apostrophe'",
       "first_discovered": "06 Aug 2026, 17:16",
       "last_seen": "06 Aug 2026, 17:16",
+      "top_tracks": []
+    },
+    "david garfield, michael landau, eddie van halen, will lee, simon phillips": {
+      "artist": "David Garfield, Michael Landau, Eddie Van Halen, Will Lee, Simon Phillips",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Garfield%2C%20Michael%20Landau%2C%20Eddie%20Van%20Halen%2C%20Will%20Lee%2C%20Simon%20Phillips",
+      "recent_track": "If Six Was Nine",
+      "recent_track_url": "https://www.last.fm/music/David+Garfield%2C+Michael+Landau%2C+Eddie+Van+Halen%2C+Will+Lee%2C+Simon+Phillips/_/If+Six+Was+Nine",
+      "first_discovered": "07 Aug 2026, 15:55",
+      "last_seen": "07 Aug 2026, 15:55",
+      "top_tracks": []
+    },
+    "jimmy smith and wes montgomery": {
+      "artist": "Jimmy Smith and Wes Montgomery",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jimmy%20Smith%20and%20Wes%20Montgomery",
+      "recent_track": "Night Train",
+      "recent_track_url": "https://www.last.fm/music/Jimmy+Smith+and+Wes+Montgomery/_/Night+Train",
+      "first_discovered": "07 Aug 2026, 15:35",
+      "last_seen": "07 Aug 2026, 15:35",
       "top_tracks": []
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-06T21:17:56.039452-07:00",
+    "last_updated": "2026-08-07T20:15:27.656870-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 428,
+    "total_discoveries": 430,
     "total_graduated": 44
   },
   "catalog": {
@@ -1055,10 +1055,10 @@
     "ragna schirmer": {
       "artist": "Ragna Schirmer",
       "first_discovered": "09 Mar 2026, 17:48",
-      "last_listened": "04 May 2026, 17:43",
-      "track": "I. Adagio",
+      "last_listened": "07 Aug 2026, 16:31",
+      "track": "IV. Sarabande",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ragna%20Schirmer",
-      "track_url": "https://www.last.fm/music/Ragna+Schirmer/_/I.+Adagio",
+      "track_url": "https://www.last.fm/music/Ragna+Schirmer/_/IV.+Sarabande",
       "graduated": false,
       "album": "Handel: Keyboard Suites"
     },
@@ -4171,6 +4171,26 @@
       "album": "Apostrophe(')",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Frank%20Zappa",
       "track_url": "https://www.last.fm/music/Frank+Zappa/_/Apostrophe'",
+      "graduated": false
+    },
+    "david garfield, michael landau, eddie van halen, will lee, simon phillips": {
+      "artist": "David Garfield, Michael Landau, Eddie Van Halen, Will Lee, Simon Phillips",
+      "first_discovered": "07 Aug 2026, 15:55",
+      "last_listened": "07 Aug 2026, 15:55",
+      "track": "If Six Was Nine",
+      "album": "Guitar Heroes OTB, Vol. 1",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Garfield%2C%20Michael%20Landau%2C%20Eddie%20Van%20Halen%2C%20Will%20Lee%2C%20Simon%20Phillips",
+      "track_url": "https://www.last.fm/music/David+Garfield%2C+Michael+Landau%2C+Eddie+Van+Halen%2C+Will+Lee%2C+Simon+Phillips/_/If+Six+Was+Nine",
+      "graduated": false
+    },
+    "jimmy smith and wes montgomery": {
+      "artist": "Jimmy Smith and Wes Montgomery",
+      "first_discovered": "07 Aug 2026, 15:35",
+      "last_listened": "07 Aug 2026, 15:35",
+      "track": "Night Train",
+      "album": "Acid Jazz - Verve 50",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jimmy%20Smith%20and%20Wes%20Montgomery",
+      "track_url": "https://www.last.fm/music/Jimmy+Smith+and+Wes+Montgomery/_/Night+Train",
       "graduated": false
     }
   }
