@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-07T20:15:29.395361-07:00",
+    "last_updated": "2026-08-08T20:23:21.498169-07:00",
     "username": "sugarsmax",
-    "total_artists": 386
+    "total_artists": 411
   },
   "artists": {
     "rjd2, supastition": {
@@ -188,10 +188,10 @@
     "alexandre tharaud": {
       "artist": "Alexandre Tharaud",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alexandre%20Tharaud",
-      "recent_track": "24 Préludes, Op. 28: No. 15, Sostenuto",
-      "recent_track_url": "https://www.last.fm/music/Alexandre+Tharaud/_/24+Pr%C3%A9ludes%2C+Op.+28:+No.+15%2C+Sostenuto",
+      "recent_track": "Prelude No. 1 in C-Sharp Minor, Op. 3 No. 2 \"The Bells of Moscow\"",
+      "recent_track_url": "https://www.last.fm/music/Alexandre+Tharaud/_/Prelude+No.+1+in+C-Sharp+Minor%2C+Op.+3+No.+2+%22The+Bells+of+Moscow%22",
       "first_discovered": "20 Feb 2026, 23:54",
-      "last_seen": "14 Apr 2026, 15:10",
+      "last_seen": "08 Aug 2026, 15:27",
       "top_tracks": []
     },
     "rafał blechacz": {
@@ -269,10 +269,10 @@
     "jan lisiecki": {
       "artist": "Jan Lisiecki",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jan%20Lisiecki",
-      "recent_track": "Mendelssohn: Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
-      "recent_track_url": "https://www.last.fm/music/Jan+Lisiecki/_/Mendelssohn:+Lieder+ohne+Worte%2C+Op.+19:+No.+6+in+G+Minor+%28Andante+sostenuto%29+%22Venetian+Gondola+Song%22%2C+MWV+U78",
+      "recent_track": "Chopin: Nocturne in C-Sharp Minor, Op. Posth.",
+      "recent_track_url": "https://www.last.fm/music/Jan+Lisiecki/_/Chopin:+Nocturne+in+C-Sharp+Minor%2C+Op.+Posth.",
       "first_discovered": "20 Feb 2026, 22:52",
-      "last_seen": "24 Feb 2026, 17:30",
+      "last_seen": "08 Aug 2026, 10:30",
       "top_tracks": []
     },
     "ivan moravec": {
@@ -2551,10 +2551,10 @@
     "carly simon": {
       "artist": "Carly Simon",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Simon",
-      "recent_track": "You Belong To Me",
-      "recent_track_url": "https://www.last.fm/music/Carly+Simon/_/You+Belong+To+Me",
+      "recent_track": "Peaches",
+      "recent_track_url": "https://www.last.fm/music/Carly+Simon/_/Peaches",
       "first_discovered": "17 Jun 2026, 15:59",
-      "last_seen": "18 Jun 2026, 18:59",
+      "last_seen": "08 Aug 2026, 15:51",
       "top_tracks": []
     },
     "mandalay": {
@@ -2596,10 +2596,10 @@
     "ivo pogorelich": {
       "artist": "Ivo Pogorelich",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ivo%20Pogorelich",
-      "recent_track": "D. Scarlatti: Keyboard Sonata in D Minor, Kk. 141",
-      "recent_track_url": "https://www.last.fm/music/Ivo+Pogorelich/_/D.+Scarlatti:+Keyboard+Sonata+in+D+Minor%2C+Kk.+141",
+      "recent_track": "D. Scarlatti: Keyboard Sonata in D Minor, Kk. 1",
+      "recent_track_url": "https://www.last.fm/music/Ivo+Pogorelich/_/D.+Scarlatti:+Keyboard+Sonata+in+D+Minor%2C+Kk.+1",
       "first_discovered": "18 Jun 2026, 09:48",
-      "last_seen": "18 Jun 2026, 09:48",
+      "last_seen": "08 Aug 2026, 11:17",
       "top_tracks": []
     },
     "neues bachisches collegium musicum, burkhard glaetzner, christine schornsheim": {
@@ -2767,10 +2767,10 @@
     "grigory sokolov": {
       "artist": "Grigory Sokolov",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Grigory%20Sokolov",
-      "recent_track": "English Suite No. 2 in A Minor, BWV 807: IV. Sarabande",
-      "recent_track_url": "https://www.last.fm/music/Grigory+Sokolov/_/English+Suite+No.+2+in+A+Minor%2C+BWV+807:+IV.+Sarabande",
+      "recent_track": "6 Partitas, No. 2 in C Minor, BWV 826: I. Sinfonia",
+      "recent_track_url": "https://www.last.fm/music/Grigory+Sokolov/_/6+Partitas%2C+No.+2+in+C+Minor%2C+BWV+826:+I.+Sinfonia",
       "first_discovered": "25 Jun 2026, 16:52",
-      "last_seen": "25 Jun 2026, 16:52",
+      "last_seen": "08 Aug 2026, 15:24",
       "top_tracks": []
     },
     "slovak radio symphony orchestra": {
@@ -3082,19 +3082,19 @@
     "mars red sky": {
       "artist": "Mars Red Sky",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mars%20Red%20Sky",
-      "recent_track": "Up the Stairs",
-      "recent_track_url": "https://www.last.fm/music/Mars+Red+Sky/_/Up+the+Stairs",
+      "recent_track": "Strong Reflection",
+      "recent_track_url": "https://www.last.fm/music/Mars+Red+Sky/_/Strong+Reflection",
       "first_discovered": "20 Jul 2026, 13:31",
-      "last_seen": "21 Jul 2026, 08:56",
+      "last_seen": "08 Aug 2026, 16:40",
       "top_tracks": []
     },
     "colour haze": {
       "artist": "Colour Haze",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Colour%20Haze",
-      "recent_track": "Love",
-      "recent_track_url": "https://www.last.fm/music/Colour+Haze/_/Love",
+      "recent_track": "Aquamaria",
+      "recent_track_url": "https://www.last.fm/music/Colour+Haze/_/Aquamaria",
       "first_discovered": "20 Jul 2026, 13:27",
-      "last_seen": "21 Jul 2026, 07:05",
+      "last_seen": "08 Aug 2026, 16:12",
       "top_tracks": []
     },
     "somali yacht club": {
@@ -3482,6 +3482,231 @@
       "recent_track_url": "https://www.last.fm/music/Jimmy+Smith+and+Wes+Montgomery/_/Night+Train",
       "first_discovered": "07 Aug 2026, 15:35",
       "last_seen": "07 Aug 2026, 15:35",
+      "top_tracks": []
+    },
+    "psychedelic porn crumpets": {
+      "artist": "Psychedelic Porn Crumpets",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Psychedelic%20Porn%20Crumpets",
+      "recent_track": "Found God in a Tomato",
+      "recent_track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Found+God+in+a+Tomato",
+      "first_discovered": "08 Aug 2026, 19:54",
+      "last_seen": "08 Aug 2026, 19:54",
+      "top_tracks": []
+    },
+    "sugar candy mountain": {
+      "artist": "Sugar Candy Mountain",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sugar%20Candy%20Mountain",
+      "recent_track": "Change",
+      "recent_track_url": "https://www.last.fm/music/Sugar+Candy+Mountain/_/Change",
+      "first_discovered": "08 Aug 2026, 19:41",
+      "last_seen": "08 Aug 2026, 19:41",
+      "top_tracks": []
+    },
+    "post animal": {
+      "artist": "Post Animal",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Post%20Animal",
+      "recent_track": "Goggles",
+      "recent_track_url": "https://www.last.fm/music/Post+Animal/_/Goggles",
+      "first_discovered": "08 Aug 2026, 19:40",
+      "last_seen": "08 Aug 2026, 19:40",
+      "top_tracks": []
+    },
+    "moses gunn collective": {
+      "artist": "Moses Gunn Collective",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Moses%20Gunn%20Collective",
+      "recent_track": "Strawberry",
+      "recent_track_url": "https://www.last.fm/music/Moses+Gunn+Collective/_/Strawberry",
+      "first_discovered": "08 Aug 2026, 19:38",
+      "last_seen": "08 Aug 2026, 19:38",
+      "top_tracks": []
+    },
+    "sleepy sun": {
+      "artist": "Sleepy Sun",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sleepy%20Sun",
+      "recent_track": "Marina",
+      "recent_track_url": "https://www.last.fm/music/Sleepy+Sun/_/Marina",
+      "first_discovered": "08 Aug 2026, 17:25",
+      "last_seen": "08 Aug 2026, 17:25",
+      "top_tracks": []
+    },
+    "uncle acid & the deadbeats": {
+      "artist": "Uncle Acid & the Deadbeats",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Uncle%20Acid%20%26%20the%20Deadbeats",
+      "recent_track": "Death's Door",
+      "recent_track_url": "https://www.last.fm/music/Uncle+Acid+%26+the+Deadbeats/_/Death's+Door",
+      "first_discovered": "08 Aug 2026, 17:09",
+      "last_seen": "08 Aug 2026, 17:09",
+      "top_tracks": []
+    },
+    "black mountain": {
+      "artist": "Black Mountain",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Mountain",
+      "recent_track": "Mothers Of The Sun",
+      "recent_track_url": "https://www.last.fm/music/Black+Mountain/_/Mothers+Of+The+Sun",
+      "first_discovered": "08 Aug 2026, 17:02",
+      "last_seen": "08 Aug 2026, 17:02",
+      "top_tracks": []
+    },
+    "causa sui": {
+      "artist": "Causa Sui",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Causa%20Sui",
+      "recent_track": "Homage",
+      "recent_track_url": "https://www.last.fm/music/Causa+Sui/_/Homage",
+      "first_discovered": "08 Aug 2026, 16:32",
+      "last_seen": "08 Aug 2026, 16:32",
+      "top_tracks": []
+    },
+    "shiloh dynasty, balaniewkor thangkhiew, bt": {
+      "artist": "Shiloh Dynasty, Balaniewkor Thangkhiew, BT",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shiloh%20Dynasty%2C%20Balaniewkor%20Thangkhiew%2C%20BT",
+      "recent_track": "Hesitations (Shiloh’s Ballad)",
+      "recent_track_url": "https://www.last.fm/music/Shiloh+Dynasty%2C+Balaniewkor+Thangkhiew%2C+BT/_/Hesitations+%28Shiloh%E2%80%99s+Ballad%29",
+      "first_discovered": "08 Aug 2026, 15:50",
+      "last_seen": "08 Aug 2026, 15:50",
+      "top_tracks": []
+    },
+    "mayer hawthorne, peanuts": {
+      "artist": "Mayer Hawthorne, Peanuts",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mayer%20Hawthorne%2C%20Peanuts",
+      "recent_track": "Ice Water (From \"Camp Snoopy\")",
+      "recent_track_url": "https://www.last.fm/music/Mayer+Hawthorne%2C+Peanuts/_/Ice+Water+%28From+%22Camp+Snoopy%22%29",
+      "first_discovered": "08 Aug 2026, 15:43",
+      "last_seen": "08 Aug 2026, 15:43",
+      "top_tracks": []
+    },
+    "sol gabetta, hélène grimaud": {
+      "artist": "Sol Gabetta, Hélène Grimaud",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sol%20Gabetta%2C%20H%C3%A9l%C3%A8ne%20Grimaud",
+      "recent_track": "Shostakovich: Sonata for Cello and Piano, Op. 40: III. Largo",
+      "recent_track_url": "https://www.last.fm/music/Sol+Gabetta%2C+H%C3%A9l%C3%A8ne+Grimaud/_/Shostakovich:+Sonata+for+Cello+and+Piano%2C+Op.+40:+III.+Largo",
+      "first_discovered": "08 Aug 2026, 15:40",
+      "last_seen": "08 Aug 2026, 15:40",
+      "top_tracks": []
+    },
+    "james rhodes, johann sebastian bach": {
+      "artist": "James Rhodes, Johann Sebastian Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Rhodes%2C%20Johann%20Sebastian%20Bach",
+      "recent_track": "Chaconne in D Minor, BWV 1004 (arr. Busoni)",
+      "recent_track_url": "https://www.last.fm/music/James+Rhodes%2C+Johann+Sebastian+Bach/_/Chaconne+in+D+Minor%2C+BWV+1004+%28arr.+Busoni%29",
+      "first_discovered": "08 Aug 2026, 15:37",
+      "last_seen": "08 Aug 2026, 15:37",
+      "top_tracks": []
+    },
+    "monteverdi choir, english baroque soloists, john eliot gardiner": {
+      "artist": "Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Monteverdi%20Choir%2C%20English%20Baroque%20Soloists%2C%20John%20Eliot%20Gardiner",
+      "recent_track": "J.S. Bach: Weihnachts-Oratorium, BWV 248, Pt. 1: No. 1, Chorus. Jauchzet, frohlocket, auf, preiset die Tage",
+      "recent_track_url": "https://www.last.fm/music/Monteverdi+Choir%2C+English+Baroque+Soloists%2C+John+Eliot+Gardiner/_/J.S.+Bach:+Weihnachts-Oratorium%2C+BWV+248%2C+Pt.+1:+No.+1%2C+Chorus.+Jauchzet%2C+frohlocket%2C+auf%2C+preiset+die+Tage",
+      "first_discovered": "08 Aug 2026, 15:33",
+      "last_seen": "08 Aug 2026, 15:33",
+      "top_tracks": []
+    },
+    "arcadi volodos": {
+      "artist": "Arcadi Volodos",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Arcadi%20Volodos",
+      "recent_track": "Sicilienne (from Concerto In D Minor, BWV 596)",
+      "recent_track_url": "https://www.last.fm/music/Arcadi+Volodos/_/Sicilienne+%28from+Concerto+In+D+Minor%2C+BWV+596%29",
+      "first_discovered": "08 Aug 2026, 15:30",
+      "last_seen": "08 Aug 2026, 15:30",
+      "top_tracks": []
+    },
+    "wilhelm kempff": {
+      "artist": "Wilhelm Kempff",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wilhelm%20Kempff",
+      "recent_track": "J.S. Bach: Nun komm der Heiden Heiland, BWV 659 (Arr. Kempff for Piano)",
+      "recent_track_url": "https://www.last.fm/music/Wilhelm+Kempff/_/J.S.+Bach:+Nun+komm+der+Heiden+Heiland%2C+BWV+659+%28Arr.+Kempff+for+Piano%29",
+      "first_discovered": "08 Aug 2026, 15:19",
+      "last_seen": "08 Aug 2026, 15:19",
+      "top_tracks": []
+    },
+    "igor levit": {
+      "artist": "Igor Levit",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Igor%20Levit",
+      "recent_track": "Chaconne from Partita for Solo Violin No. 2, BWV 1004 (Transcription for Piano)",
+      "recent_track_url": "https://www.last.fm/music/Igor+Levit/_/Chaconne+from+Partita+for+Solo+Violin+No.+2%2C+BWV+1004+%28Transcription+for+Piano%29",
+      "first_discovered": "08 Aug 2026, 15:15",
+      "last_seen": "08 Aug 2026, 15:15",
+      "top_tracks": []
+    },
+    "the english concert, trevor pinnock": {
+      "artist": "The English Concert, Trevor Pinnock",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20English%20Concert%2C%20Trevor%20Pinnock",
+      "recent_track": "J.S. Bach: Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]",
+      "recent_track_url": "https://www.last.fm/music/The+English+Concert%2C+Trevor+Pinnock/_/J.S.+Bach:+Brandenburg+Concerto+No.+3+in+G+Major%2C+BWV+1048:+I.+%5BAllegro%5D",
+      "first_discovered": "08 Aug 2026, 15:01",
+      "last_seen": "08 Aug 2026, 15:01",
+      "top_tracks": []
+    },
+    "andrei gavrilov": {
+      "artist": "Andrei Gavrilov",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Andrei%20Gavrilov",
+      "recent_track": "Keyboard Suite in E Minor, HWV 429: II. Allemande",
+      "recent_track_url": "https://www.last.fm/music/Andrei+Gavrilov/_/Keyboard+Suite+in+E+Minor%2C+HWV+429:+II.+Allemande",
+      "first_discovered": "08 Aug 2026, 14:28",
+      "last_seen": "08 Aug 2026, 14:28",
+      "top_tracks": []
+    },
+    "heinz holliger, academy of st martin in the fields, iona brown": {
+      "artist": "Heinz Holliger, Academy of St Martin in the Fields, Iona Brown",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Heinz%20Holliger%2C%20Academy%20of%20St%20Martin%20in%20the%20Fields%2C%20Iona%20Brown",
+      "recent_track": "J.S. Bach: Oboe Concerto in D Minor, BWV 1059R: II. Siciliano",
+      "recent_track_url": "https://www.last.fm/music/Heinz+Holliger%2C+Academy+of+St+Martin+in+the+Fields%2C+Iona+Brown/_/J.S.+Bach:+Oboe+Concerto+in+D+Minor%2C+BWV+1059R:+II.+Siciliano",
+      "first_discovered": "08 Aug 2026, 11:13",
+      "last_seen": "08 Aug 2026, 11:13",
+      "top_tracks": []
+    },
+    "david oistrakh, igor oistrakh, george malcolm, royal philharmonic orchestra, eugene aynsley goossens": {
+      "artist": "David Oistrakh, Igor Oistrakh, George Malcolm, Royal Philharmonic Orchestra, Eugene Aynsley Goossens",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Oistrakh%2C%20Igor%20Oistrakh%2C%20George%20Malcolm%2C%20Royal%20Philharmonic%20Orchestra%2C%20Eugene%20Aynsley%20Goossens",
+      "recent_track": "J.S. Bach: Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto",
+      "recent_track_url": "https://www.last.fm/music/David+Oistrakh%2C+Igor+Oistrakh%2C+George+Malcolm%2C+Royal+Philharmonic+Orchestra%2C+Eugene+Aynsley+Goossens/_/J.S.+Bach:+Concerto+for+2+Violins+in+D+Minor%2C+BWV+1043:+II.+Largo+ma+non+tanto",
+      "first_discovered": "08 Aug 2026, 11:06",
+      "last_seen": "08 Aug 2026, 11:06",
+      "top_tracks": []
+    },
+    "james brown's celebrity hot tub party": {
+      "artist": "James Brown's Celebrity Hot Tub Party",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Brown%27s%20Celebrity%20Hot%20Tub%20Party",
+      "recent_track": "SNL",
+      "recent_track_url": "https://www.last.fm/music/James+Brown's+Celebrity+Hot+Tub+Party/_/SNL",
+      "first_discovered": "08 Aug 2026, 10:52",
+      "last_seen": "08 Aug 2026, 10:52",
+      "top_tracks": []
+    },
+    "hilary hahn, margaret batjer, los angeles chamber orchestra, jeffrey kahane": {
+      "artist": "Hilary Hahn, Margaret Batjer, Los Angeles Chamber Orchestra, Jeffrey Kahane",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hilary%20Hahn%2C%20Margaret%20Batjer%2C%20Los%20Angeles%20Chamber%20Orchestra%2C%20Jeffrey%20Kahane",
+      "recent_track": "J.S. Bach: Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",
+      "recent_track_url": "https://www.last.fm/music/Hilary+Hahn%2C+Margaret+Batjer%2C+Los+Angeles+Chamber+Orchestra%2C+Jeffrey+Kahane/_/J.S.+Bach:+Concerto+for+2+Violins+in+D+Minor%2C+BWV+1043:+I.+Vivace",
+      "first_discovered": "08 Aug 2026, 10:38",
+      "last_seen": "08 Aug 2026, 10:38",
+      "top_tracks": []
+    },
+    "yuja wang": {
+      "artist": "Yuja Wang",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yuja%20Wang",
+      "recent_track": "D. Scarlatti: Sonata in E Major, K. 380: Andante commodo",
+      "recent_track_url": "https://www.last.fm/music/Yuja+Wang/_/D.+Scarlatti:+Sonata+in+E+Major%2C+K.+380:+Andante+commodo",
+      "first_discovered": "08 Aug 2026, 10:35",
+      "last_seen": "08 Aug 2026, 10:35",
+      "top_tracks": []
+    },
+    "hélène grimaud": {
+      "artist": "Hélène Grimaud",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/H%C3%A9l%C3%A8ne%20Grimaud",
+      "recent_track": "J.S. Bach: Prelude and Fugue in A Minor, BWV 543 (Transcr. for Piano by Liszt)",
+      "recent_track_url": "https://www.last.fm/music/H%C3%A9l%C3%A8ne+Grimaud/_/J.S.+Bach:+Prelude+and+Fugue+in+A+Minor%2C+BWV+543+%28Transcr.+for+Piano+by+Liszt%29",
+      "first_discovered": "08 Aug 2026, 10:23",
+      "last_seen": "08 Aug 2026, 10:23",
+      "top_tracks": []
+    },
+    "murray perahia": {
+      "artist": "Murray Perahia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia",
+      "recent_track": "J.S. Bach: French Suite No. 5 in G Major, BWV 816: V. Bourrée",
+      "recent_track_url": "https://www.last.fm/music/Murray+Perahia/_/J.S.+Bach:+French+Suite+No.+5+in+G+Major%2C+BWV+816:+V.+Bourr%C3%A9e",
+      "first_discovered": "08 Aug 2026, 10:14",
+      "last_seen": "08 Aug 2026, 10:14",
       "top_tracks": []
     }
   }
