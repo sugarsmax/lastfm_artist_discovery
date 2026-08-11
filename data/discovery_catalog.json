@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-09T20:42:42.203760-07:00",
+    "last_updated": "2026-08-10T20:25:09.691673-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 455,
+    "total_discoveries": 457,
     "total_graduated": 44
   },
   "catalog": {
@@ -4038,7 +4038,7 @@
     "alabaster\" live in berkeley, ca": {
       "artist": "Alabaster\" Live In Berkeley, CA",
       "first_discovered": "29 Jul 2026, 08:48",
-      "last_listened": "29 Jul 2026, 08:48",
+      "last_listened": "10 Aug 2026, 14:10",
       "track": "ENCORE Performance",
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alabaster%22%20Live%20In%20Berkeley%2C%20CA",
@@ -4443,6 +4443,26 @@
       "album": "Johann Sebastian Bach: The French Suites",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Murray%20Perahia",
       "track_url": "https://www.last.fm/music/Murray+Perahia/_/J.S.+Bach:+French+Suite+No.+5+in+G+Major%2C+BWV+816:+V.+Bourr%C3%A9e",
+      "graduated": false
+    },
+    "nation of language": {
+      "artist": "Nation of Language",
+      "first_discovered": "10 Aug 2026, 15:20",
+      "last_listened": "10 Aug 2026, 15:20",
+      "track": "I'm Not Ready for the Change",
+      "album": "Dance Called Memory",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nation%20of%20Language",
+      "track_url": "https://www.last.fm/music/Nation+of+Language/_/I'm+Not+Ready+for+the+Change",
+      "graduated": false
+    },
+    "tchotchke": {
+      "artist": "Tchotchke",
+      "first_discovered": "10 Aug 2026, 15:16",
+      "last_listened": "10 Aug 2026, 15:16",
+      "track": "Poor Girl",
+      "album": "Poor Girl",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tchotchke",
+      "track_url": "https://www.last.fm/music/Tchotchke/_/Poor+Girl",
       "graduated": false
     }
   }

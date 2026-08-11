@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-09T20:42:43.929916-07:00",
+    "last_updated": "2026-08-10T20:25:11.549729-07:00",
     "username": "sugarsmax",
-    "total_artists": 411
+    "total_artists": 413
   },
   "artists": {
     "rjd2, supastition": {
@@ -3346,7 +3346,7 @@
       "recent_track": "ENCORE Performance",
       "recent_track_url": "https://www.last.fm/music/Alabaster%22+Live+In+Berkeley%2C+CA/_/ENCORE+Performance",
       "first_discovered": "29 Jul 2026, 08:48",
-      "last_seen": "29 Jul 2026, 08:48",
+      "last_seen": "10 Aug 2026, 14:10",
       "top_tracks": []
     },
     "b.b. king": {
@@ -3707,6 +3707,24 @@
       "recent_track_url": "https://www.last.fm/music/Murray+Perahia/_/J.S.+Bach:+French+Suite+No.+5+in+G+Major%2C+BWV+816:+V.+Bourr%C3%A9e",
       "first_discovered": "08 Aug 2026, 10:14",
       "last_seen": "08 Aug 2026, 10:14",
+      "top_tracks": []
+    },
+    "nation of language": {
+      "artist": "Nation of Language",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nation%20of%20Language",
+      "recent_track": "I'm Not Ready for the Change",
+      "recent_track_url": "https://www.last.fm/music/Nation+of+Language/_/I'm+Not+Ready+for+the+Change",
+      "first_discovered": "10 Aug 2026, 15:20",
+      "last_seen": "10 Aug 2026, 15:20",
+      "top_tracks": []
+    },
+    "tchotchke": {
+      "artist": "Tchotchke",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tchotchke",
+      "recent_track": "Poor Girl",
+      "recent_track_url": "https://www.last.fm/music/Tchotchke/_/Poor+Girl",
+      "first_discovered": "10 Aug 2026, 15:16",
+      "last_seen": "10 Aug 2026, 15:16",
       "top_tracks": []
     }
   }
