@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-11T20:54:32.095978-07:00",
+    "last_updated": "2026-08-12T20:58:51.028050-07:00",
     "username": "sugarsmax",
-    "total_artists": 413
+    "total_artists": 414
   },
   "artists": {
     "rjd2, supastition": {
@@ -3725,6 +3725,15 @@
       "recent_track_url": "https://www.last.fm/music/Tchotchke/_/Poor+Girl",
       "first_discovered": "10 Aug 2026, 15:16",
       "last_seen": "10 Aug 2026, 15:16",
+      "top_tracks": []
+    },
+    "bt, jc chasez": {
+      "artist": "BT, JC Chasez",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BT%2C%20JC%20Chasez",
+      "recent_track": "Force Of Gravity",
+      "recent_track_url": "https://www.last.fm/music/BT%2C+JC+Chasez/_/Force+Of+Gravity",
+      "first_discovered": "12 Aug 2026, 17:16",
+      "last_seen": "12 Aug 2026, 17:16",
       "top_tracks": []
     }
   }
