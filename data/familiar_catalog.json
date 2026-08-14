@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-12T20:58:51.028050-07:00",
+    "last_updated": "2026-08-13T20:54:57.221787-07:00",
     "username": "sugarsmax",
-    "total_artists": 414
+    "total_artists": 417
   },
   "artists": {
     "rjd2, supastition": {
@@ -3734,6 +3734,33 @@
       "recent_track_url": "https://www.last.fm/music/BT%2C+JC+Chasez/_/Force+Of+Gravity",
       "first_discovered": "12 Aug 2026, 17:16",
       "last_seen": "12 Aug 2026, 17:16",
+      "top_tracks": []
+    },
+    "john guessing ted's girlfriend's name": {
+      "artist": "John guessing Ted's girlfriend's name",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20guessing%20Ted%27s%20girlfriend%27s%20name",
+      "recent_track": "TED",
+      "recent_track_url": "https://www.last.fm/music/John+guessing+Ted's+girlfriend's+name/_/TED",
+      "first_discovered": "13 Aug 2026, 18:01",
+      "last_seen": "13 Aug 2026, 18:01",
+      "top_tracks": []
+    },
+    "dungen": {
+      "artist": "Dungen",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dungen",
+      "recent_track": "Bouppdelning",
+      "recent_track_url": "https://www.last.fm/music/Dungen/_/Bouppdelning",
+      "first_discovered": "13 Aug 2026, 14:57",
+      "last_seen": "13 Aug 2026, 14:57",
+      "top_tracks": []
+    },
+    "shanghai quartet": {
+      "artist": "Shanghai Quartet",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shanghai%20Quartet",
+      "recent_track": "String Quartet No. 22 in B-Flat Major, K. 589 \"Prussian No. 2\": II. Larghetto",
+      "recent_track_url": "https://www.last.fm/music/Shanghai+Quartet/_/String+Quartet+No.+22+in+B-Flat+Major%2C+K.+589+%22Prussian+No.+2%22:+II.+Larghetto",
+      "first_discovered": "13 Aug 2026, 14:54",
+      "last_seen": "13 Aug 2026, 14:54",
       "top_tracks": []
     }
   }

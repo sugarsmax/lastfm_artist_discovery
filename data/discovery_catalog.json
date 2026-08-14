@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-12T20:58:49.306509-07:00",
+    "last_updated": "2026-08-13T20:54:55.171538-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 458,
+    "total_discoveries": 461,
     "total_graduated": 44
   },
   "catalog": {
@@ -507,12 +507,13 @@
     "kajagoogoo": {
       "artist": "Kajagoogoo",
       "first_discovered": "21 Feb 2026, 17:57",
-      "last_listened": "21 Feb 2026, 17:57",
+      "last_listened": "13 Aug 2026, 15:20",
       "track": "Too Shy",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kajagoogoo",
       "track_url": "https://www.last.fm/music/Kajagoogoo/_/Too+Shy",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474053-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474053-08:00",
+      "album": "White Feathers"
     },
     "simple minds": {
       "artist": "Simple Minds",
@@ -4473,6 +4474,36 @@
       "album": "Force of Gravity (Mark Sherry Remix)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BT%2C%20JC%20Chasez",
       "track_url": "https://www.last.fm/music/BT%2C+JC+Chasez/_/Force+Of+Gravity",
+      "graduated": false
+    },
+    "john guessing ted's girlfriend's name": {
+      "artist": "John guessing Ted's girlfriend's name",
+      "first_discovered": "13 Aug 2026, 18:01",
+      "last_listened": "13 Aug 2026, 18:01",
+      "track": "TED",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20guessing%20Ted%27s%20girlfriend%27s%20name",
+      "track_url": "https://www.last.fm/music/John+guessing+Ted's+girlfriend's+name/_/TED",
+      "graduated": false
+    },
+    "dungen": {
+      "artist": "Dungen",
+      "first_discovered": "13 Aug 2026, 14:57",
+      "last_listened": "13 Aug 2026, 14:57",
+      "track": "Bouppdelning",
+      "album": "Bouppdelning",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dungen",
+      "track_url": "https://www.last.fm/music/Dungen/_/Bouppdelning",
+      "graduated": false
+    },
+    "shanghai quartet": {
+      "artist": "Shanghai Quartet",
+      "first_discovered": "13 Aug 2026, 14:54",
+      "last_listened": "13 Aug 2026, 14:54",
+      "track": "String Quartet No. 22 in B-Flat Major, K. 589 \"Prussian No. 2\": II. Larghetto",
+      "album": "BABY NEEDS MOZART",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shanghai%20Quartet",
+      "track_url": "https://www.last.fm/music/Shanghai+Quartet/_/String+Quartet+No.+22+in+B-Flat+Major%2C+K.+589+%22Prussian+No.+2%22:+II.+Larghetto",
       "graduated": false
     }
   }
