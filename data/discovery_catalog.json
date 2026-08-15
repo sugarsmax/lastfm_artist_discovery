@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-13T20:54:55.171538-07:00",
+    "last_updated": "2026-08-14T19:42:53.192090-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 461,
+    "total_discoveries": 479,
     "total_graduated": 44
   },
   "catalog": {
@@ -3389,11 +3389,11 @@
     "yo-yo ma, leonidas kavakos, emanuel ax, ludwig van beethoven": {
       "artist": "Yo-Yo Ma, Leonidas Kavakos, Emanuel Ax, Ludwig van Beethoven",
       "first_discovered": "25 Jun 2026, 17:03",
-      "last_listened": "25 Jun 2026, 17:03",
-      "track": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
-      "album": "Symphony No. 1 in C Major, Op. 21/III. Menuetto. Allegro molto e vivace",
+      "last_listened": "14 Aug 2026, 13:21",
+      "track": "Piano Trio No. 7 in B-Flat Major, Op. 97, \"Archduke\": III. Andante cantabile, ma però con moto",
+      "album": "Beethoven for Three: Symphony No. 4 and Op. 97 \"Archduke\"",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yo-Yo%20Ma%2C%20Leonidas%20Kavakos%2C%20Emanuel%20Ax%2C%20Ludwig%20van%20Beethoven",
-      "track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Leonidas+Kavakos%2C+Emanuel+Ax%2C+Ludwig+van+Beethoven/_/Symphony+No.+1+in+C+Major%2C+Op.+21:+III.+Menuetto.+Allegro+molto+e+vivace",
+      "track_url": "https://www.last.fm/music/Yo-Yo+Ma%2C+Leonidas+Kavakos%2C+Emanuel+Ax%2C+Ludwig+van+Beethoven/_/Piano+Trio+No.+7+in+B-Flat+Major%2C+Op.+97%2C+%22Archduke%22:+III.+Andante+cantabile%2C+ma+per%C3%B2+con+moto",
       "graduated": false
     },
     "grigory sokolov": {
@@ -4504,6 +4504,186 @@
       "album": "BABY NEEDS MOZART",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shanghai%20Quartet",
       "track_url": "https://www.last.fm/music/Shanghai+Quartet/_/String+Quartet+No.+22+in+B-Flat+Major%2C+K.+589+%22Prussian+No.+2%22:+II.+Larghetto",
+      "graduated": false
+    },
+    "nas, cormega": {
+      "artist": "Nas, Cormega",
+      "first_discovered": "14 Aug 2026, 16:09",
+      "last_listened": "14 Aug 2026, 16:09",
+      "track": "Radio Freestyle Pt. 3",
+      "album": "The Freestyles",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nas%2C%20Cormega",
+      "track_url": "https://www.last.fm/music/Nas%2C+Cormega/_/Radio+Freestyle+Pt.+3",
+      "graduated": false
+    },
+    "iona brown, malcolm latchem, denis vigay": {
+      "artist": "Iona Brown, Malcolm Latchem, Denis Vigay",
+      "first_discovered": "14 Aug 2026, 16:07",
+      "last_listened": "14 Aug 2026, 16:07",
+      "track": "J.S. Bach: Musical Offering, BWV 1079 - Ed. Marriner: Canones diversi: Canon 2 a 2 Violini in unisono",
+      "album": "Bach, J.S.: The Art of Fugue; A Musical Offering",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Iona%20Brown%2C%20Malcolm%20Latchem%2C%20Denis%20Vigay",
+      "track_url": "https://www.last.fm/music/Iona+Brown%2C+Malcolm+Latchem%2C+Denis+Vigay/_/J.S.+Bach:+Musical+Offering%2C+BWV+1079+-+Ed.+Marriner:+Canones+diversi:+Canon+2+a+2+Violini+in+unisono",
+      "graduated": false
+    },
+    "café zimmermann, pablo valetti": {
+      "artist": "Café Zimmermann, Pablo Valetti",
+      "first_discovered": "14 Aug 2026, 15:58",
+      "last_listened": "14 Aug 2026, 15:58",
+      "track": "Brandenburg Concerto No. 1 in F Major, BWV 1046: III. Allegro",
+      "album": "Bach: Brandenburg Concertos (Alpha Collection)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Caf%C3%A9%20Zimmermann%2C%20Pablo%20Valetti",
+      "track_url": "https://www.last.fm/music/Caf%C3%A9+Zimmermann%2C+Pablo+Valetti/_/Brandenburg+Concerto+No.+1+in+F+Major%2C+BWV+1046:+III.+Allegro",
+      "graduated": false
+    },
+    "rené jacobs, akademie für alte musik berlin, rias kammerchor, robin johannsen, marie-claude chappuis, helena rasker, sebastian kohlhepp, christian immler": {
+      "artist": "René Jacobs, Akademie für Alte Musik Berlin, RIAS Kammerchor, Robin Johannsen, Marie-Claude Chappuis, Helena Rasker, Sebastian Kohlhepp, Christian Immler",
+      "first_discovered": "14 Aug 2026, 15:54",
+      "last_listened": "14 Aug 2026, 15:54",
+      "track": "Mass in B Minor, BWV 232: I. Missa (Kyrie, Gloria) - Kyrie eleison I",
+      "album": "Bach: Mass in B Minor, BWV 232",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ren%C3%A9%20Jacobs%2C%20Akademie%20f%C3%BCr%20Alte%20Musik%20Berlin%2C%20RIAS%20Kammerchor%2C%20Robin%20Johannsen%2C%20Marie-Claude%20Chappuis%2C%20Helena%20Rasker%2C%20Sebastian%20Kohlhepp%2C%20Christian%20Immler",
+      "track_url": "https://www.last.fm/music/Ren%C3%A9+Jacobs%2C+Akademie+f%C3%BCr+Alte+Musik+Berlin%2C+RIAS+Kammerchor%2C+Robin+Johannsen%2C+Marie-Claude+Chappuis%2C+Helena+Rasker%2C+Sebastian+Kohlhepp%2C+Christian+Immler/_/Mass+in+B+Minor%2C+BWV+232:+I.+Missa+%28Kyrie%2C+Gloria%29+-+Kyrie+eleison+I",
+      "graduated": false
+    },
+    "angela hewitt": {
+      "artist": "Angela Hewitt",
+      "first_discovered": "14 Aug 2026, 15:44",
+      "last_listened": "14 Aug 2026, 15:44",
+      "track": "J.S. Bach: English Suite No. 1 in A Major, BWV 806: III. Courante I",
+      "album": "\"Golden Melodies: Bach, Mozart & more\"",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Angela%20Hewitt",
+      "track_url": "https://www.last.fm/music/Angela+Hewitt/_/J.S.+Bach:+English+Suite+No.+1+in+A+Major%2C+BWV+806:+III.+Courante+I",
+      "graduated": false
+    },
+    "olivier latry": {
+      "artist": "Olivier Latry",
+      "first_discovered": "14 Aug 2026, 15:42",
+      "last_listened": "14 Aug 2026, 15:42",
+      "track": "Musikalisches Opfer, BWV 1079: Ricercare a 6",
+      "album": "Bach to Notre-Dame",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivier%20Latry",
+      "track_url": "https://www.last.fm/music/Olivier+Latry/_/Musikalisches+Opfer%2C+BWV+1079:+Ricercare+a+6",
+      "graduated": false
+    },
+    "christopher hogwood": {
+      "artist": "Christopher Hogwood",
+      "first_discovered": "14 Aug 2026, 15:36",
+      "last_listened": "14 Aug 2026, 15:36",
+      "track": "J.S. Bach: The Art of Fugue, BWV 1080: Contrapunctus 3",
+      "album": "Bach, J.S.: The Art of Fugue; A Musical Offering",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Christopher%20Hogwood",
+      "track_url": "https://www.last.fm/music/Christopher+Hogwood/_/J.S.+Bach:+The+Art+of+Fugue%2C+BWV+1080:+Contrapunctus+3",
+      "graduated": false
+    },
+    "steven devine, orchestra of the age of enlightenment": {
+      "artist": "Steven Devine, Orchestra Of The Age Of Enlightenment",
+      "first_discovered": "14 Aug 2026, 15:35",
+      "last_listened": "14 Aug 2026, 15:35",
+      "track": "Harpsichord Concerto in D Minor, BWV 1052: I. Allegro",
+      "album": "Bach: Harpsichord Concertos, BWV 1052, 1054, 1055 & 1059",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steven%20Devine%2C%20Orchestra%20Of%20The%20Age%20Of%20Enlightenment",
+      "track_url": "https://www.last.fm/music/Steven+Devine%2C+Orchestra+Of+The+Age+Of+Enlightenment/_/Harpsichord+Concerto+in+D+Minor%2C+BWV+1052:+I.+Allegro",
+      "graduated": false
+    },
+    "erykah badu, the alchemist": {
+      "artist": "Erykah Badu, The Alchemist",
+      "first_discovered": "14 Aug 2026, 15:20",
+      "last_listened": "14 Aug 2026, 15:20",
+      "track": "Witch Doctor",
+      "album": "Witch Doctor",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Erykah%20Badu%2C%20The%20Alchemist",
+      "track_url": "https://www.last.fm/music/Erykah+Badu%2C+The+Alchemist/_/Witch+Doctor",
+      "graduated": false
+    },
+    "ludwig van beethoven, philharmonia slavonica, jan czerkow": {
+      "artist": "Ludwig van Beethoven, Philharmonia Slavonica, Jan Czerkow",
+      "first_discovered": "14 Aug 2026, 13:09",
+      "last_listened": "14 Aug 2026, 13:09",
+      "track": "Romance for Violin and Orchestra in F Major, Op. 50",
+      "album": "The Classical Collection, Famous Violin Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ludwig%20van%20Beethoven%2C%20Philharmonia%20Slavonica%2C%20Jan%20Czerkow",
+      "track_url": "https://www.last.fm/music/Ludwig+van+Beethoven%2C+Philharmonia+Slavonica%2C+Jan+Czerkow/_/Romance+for+Violin+and+Orchestra+in+F+Major%2C+Op.+50",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, the ljubljana symphony orchestra": {
+      "artist": "Wolfgang Amadeus Mozart, The Ljubljana Symphony Orchestra",
+      "first_discovered": "14 Aug 2026, 12:52",
+      "last_listened": "14 Aug 2026, 12:52",
+      "track": "Requiem in D Minor, K. 626, III. Sequentia: Lacrimosa",
+      "album": "The 50 Best Classical Songs Ever",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20The%20Ljubljana%20Symphony%20Orchestra",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+The+Ljubljana+Symphony+Orchestra/_/Requiem+in+D+Minor%2C+K.+626%2C+III.+Sequentia:+Lacrimosa",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, sofia philharmonic orchestra": {
+      "artist": "Wolfgang Amadeus Mozart, Sofia Philharmonic Orchestra",
+      "first_discovered": "14 Aug 2026, 12:47",
+      "last_listened": "14 Aug 2026, 12:47",
+      "track": "The Magic Flute, K.620: Ein Mädchen oder Weibchen (Instrumental)",
+      "album": "99 Must-Have Classic Gold",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Sofia%20Philharmonic%20Orchestra",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Sofia+Philharmonic+Orchestra/_/The+Magic+Flute%2C+K.620:+Ein+M%C3%A4dchen+oder+Weibchen+%28Instrumental%29",
+      "graduated": false
+    },
+    "mathieu herzog, appassionato, wolfgang amadeus mozart, ensemble appassionato": {
+      "artist": "Mathieu Herzog, Appassionato, Wolfgang Amadeus Mozart, Ensemble Appassionato",
+      "first_discovered": "14 Aug 2026, 12:44",
+      "last_listened": "14 Aug 2026, 12:44",
+      "track": "Symphony No. 41 in C Major, K. 551 \"Jupiter\": I. Allegro vivace",
+      "album": "Mozart: Les trois dernières symphonies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mathieu%20Herzog%2C%20Appassionato%2C%20Wolfgang%20Amadeus%20Mozart%2C%20Ensemble%20Appassionato",
+      "track_url": "https://www.last.fm/music/Mathieu+Herzog%2C+Appassionato%2C+Wolfgang+Amadeus+Mozart%2C+Ensemble+Appassionato/_/Symphony+No.+41+in+C+Major%2C+K.+551+%22Jupiter%22:+I.+Allegro+vivace",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, wiener konzerthaus orchester, kurt equiluz, alois bachbauer, die wiener sängerknaben": {
+      "artist": "Wolfgang Amadeus Mozart, Wiener Konzerthaus Orchester, Kurt Equiluz, Alois Bachbauer, Die Wiener Sängerknaben",
+      "first_discovered": "14 Aug 2026, 12:40",
+      "last_listened": "14 Aug 2026, 12:40",
+      "track": "Requiem in D Minor, K.626: I. Introitus: Requiem aeternam",
+      "album": "Mozart, Requiem",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Wiener%20Konzerthaus%20Orchester%2C%20Kurt%20Equiluz%2C%20Alois%20Bachbauer%2C%20Die%20Wiener%20S%C3%A4ngerknaben",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Wiener+Konzerthaus+Orchester%2C+Kurt+Equiluz%2C+Alois+Bachbauer%2C+Die+Wiener+S%C3%A4ngerknaben/_/Requiem+in+D+Minor%2C+K.626:+I.+Introitus:+Requiem+aeternam",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, london philharmonic orchestra": {
+      "artist": "Wolfgang Amadeus Mozart, London Philharmonic Orchestra",
+      "first_discovered": "14 Aug 2026, 11:58",
+      "last_listened": "14 Aug 2026, 11:58",
+      "track": "Symphony No. 41 In C Major, KV 551, \"Jupiter\": IV. Molto allegro",
+      "album": "Great Symphonies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20London%20Philharmonic%20Orchestra",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+London+Philharmonic+Orchestra/_/Symphony+No.+41+In+C+Major%2C+KV+551%2C+%22Jupiter%22:+IV.+Molto+allegro",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, vienna state opera orchesta, denis matthews": {
+      "artist": "Wolfgang Amadeus Mozart, Vienna State Opera Orchesta, Denis Matthews",
+      "first_discovered": "14 Aug 2026, 11:49",
+      "last_listened": "14 Aug 2026, 11:49",
+      "track": "Piano Sonata No. 8 in A Minor, K. 310: III. Presto",
+      "album": "50 Classical Music for Babies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Vienna%20State%20Opera%20Orchesta%2C%20Denis%20Matthews",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Vienna+State+Opera+Orchesta%2C+Denis+Matthews/_/Piano+Sonata+No.+8+in+A+Minor%2C+K.+310:+III.+Presto",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, mozart festival orchestra, svetlana stanceva": {
+      "artist": "Wolfgang Amadeus Mozart, Mozart Festival Orchestra, Svetlana Stanceva",
+      "first_discovered": "14 Aug 2026, 11:46",
+      "last_listened": "14 Aug 2026, 11:46",
+      "track": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+      "album": "Mozart - Elvira Madigan",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Mozart%20Festival%20Orchestra%2C%20Svetlana%20Stanceva",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Mozart+Festival+Orchestra%2C+Svetlana+Stanceva/_/Piano+Concerto+No.+21+in+C+Major%2C+K.+467:+II.+Andante",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, the cavendish orchestra, terry cavendish": {
+      "artist": "Wolfgang Amadeus Mozart, The Cavendish Orchestra, Terry Cavendish",
+      "first_discovered": "14 Aug 2026, 11:44",
+      "last_listened": "14 Aug 2026, 11:44",
+      "track": "Serenade No. 13 in G Major, K. 525 \"Eine Kleine Nachtmusik\": III: Allegretto",
+      "album": "Mozart",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20The%20Cavendish%20Orchestra%2C%20Terry%20Cavendish",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+The+Cavendish+Orchestra%2C+Terry+Cavendish/_/Serenade+No.+13+in+G+Major%2C+K.+525+%22Eine+Kleine+Nachtmusik%22:+III:+Allegretto",
       "graduated": false
     }
   }
