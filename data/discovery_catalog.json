@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-19T19:47:55.310566-07:00",
+    "last_updated": "2026-08-20T19:53:49.374711-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 479,
+    "total_discoveries": 481,
     "total_graduated": 44
   },
   "catalog": {
@@ -4199,11 +4199,11 @@
     "psychedelic porn crumpets": {
       "artist": "Psychedelic Porn Crumpets",
       "first_discovered": "08 Aug 2026, 19:54",
-      "last_listened": "08 Aug 2026, 19:54",
-      "track": "Found God in a Tomato",
-      "album": "",
+      "last_listened": "20 Aug 2026, 17:20",
+      "track": "Cornflake",
+      "album": "High Visceral, Pt. 1",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Psychedelic%20Porn%20Crumpets",
-      "track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Found+God+in+a+Tomato",
+      "track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake",
       "graduated": false
     },
     "sugar candy mountain": {
@@ -4684,6 +4684,26 @@
       "album": "Mozart",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20The%20Cavendish%20Orchestra%2C%20Terry%20Cavendish",
       "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+The+Cavendish+Orchestra%2C+Terry+Cavendish/_/Serenade+No.+13+in+G+Major%2C+K.+525+%22Eine+Kleine+Nachtmusik%22:+III:+Allegretto",
+      "graduated": false
+    },
+    "aaliyah": {
+      "artist": "Aaliyah",
+      "first_discovered": "20 Aug 2026, 18:01",
+      "last_listened": "20 Aug 2026, 18:01",
+      "track": "If Your Girl Only Knew",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaliyah",
+      "track_url": "https://www.last.fm/music/Aaliyah/_/If+Your+Girl+Only+Knew",
+      "graduated": false
+    },
+    "blackalicious": {
+      "artist": "Blackalicious",
+      "first_discovered": "20 Aug 2026, 15:42",
+      "last_listened": "20 Aug 2026, 15:42",
+      "track": "Deception",
+      "album": "Nia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blackalicious",
+      "track_url": "https://www.last.fm/music/Blackalicious/_/Deception",
       "graduated": false
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-19T19:47:57.056749-07:00",
+    "last_updated": "2026-08-20T19:53:51.299493-07:00",
     "username": "sugarsmax",
-    "total_artists": 435
+    "total_artists": 437
   },
   "artists": {
     "rjd2, supastition": {
@@ -3487,10 +3487,10 @@
     "psychedelic porn crumpets": {
       "artist": "Psychedelic Porn Crumpets",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Psychedelic%20Porn%20Crumpets",
-      "recent_track": "Found God in a Tomato",
-      "recent_track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Found+God+in+a+Tomato",
+      "recent_track": "Cornflake",
+      "recent_track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake",
       "first_discovered": "08 Aug 2026, 19:54",
-      "last_seen": "08 Aug 2026, 19:54",
+      "last_seen": "20 Aug 2026, 17:20",
       "top_tracks": []
     },
     "sugar candy mountain": {
@@ -3923,6 +3923,24 @@
       "recent_track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+The+Cavendish+Orchestra%2C+Terry+Cavendish/_/Serenade+No.+13+in+G+Major%2C+K.+525+%22Eine+Kleine+Nachtmusik%22:+III:+Allegretto",
       "first_discovered": "14 Aug 2026, 11:44",
       "last_seen": "14 Aug 2026, 11:44",
+      "top_tracks": []
+    },
+    "aaliyah": {
+      "artist": "Aaliyah",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aaliyah",
+      "recent_track": "If Your Girl Only Knew",
+      "recent_track_url": "https://www.last.fm/music/Aaliyah/_/If+Your+Girl+Only+Knew",
+      "first_discovered": "20 Aug 2026, 18:01",
+      "last_seen": "20 Aug 2026, 18:01",
+      "top_tracks": []
+    },
+    "blackalicious": {
+      "artist": "Blackalicious",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blackalicious",
+      "recent_track": "Deception",
+      "recent_track_url": "https://www.last.fm/music/Blackalicious/_/Deception",
+      "first_discovered": "20 Aug 2026, 15:42",
+      "last_seen": "20 Aug 2026, 15:42",
       "top_tracks": []
     }
   }
