@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-20T19:53:51.299493-07:00",
+    "last_updated": "2026-08-21T19:45:11.867233-07:00",
     "username": "sugarsmax",
-    "total_artists": 437
+    "total_artists": 458
   },
   "artists": {
     "rjd2, supastition": {
@@ -503,10 +503,10 @@
     "berliner philharmoniker, herbert von karajan": {
       "artist": "Berliner Philharmoniker, Herbert von Karajan",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan",
-      "recent_track": "J. Strauss II: An der schönen blauen Donau, Waltz, Op. 314",
-      "recent_track_url": "https://www.last.fm/music/Berliner+Philharmoniker%2C+Herbert+von+Karajan/_/J.+Strauss+II:+An+der+sch%C3%B6nen+blauen+Donau%2C+Waltz%2C+Op.+314",
+      "recent_track": "Pachelbel: Canon in D Major, P. 37/1 (Orch. Seiffert)",
+      "recent_track_url": "https://www.last.fm/music/Berliner+Philharmoniker%2C+Herbert+von+Karajan/_/Pachelbel:+Canon+in+D+Major%2C+P.+37%2F1+%28Orch.+Seiffert%29",
       "first_discovered": "27 Feb 2026, 12:13",
-      "last_seen": "02 May 2026, 19:00",
+      "last_seen": "21 Aug 2026, 15:23",
       "top_tracks": []
     },
     "mischa maisky": {
@@ -2140,7 +2140,7 @@
       "recent_track": "Know Me",
       "recent_track_url": "https://www.last.fm/music/Tom+Fuller%2C+Roro/_/Know+Me",
       "first_discovered": "18 May 2026, 13:55",
-      "last_seen": "18 May 2026, 13:55",
+      "last_seen": "21 Aug 2026, 14:27",
       "top_tracks": []
     },
     "mark wahlberg talks to animals": {
@@ -2788,7 +2788,7 @@
       "recent_track": "Brandenburg Concerto No. 4 in G Major, BWV 1049: II. Andante",
       "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Rudolf+Pribil/_/Brandenburg+Concerto+No.+4+in+G+Major%2C+BWV+1049:+II.+Andante",
       "first_discovered": "25 Jun 2026, 16:45",
-      "last_seen": "25 Jun 2026, 16:38",
+      "last_seen": "21 Aug 2026, 15:02",
       "top_tracks": []
     },
     "sergei rachmaninoff, martin jacoby": {
@@ -3121,7 +3121,7 @@
       "recent_track": "How Soon Is Now?",
       "recent_track_url": "https://www.last.fm/music/Johnny+Marr/_/How+Soon+Is+Now%3F",
       "first_discovered": "21 Jul 2026, 15:54",
-      "last_seen": "23 Jul 2026, 08:38",
+      "last_seen": "21 Aug 2026, 16:05",
       "top_tracks": []
     },
     "corridor crew": {
@@ -3760,7 +3760,7 @@
       "recent_track": "String Quartet No. 22 in B-Flat Major, K. 589 \"Prussian No. 2\": II. Larghetto",
       "recent_track_url": "https://www.last.fm/music/Shanghai+Quartet/_/String+Quartet+No.+22+in+B-Flat+Major%2C+K.+589+%22Prussian+No.+2%22:+II.+Larghetto",
       "first_discovered": "13 Aug 2026, 14:54",
-      "last_seen": "13 Aug 2026, 14:54",
+      "last_seen": "21 Aug 2026, 15:08",
       "top_tracks": []
     },
     "nas, cormega": {
@@ -3941,6 +3941,195 @@
       "recent_track_url": "https://www.last.fm/music/Blackalicious/_/Deception",
       "first_discovered": "20 Aug 2026, 15:42",
       "last_seen": "20 Aug 2026, 15:42",
+      "top_tracks": []
+    },
+    "ron carter": {
+      "artist": "Ron Carter",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ron%20Carter",
+      "recent_track": "Bye Bye Blackbird",
+      "recent_track_url": "https://www.last.fm/music/Ron+Carter/_/Bye+Bye+Blackbird",
+      "first_discovered": "21 Aug 2026, 18:26",
+      "last_seen": "21 Aug 2026, 18:26",
+      "top_tracks": []
+    },
+    "gene ammons": {
+      "artist": "Gene Ammons",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gene%20Ammons",
+      "recent_track": "Canadian Sunset",
+      "recent_track_url": "https://www.last.fm/music/Gene+Ammons/_/Canadian+Sunset",
+      "first_discovered": "21 Aug 2026, 18:21",
+      "last_seen": "21 Aug 2026, 18:21",
+      "top_tracks": []
+    },
+    "manu katché, tore brunborg, jacob young, jason rebello, pino palladino": {
+      "artist": "Manu Katché, Tore Brunborg, Jacob Young, Jason Rebello, Pino Palladino",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Manu%20Katch%C3%A9%2C%20Tore%20Brunborg%2C%20Jacob%20Young%2C%20Jason%20Rebello%2C%20Pino%20Palladino",
+      "recent_track": "Keep On Trippin'",
+      "recent_track_url": "https://www.last.fm/music/Manu+Katch%C3%A9%2C+Tore+Brunborg%2C+Jacob+Young%2C+Jason+Rebello%2C+Pino+Palladino/_/Keep+On+Trippin'",
+      "first_discovered": "21 Aug 2026, 18:15",
+      "last_seen": "21 Aug 2026, 18:15",
+      "top_tracks": []
+    },
+    "herbie hancock": {
+      "artist": "Herbie Hancock",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Herbie%20Hancock",
+      "recent_track": "Watermelon Man",
+      "recent_track_url": "https://www.last.fm/music/Herbie+Hancock/_/Watermelon+Man",
+      "first_discovered": "21 Aug 2026, 18:14",
+      "last_seen": "21 Aug 2026, 18:14",
+      "top_tracks": []
+    },
+    "nils lofgren": {
+      "artist": "Nils Lofgren",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nils%20Lofgren",
+      "recent_track": "Keith Don't Go",
+      "recent_track_url": "https://www.last.fm/music/Nils+Lofgren/_/Keith+Don't+Go",
+      "first_discovered": "21 Aug 2026, 18:07",
+      "last_seen": "21 Aug 2026, 18:07",
+      "top_tracks": []
+    },
+    "oscar peterson trio": {
+      "artist": "Oscar Peterson Trio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Oscar%20Peterson%20Trio",
+      "recent_track": "I Got it Bad and That Ain't Good",
+      "recent_track_url": "https://www.last.fm/music/Oscar+Peterson+Trio/_/I+Got+it+Bad+and+That+Ain't+Good",
+      "first_discovered": "21 Aug 2026, 17:57",
+      "last_seen": "21 Aug 2026, 17:57",
+      "top_tracks": []
+    },
+    "bob dylan": {
+      "artist": "Bob Dylan",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bob%20Dylan",
+      "recent_track": "Man in the Long Black Coat",
+      "recent_track_url": "https://www.last.fm/music/Bob+Dylan/_/Man+in+the+Long+Black+Coat",
+      "first_discovered": "21 Aug 2026, 17:52",
+      "last_seen": "21 Aug 2026, 17:52",
+      "top_tracks": []
+    },
+    "charles mingus": {
+      "artist": "Charles Mingus",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Mingus",
+      "recent_track": "Better Get Hit In Your Soul",
+      "recent_track_url": "https://www.last.fm/music/Charles+Mingus/_/Better+Get+Hit+In+Your+Soul",
+      "first_discovered": "21 Aug 2026, 17:47",
+      "last_seen": "21 Aug 2026, 17:47",
+      "top_tracks": []
+    },
+    "thelonious monk": {
+      "artist": "Thelonious Monk",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Thelonious%20Monk",
+      "recent_track": "Monk's Dream",
+      "recent_track_url": "https://www.last.fm/music/Thelonious+Monk/_/Monk's+Dream",
+      "first_discovered": "21 Aug 2026, 17:25",
+      "last_seen": "21 Aug 2026, 17:25",
+      "top_tracks": []
+    },
+    "stanley turrentine": {
+      "artist": "Stanley Turrentine",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Stanley%20Turrentine",
+      "recent_track": "Sugar",
+      "recent_track_url": "https://www.last.fm/music/Stanley+Turrentine/_/Sugar",
+      "first_discovered": "21 Aug 2026, 17:09",
+      "last_seen": "21 Aug 2026, 17:09",
+      "top_tracks": []
+    },
+    "count basie, joe williams, lambert, hendricks & ross": {
+      "artist": "Count Basie, Joe Williams, Lambert, Hendricks & Ross",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Count%20Basie%2C%20Joe%20Williams%2C%20Lambert%2C%20Hendricks%20%26%20Ross",
+      "recent_track": "Lil' Darlin'",
+      "recent_track_url": "https://www.last.fm/music/Count+Basie%2C+Joe+Williams%2C+Lambert%2C+Hendricks+%26+Ross/_/Lil'+Darlin'",
+      "first_discovered": "21 Aug 2026, 15:59",
+      "last_seen": "21 Aug 2026, 15:59",
+      "top_tracks": []
+    },
+    "lambert, hendricks & ross": {
+      "artist": "Lambert, Hendricks & Ross",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lambert%2C%20Hendricks%20%26%20Ross",
+      "recent_track": "Where",
+      "recent_track_url": "https://www.last.fm/music/Lambert%2C+Hendricks+%26+Ross/_/Where",
+      "first_discovered": "21 Aug 2026, 15:54",
+      "last_seen": "21 Aug 2026, 15:54",
+      "top_tracks": []
+    },
+    "the four freshmen": {
+      "artist": "The Four Freshmen",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Four%20Freshmen",
+      "recent_track": "Funny How Time Slips Away",
+      "recent_track_url": "https://www.last.fm/music/The+Four+Freshmen/_/Funny+How+Time+Slips+Away",
+      "first_discovered": "21 Aug 2026, 15:32",
+      "last_seen": "21 Aug 2026, 15:32",
+      "top_tracks": []
+    },
+    "case, jazz, musiq, montell jordan, rl": {
+      "artist": "Case, Jazz, Musiq, Montell Jordan, RL",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Case%2C%20Jazz%2C%20Musiq%2C%20Montell%20Jordan%2C%20RL",
+      "recent_track": "Sweet November",
+      "recent_track_url": "https://www.last.fm/music/Case%2C+Jazz%2C+Musiq%2C+Montell+Jordan%2C+RL/_/Sweet+November",
+      "first_discovered": "21 Aug 2026, 15:32",
+      "last_seen": "21 Aug 2026, 15:32",
+      "top_tracks": []
+    },
+    "jazz, chilled jazz masters, jazz instrumental relax center": {
+      "artist": "Jazz, Chilled Jazz Masters, Jazz Instrumental Relax Center",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazz%2C%20Chilled%20Jazz%20Masters%2C%20Jazz%20Instrumental%20Relax%20Center",
+      "recent_track": "Paris City Café",
+      "recent_track_url": "https://www.last.fm/music/Jazz%2C+Chilled+Jazz+Masters%2C+Jazz+Instrumental+Relax+Center/_/Paris+City+Caf%C3%A9",
+      "first_discovered": "21 Aug 2026, 15:31",
+      "last_seen": "21 Aug 2026, 15:31",
+      "top_tracks": []
+    },
+    "jazz relax, jazz lounge playlist, jazz, jazz morning playlist": {
+      "artist": "Jazz Relax, Jazz Lounge Playlist, Jazz, Jazz Morning Playlist",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jazz%20Relax%2C%20Jazz%20Lounge%20Playlist%2C%20Jazz%2C%20Jazz%20Morning%20Playlist",
+      "recent_track": "City Night Views",
+      "recent_track_url": "https://www.last.fm/music/Jazz+Relax%2C+Jazz+Lounge+Playlist%2C+Jazz%2C+Jazz+Morning+Playlist/_/City+Night+Views",
+      "first_discovered": "21 Aug 2026, 15:30",
+      "last_seen": "21 Aug 2026, 15:30",
+      "top_tracks": []
+    },
+    "bach, gounod, gerhard kanzian, ed lewis": {
+      "artist": "Bach, Gounod, Gerhard Kanzian, Ed Lewis",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bach%2C%20Gounod%2C%20Gerhard%20Kanzian%2C%20Ed%20Lewis",
+      "recent_track": "Ave Maria",
+      "recent_track_url": "https://www.last.fm/music/Bach%2C+Gounod%2C+Gerhard+Kanzian%2C+Ed+Lewis/_/Ave+Maria",
+      "first_discovered": "21 Aug 2026, 15:28",
+      "last_seen": "21 Aug 2026, 15:28",
+      "top_tracks": []
+    },
+    "ilya kaler": {
+      "artist": "Ilya Kaler",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ilya%20Kaler",
+      "recent_track": "24 Caprices, Op. 1: No. 24 in A minor",
+      "recent_track_url": "https://www.last.fm/music/Ilya+Kaler/_/24+Caprices%2C+Op.+1:+No.+24+in+A+minor",
+      "first_discovered": "21 Aug 2026, 15:26",
+      "last_seen": "21 Aug 2026, 15:26",
+      "top_tracks": []
+    },
+    "london philharmonic orchestra, pyotr ilyich tchaikovsky": {
+      "artist": "London Philharmonic Orchestra, Pyotr Ilyich Tchaikovsky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/London%20Philharmonic%20Orchestra%2C%20Pyotr%20Ilyich%20Tchaikovsky",
+      "recent_track": "Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
+      "recent_track_url": "https://www.last.fm/music/London+Philharmonic+Orchestra%2C+Pyotr+Ilyich+Tchaikovsky/_/Violin+Concerto+in+D+Major%2C+Op.+35:+II.+Canzonetta.+Andante",
+      "first_discovered": "21 Aug 2026, 15:19",
+      "last_seen": "21 Aug 2026, 15:19",
+      "top_tracks": []
+    },
+    "frédéric chopin, richard tilling": {
+      "artist": "Frédéric Chopin, Richard Tilling",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fr%C3%A9d%C3%A9ric%20Chopin%2C%20Richard%20Tilling",
+      "recent_track": "Waltz in A Minor, Op. 34, No. 2",
+      "recent_track_url": "https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin%2C+Richard+Tilling/_/Waltz+in+A+Minor%2C+Op.+34%2C+No.+2",
+      "first_discovered": "21 Aug 2026, 15:13",
+      "last_seen": "21 Aug 2026, 15:13",
+      "top_tracks": []
+    },
+    "roro": {
+      "artist": "RoRo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RoRo",
+      "recent_track": "Takin' Off (feat. RoRo)",
+      "recent_track_url": "https://www.last.fm/music/RoRo/_/Takin'+Off+%28feat.+RoRo%29",
+      "first_discovered": "21 Aug 2026, 14:24",
+      "last_seen": "21 Aug 2026, 14:24",
       "top_tracks": []
     }
   }
