@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "last_updated": "2026-08-22T19:53:22.453480-07:00",
+    "last_updated": "2026-08-23T19:54:18.687049-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 502,
+    "total_discoveries": 518,
     "total_graduated": 44
   },
   "catalog": {
     "rjd2, supastition": {
       "artist": "RJD2, Supastition",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_listened": "10 Jul 2026, 16:04",
+      "last_listened": "23 Aug 2026, 17:18",
       "track": "One Last Time",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Supastition",
       "track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
@@ -1983,7 +1983,7 @@
     "the black keys, billy f gibbons": {
       "artist": "The Black Keys, Billy F Gibbons",
       "first_discovered": "28 Apr 2026, 21:06",
-      "last_listened": "02 May 2026, 17:54",
+      "last_listened": "23 Aug 2026, 17:17",
       "track": "Good Love (feat. Billy F Gibbons)",
       "album": "Dropout Boogie",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Black%20Keys%2C%20Billy%20F%20Gibbons",
@@ -4915,6 +4915,166 @@
       "album": "Takin' Off (feat. RoRo)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RoRo",
       "track_url": "https://www.last.fm/music/RoRo/_/Takin'+Off+%28feat.+RoRo%29",
+      "graduated": false
+    },
+    "goodbye june": {
+      "artist": "Goodbye June",
+      "first_discovered": "23 Aug 2026, 18:55",
+      "last_listened": "23 Aug 2026, 18:55",
+      "track": "Step Aside",
+      "album": "See Where the Night Goes",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Goodbye%20June",
+      "track_url": "https://www.last.fm/music/Goodbye+June/_/Step+Aside",
+      "graduated": false
+    },
+    "jared james nichols": {
+      "artist": "Jared James Nichols",
+      "first_discovered": "23 Aug 2026, 18:39",
+      "last_listened": "23 Aug 2026, 18:39",
+      "track": "Nails In The Coffin",
+      "album": "Nails in the Coffin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jared%20James%20Nichols",
+      "track_url": "https://www.last.fm/music/Jared+James+Nichols/_/Nails+In+The+Coffin",
+      "graduated": false
+    },
+    "the delta saints": {
+      "artist": "The Delta Saints",
+      "first_discovered": "23 Aug 2026, 18:39",
+      "last_listened": "23 Aug 2026, 18:39",
+      "track": "Sun God",
+      "album": "Monte Vista",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Delta%20Saints",
+      "track_url": "https://www.last.fm/music/The+Delta+Saints/_/Sun+God",
+      "graduated": false
+    },
+    "brandon flowers": {
+      "artist": "Brandon Flowers",
+      "first_discovered": "23 Aug 2026, 18:34",
+      "last_listened": "23 Aug 2026, 18:34",
+      "track": "Paradise",
+      "album": "THRASHER",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Brandon%20Flowers",
+      "track_url": "https://www.last.fm/music/Brandon+Flowers/_/Paradise",
+      "graduated": false
+    },
+    "julia jacklin, the maes": {
+      "artist": "Julia Jacklin, The Maes",
+      "first_discovered": "23 Aug 2026, 18:33",
+      "last_listened": "23 Aug 2026, 18:33",
+      "track": "I Wish",
+      "album": "I Wish",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Julia%20Jacklin%2C%20The%20Maes",
+      "track_url": "https://www.last.fm/music/Julia+Jacklin%2C+The+Maes/_/I+Wish",
+      "graduated": false
+    },
+    "carly pearce, molly tuttle, dan tyminski": {
+      "artist": "Carly Pearce, Molly Tuttle, Dan Tyminski",
+      "first_discovered": "23 Aug 2026, 18:31",
+      "last_listened": "23 Aug 2026, 18:31",
+      "track": "What If You Loved Me",
+      "album": "What If You Loved Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Pearce%2C%20Molly%20Tuttle%2C%20Dan%20Tyminski",
+      "track_url": "https://www.last.fm/music/Carly+Pearce%2C+Molly+Tuttle%2C+Dan+Tyminski/_/What+If+You+Loved+Me",
+      "graduated": false
+    },
+    "sierra ferrell": {
+      "artist": "Sierra Ferrell",
+      "first_discovered": "23 Aug 2026, 18:29",
+      "last_listened": "23 Aug 2026, 18:29",
+      "track": "American Dreaming",
+      "album": "Trail Of Flowers",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sierra%20Ferrell",
+      "track_url": "https://www.last.fm/music/Sierra+Ferrell/_/American+Dreaming",
+      "graduated": false
+    },
+    "beck, sierra ferrell": {
+      "artist": "Beck, Sierra Ferrell",
+      "first_discovered": "23 Aug 2026, 18:26",
+      "last_listened": "23 Aug 2026, 18:26",
+      "track": "Ride Lonesome",
+      "album": "Ride Lonesome",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beck%2C%20Sierra%20Ferrell",
+      "track_url": "https://www.last.fm/music/Beck%2C+Sierra+Ferrell/_/Ride+Lonesome",
+      "graduated": false
+    },
+    "billy strings": {
+      "artist": "Billy Strings",
+      "first_discovered": "23 Aug 2026, 18:25",
+      "last_listened": "23 Aug 2026, 18:25",
+      "track": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "album": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20Strings",
+      "track_url": "https://www.last.fm/music/Billy+Strings/_/If+You're+Gonna+Be+Dumb%2C+You+Gotta+Be+Tough+%28from+jackass:+best+and+last%29",
+      "graduated": false
+    },
+    "shaboozey, leon bridges": {
+      "artist": "Shaboozey, Leon Bridges",
+      "first_discovered": "23 Aug 2026, 18:23",
+      "last_listened": "23 Aug 2026, 18:23",
+      "track": "Burn It Down",
+      "album": "The Outlaw Cherie Lee & Other Western Tales",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shaboozey%2C%20Leon%20Bridges",
+      "track_url": "https://www.last.fm/music/Shaboozey%2C+Leon+Bridges/_/Burn+It+Down",
+      "graduated": false
+    },
+    "john prine": {
+      "artist": "John Prine",
+      "first_discovered": "23 Aug 2026, 18:19",
+      "last_listened": "23 Aug 2026, 18:19",
+      "track": "World Without Love",
+      "album": "World Without Love",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Prine",
+      "track_url": "https://www.last.fm/music/John+Prine/_/World+Without+Love",
+      "graduated": false
+    },
+    "jake xerxes fussell": {
+      "artist": "Jake Xerxes Fussell",
+      "first_discovered": "23 Aug 2026, 18:16",
+      "last_listened": "23 Aug 2026, 18:16",
+      "track": "Rock Island Line",
+      "album": "Rock Island Line",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jake%20Xerxes%20Fussell",
+      "track_url": "https://www.last.fm/music/Jake+Xerxes+Fussell/_/Rock+Island+Line",
+      "graduated": false
+    },
+    "valerie june": {
+      "artist": "Valerie June",
+      "first_discovered": "23 Aug 2026, 18:15",
+      "last_listened": "23 Aug 2026, 18:15",
+      "track": "Smokestack",
+      "album": "Smokestack",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Valerie%20June",
+      "track_url": "https://www.last.fm/music/Valerie+June/_/Smokestack",
+      "graduated": false
+    },
+    "rjd2, jordan brown": {
+      "artist": "RJD2, Jordan Brown",
+      "first_discovered": "23 Aug 2026, 18:08",
+      "last_listened": "23 Aug 2026, 18:08",
+      "track": "Fools at the Haul (feat. Jordan Brown)",
+      "album": "Visions Out Of Limelight",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Jordan%20Brown",
+      "track_url": "https://www.last.fm/music/RJD2%2C+Jordan+Brown/_/Fools+at+the+Haul+%28feat.+Jordan+Brown%29",
+      "graduated": false
+    },
+    "aceyalone": {
+      "artist": "Aceyalone",
+      "first_discovered": "23 Aug 2026, 17:53",
+      "last_listened": "23 Aug 2026, 17:53",
+      "track": "Disconnected",
+      "album": "Magnificent City",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aceyalone",
+      "track_url": "https://www.last.fm/music/Aceyalone/_/Disconnected",
+      "graduated": false
+    },
+    "kyle mcevoy, rjd2, jacuzzi jefferson": {
+      "artist": "Kyle McEvoy, RJD2, jacuzzi jefferson",
+      "first_discovered": "23 Aug 2026, 17:50",
+      "last_listened": "23 Aug 2026, 17:50",
+      "track": "Lift Me Up (Alt. Version)",
+      "album": "Lift Me Up (Alt. Versions)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kyle%20McEvoy%2C%20RJD2%2C%20jacuzzi%20jefferson",
+      "track_url": "https://www.last.fm/music/Kyle+McEvoy%2C+RJD2%2C+jacuzzi+jefferson/_/Lift+Me+Up+%28Alt.+Version%29",
       "graduated": false
     }
   }

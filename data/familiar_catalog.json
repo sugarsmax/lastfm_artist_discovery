@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-22T19:53:24.198811-07:00",
+    "last_updated": "2026-08-23T19:54:20.127597-07:00",
     "username": "sugarsmax",
-    "total_artists": 458
+    "total_artists": 474
   },
   "artists": {
     "rjd2, supastition": {
@@ -11,7 +11,7 @@
       "recent_track": "One Last Time",
       "recent_track_url": "https://www.last.fm/music/RJD2%2C+Supastition/_/One+Last+Time",
       "first_discovered": "19 Feb 2026, 19:09",
-      "last_seen": "10 Jul 2026, 16:04",
+      "last_seen": "23 Aug 2026, 17:18",
       "top_tracks": []
     },
     "leon mccawley": {
@@ -1663,7 +1663,7 @@
       "recent_track": "Good Love (feat. Billy F Gibbons)",
       "recent_track_url": "https://www.last.fm/music/The+Black+Keys%2C+Billy+F+Gibbons/_/Good+Love+%28feat.+Billy+F+Gibbons%29",
       "first_discovered": "28 Apr 2026, 21:06",
-      "last_seen": "02 May 2026, 17:54",
+      "last_seen": "23 Aug 2026, 17:17",
       "top_tracks": []
     },
     "kiss": {
@@ -4130,6 +4130,150 @@
       "recent_track_url": "https://www.last.fm/music/RoRo/_/Takin'+Off+%28feat.+RoRo%29",
       "first_discovered": "21 Aug 2026, 14:24",
       "last_seen": "21 Aug 2026, 14:24",
+      "top_tracks": []
+    },
+    "goodbye june": {
+      "artist": "Goodbye June",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Goodbye%20June",
+      "recent_track": "Step Aside",
+      "recent_track_url": "https://www.last.fm/music/Goodbye+June/_/Step+Aside",
+      "first_discovered": "23 Aug 2026, 18:55",
+      "last_seen": "23 Aug 2026, 18:55",
+      "top_tracks": []
+    },
+    "jared james nichols": {
+      "artist": "Jared James Nichols",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jared%20James%20Nichols",
+      "recent_track": "Nails In The Coffin",
+      "recent_track_url": "https://www.last.fm/music/Jared+James+Nichols/_/Nails+In+The+Coffin",
+      "first_discovered": "23 Aug 2026, 18:39",
+      "last_seen": "23 Aug 2026, 18:39",
+      "top_tracks": []
+    },
+    "the delta saints": {
+      "artist": "The Delta Saints",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Delta%20Saints",
+      "recent_track": "Sun God",
+      "recent_track_url": "https://www.last.fm/music/The+Delta+Saints/_/Sun+God",
+      "first_discovered": "23 Aug 2026, 18:39",
+      "last_seen": "23 Aug 2026, 18:39",
+      "top_tracks": []
+    },
+    "brandon flowers": {
+      "artist": "Brandon Flowers",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Brandon%20Flowers",
+      "recent_track": "Paradise",
+      "recent_track_url": "https://www.last.fm/music/Brandon+Flowers/_/Paradise",
+      "first_discovered": "23 Aug 2026, 18:34",
+      "last_seen": "23 Aug 2026, 18:34",
+      "top_tracks": []
+    },
+    "julia jacklin, the maes": {
+      "artist": "Julia Jacklin, The Maes",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Julia%20Jacklin%2C%20The%20Maes",
+      "recent_track": "I Wish",
+      "recent_track_url": "https://www.last.fm/music/Julia+Jacklin%2C+The+Maes/_/I+Wish",
+      "first_discovered": "23 Aug 2026, 18:33",
+      "last_seen": "23 Aug 2026, 18:33",
+      "top_tracks": []
+    },
+    "carly pearce, molly tuttle, dan tyminski": {
+      "artist": "Carly Pearce, Molly Tuttle, Dan Tyminski",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Carly%20Pearce%2C%20Molly%20Tuttle%2C%20Dan%20Tyminski",
+      "recent_track": "What If You Loved Me",
+      "recent_track_url": "https://www.last.fm/music/Carly+Pearce%2C+Molly+Tuttle%2C+Dan+Tyminski/_/What+If+You+Loved+Me",
+      "first_discovered": "23 Aug 2026, 18:31",
+      "last_seen": "23 Aug 2026, 18:31",
+      "top_tracks": []
+    },
+    "sierra ferrell": {
+      "artist": "Sierra Ferrell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sierra%20Ferrell",
+      "recent_track": "American Dreaming",
+      "recent_track_url": "https://www.last.fm/music/Sierra+Ferrell/_/American+Dreaming",
+      "first_discovered": "23 Aug 2026, 18:29",
+      "last_seen": "23 Aug 2026, 18:29",
+      "top_tracks": []
+    },
+    "beck, sierra ferrell": {
+      "artist": "Beck, Sierra Ferrell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Beck%2C%20Sierra%20Ferrell",
+      "recent_track": "Ride Lonesome",
+      "recent_track_url": "https://www.last.fm/music/Beck%2C+Sierra+Ferrell/_/Ride+Lonesome",
+      "first_discovered": "23 Aug 2026, 18:26",
+      "last_seen": "23 Aug 2026, 18:26",
+      "top_tracks": []
+    },
+    "billy strings": {
+      "artist": "Billy Strings",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20Strings",
+      "recent_track": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "recent_track_url": "https://www.last.fm/music/Billy+Strings/_/If+You're+Gonna+Be+Dumb%2C+You+Gotta+Be+Tough+%28from+jackass:+best+and+last%29",
+      "first_discovered": "23 Aug 2026, 18:25",
+      "last_seen": "23 Aug 2026, 18:25",
+      "top_tracks": []
+    },
+    "shaboozey, leon bridges": {
+      "artist": "Shaboozey, Leon Bridges",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Shaboozey%2C%20Leon%20Bridges",
+      "recent_track": "Burn It Down",
+      "recent_track_url": "https://www.last.fm/music/Shaboozey%2C+Leon+Bridges/_/Burn+It+Down",
+      "first_discovered": "23 Aug 2026, 18:23",
+      "last_seen": "23 Aug 2026, 18:23",
+      "top_tracks": []
+    },
+    "john prine": {
+      "artist": "John Prine",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/John%20Prine",
+      "recent_track": "World Without Love",
+      "recent_track_url": "https://www.last.fm/music/John+Prine/_/World+Without+Love",
+      "first_discovered": "23 Aug 2026, 18:19",
+      "last_seen": "23 Aug 2026, 18:19",
+      "top_tracks": []
+    },
+    "jake xerxes fussell": {
+      "artist": "Jake Xerxes Fussell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jake%20Xerxes%20Fussell",
+      "recent_track": "Rock Island Line",
+      "recent_track_url": "https://www.last.fm/music/Jake+Xerxes+Fussell/_/Rock+Island+Line",
+      "first_discovered": "23 Aug 2026, 18:16",
+      "last_seen": "23 Aug 2026, 18:16",
+      "top_tracks": []
+    },
+    "valerie june": {
+      "artist": "Valerie June",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Valerie%20June",
+      "recent_track": "Smokestack",
+      "recent_track_url": "https://www.last.fm/music/Valerie+June/_/Smokestack",
+      "first_discovered": "23 Aug 2026, 18:15",
+      "last_seen": "23 Aug 2026, 18:15",
+      "top_tracks": []
+    },
+    "rjd2, jordan brown": {
+      "artist": "RJD2, Jordan Brown",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/RJD2%2C%20Jordan%20Brown",
+      "recent_track": "Fools at the Haul (feat. Jordan Brown)",
+      "recent_track_url": "https://www.last.fm/music/RJD2%2C+Jordan+Brown/_/Fools+at+the+Haul+%28feat.+Jordan+Brown%29",
+      "first_discovered": "23 Aug 2026, 18:08",
+      "last_seen": "23 Aug 2026, 18:08",
+      "top_tracks": []
+    },
+    "aceyalone": {
+      "artist": "Aceyalone",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aceyalone",
+      "recent_track": "Disconnected",
+      "recent_track_url": "https://www.last.fm/music/Aceyalone/_/Disconnected",
+      "first_discovered": "23 Aug 2026, 17:53",
+      "last_seen": "23 Aug 2026, 17:53",
+      "top_tracks": []
+    },
+    "kyle mcevoy, rjd2, jacuzzi jefferson": {
+      "artist": "Kyle McEvoy, RJD2, jacuzzi jefferson",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kyle%20McEvoy%2C%20RJD2%2C%20jacuzzi%20jefferson",
+      "recent_track": "Lift Me Up (Alt. Version)",
+      "recent_track_url": "https://www.last.fm/music/Kyle+McEvoy%2C+RJD2%2C+jacuzzi+jefferson/_/Lift+Me+Up+%28Alt.+Version%29",
+      "first_discovered": "23 Aug 2026, 17:50",
+      "last_seen": "23 Aug 2026, 17:50",
       "top_tracks": []
     }
   }
