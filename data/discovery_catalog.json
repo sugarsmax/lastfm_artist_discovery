@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-23T19:54:18.687049-07:00",
+    "last_updated": "2026-08-24T19:49:54.522222-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 518,
+    "total_discoveries": 533,
     "total_graduated": 44
   },
   "catalog": {
@@ -1086,7 +1086,7 @@
     "prince fatty, horseman": {
       "artist": "Prince Fatty, Horseman",
       "first_discovered": "15 Mar 2026, 18:06",
-      "last_listened": "17 Apr 2026, 18:29",
+      "last_listened": "24 Aug 2026, 16:14",
       "track": "Insane in the Brain",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Prince%20Fatty%2C%20Horseman",
       "track_url": "https://www.last.fm/music/Prince+Fatty%2C+Horseman/_/Insane+in+the+Brain",
@@ -4200,11 +4200,11 @@
     "psychedelic porn crumpets": {
       "artist": "Psychedelic Porn Crumpets",
       "first_discovered": "08 Aug 2026, 19:54",
-      "last_listened": "20 Aug 2026, 17:20",
-      "track": "Cornflake",
+      "last_listened": "24 Aug 2026, 14:59",
+      "track": "Found God in a Tomato",
       "album": "High Visceral, Pt. 1",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Psychedelic%20Porn%20Crumpets",
-      "track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake",
+      "track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Found+God+in+a+Tomato",
       "graduated": false
     },
     "sugar candy mountain": {
@@ -4640,11 +4640,11 @@
     "wolfgang amadeus mozart, wiener konzerthaus orchester, kurt equiluz, alois bachbauer, die wiener sängerknaben": {
       "artist": "Wolfgang Amadeus Mozart, Wiener Konzerthaus Orchester, Kurt Equiluz, Alois Bachbauer, Die Wiener Sängerknaben",
       "first_discovered": "14 Aug 2026, 12:40",
-      "last_listened": "14 Aug 2026, 12:40",
-      "track": "Requiem in D Minor, K.626: I. Introitus: Requiem aeternam",
+      "last_listened": "24 Aug 2026, 15:38",
+      "track": "Requiem in D Minor, K.626: III. Sequenz - Lacrymosa",
       "album": "Mozart, Requiem",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Wiener%20Konzerthaus%20Orchester%2C%20Kurt%20Equiluz%2C%20Alois%20Bachbauer%2C%20Die%20Wiener%20S%C3%A4ngerknaben",
-      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Wiener+Konzerthaus+Orchester%2C+Kurt+Equiluz%2C+Alois+Bachbauer%2C+Die+Wiener+S%C3%A4ngerknaben/_/Requiem+in+D+Minor%2C+K.626:+I.+Introitus:+Requiem+aeternam",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Wiener+Konzerthaus+Orchester%2C+Kurt+Equiluz%2C+Alois+Bachbauer%2C+Die+Wiener+S%C3%A4ngerknaben/_/Requiem+in+D+Minor%2C+K.626:+III.+Sequenz+-+Lacrymosa",
       "graduated": false
     },
     "wolfgang amadeus mozart, london philharmonic orchestra": {
@@ -5075,6 +5075,156 @@
       "album": "Lift Me Up (Alt. Versions)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kyle%20McEvoy%2C%20RJD2%2C%20jacuzzi%20jefferson",
       "track_url": "https://www.last.fm/music/Kyle+McEvoy%2C+RJD2%2C+jacuzzi+jefferson/_/Lift+Me+Up+%28Alt.+Version%29",
+      "graduated": false
+    },
+    "kingston sound system, blondie": {
+      "artist": "Kingston Sound System, Blondie",
+      "first_discovered": "24 Aug 2026, 16:09",
+      "last_listened": "24 Aug 2026, 16:09",
+      "track": "Heart Of Glass",
+      "album": "Heart of Glass",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kingston%20Sound%20System%2C%20Blondie",
+      "track_url": "https://www.last.fm/music/Kingston+Sound+System%2C+Blondie/_/Heart+Of+Glass",
+      "graduated": false
+    },
+    "pinchas zukerman, wolfgang amadeus mozart, the saint paul chamber orchestra": {
+      "artist": "Pinchas Zukerman, Wolfgang Amadeus Mozart, The Saint Paul Chamber Orchestra",
+      "first_discovered": "24 Aug 2026, 15:53",
+      "last_listened": "24 Aug 2026, 15:53",
+      "track": "Adagio in E Major, K. 261",
+      "album": "Mozart: Violin Concertos Nos. 4 & 5",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pinchas%20Zukerman%2C%20Wolfgang%20Amadeus%20Mozart%2C%20The%20Saint%20Paul%20Chamber%20Orchestra",
+      "track_url": "https://www.last.fm/music/Pinchas+Zukerman%2C+Wolfgang+Amadeus+Mozart%2C+The+Saint+Paul+Chamber+Orchestra/_/Adagio+in+E+Major%2C+K.+261",
+      "graduated": false
+    },
+    "wolfgang amadeus mozart, orchestre de la société du conservatoire, raffaele arië": {
+      "artist": "Wolfgang Amadeus Mozart, Orchestre de la Société du Conservatoire, Raffaele Arië",
+      "first_discovered": "24 Aug 2026, 15:51",
+      "last_listened": "24 Aug 2026, 15:51",
+      "track": "Die Entführung aus dem Serail, K. 384, Act III: \"Ha, wie will ich triumphieren\" (Live)",
+      "album": "100 Essential Opera Arias, Songs & Overtures: The Very Best Soprano, Tenor, Baritone, Bass & Mezzo Solos, Duets, Trios & Choruses from Mozart, Beethoven, Verdi, Rossini, Puccini & More",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wolfgang%20Amadeus%20Mozart%2C%20Orchestre%20de%20la%20Soci%C3%A9t%C3%A9%20du%20Conservatoire%2C%20Raffaele%20Ari%C3%AB",
+      "track_url": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart%2C+Orchestre+de+la+Soci%C3%A9t%C3%A9+du+Conservatoire%2C+Raffaele+Ari%C3%AB/_/Die+Entf%C3%BChrung+aus+dem+Serail%2C+K.+384%2C+Act+III:+%22Ha%2C+wie+will+ich+triumphieren%22+%28Live%29",
+      "graduated": false
+    },
+    "lang lang, wolfgang amadeus mozart, wiener philharmoniker, nikolaus harnoncourt": {
+      "artist": "Lang Lang, Wolfgang Amadeus Mozart, Wiener Philharmoniker, Nikolaus Harnoncourt",
+      "first_discovered": "24 Aug 2026, 15:50",
+      "last_listened": "24 Aug 2026, 15:50",
+      "track": "Piano Concerto No. 24 in C Minor, K. 491: I. Allegro",
+      "album": "The Mozart Album",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lang%20Lang%2C%20Wolfgang%20Amadeus%20Mozart%2C%20Wiener%20Philharmoniker%2C%20Nikolaus%20Harnoncourt",
+      "track_url": "https://www.last.fm/music/Lang+Lang%2C+Wolfgang+Amadeus+Mozart%2C+Wiener+Philharmoniker%2C+Nikolaus+Harnoncourt/_/Piano+Concerto+No.+24+in+C+Minor%2C+K.+491:+I.+Allegro",
+      "graduated": false
+    },
+    "lang lang, pyotr ilyich tchaikovsky": {
+      "artist": "Lang Lang, Pyotr Ilyich Tchaikovsky",
+      "first_discovered": "24 Aug 2026, 15:35",
+      "last_listened": "24 Aug 2026, 15:35",
+      "track": "The Seasons, Op. 37a: X. October - Autumn Song",
+      "album": "The Seasons, Op. 37a, TH 135: No. 10, October \"Autumn Song\"",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Lang%20Lang%2C%20Pyotr%20Ilyich%20Tchaikovsky",
+      "track_url": "https://www.last.fm/music/Lang+Lang%2C+Pyotr+Ilyich+Tchaikovsky/_/The+Seasons%2C+Op.+37a:+X.+October+-+Autumn+Song",
+      "graduated": false
+    },
+    "pyotr ilyich tchaikovsky, sarah ainsworth": {
+      "artist": "Pyotr Ilyich Tchaikovsky, Sarah Ainsworth",
+      "first_discovered": "24 Aug 2026, 15:29",
+      "last_listened": "24 Aug 2026, 15:29",
+      "track": "Tchaikovsky: Les Saisons, Op. 37a No. 6 June: Barcarolle (G minor)",
+      "album": "The 100 Most Essential Pieces of Classical Music (Including selections from the 20th Century)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pyotr%20Ilyich%20Tchaikovsky%2C%20Sarah%20Ainsworth",
+      "track_url": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky%2C+Sarah+Ainsworth/_/Tchaikovsky:+Les+Saisons%2C+Op.+37a+No.+6+June:+Barcarolle+%28G+minor%29",
+      "graduated": false
+    },
+    "pyotr ilyich tchaikovsky, the ljubljana symphony orchestra": {
+      "artist": "Pyotr Ilyich Tchaikovsky, The Ljubljana Symphony Orchestra",
+      "first_discovered": "24 Aug 2026, 15:25",
+      "last_listened": "24 Aug 2026, 15:25",
+      "track": "The Nutcracker, Op. 71, Act II: 14c. Dance of the Sugar Plum Fairy",
+      "album": "100 Essential Pieces of Classical Music: The Very Best of Mozart, Bach, Beethoven, and more, Including Symphonies, Concertos, Chamber Music, Violin, and Piano",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pyotr%20Ilyich%20Tchaikovsky%2C%20The%20Ljubljana%20Symphony%20Orchestra",
+      "track_url": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky%2C+The+Ljubljana+Symphony+Orchestra/_/The+Nutcracker%2C+Op.+71%2C+Act+II:+14c.+Dance+of+the+Sugar+Plum+Fairy",
+      "graduated": false
+    },
+    "e. power biggs, johann sebastian bach": {
+      "artist": "E. Power Biggs, Johann Sebastian Bach",
+      "first_discovered": "24 Aug 2026, 15:22",
+      "last_listened": "24 Aug 2026, 15:22",
+      "track": "Toccata & Fugue in D Minor, BWV 565: Toccata",
+      "album": "Bach: Great Organ Favorites",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/E.%20Power%20Biggs%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/E.+Power+Biggs%2C+Johann+Sebastian+Bach/_/Toccata+%26+Fugue+in+D+Minor%2C+BWV+565:+Toccata",
+      "graduated": false
+    },
+    "franz liszt, valery lloyd-watts": {
+      "artist": "Franz Liszt, Valery Lloyd-Watts",
+      "first_discovered": "24 Aug 2026, 15:21",
+      "last_listened": "24 Aug 2026, 15:21",
+      "track": "Liebesträume No. 3",
+      "album": "Relaxation, Meditation and Yoga",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Liszt%2C%20Valery%20Lloyd-Watts",
+      "track_url": "https://www.last.fm/music/Franz+Liszt%2C+Valery+Lloyd-Watts/_/Liebestr%C3%A4ume+No.+3",
+      "graduated": false
+    },
+    "sergei rachmaninoff, london philharmonic orchestra, evgeni kissin": {
+      "artist": "Sergei Rachmaninoff, London Philharmonic Orchestra, Evgeni Kissin",
+      "first_discovered": "24 Aug 2026, 15:19",
+      "last_listened": "24 Aug 2026, 15:19",
+      "track": "Piano Concerto No. 2 in C Minor, Op. 18: I. Allegro moderato",
+      "album": "Rachmaninoff: Piano Concerto No. 2 & 6 Etudes-Tableaux",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sergei%20Rachmaninoff%2C%20London%20Philharmonic%20Orchestra%2C%20Evgeni%20Kissin",
+      "track_url": "https://www.last.fm/music/Sergei+Rachmaninoff%2C+London+Philharmonic+Orchestra%2C+Evgeni+Kissin/_/Piano+Concerto+No.+2+in+C+Minor%2C+Op.+18:+I.+Allegro+moderato",
+      "graduated": false
+    },
+    "johann sebastian bach, pablo casals": {
+      "artist": "Johann Sebastian Bach, Pablo Casals",
+      "first_discovered": "24 Aug 2026, 15:04",
+      "last_listened": "24 Aug 2026, 15:04",
+      "track": "Suite for Cello No. 1 in G Major, BWV 1007: I. Prelude",
+      "album": "Encores for Cello",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Pablo%20Casals",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Pablo+Casals/_/Suite+for+Cello+No.+1+in+G+Major%2C+BWV+1007:+I.+Prelude",
+      "graduated": false
+    },
+    "balthvs, bay ledges": {
+      "artist": "BALTHVS, Bay Ledges",
+      "first_discovered": "24 Aug 2026, 14:53",
+      "last_listened": "24 Aug 2026, 14:53",
+      "track": "Sun Colored Eyes (Bay Ledges Remix)",
+      "album": "Sun Colored Eyes (Bay Ledges Remix)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/BALTHVS%2C%20Bay%20Ledges",
+      "track_url": "https://www.last.fm/music/BALTHVS%2C+Bay+Ledges/_/Sun+Colored+Eyes+%28Bay+Ledges+Remix%29",
+      "graduated": false
+    },
+    "cansei de ser sexy": {
+      "artist": "Cansei de Ser Sexy",
+      "first_discovered": "24 Aug 2026, 14:50",
+      "last_listened": "24 Aug 2026, 14:50",
+      "track": "Let's Make Love And Listen To Death From Above(Spank Rock remix) (Single)",
+      "album": "Let's Make Love And Listen To Death From Above",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cansei%20de%20Ser%20Sexy",
+      "track_url": "https://www.last.fm/music/Cansei+de+Ser+Sexy/_/Let's+Make+Love+And+Listen+To+Death+From+Above%28Spank+Rock+remix%29+%28Single%29",
+      "graduated": false
+    },
+    "corduroy": {
+      "artist": "Corduroy",
+      "first_discovered": "24 Aug 2026, 14:44",
+      "last_listened": "24 Aug 2026, 14:44",
+      "track": "Mini",
+      "album": "Out of Here",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Corduroy",
+      "track_url": "https://www.last.fm/music/Corduroy/_/Mini",
+      "graduated": false
+    },
+    "incognito": {
+      "artist": "Incognito",
+      "first_discovered": "24 Aug 2026, 14:44",
+      "last_listened": "24 Aug 2026, 14:44",
+      "track": "Smiling Faces",
+      "album": "Positivity",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Incognito",
+      "track_url": "https://www.last.fm/music/Incognito/_/Smiling+Faces",
       "graduated": false
     }
   }
