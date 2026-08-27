@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-25T19:55:38.954002-07:00",
+    "last_updated": "2026-08-27T05:08:10.891233-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 533,
+    "total_discoveries": 540,
     "total_graduated": 44
   },
   "catalog": {
@@ -1216,10 +1216,10 @@
     "jordi savall, ton koopman, johann sebastian bach": {
       "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
       "first_discovered": "30 Mar 2026, 16:26",
-      "last_listened": "22 Jun 2026, 17:52",
-      "track": "Sonata III (G Moll), BWV 1029: Adagio",
+      "last_listened": "26 Aug 2026, 15:03",
+      "track": "Sonata IV (C Dur), BWV 529 (D'après la sonate V pour orgue): Allegro",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach",
-      "track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+III+%28G+Moll%29%2C+BWV+1029:+Adagio",
+      "track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+IV+%28C+Dur%29%2C+BWV+529+%28D'apr%C3%A8s+la+sonate+V+pour+orgue%29:+Allegro",
       "graduated": false,
       "album": "Bach: Die Sonaten Für Viola Da Gamba und Cembalo"
     },
@@ -5225,6 +5225,76 @@
       "album": "Positivity",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Incognito",
       "track_url": "https://www.last.fm/music/Incognito/_/Smiling+Faces",
+      "graduated": false
+    },
+    "screen central": {
+      "artist": "Screen Central",
+      "first_discovered": "26 Aug 2026, 16:07",
+      "last_listened": "26 Aug 2026, 16:07",
+      "track": "Nobody Makes Celebrities LOSE IT Like Robin Williams!",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Screen%20Central",
+      "track_url": "https://www.last.fm/music/Screen+Central/_/Nobody+Makes+Celebrities+LOSE+IT+Like+Robin+Williams%21",
+      "graduated": false
+    },
+    "johann sebastian bach, slovak philharmonic orchestra, henry adolph": {
+      "artist": "Johann Sebastian Bach, Slovak Philharmonic Orchestra, Henry Adolph",
+      "first_discovered": "26 Aug 2026, 16:01",
+      "last_listened": "26 Aug 2026, 16:01",
+      "track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro Moderato",
+      "album": "Bach: Brandenburg Concerto No. 3",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Slovak%20Philharmonic%20Orchestra%2C%20Henry%20Adolph",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Henry+Adolph/_/Brandenburg+Concerto+No.+3+in+G+Major%2C+BWV+1048:+I.+Allegro+Moderato",
+      "graduated": false
+    },
+    "johann pachelbel, voices of music": {
+      "artist": "Johann Pachelbel, Voices of Music",
+      "first_discovered": "26 Aug 2026, 15:45",
+      "last_listened": "26 Aug 2026, 15:45",
+      "track": "Pachelbel Canon in D Major - Johann Pachelbel - Canon and Gigue for Three Violins and Basso Continuo in D major",
+      "album": "Concerto Barocco (Digital Only)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Pachelbel%2C%20Voices%20of%20Music",
+      "track_url": "https://www.last.fm/music/Johann+Pachelbel%2C+Voices+of+Music/_/Pachelbel+Canon+in+D+Major+-+Johann+Pachelbel+-+Canon+and+Gigue+for+Three+Violins+and+Basso+Continuo+in+D+major",
+      "graduated": false
+    },
+    "franz schubert, budapest strings": {
+      "artist": "Franz Schubert, Budapest Strings",
+      "first_discovered": "26 Aug 2026, 15:38",
+      "last_listened": "26 Aug 2026, 15:38",
+      "track": "Ständchen",
+      "album": "99 Must-Have Chillout Classics",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Schubert%2C%20Budapest%20Strings",
+      "track_url": "https://www.last.fm/music/Franz+Schubert%2C+Budapest+Strings/_/St%C3%A4ndchen",
+      "graduated": false
+    },
+    "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
+      "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
+      "first_discovered": "26 Aug 2026, 15:35",
+      "last_listened": "26 Aug 2026, 15:35",
+      "track": "I. Canon",
+      "album": "Albinoni & Pachelbel",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
+      "track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
+      "graduated": false
+    },
+    "vladimir feltsman, johann sebastian bach": {
+      "artist": "Vladimir Feltsman, Johann Sebastian Bach",
+      "first_discovered": "26 Aug 2026, 15:08",
+      "last_listened": "26 Aug 2026, 15:08",
+      "track": "15 Inventions: Invention No. 12 in A Major, BWV 783",
+      "album": "J.S. Bach: Works for Solo Piano",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vladimir%20Feltsman%2C%20Johann%20Sebastian%20Bach",
+      "track_url": "https://www.last.fm/music/Vladimir+Feltsman%2C+Johann+Sebastian+Bach/_/15+Inventions:+Invention+No.+12+in+A+Major%2C+BWV+783",
+      "graduated": false
+    },
+    "pyotr ilyich tchaikovsky, the classical renaissance symphony": {
+      "artist": "Pyotr Ilyich Tchaikovsky, The Classical Renaissance Symphony",
+      "first_discovered": "26 Aug 2026, 15:06",
+      "last_listened": "26 Aug 2026, 15:06",
+      "track": "Waltz from Swan Lake",
+      "album": "150 Classical Essential Masters",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pyotr%20Ilyich%20Tchaikovsky%2C%20The%20Classical%20Renaissance%20Symphony",
+      "track_url": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky%2C+The+Classical+Renaissance+Symphony/_/Waltz+from+Swan+Lake",
       "graduated": false
     }
   }

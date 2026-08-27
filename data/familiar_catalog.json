@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-25T19:55:40.621809-07:00",
+    "last_updated": "2026-08-27T05:08:12.795184-07:00",
     "username": "sugarsmax",
-    "total_artists": 489
+    "total_artists": 496
   },
   "artists": {
     "rjd2, supastition": {
@@ -935,10 +935,10 @@
     "jordi savall, ton koopman, johann sebastian bach": {
       "artist": "Jordi Savall, Ton Koopman, Johann Sebastian Bach",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jordi%20Savall%2C%20Ton%20Koopman%2C%20Johann%20Sebastian%20Bach",
-      "recent_track": "Sonata III (G Moll), BWV 1029: Adagio",
-      "recent_track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+III+%28G+Moll%29%2C+BWV+1029:+Adagio",
+      "recent_track": "Sonata IV (C Dur), BWV 529 (D'après la sonate V pour orgue): Allegro",
+      "recent_track_url": "https://www.last.fm/music/Jordi+Savall%2C+Ton+Koopman%2C+Johann+Sebastian+Bach/_/Sonata+IV+%28C+Dur%29%2C+BWV+529+%28D'apr%C3%A8s+la+sonate+V+pour+orgue%29:+Allegro",
       "first_discovered": "30 Mar 2026, 16:26",
-      "last_seen": "22 Jun 2026, 17:52",
+      "last_seen": "26 Aug 2026, 15:03",
       "top_tracks": []
     },
     "musica amphion, rémy baudet, pieter-jan belder": {
@@ -4409,6 +4409,69 @@
       "recent_track_url": "https://www.last.fm/music/Incognito/_/Smiling+Faces",
       "first_discovered": "24 Aug 2026, 14:44",
       "last_seen": "24 Aug 2026, 14:44",
+      "top_tracks": []
+    },
+    "screen central": {
+      "artist": "Screen Central",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Screen%20Central",
+      "recent_track": "Nobody Makes Celebrities LOSE IT Like Robin Williams!",
+      "recent_track_url": "https://www.last.fm/music/Screen+Central/_/Nobody+Makes+Celebrities+LOSE+IT+Like+Robin+Williams%21",
+      "first_discovered": "26 Aug 2026, 16:07",
+      "last_seen": "26 Aug 2026, 16:07",
+      "top_tracks": []
+    },
+    "johann sebastian bach, slovak philharmonic orchestra, henry adolph": {
+      "artist": "Johann Sebastian Bach, Slovak Philharmonic Orchestra, Henry Adolph",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Slovak%20Philharmonic%20Orchestra%2C%20Henry%20Adolph",
+      "recent_track": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. Allegro Moderato",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Slovak+Philharmonic+Orchestra%2C+Henry+Adolph/_/Brandenburg+Concerto+No.+3+in+G+Major%2C+BWV+1048:+I.+Allegro+Moderato",
+      "first_discovered": "26 Aug 2026, 16:01",
+      "last_seen": "26 Aug 2026, 16:01",
+      "top_tracks": []
+    },
+    "johann pachelbel, voices of music": {
+      "artist": "Johann Pachelbel, Voices of Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Pachelbel%2C%20Voices%20of%20Music",
+      "recent_track": "Pachelbel Canon in D Major - Johann Pachelbel - Canon and Gigue for Three Violins and Basso Continuo in D major",
+      "recent_track_url": "https://www.last.fm/music/Johann+Pachelbel%2C+Voices+of+Music/_/Pachelbel+Canon+in+D+Major+-+Johann+Pachelbel+-+Canon+and+Gigue+for+Three+Violins+and+Basso+Continuo+in+D+major",
+      "first_discovered": "26 Aug 2026, 15:45",
+      "last_seen": "26 Aug 2026, 15:45",
+      "top_tracks": []
+    },
+    "franz schubert, budapest strings": {
+      "artist": "Franz Schubert, Budapest Strings",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Schubert%2C%20Budapest%20Strings",
+      "recent_track": "Ständchen",
+      "recent_track_url": "https://www.last.fm/music/Franz+Schubert%2C+Budapest+Strings/_/St%C3%A4ndchen",
+      "first_discovered": "26 Aug 2026, 15:38",
+      "last_seen": "26 Aug 2026, 15:38",
+      "top_tracks": []
+    },
+    "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
+      "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
+      "recent_track": "I. Canon",
+      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
+      "first_discovered": "26 Aug 2026, 15:35",
+      "last_seen": "26 Aug 2026, 15:35",
+      "top_tracks": []
+    },
+    "vladimir feltsman, johann sebastian bach": {
+      "artist": "Vladimir Feltsman, Johann Sebastian Bach",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vladimir%20Feltsman%2C%20Johann%20Sebastian%20Bach",
+      "recent_track": "15 Inventions: Invention No. 12 in A Major, BWV 783",
+      "recent_track_url": "https://www.last.fm/music/Vladimir+Feltsman%2C+Johann+Sebastian+Bach/_/15+Inventions:+Invention+No.+12+in+A+Major%2C+BWV+783",
+      "first_discovered": "26 Aug 2026, 15:08",
+      "last_seen": "26 Aug 2026, 15:08",
+      "top_tracks": []
+    },
+    "pyotr ilyich tchaikovsky, the classical renaissance symphony": {
+      "artist": "Pyotr Ilyich Tchaikovsky, The Classical Renaissance Symphony",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pyotr%20Ilyich%20Tchaikovsky%2C%20The%20Classical%20Renaissance%20Symphony",
+      "recent_track": "Waltz from Swan Lake",
+      "recent_track_url": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky%2C+The+Classical+Renaissance+Symphony/_/Waltz+from+Swan+Lake",
+      "first_discovered": "26 Aug 2026, 15:06",
+      "last_seen": "26 Aug 2026, 15:06",
       "top_tracks": []
     }
   }
