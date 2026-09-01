@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T00:52:07.478005-07:00",
+    "last_updated": "2026-08-31T23:57:20.067640-07:00",
     "username": "sugarsmax",
-    "total_artists": 496
+    "total_artists": 498
   },
   "artists": {
     "rjd2, supastition": {
@@ -4472,6 +4472,24 @@
       "recent_track_url": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky%2C+The+Classical+Renaissance+Symphony/_/Waltz+from+Swan+Lake",
       "first_discovered": "26 Aug 2026, 15:06",
       "last_seen": "26 Aug 2026, 15:06",
+      "top_tracks": []
+    },
+    "james brown, the original j.b.s": {
+      "artist": "James Brown, The Original J.B.s",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/James%20Brown%2C%20The%20Original%20J.B.s",
+      "recent_track": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",
+      "recent_track_url": "https://www.last.fm/music/James+Brown%2C+The+Original+J.B.s/_/Get+Up+I+Feel+Like+Being+Like+A+Sex+Machine%2C+Pts.+1+%26+2",
+      "first_discovered": "31 Aug 2026, 19:32",
+      "last_seen": "31 Aug 2026, 19:32",
+      "top_tracks": []
+    },
+    "crazy frog": {
+      "artist": "Crazy Frog",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Crazy%20Frog",
+      "recent_track": "Popcorn",
+      "recent_track_url": "https://www.last.fm/music/Crazy+Frog/_/Popcorn",
+      "first_discovered": "31 Aug 2026, 19:30",
+      "last_seen": "31 Aug 2026, 19:30",
       "top_tracks": []
     }
   }
