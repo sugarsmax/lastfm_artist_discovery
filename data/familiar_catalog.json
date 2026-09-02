@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T23:57:20.067640-07:00",
+    "last_updated": "2026-09-01T23:36:43.160742-07:00",
     "username": "sugarsmax",
-    "total_artists": 498
+    "total_artists": 503
   },
   "artists": {
     "rjd2, supastition": {
@@ -4399,7 +4399,7 @@
       "recent_track": "Mini",
       "recent_track_url": "https://www.last.fm/music/Corduroy/_/Mini",
       "first_discovered": "24 Aug 2026, 14:44",
-      "last_seen": "24 Aug 2026, 14:44",
+      "last_seen": "01 Sep 2026, 15:51",
       "top_tracks": []
     },
     "incognito": {
@@ -4490,6 +4490,51 @@
       "recent_track_url": "https://www.last.fm/music/Crazy+Frog/_/Popcorn",
       "first_discovered": "31 Aug 2026, 19:30",
       "last_seen": "31 Aug 2026, 19:30",
+      "top_tracks": []
+    },
+    "the bones of j.r. jones, julie odell": {
+      "artist": "The Bones of J.R. Jones, Julie Odell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Bones%20of%20J.R.%20Jones%2C%20Julie%20Odell",
+      "recent_track": "I'll See You in Hell",
+      "recent_track_url": "https://www.last.fm/music/The+Bones+of+J.R.+Jones%2C+Julie+Odell/_/I'll+See+You+in+Hell",
+      "first_discovered": "01 Sep 2026, 17:26",
+      "last_seen": "01 Sep 2026, 17:26",
+      "top_tracks": []
+    },
+    "run-dmc, aerosmith": {
+      "artist": "Run-DMC, Aerosmith",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Run-DMC%2C%20Aerosmith",
+      "recent_track": "Walk This Way (feat. Aerosmith)",
+      "recent_track_url": "https://www.last.fm/music/Run-DMC%2C+Aerosmith/_/Walk+This+Way+%28feat.+Aerosmith%29",
+      "first_discovered": "01 Sep 2026, 17:13",
+      "last_seen": "01 Sep 2026, 17:13",
+      "top_tracks": []
+    },
+    "the jacksons": {
+      "artist": "The Jacksons",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Jacksons",
+      "recent_track": "Can You Feel It",
+      "recent_track_url": "https://www.last.fm/music/The+Jacksons/_/Can+You+Feel+It",
+      "first_discovered": "01 Sep 2026, 16:56",
+      "last_seen": "01 Sep 2026, 16:56",
+      "top_tracks": []
+    },
+    "chineke! orchestra": {
+      "artist": "Chineke! Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chineke%21%20Orchestra",
+      "recent_track": "Symphony No. 9 in E Minor, Op. 95 'From the New World': III. Scherzo: molto vivace",
+      "recent_track_url": "https://www.last.fm/music/Chineke%21+Orchestra/_/Symphony+No.+9+in+E+Minor%2C+Op.+95+'From+the+New+World':+III.+Scherzo:+molto+vivace",
+      "first_discovered": "01 Sep 2026, 16:05",
+      "last_seen": "01 Sep 2026, 16:05",
+      "top_tracks": []
+    },
+    "the raveonettes": {
+      "artist": "The Raveonettes",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Raveonettes",
+      "recent_track": "Come on Santa",
+      "recent_track_url": "https://www.last.fm/music/The+Raveonettes/_/Come+on+Santa",
+      "first_discovered": "01 Sep 2026, 15:33",
+      "last_seen": "01 Sep 2026, 15:33",
       "top_tracks": []
     }
   }

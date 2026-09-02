@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T23:57:18.259027-07:00",
+    "last_updated": "2026-09-01T23:36:41.404712-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 542,
+    "total_discoveries": 547,
     "total_graduated": 44
   },
   "catalog": {
@@ -5210,7 +5210,7 @@
     "corduroy": {
       "artist": "Corduroy",
       "first_discovered": "24 Aug 2026, 14:44",
-      "last_listened": "24 Aug 2026, 14:44",
+      "last_listened": "01 Sep 2026, 15:51",
       "track": "Mini",
       "album": "Out of Here",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Corduroy",
@@ -5315,6 +5315,56 @@
       "album": "Crazy Frog Presents Crazy Hits",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Crazy%20Frog",
       "track_url": "https://www.last.fm/music/Crazy+Frog/_/Popcorn",
+      "graduated": false
+    },
+    "the bones of j.r. jones, julie odell": {
+      "artist": "The Bones of J.R. Jones, Julie Odell",
+      "first_discovered": "01 Sep 2026, 17:26",
+      "last_listened": "01 Sep 2026, 17:26",
+      "track": "I'll See You in Hell",
+      "album": "Slow Lightning",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Bones%20of%20J.R.%20Jones%2C%20Julie%20Odell",
+      "track_url": "https://www.last.fm/music/The+Bones+of+J.R.+Jones%2C+Julie+Odell/_/I'll+See+You+in+Hell",
+      "graduated": false
+    },
+    "run-dmc, aerosmith": {
+      "artist": "Run-DMC, Aerosmith",
+      "first_discovered": "01 Sep 2026, 17:13",
+      "last_listened": "01 Sep 2026, 17:13",
+      "track": "Walk This Way (feat. Aerosmith)",
+      "album": "Raising Hell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Run-DMC%2C%20Aerosmith",
+      "track_url": "https://www.last.fm/music/Run-DMC%2C+Aerosmith/_/Walk+This+Way+%28feat.+Aerosmith%29",
+      "graduated": false
+    },
+    "the jacksons": {
+      "artist": "The Jacksons",
+      "first_discovered": "01 Sep 2026, 16:56",
+      "last_listened": "01 Sep 2026, 16:56",
+      "track": "Can You Feel It",
+      "album": "The Essential Jacksons",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Jacksons",
+      "track_url": "https://www.last.fm/music/The+Jacksons/_/Can+You+Feel+It",
+      "graduated": false
+    },
+    "chineke! orchestra": {
+      "artist": "Chineke! Orchestra",
+      "first_discovered": "01 Sep 2026, 16:05",
+      "last_listened": "01 Sep 2026, 16:05",
+      "track": "Symphony No. 9 in E Minor, Op. 95 'From the New World': III. Scherzo: molto vivace",
+      "album": "Dvořák: Symphony No. 9 'From the New World' / Sibelius: Finlandia",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chineke%21%20Orchestra",
+      "track_url": "https://www.last.fm/music/Chineke%21+Orchestra/_/Symphony+No.+9+in+E+Minor%2C+Op.+95+'From+the+New+World':+III.+Scherzo:+molto+vivace",
+      "graduated": false
+    },
+    "the raveonettes": {
+      "artist": "The Raveonettes",
+      "first_discovered": "01 Sep 2026, 15:33",
+      "last_listened": "01 Sep 2026, 15:33",
+      "track": "Come on Santa",
+      "album": "Wishing You a Rave Christmas",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Raveonettes",
+      "track_url": "https://www.last.fm/music/The+Raveonettes/_/Come+on+Santa",
       "graduated": false
     }
   }
