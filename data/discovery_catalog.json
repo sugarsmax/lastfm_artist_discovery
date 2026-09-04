@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-02T23:38:49.060510-07:00",
+    "last_updated": "2026-09-03T23:43:30.668546-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 547,
+    "total_discoveries": 548,
     "total_graduated": 44
   },
   "catalog": {
@@ -3930,7 +3930,7 @@
     "how soon is now": {
       "artist": "How Soon Is Now",
       "first_discovered": "21 Jul 2026, 14:00",
-      "last_listened": "21 Jul 2026, 14:00",
+      "last_listened": "03 Sep 2026, 16:01",
       "track": "Johnny Marr Live At The Crazy Face Factory",
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/How%20Soon%20Is%20Now",
@@ -5365,6 +5365,16 @@
       "album": "Wishing You a Rave Christmas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Raveonettes",
       "track_url": "https://www.last.fm/music/The+Raveonettes/_/Come+on+Santa",
+      "graduated": false
+    },
+    "faithless": {
+      "artist": "Faithless",
+      "first_discovered": "03 Sep 2026, 17:07",
+      "last_listened": "03 Sep 2026, 17:07",
+      "track": "Insomnia",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Faithless",
+      "track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
       "graduated": false
     }
   }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-02T23:38:50.471074-07:00",
+    "last_updated": "2026-09-03T23:43:33.720744-07:00",
     "username": "sugarsmax",
-    "total_artists": 503
+    "total_artists": 504
   },
   "artists": {
     "rjd2, supastition": {
@@ -3247,7 +3247,7 @@
       "recent_track": "Johnny Marr Live At The Crazy Face Factory",
       "recent_track_url": "https://www.last.fm/music/How+Soon+Is+Now/_/Johnny+Marr+Live+At+The+Crazy+Face+Factory",
       "first_discovered": "21 Jul 2026, 14:00",
-      "last_seen": "21 Jul 2026, 14:00",
+      "last_seen": "03 Sep 2026, 16:01",
       "top_tracks": []
     },
     "soulja boy": {
@@ -4535,6 +4535,15 @@
       "recent_track_url": "https://www.last.fm/music/The+Raveonettes/_/Come+on+Santa",
       "first_discovered": "01 Sep 2026, 15:33",
       "last_seen": "01 Sep 2026, 15:33",
+      "top_tracks": []
+    },
+    "faithless": {
+      "artist": "Faithless",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Faithless",
+      "recent_track": "Insomnia",
+      "recent_track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
+      "first_discovered": "03 Sep 2026, 17:07",
+      "last_seen": "03 Sep 2026, 17:07",
       "top_tracks": []
     }
   }
