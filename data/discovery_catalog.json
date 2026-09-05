@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-03T23:43:30.668546-07:00",
+    "last_updated": "2026-09-04T23:29:28.576597-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 548,
+    "total_discoveries": 550,
     "total_graduated": 44
   },
   "catalog": {
@@ -5375,6 +5375,26 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Faithless",
       "track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
+      "graduated": false
+    },
+    "badlands": {
+      "artist": "Badlands",
+      "first_discovered": "04 Sep 2026, 19:26",
+      "last_listened": "04 Sep 2026, 19:26",
+      "track": "Demos & Unreleased",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Badlands",
+      "track_url": "https://www.last.fm/music/Badlands/_/Demos+%26+Unreleased",
+      "graduated": false
+    },
+    "moura lympany": {
+      "artist": "Moura Lympany",
+      "first_discovered": "04 Sep 2026, 18:01",
+      "last_listened": "04 Sep 2026, 18:01",
+      "track": "Waldszenen, Op. 82: VII. Vogel als Prophet",
+      "album": "Classical Music for Reading",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Moura%20Lympany",
+      "track_url": "https://www.last.fm/music/Moura+Lympany/_/Waldszenen%2C+Op.+82:+VII.+Vogel+als+Prophet",
       "graduated": false
     }
   }

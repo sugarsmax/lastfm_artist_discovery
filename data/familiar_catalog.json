@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-03T23:43:33.720744-07:00",
+    "last_updated": "2026-09-04T23:29:30.419051-07:00",
     "username": "sugarsmax",
-    "total_artists": 504
+    "total_artists": 506
   },
   "artists": {
     "rjd2, supastition": {
@@ -4544,6 +4544,24 @@
       "recent_track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
       "first_discovered": "03 Sep 2026, 17:07",
       "last_seen": "03 Sep 2026, 17:07",
+      "top_tracks": []
+    },
+    "badlands": {
+      "artist": "Badlands",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Badlands",
+      "recent_track": "Demos & Unreleased",
+      "recent_track_url": "https://www.last.fm/music/Badlands/_/Demos+%26+Unreleased",
+      "first_discovered": "04 Sep 2026, 19:26",
+      "last_seen": "04 Sep 2026, 19:26",
+      "top_tracks": []
+    },
+    "moura lympany": {
+      "artist": "Moura Lympany",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Moura%20Lympany",
+      "recent_track": "Waldszenen, Op. 82: VII. Vogel als Prophet",
+      "recent_track_url": "https://www.last.fm/music/Moura+Lympany/_/Waldszenen%2C+Op.+82:+VII.+Vogel+als+Prophet",
+      "first_discovered": "04 Sep 2026, 18:01",
+      "last_seen": "04 Sep 2026, 18:01",
       "top_tracks": []
     }
   }
