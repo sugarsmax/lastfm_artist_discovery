@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-08T23:52:10.099082-07:00",
+    "last_updated": "2026-09-09T23:48:37.609696-07:00",
     "username": "sugarsmax",
-    "total_artists": 506
+    "total_artists": 514
   },
   "artists": {
     "rjd2, supastition": {
@@ -4450,10 +4450,10 @@
     "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
       "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
-      "recent_track": "I. Canon",
-      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
+      "recent_track": "III. Presto",
+      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/III.+Presto",
       "first_discovered": "26 Aug 2026, 15:35",
-      "last_seen": "26 Aug 2026, 15:35",
+      "last_seen": "09 Sep 2026, 14:52",
       "top_tracks": []
     },
     "vladimir feltsman, johann sebastian bach": {
@@ -4562,6 +4562,78 @@
       "recent_track_url": "https://www.last.fm/music/Moura+Lympany/_/Waldszenen%2C+Op.+82:+VII.+Vogel+als+Prophet",
       "first_discovered": "04 Sep 2026, 18:01",
       "last_seen": "04 Sep 2026, 18:01",
+      "top_tracks": []
+    },
+    "antonio vivaldi, cappella gedanensis, natalia walewska": {
+      "artist": "Antonio Vivaldi, Cappella Gedanensis, Natalia Walewska",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Antonio%20Vivaldi%2C%20Cappella%20Gedanensis%2C%20Natalia%20Walewska",
+      "recent_track": "The Four Seasons: Summer: I. Allegro non molto",
+      "recent_track_url": "https://www.last.fm/music/Antonio+Vivaldi%2C+Cappella+Gedanensis%2C+Natalia+Walewska/_/The+Four+Seasons:+Summer:+I.+Allegro+non+molto",
+      "first_discovered": "09 Sep 2026, 15:09",
+      "last_seen": "09 Sep 2026, 15:09",
+      "top_tracks": []
+    },
+    "nathan milstein, leon pommers, antonio vivaldi": {
+      "artist": "Nathan Milstein, Leon Pommers, Antonio Vivaldi",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nathan%20Milstein%2C%20Leon%20Pommers%2C%20Antonio%20Vivaldi",
+      "recent_track": "Violin Sonata No. 2 in A Major, Op. 2 (RV 31): II. Corrente",
+      "recent_track_url": "https://www.last.fm/music/Nathan+Milstein%2C+Leon+Pommers%2C+Antonio+Vivaldi/_/Violin+Sonata+No.+2+in+A+Major%2C+Op.+2+%28RV+31%29:+II.+Corrente",
+      "first_discovered": "09 Sep 2026, 15:07",
+      "last_seen": "09 Sep 2026, 15:07",
+      "top_tracks": []
+    },
+    "antonio vivaldi, south german philharmonic orchestra, konrad ragossnig": {
+      "artist": "Antonio Vivaldi, South German Philharmonic Orchestra, Konrad Ragossnig",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Antonio%20Vivaldi%2C%20South%20German%20Philharmonic%20Orchestra%2C%20Konrad%20Ragossnig",
+      "recent_track": "Guitar Concerto in D Major: II. Largo",
+      "recent_track_url": "https://www.last.fm/music/Antonio+Vivaldi%2C+South+German+Philharmonic+Orchestra%2C+Konrad+Ragossnig/_/Guitar+Concerto+in+D+Major:+II.+Largo",
+      "first_discovered": "09 Sep 2026, 15:05",
+      "last_seen": "09 Sep 2026, 15:05",
+      "top_tracks": []
+    },
+    "antonio vivaldi, nathan milstein, leon pommers": {
+      "artist": "Antonio Vivaldi, Nathan Milstein, Leon Pommers",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Antonio%20Vivaldi%2C%20Nathan%20Milstein%2C%20Leon%20Pommers",
+      "recent_track": "Violin Sonata No. 2 in A Major, Op. 2 (RV 31): III. Adagio",
+      "recent_track_url": "https://www.last.fm/music/Antonio+Vivaldi%2C+Nathan+Milstein%2C+Leon+Pommers/_/Violin+Sonata+No.+2+in+A+Major%2C+Op.+2+%28RV+31%29:+III.+Adagio",
+      "first_discovered": "09 Sep 2026, 14:50",
+      "last_seen": "09 Sep 2026, 14:50",
+      "top_tracks": []
+    },
+    "jaap van zweden, antonio vivaldi, combattimento consort amsterdam": {
+      "artist": "Jaap van Zweden, Antonio Vivaldi, Combattimento Consort Amsterdam",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jaap%20van%20Zweden%2C%20Antonio%20Vivaldi%2C%20Combattimento%20Consort%20Amsterdam",
+      "recent_track": "Violin Concerto No. 3 in F Major, RV 293 \"L’Autunno\" (Autumn): II. Adagio molto",
+      "recent_track_url": "https://www.last.fm/music/Jaap+van+Zweden%2C+Antonio+Vivaldi%2C+Combattimento+Consort+Amsterdam/_/Violin+Concerto+No.+3+in+F+Major%2C+RV+293+%22L%E2%80%99Autunno%22+%28Autumn%29:+II.+Adagio+molto",
+      "first_discovered": "09 Sep 2026, 14:49",
+      "last_seen": "09 Sep 2026, 14:49",
+      "top_tracks": []
+    },
+    "offstage brass, antonio vivaldi": {
+      "artist": "OffStage Brass, Antonio Vivaldi",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/OffStage%20Brass%2C%20Antonio%20Vivaldi",
+      "recent_track": "Concerto for two trumpets: 1st movement",
+      "recent_track_url": "https://www.last.fm/music/OffStage+Brass%2C+Antonio+Vivaldi/_/Concerto+for+two+trumpets:+1st+movement",
+      "first_discovered": "09 Sep 2026, 14:46",
+      "last_seen": "09 Sep 2026, 14:46",
+      "top_tracks": []
+    },
+    "dve, ludwig van beethoven, wolfgang amadeus mozart, johann sebastian bach, frederic chopin, johann strauss ii, george frideric handel, antonio vivaldi, claude debussy, camille saint-saëns, pyotr ilyich tchaikovsky": {
+      "artist": "DVE, Ludwig van Beethoven, Wolfgang Amadeus Mozart, Johann Sebastian Bach, Frederic Chopin, Johann Strauss II, George Frideric Handel, Antonio Vivaldi, Claude Debussy, Camille Saint-Saëns, Pyotr Ilyich Tchaikovsky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DVE%2C%20Ludwig%20van%20Beethoven%2C%20Wolfgang%20Amadeus%20Mozart%2C%20Johann%20Sebastian%20Bach%2C%20Frederic%20Chopin%2C%20Johann%20Strauss%20II%2C%20George%20Frideric%20Handel%2C%20Antonio%20Vivaldi%2C%20Claude%20Debussy%2C%20Camille%20Saint-Sa%C3%ABns%2C%20Pyotr%20Ilyich%20Tchaikovsky",
+      "recent_track": "The Salon Notebook",
+      "recent_track_url": "https://www.last.fm/music/DVE%2C+Ludwig+van+Beethoven%2C+Wolfgang+Amadeus+Mozart%2C+Johann+Sebastian+Bach%2C+Frederic+Chopin%2C+Johann+Strauss+II%2C+George+Frideric+Handel%2C+Antonio+Vivaldi%2C+Claude+Debussy%2C+Camille+Saint-Sa%C3%ABns%2C+Pyotr+Ilyich+Tchaikovsky/_/The+Salon+Notebook",
+      "first_discovered": "09 Sep 2026, 14:40",
+      "last_seen": "09 Sep 2026, 14:40",
+      "top_tracks": []
+    },
+    "antonio vivaldi, stuttgartt chamber orchestra": {
+      "artist": "Antonio Vivaldi, Stuttgartt Chamber Orchestra",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Antonio%20Vivaldi%2C%20Stuttgartt%20Chamber%20Orchestra",
+      "recent_track": "Violin Concerto in F Major, RV 293: III. Allegro 'Caccia'",
+      "recent_track_url": "https://www.last.fm/music/Antonio+Vivaldi%2C+Stuttgartt+Chamber+Orchestra/_/Violin+Concerto+in+F+Major%2C+RV+293:+III.+Allegro+'Caccia'",
+      "first_discovered": "09 Sep 2026, 14:39",
+      "last_seen": "09 Sep 2026, 14:39",
       "top_tracks": []
     }
   }
