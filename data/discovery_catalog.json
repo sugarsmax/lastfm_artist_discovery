@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-09T23:48:35.150490-07:00",
+    "last_updated": "2026-09-10T23:48:06.310300-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 558,
+    "total_discoveries": 569,
     "total_graduated": 44
   },
   "catalog": {
@@ -3930,7 +3930,7 @@
     "how soon is now": {
       "artist": "How Soon Is Now",
       "first_discovered": "21 Jul 2026, 14:00",
-      "last_listened": "03 Sep 2026, 16:01",
+      "last_listened": "10 Sep 2026, 18:22",
       "track": "Johnny Marr Live At The Crazy Face Factory",
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/How%20Soon%20Is%20Now",
@@ -5475,6 +5475,116 @@
       "album": "Los Grandes de la Musica Clasica - Antonio Vivaldi Vol. 1",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Antonio%20Vivaldi%2C%20Stuttgartt%20Chamber%20Orchestra",
       "track_url": "https://www.last.fm/music/Antonio+Vivaldi%2C+Stuttgartt+Chamber+Orchestra/_/Violin+Concerto+in+F+Major%2C+RV+293:+III.+Allegro+'Caccia'",
+      "graduated": false
+    },
+    "queens of the stone age / feat. dave grohl": {
+      "artist": "Queens Of The Stone Age / feat. Dave Grohl",
+      "first_discovered": "10 Sep 2026, 18:37",
+      "last_listened": "10 Sep 2026, 18:37",
+      "track": "Song For The Dead (Werchter 2002)",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Queens%20Of%20The%20Stone%20Age%20%2F%20feat.%20Dave%20Grohl",
+      "track_url": "https://www.last.fm/music/Queens+Of+The+Stone+Age+%2F+feat.+Dave+Grohl/_/Song+For+The+Dead+%28Werchter+2002%29",
+      "graduated": false
+    },
+    "taylor momsen & soundgarden \"rusty cage\" live": {
+      "artist": "Taylor Momsen & Soundgarden \"Rusty Cage\" Live",
+      "first_discovered": "10 Sep 2026, 18:32",
+      "last_listened": "10 Sep 2026, 18:32",
+      "track": "Rock Hall 2025 Induction",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Taylor%20Momsen%20%26%20Soundgarden%20%22Rusty%20Cage%22%20Live",
+      "track_url": "https://www.last.fm/music/Taylor+Momsen+%26+Soundgarden+%22Rusty+Cage%22+Live/_/Rock+Hall+2025+Induction",
+      "graduated": false
+    },
+    "the howard stern show": {
+      "artist": "The Howard Stern Show",
+      "first_discovered": "10 Sep 2026, 18:31",
+      "last_listened": "10 Sep 2026, 18:31",
+      "track": "Stone Temple Pilots “Interstate Love Song” on the Howard Stern Show (2000)",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Howard%20Stern%20Show",
+      "track_url": "https://www.last.fm/music/The+Howard+Stern+Show/_/Stone+Temple+Pilots+%E2%80%9CInterstate+Love+Song%E2%80%9D+on+the+Howard+Stern+Show+%282000%29",
+      "graduated": false
+    },
+    "norah jones, josh homme": {
+      "artist": "Norah Jones, Josh Homme",
+      "first_discovered": "10 Sep 2026, 18:12",
+      "last_listened": "10 Sep 2026, 18:12",
+      "track": "Somethin’ Stupid",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Norah%20Jones%2C%20Josh%20Homme",
+      "track_url": "https://www.last.fm/music/Norah+Jones%2C+Josh+Homme/_/Somethin%E2%80%99+Stupid",
+      "graduated": false
+    },
+    "mantra": {
+      "artist": "Mantra",
+      "first_discovered": "10 Sep 2026, 17:55",
+      "last_listened": "10 Sep 2026, 17:55",
+      "track": "Dave Grohl, Josh Homme, Trent Reznor",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Mantra",
+      "track_url": "https://www.last.fm/music/Mantra/_/Dave+Grohl%2C+Josh+Homme%2C+Trent+Reznor",
+      "graduated": false
+    },
+    "toolarchive": {
+      "artist": "ToolArchive",
+      "first_discovered": "10 Sep 2026, 17:29",
+      "last_listened": "10 Sep 2026, 17:29",
+      "track": "Tool Live New Year's Eve 1995 (Full Concert)",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/ToolArchive",
+      "track_url": "https://www.last.fm/music/ToolArchive/_/Tool+Live+New+Year's+Eve+1995+%28Full+Concert%29",
+      "graduated": false
+    },
+    "veruca salt": {
+      "artist": "Veruca Salt",
+      "first_discovered": "10 Sep 2026, 15:08",
+      "last_listened": "10 Sep 2026, 15:08",
+      "track": "Seether",
+      "album": "American Thighs",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Veruca%20Salt",
+      "track_url": "https://www.last.fm/music/Veruca+Salt/_/Seether",
+      "graduated": false
+    },
+    "tripping daisy": {
+      "artist": "Tripping Daisy",
+      "first_discovered": "10 Sep 2026, 15:06",
+      "last_listened": "10 Sep 2026, 15:06",
+      "track": "Piranha",
+      "album": "I Am An Elastic Firecracker",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tripping%20Daisy",
+      "track_url": "https://www.last.fm/music/Tripping+Daisy/_/Piranha",
+      "graduated": false
+    },
+    "the breeders": {
+      "artist": "The Breeders",
+      "first_discovered": "10 Sep 2026, 15:05",
+      "last_listened": "10 Sep 2026, 15:05",
+      "track": "Cannonball",
+      "album": "Last Splash",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Breeders",
+      "track_url": "https://www.last.fm/music/The+Breeders/_/Cannonball",
+      "graduated": false
+    },
+    "tracy bonham": {
+      "artist": "Tracy Bonham",
+      "first_discovered": "10 Sep 2026, 15:01",
+      "last_listened": "10 Sep 2026, 15:01",
+      "track": "Mother Mother",
+      "album": "The Burdens Of Being Upright",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tracy%20Bonham",
+      "track_url": "https://www.last.fm/music/Tracy+Bonham/_/Mother+Mother",
+      "graduated": false
+    },
+    "gretchen wilson": {
+      "artist": "Gretchen Wilson",
+      "first_discovered": "10 Sep 2026, 14:41",
+      "last_listened": "10 Sep 2026, 14:41",
+      "track": "Here for the Party",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gretchen%20Wilson",
+      "track_url": "https://www.last.fm/music/Gretchen+Wilson/_/Here+for+the+Party",
       "graduated": false
     }
   }
