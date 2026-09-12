@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-10T23:48:07.963015-07:00",
+    "last_updated": "2026-09-11T23:40:20.497325-07:00",
     "username": "sugarsmax",
-    "total_artists": 525
+    "total_artists": 526
   },
   "artists": {
     "rjd2, supastition": {
@@ -4733,6 +4733,15 @@
       "recent_track_url": "https://www.last.fm/music/Gretchen+Wilson/_/Here+for+the+Party",
       "first_discovered": "10 Sep 2026, 14:41",
       "last_seen": "10 Sep 2026, 14:41",
+      "top_tracks": []
+    },
+    "nada surf": {
+      "artist": "Nada Surf",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nada%20Surf",
+      "recent_track": "Popular",
+      "recent_track_url": "https://www.last.fm/music/Nada+Surf/_/Popular",
+      "first_discovered": "11 Sep 2026, 17:33",
+      "last_seen": "11 Sep 2026, 17:33",
       "top_tracks": []
     }
   }

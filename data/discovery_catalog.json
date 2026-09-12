@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-10T23:48:06.310300-07:00",
+    "last_updated": "2026-09-11T23:40:16.727800-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 569,
+    "total_discoveries": 570,
     "total_graduated": 44
   },
   "catalog": {
@@ -5585,6 +5585,16 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gretchen%20Wilson",
       "track_url": "https://www.last.fm/music/Gretchen+Wilson/_/Here+for+the+Party",
+      "graduated": false
+    },
+    "nada surf": {
+      "artist": "Nada Surf",
+      "first_discovered": "11 Sep 2026, 17:33",
+      "last_listened": "11 Sep 2026, 17:33",
+      "track": "Popular",
+      "album": "High/Low",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nada%20Surf",
+      "track_url": "https://www.last.fm/music/Nada+Surf/_/Popular",
       "graduated": false
     }
   }
