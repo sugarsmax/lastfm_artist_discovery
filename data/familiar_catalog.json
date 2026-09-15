@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-14T00:19:57.285678-07:00",
+    "last_updated": "2026-09-14T23:56:13.826721-07:00",
     "username": "sugarsmax",
-    "total_artists": 526
+    "total_artists": 529
   },
   "artists": {
     "rjd2, supastition": {
@@ -4742,6 +4742,33 @@
       "recent_track_url": "https://www.last.fm/music/Nada+Surf/_/Popular",
       "first_discovered": "11 Sep 2026, 17:33",
       "last_seen": "11 Sep 2026, 17:33",
+      "top_tracks": []
+    },
+    "hozier": {
+      "artist": "Hozier",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier",
+      "recent_track": "Empire Now",
+      "recent_track_url": "https://www.last.fm/music/Hozier/_/Empire+Now",
+      "first_discovered": "14 Sep 2026, 14:13",
+      "last_seen": "14 Sep 2026, 14:13",
+      "top_tracks": []
+    },
+    "hozier, allison russell": {
+      "artist": "Hozier, Allison Russell",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier%2C%20Allison%20Russell",
+      "recent_track": "Wildflower and Barley",
+      "recent_track_url": "https://www.last.fm/music/Hozier%2C+Allison+Russell/_/Wildflower+and+Barley",
+      "first_discovered": "14 Sep 2026, 14:12",
+      "last_seen": "14 Sep 2026, 14:12",
+      "top_tracks": []
+    },
+    "luca mundaca": {
+      "artist": "Luca Mundaca",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Luca%20Mundaca",
+      "recent_track": "Há Dias",
+      "recent_track_url": "https://www.last.fm/music/Luca+Mundaca/_/H%C3%A1+Dias",
+      "first_discovered": "14 Sep 2026, 14:04",
+      "last_seen": "14 Sep 2026, 14:04",
       "top_tracks": []
     }
   }

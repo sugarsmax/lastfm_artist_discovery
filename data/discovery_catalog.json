@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-14T00:19:55.681587-07:00",
+    "last_updated": "2026-09-14T23:56:11.268017-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 570,
+    "total_discoveries": 573,
     "total_graduated": 44
   },
   "catalog": {
@@ -5595,6 +5595,36 @@
       "album": "High/Low",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nada%20Surf",
       "track_url": "https://www.last.fm/music/Nada+Surf/_/Popular",
+      "graduated": false
+    },
+    "hozier": {
+      "artist": "Hozier",
+      "first_discovered": "14 Sep 2026, 14:13",
+      "last_listened": "14 Sep 2026, 14:13",
+      "track": "Empire Now",
+      "album": "Unheard",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier",
+      "track_url": "https://www.last.fm/music/Hozier/_/Empire+Now",
+      "graduated": false
+    },
+    "hozier, allison russell": {
+      "artist": "Hozier, Allison Russell",
+      "first_discovered": "14 Sep 2026, 14:12",
+      "last_listened": "14 Sep 2026, 14:12",
+      "track": "Wildflower and Barley",
+      "album": "Unheard",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier%2C%20Allison%20Russell",
+      "track_url": "https://www.last.fm/music/Hozier%2C+Allison+Russell/_/Wildflower+and+Barley",
+      "graduated": false
+    },
+    "luca mundaca": {
+      "artist": "Luca Mundaca",
+      "first_discovered": "14 Sep 2026, 14:04",
+      "last_listened": "14 Sep 2026, 14:04",
+      "track": "Há Dias",
+      "album": "Há Dias",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Luca%20Mundaca",
+      "track_url": "https://www.last.fm/music/Luca+Mundaca/_/H%C3%A1+Dias",
       "graduated": false
     }
   }
