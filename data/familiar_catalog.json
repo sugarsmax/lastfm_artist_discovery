@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-14T23:56:13.826721-07:00",
+    "last_updated": "2026-09-15T23:58:13.323453-07:00",
     "username": "sugarsmax",
-    "total_artists": 529
+    "total_artists": 532
   },
   "artists": {
     "rjd2, supastition": {
@@ -4769,6 +4769,33 @@
       "recent_track_url": "https://www.last.fm/music/Luca+Mundaca/_/H%C3%A1+Dias",
       "first_discovered": "14 Sep 2026, 14:04",
       "last_seen": "14 Sep 2026, 14:04",
+      "top_tracks": []
+    },
+    "left lane cruiser": {
+      "artist": "Left Lane Cruiser",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Left%20Lane%20Cruiser",
+      "recent_track": "Lost My Mind",
+      "recent_track_url": "https://www.last.fm/music/Left+Lane+Cruiser/_/Lost+My+Mind",
+      "first_discovered": "15 Sep 2026, 14:11",
+      "last_seen": "15 Sep 2026, 14:11",
+      "top_tracks": []
+    },
+    "the wanton bishops": {
+      "artist": "The Wanton Bishops",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Wanton%20Bishops",
+      "recent_track": "Sleep With the Lights On",
+      "recent_track_url": "https://www.last.fm/music/The+Wanton+Bishops/_/Sleep+With+the+Lights+On",
+      "first_discovered": "15 Sep 2026, 11:00",
+      "last_seen": "15 Sep 2026, 11:00",
+      "top_tracks": []
+    },
+    "the steepwater band": {
+      "artist": "The Steepwater Band",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Steepwater%20Band",
+      "recent_track": "Remember the Taker",
+      "recent_track_url": "https://www.last.fm/music/The+Steepwater+Band/_/Remember+the+Taker",
+      "first_discovered": "15 Sep 2026, 10:57",
+      "last_seen": "15 Sep 2026, 10:57",
       "top_tracks": []
     }
   }
