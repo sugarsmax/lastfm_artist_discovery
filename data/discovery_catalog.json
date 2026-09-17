@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-15T23:58:11.606780-07:00",
+    "last_updated": "2026-09-16T23:53:36.632907-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 576,
+    "total_discoveries": 580,
     "total_graduated": 44
   },
   "catalog": {
@@ -5040,7 +5040,7 @@
     "valerie june": {
       "artist": "Valerie June",
       "first_discovered": "23 Aug 2026, 18:15",
-      "last_listened": "23 Aug 2026, 18:15",
+      "last_listened": "16 Sep 2026, 15:53",
       "track": "Smokestack",
       "album": "Smokestack",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Valerie%20June",
@@ -5070,7 +5070,7 @@
     "kyle mcevoy, rjd2, jacuzzi jefferson": {
       "artist": "Kyle McEvoy, RJD2, jacuzzi jefferson",
       "first_discovered": "23 Aug 2026, 17:50",
-      "last_listened": "23 Aug 2026, 17:50",
+      "last_listened": "16 Sep 2026, 15:56",
       "track": "Lift Me Up (Alt. Version)",
       "album": "Lift Me Up (Alt. Versions)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kyle%20McEvoy%2C%20RJD2%2C%20jacuzzi%20jefferson",
@@ -5600,11 +5600,11 @@
     "hozier": {
       "artist": "Hozier",
       "first_discovered": "14 Sep 2026, 14:13",
-      "last_listened": "14 Sep 2026, 14:13",
-      "track": "Empire Now",
+      "last_listened": "16 Sep 2026, 15:48",
+      "track": "Too Sweet",
       "album": "Unheard",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier",
-      "track_url": "https://www.last.fm/music/Hozier/_/Empire+Now",
+      "track_url": "https://www.last.fm/music/Hozier/_/Too+Sweet",
       "graduated": false
     },
     "hozier, allison russell": {
@@ -5655,6 +5655,46 @@
       "album": "Clava (Deluxe Version)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Steepwater%20Band",
       "track_url": "https://www.last.fm/music/The+Steepwater+Band/_/Remember+the+Taker",
+      "graduated": false
+    },
+    "r.e.m.": {
+      "artist": "R.E.M.",
+      "first_discovered": "16 Sep 2026, 15:21",
+      "last_listened": "16 Sep 2026, 15:21",
+      "track": "Turn You Inside-Out",
+      "album": "Green (25th Anniversary Deluxe Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/R.E.M.",
+      "track_url": "https://www.last.fm/music/R.E.M./_/Turn+You+Inside-Out",
+      "graduated": false
+    },
+    "culture club": {
+      "artist": "Culture Club",
+      "first_discovered": "16 Sep 2026, 15:20",
+      "last_listened": "16 Sep 2026, 15:20",
+      "track": "Time (Clock of the Heart)",
+      "album": "Synth Pop",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Culture%20Club",
+      "track_url": "https://www.last.fm/music/Culture+Club/_/Time+%28Clock+of+the+Heart%29",
+      "graduated": false
+    },
+    "katia labèque, marielle labèque": {
+      "artist": "Katia Labèque, Marielle Labèque",
+      "first_discovered": "16 Sep 2026, 15:17",
+      "last_listened": "16 Sep 2026, 15:17",
+      "track": "Milhaud: Scaramouche, Suite for 2 Pianos: 3. Brazileira (Mouvement de samba)",
+      "album": "Poulenc/Milhaud: Concerto in D minor for 2 Pianos/Scaramouche etc.",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Katia%20Lab%C3%A8que%2C%20Marielle%20Lab%C3%A8que",
+      "track_url": "https://www.last.fm/music/Katia+Lab%C3%A8que%2C+Marielle+Lab%C3%A8que/_/Milhaud:+Scaramouche%2C+Suite+for+2+Pianos:+3.+Brazileira+%28Mouvement+de+samba%29",
+      "graduated": false
+    },
+    "taufiq qureshi": {
+      "artist": "Taufiq Qureshi",
+      "first_discovered": "16 Sep 2026, 15:02",
+      "last_listened": "16 Sep 2026, 15:02",
+      "track": "Rhydhun (Nothing but voice)",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Taufiq%20Qureshi",
+      "track_url": "https://www.last.fm/music/Taufiq+Qureshi/_/Rhydhun+%28Nothing+but+voice%29",
       "graduated": false
     }
   }

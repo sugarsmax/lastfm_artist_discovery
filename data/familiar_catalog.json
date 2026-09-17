@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-15T23:58:13.323453-07:00",
+    "last_updated": "2026-09-16T23:53:38.724277-07:00",
     "username": "sugarsmax",
-    "total_artists": 532
+    "total_artists": 536
   },
   "artists": {
     "rjd2, supastition": {
@@ -4246,7 +4246,7 @@
       "recent_track": "Smokestack",
       "recent_track_url": "https://www.last.fm/music/Valerie+June/_/Smokestack",
       "first_discovered": "23 Aug 2026, 18:15",
-      "last_seen": "23 Aug 2026, 18:15",
+      "last_seen": "16 Sep 2026, 15:53",
       "top_tracks": []
     },
     "rjd2, jordan brown": {
@@ -4273,7 +4273,7 @@
       "recent_track": "Lift Me Up (Alt. Version)",
       "recent_track_url": "https://www.last.fm/music/Kyle+McEvoy%2C+RJD2%2C+jacuzzi+jefferson/_/Lift+Me+Up+%28Alt.+Version%29",
       "first_discovered": "23 Aug 2026, 17:50",
-      "last_seen": "23 Aug 2026, 17:50",
+      "last_seen": "16 Sep 2026, 15:56",
       "top_tracks": []
     },
     "kingston sound system, blondie": {
@@ -4747,10 +4747,10 @@
     "hozier": {
       "artist": "Hozier",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Hozier",
-      "recent_track": "Empire Now",
-      "recent_track_url": "https://www.last.fm/music/Hozier/_/Empire+Now",
+      "recent_track": "Too Sweet",
+      "recent_track_url": "https://www.last.fm/music/Hozier/_/Too+Sweet",
       "first_discovered": "14 Sep 2026, 14:13",
-      "last_seen": "14 Sep 2026, 14:13",
+      "last_seen": "16 Sep 2026, 15:48",
       "top_tracks": []
     },
     "hozier, allison russell": {
@@ -4796,6 +4796,42 @@
       "recent_track_url": "https://www.last.fm/music/The+Steepwater+Band/_/Remember+the+Taker",
       "first_discovered": "15 Sep 2026, 10:57",
       "last_seen": "15 Sep 2026, 10:57",
+      "top_tracks": []
+    },
+    "r.e.m.": {
+      "artist": "R.E.M.",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/R.E.M.",
+      "recent_track": "Turn You Inside-Out",
+      "recent_track_url": "https://www.last.fm/music/R.E.M./_/Turn+You+Inside-Out",
+      "first_discovered": "16 Sep 2026, 15:21",
+      "last_seen": "16 Sep 2026, 15:21",
+      "top_tracks": []
+    },
+    "culture club": {
+      "artist": "Culture Club",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Culture%20Club",
+      "recent_track": "Time (Clock of the Heart)",
+      "recent_track_url": "https://www.last.fm/music/Culture+Club/_/Time+%28Clock+of+the+Heart%29",
+      "first_discovered": "16 Sep 2026, 15:20",
+      "last_seen": "16 Sep 2026, 15:20",
+      "top_tracks": []
+    },
+    "katia labèque, marielle labèque": {
+      "artist": "Katia Labèque, Marielle Labèque",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Katia%20Lab%C3%A8que%2C%20Marielle%20Lab%C3%A8que",
+      "recent_track": "Milhaud: Scaramouche, Suite for 2 Pianos: 3. Brazileira (Mouvement de samba)",
+      "recent_track_url": "https://www.last.fm/music/Katia+Lab%C3%A8que%2C+Marielle+Lab%C3%A8que/_/Milhaud:+Scaramouche%2C+Suite+for+2+Pianos:+3.+Brazileira+%28Mouvement+de+samba%29",
+      "first_discovered": "16 Sep 2026, 15:17",
+      "last_seen": "16 Sep 2026, 15:17",
+      "top_tracks": []
+    },
+    "taufiq qureshi": {
+      "artist": "Taufiq Qureshi",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Taufiq%20Qureshi",
+      "recent_track": "Rhydhun (Nothing but voice)",
+      "recent_track_url": "https://www.last.fm/music/Taufiq+Qureshi/_/Rhydhun+%28Nothing+but+voice%29",
+      "first_discovered": "16 Sep 2026, 15:02",
+      "last_seen": "16 Sep 2026, 15:02",
       "top_tracks": []
     }
   }
