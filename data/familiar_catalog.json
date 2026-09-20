@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-18T23:49:45.248341-07:00",
+    "last_updated": "2026-09-20T00:14:31.193133-07:00",
     "username": "sugarsmax",
-    "total_artists": 536
+    "total_artists": 538
   },
   "artists": {
     "rjd2, supastition": {
@@ -4832,6 +4832,24 @@
       "recent_track_url": "https://www.last.fm/music/Taufiq+Qureshi/_/Rhydhun+%28Nothing+but+voice%29",
       "first_discovered": "16 Sep 2026, 15:02",
       "last_seen": "16 Sep 2026, 15:02",
+      "top_tracks": []
+    },
+    "queens of dogtown": {
+      "artist": "Queens of Dogtown",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Queens%20of%20Dogtown",
+      "recent_track": "Would?",
+      "recent_track_url": "https://www.last.fm/music/Queens+of+Dogtown/_/Would%3F",
+      "first_discovered": "19 Sep 2026, 18:59",
+      "last_seen": "19 Sep 2026, 18:59",
+      "top_tracks": []
+    },
+    "alabaster deplume": {
+      "artist": "Alabaster Deplume",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alabaster%20Deplume",
+      "recent_track": "Visit Croatia",
+      "recent_track_url": "https://www.last.fm/music/Alabaster+Deplume/_/Visit+Croatia",
+      "first_discovered": "19 Sep 2026, 14:16",
+      "last_seen": "19 Sep 2026, 14:16",
       "top_tracks": []
     }
   }

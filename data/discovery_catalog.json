@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-18T23:49:43.513973-07:00",
+    "last_updated": "2026-09-20T00:14:29.017022-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 580,
+    "total_discoveries": 582,
     "total_graduated": 44
   },
   "catalog": {
@@ -5695,6 +5695,26 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Taufiq%20Qureshi",
       "track_url": "https://www.last.fm/music/Taufiq+Qureshi/_/Rhydhun+%28Nothing+but+voice%29",
+      "graduated": false
+    },
+    "queens of dogtown": {
+      "artist": "Queens of Dogtown",
+      "first_discovered": "19 Sep 2026, 18:59",
+      "last_listened": "19 Sep 2026, 18:59",
+      "track": "Would?",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Queens%20of%20Dogtown",
+      "track_url": "https://www.last.fm/music/Queens+of+Dogtown/_/Would%3F",
+      "graduated": false
+    },
+    "alabaster deplume": {
+      "artist": "Alabaster Deplume",
+      "first_discovered": "19 Sep 2026, 14:16",
+      "last_listened": "19 Sep 2026, 14:16",
+      "track": "Visit Croatia",
+      "album": "Copernicus - The Good Book of No",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Alabaster%20Deplume",
+      "track_url": "https://www.last.fm/music/Alabaster+Deplume/_/Visit+Croatia",
       "graduated": false
     }
   }
