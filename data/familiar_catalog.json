@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-21T00:23:47.709348-07:00",
+    "last_updated": "2026-09-22T00:01:15.241751-07:00",
     "username": "sugarsmax",
-    "total_artists": 538
+    "total_artists": 542
   },
   "artists": {
     "rjd2, supastition": {
@@ -17,10 +17,10 @@
     "leon mccawley": {
       "artist": "Leon McCawley",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leon%20McCawley",
-      "recent_track": "Piano Sonata No. 5 in G Major, K.283: III. Presto",
-      "recent_track_url": "https://www.last.fm/music/Leon+McCawley/_/Piano+Sonata+No.+5+in+G+Major%2C+K.283:+III.+Presto",
+      "recent_track": "Piano Sonata No. 12 in F Major, K.332: I. Allegro",
+      "recent_track_url": "https://www.last.fm/music/Leon+McCawley/_/Piano+Sonata+No.+12+in+F+Major%2C+K.332:+I.+Allegro",
       "first_discovered": "19 Feb 2026, 18:50",
-      "last_seen": "19 Feb 2026, 10:50",
+      "last_seen": "21 Sep 2026, 16:45",
       "top_tracks": []
     },
     "joe turner": {
@@ -3484,15 +3484,6 @@
       "last_seen": "07 Aug 2026, 15:35",
       "top_tracks": []
     },
-    "psychedelic porn crumpets": {
-      "artist": "Psychedelic Porn Crumpets",
-      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Psychedelic%20Porn%20Crumpets",
-      "recent_track": "Found God in a Tomato",
-      "recent_track_url": "https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Found+God+in+a+Tomato",
-      "first_discovered": "08 Aug 2026, 19:54",
-      "last_seen": "24 Aug 2026, 14:59",
-      "top_tracks": []
-    },
     "sugar candy mountain": {
       "artist": "Sugar Candy Mountain",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sugar%20Candy%20Mountain",
@@ -4450,10 +4441,10 @@
     "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
       "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
-      "recent_track": "III. Presto",
-      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/III.+Presto",
+      "recent_track": "I. Canon",
+      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
       "first_discovered": "26 Aug 2026, 15:35",
-      "last_seen": "09 Sep 2026, 14:52",
+      "last_seen": "21 Sep 2026, 16:21",
       "top_tracks": []
     },
     "vladimir feltsman, johann sebastian bach": {
@@ -4850,6 +4841,51 @@
       "recent_track_url": "https://www.last.fm/music/Alabaster+Deplume/_/Visit+Croatia",
       "first_discovered": "19 Sep 2026, 14:16",
       "last_seen": "19 Sep 2026, 14:16",
+      "top_tracks": []
+    },
+    "radio orchestra berlin": {
+      "artist": "Radio Orchestra Berlin",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Radio%20Orchestra%20Berlin",
+      "recent_track": "Turkish March",
+      "recent_track_url": "https://www.last.fm/music/Radio+Orchestra+Berlin/_/Turkish+March",
+      "first_discovered": "21 Sep 2026, 16:25",
+      "last_seen": "21 Sep 2026, 16:25",
+      "top_tracks": []
+    },
+    "purple disco machine": {
+      "artist": "Purple Disco Machine",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Purple%20Disco%20Machine",
+      "recent_track": "Disco Cherry",
+      "recent_track_url": "https://www.last.fm/music/Purple+Disco+Machine/_/Disco+Cherry",
+      "first_discovered": "21 Sep 2026, 16:00",
+      "last_seen": "21 Sep 2026, 16:00",
+      "top_tracks": []
+    },
+    "soundgarden, brian may": {
+      "artist": "Soundgarden, Brian May",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Soundgarden%2C%20Brian%20May",
+      "recent_track": "New Damage",
+      "recent_track_url": "https://www.last.fm/music/Soundgarden%2C+Brian+May/_/New+Damage",
+      "first_discovered": "21 Sep 2026, 15:27",
+      "last_seen": "21 Sep 2026, 15:27",
+      "top_tracks": []
+    },
+    "desert sessions featuring josh homme & pj harvey": {
+      "artist": "Desert Sessions featuring Josh Homme & PJ Harvey",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Desert%20Sessions%20featuring%20Josh%20Homme%20%26%20PJ%20Harvey",
+      "recent_track": "Crawl Home",
+      "recent_track_url": "https://www.last.fm/music/Desert+Sessions+featuring+Josh+Homme+%26+PJ+Harvey/_/Crawl+Home",
+      "first_discovered": "21 Sep 2026, 14:48",
+      "last_seen": "21 Sep 2026, 14:48",
+      "top_tracks": []
+    },
+    "judas priest": {
+      "artist": "Judas Priest",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Judas%20Priest",
+      "recent_track": "Breaking the Law",
+      "recent_track_url": "https://www.last.fm/music/Judas+Priest/_/Breaking+the+Law",
+      "first_discovered": "21 Sep 2026, 14:32",
+      "last_seen": "21 Sep 2026, 14:32",
       "top_tracks": []
     }
   }
