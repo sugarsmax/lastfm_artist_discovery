@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-25T23:49:35.022021-07:00",
+    "last_updated": "2026-09-27T00:18:24.629747-07:00",
     "username": "sugarsmax",
-    "total_artists": 542
+    "total_artists": 543
   },
   "artists": {
     "rjd2, supastition": {
@@ -4886,6 +4886,15 @@
       "recent_track_url": "https://www.last.fm/music/Judas+Priest/_/Breaking+the+Law",
       "first_discovered": "21 Sep 2026, 14:32",
       "last_seen": "21 Sep 2026, 14:32",
+      "top_tracks": []
+    },
+    "notebooks and cells": {
+      "artist": "Notebooks and Cells",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Notebooks%20and%20Cells",
+      "recent_track": "Learning Observable",
+      "recent_track_url": "https://www.last.fm/music/Notebooks+and+Cells/_/Learning+Observable",
+      "first_discovered": "26 Sep 2026, 17:58",
+      "last_seen": "26 Sep 2026, 17:58",
       "top_tracks": []
     }
   }

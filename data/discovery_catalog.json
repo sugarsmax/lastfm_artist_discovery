@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-25T23:49:32.479014-07:00",
+    "last_updated": "2026-09-27T00:18:22.827933-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 587,
+    "total_discoveries": 588,
     "total_graduated": 45
   },
   "catalog": {
@@ -5767,6 +5767,16 @@
       "album": "British Steel",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Judas%20Priest",
       "track_url": "https://www.last.fm/music/Judas+Priest/_/Breaking+the+Law",
+      "graduated": false
+    },
+    "notebooks and cells": {
+      "artist": "Notebooks and Cells",
+      "first_discovered": "26 Sep 2026, 17:58",
+      "last_listened": "26 Sep 2026, 17:58",
+      "track": "Learning Observable",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Notebooks%20and%20Cells",
+      "track_url": "https://www.last.fm/music/Notebooks+and+Cells/_/Learning+Observable",
       "graduated": false
     }
   }
