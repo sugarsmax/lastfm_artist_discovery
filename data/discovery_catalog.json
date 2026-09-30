@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-29T00:38:58.493072-07:00",
+    "last_updated": "2026-09-30T00:41:03.786326-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 588,
+    "total_discoveries": 596,
     "total_graduated": 45
   },
   "catalog": {
@@ -3591,11 +3591,11 @@
     "blur": {
       "artist": "Blur",
       "first_discovered": "28 Jun 2026, 23:40",
-      "last_listened": "28 Jun 2026, 23:40",
-      "track": "Sing",
-      "album": "Midlife: A Beginner's Guide To Blur",
+      "last_listened": "29 Sep 2026, 15:59",
+      "track": "Girls & Boys",
+      "album": "Blur: The Best Of",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Blur",
-      "track_url": "https://www.last.fm/music/Blur/_/Sing",
+      "track_url": "https://www.last.fm/music/Blur/_/Girls+%26+Boys",
       "graduated": false
     },
     "limp bizkit": {
@@ -4081,11 +4081,11 @@
     "the cranberries": {
       "artist": "The Cranberries",
       "first_discovered": "03 Aug 2026, 14:59",
-      "last_listened": "03 Aug 2026, 14:59",
-      "track": "Wanted",
-      "album": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe)",
+      "last_listened": "29 Sep 2026, 16:24",
+      "track": "Linger",
+      "album": "Stars: The Best of The Cranberries 1992-2002",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cranberries",
-      "track_url": "https://www.last.fm/music/The+Cranberries/_/Wanted",
+      "track_url": "https://www.last.fm/music/The+Cranberries/_/Linger",
       "graduated": false
     },
     "spin doctors": {
@@ -5562,7 +5562,7 @@
     "the breeders": {
       "artist": "The Breeders",
       "first_discovered": "10 Sep 2026, 15:05",
-      "last_listened": "10 Sep 2026, 15:05",
+      "last_listened": "29 Sep 2026, 16:19",
       "track": "Cannonball",
       "album": "Last Splash",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Breeders",
@@ -5777,6 +5777,86 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Notebooks%20and%20Cells",
       "track_url": "https://www.last.fm/music/Notebooks+and+Cells/_/Learning+Observable",
+      "graduated": false
+    },
+    "natalie imbruglia": {
+      "artist": "Natalie Imbruglia",
+      "first_discovered": "29 Sep 2026, 16:32",
+      "last_listened": "29 Sep 2026, 16:32",
+      "track": "Torn",
+      "album": "Left of the Middle",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Natalie%20Imbruglia",
+      "track_url": "https://www.last.fm/music/Natalie+Imbruglia/_/Torn",
+      "graduated": false
+    },
+    "suede": {
+      "artist": "Suede",
+      "first_discovered": "29 Sep 2026, 16:29",
+      "last_listened": "29 Sep 2026, 16:29",
+      "track": "Beautiful Ones",
+      "album": "Coming Up (30th Anniversary Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Suede",
+      "track_url": "https://www.last.fm/music/Suede/_/Beautiful+Ones",
+      "graduated": false
+    },
+    "new radicals": {
+      "artist": "New Radicals",
+      "first_discovered": "29 Sep 2026, 16:29",
+      "last_listened": "29 Sep 2026, 16:29",
+      "track": "You Get What You Give",
+      "album": "Maybe You've Been Brainwashed Too",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/New%20Radicals",
+      "track_url": "https://www.last.fm/music/New+Radicals/_/You+Get+What+You+Give",
+      "graduated": false
+    },
+    "pixies": {
+      "artist": "Pixies",
+      "first_discovered": "29 Sep 2026, 16:15",
+      "last_listened": "29 Sep 2026, 16:15",
+      "track": "Where Is My Mind?",
+      "album": "Surfer Rosa (2007 Remaster)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pixies",
+      "track_url": "https://www.last.fm/music/Pixies/_/Where+Is+My+Mind%3F",
+      "graduated": false
+    },
+    "the verve": {
+      "artist": "The Verve",
+      "first_discovered": "29 Sep 2026, 16:08",
+      "last_listened": "29 Sep 2026, 16:08",
+      "track": "Sonnet",
+      "album": "Urban Hymns (Remastered 2016)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Verve",
+      "track_url": "https://www.last.fm/music/The+Verve/_/Sonnet",
+      "graduated": false
+    },
+    "the cardigans": {
+      "artist": "The Cardigans",
+      "first_discovered": "29 Sep 2026, 15:41",
+      "last_listened": "29 Sep 2026, 15:41",
+      "track": "Erase/Rewind",
+      "album": "Gran Turismo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Cardigans",
+      "track_url": "https://www.last.fm/music/The+Cardigans/_/Erase%2FRewind",
+      "graduated": false
+    },
+    "sixpence none the richer": {
+      "artist": "Sixpence None the Richer",
+      "first_discovered": "29 Sep 2026, 15:34",
+      "last_listened": "29 Sep 2026, 15:34",
+      "track": "Kiss Me",
+      "album": "Sixpence None the Richer: Greatest Hits",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sixpence%20None%20the%20Richer",
+      "track_url": "https://www.last.fm/music/Sixpence+None+the+Richer/_/Kiss+Me",
+      "graduated": false
+    },
+    "white town": {
+      "artist": "White Town",
+      "first_discovered": "29 Sep 2026, 15:17",
+      "last_listened": "29 Sep 2026, 15:17",
+      "track": "Your Woman",
+      "album": "Women In Technology",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/White%20Town",
+      "track_url": "https://www.last.fm/music/White+Town/_/Your+Woman",
       "graduated": false
     }
   }
