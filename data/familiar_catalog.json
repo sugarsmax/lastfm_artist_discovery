@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T00:59:07.993536-07:00",
+    "last_updated": "2026-10-02T00:42:45.784154-07:00",
     "username": "sugarsmax",
-    "total_artists": 551
+    "total_artists": 561
   },
   "artists": {
     "rjd2, supastition": {
@@ -4967,6 +4967,96 @@
       "recent_track_url": "https://www.last.fm/music/White+Town/_/Your+Woman",
       "first_discovered": "29 Sep 2026, 15:17",
       "last_seen": "29 Sep 2026, 15:17",
+      "top_tracks": []
+    },
+    "mgmt": {
+      "artist": "MGMT",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/MGMT",
+      "recent_track": "Time to Pretend",
+      "recent_track_url": "https://www.last.fm/music/MGMT/_/Time+to+Pretend",
+      "first_discovered": "01 Oct 2026, 18:21",
+      "last_seen": "01 Oct 2026, 18:21",
+      "top_tracks": []
+    },
+    "the shins": {
+      "artist": "The Shins",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Shins",
+      "recent_track": "Young Pilgrims",
+      "recent_track_url": "https://www.last.fm/music/The+Shins/_/Young+Pilgrims",
+      "first_discovered": "01 Oct 2026, 18:17",
+      "last_seen": "01 Oct 2026, 18:17",
+      "top_tracks": []
+    },
+    "peter bjorn and john": {
+      "artist": "Peter Bjorn and John",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Peter%20Bjorn%20and%20John",
+      "recent_track": "Amsterdam",
+      "recent_track_url": "https://www.last.fm/music/Peter+Bjorn+and+John/_/Amsterdam",
+      "first_discovered": "01 Oct 2026, 18:16",
+      "last_seen": "01 Oct 2026, 18:16",
+      "top_tracks": []
+    },
+    "yo la tengo": {
+      "artist": "Yo La Tengo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yo%20La%20Tengo",
+      "recent_track": "Mr. Tough",
+      "recent_track_url": "https://www.last.fm/music/Yo+La+Tengo/_/Mr.+Tough",
+      "first_discovered": "01 Oct 2026, 18:14",
+      "last_seen": "01 Oct 2026, 18:14",
+      "top_tracks": []
+    },
+    "neutral milk hotel": {
+      "artist": "Neutral Milk Hotel",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Neutral%20Milk%20Hotel",
+      "recent_track": "In the Aeroplane Over the Sea",
+      "recent_track_url": "https://www.last.fm/music/Neutral+Milk+Hotel/_/In+the+Aeroplane+Over+the+Sea",
+      "first_discovered": "01 Oct 2026, 18:10",
+      "last_seen": "01 Oct 2026, 18:10",
+      "top_tracks": []
+    },
+    "the flaming lips": {
+      "artist": "The Flaming Lips",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Flaming%20Lips",
+      "recent_track": "Are You a Hypnotist??",
+      "recent_track_url": "https://www.last.fm/music/The+Flaming+Lips/_/Are+You+a+Hypnotist%3F%3F",
+      "first_discovered": "01 Oct 2026, 18:08",
+      "last_seen": "01 Oct 2026, 18:08",
+      "top_tracks": []
+    },
+    "idles": {
+      "artist": "IDLES",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/IDLES",
+      "recent_track": "Gift Horse",
+      "recent_track_url": "https://www.last.fm/music/IDLES/_/Gift+Horse",
+      "first_discovered": "01 Oct 2026, 15:13",
+      "last_seen": "01 Oct 2026, 15:13",
+      "top_tracks": []
+    },
+    "pissed jeans": {
+      "artist": "Pissed Jeans",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pissed%20Jeans",
+      "recent_track": "Moving On",
+      "recent_track_url": "https://www.last.fm/music/Pissed+Jeans/_/Moving+On",
+      "first_discovered": "01 Oct 2026, 15:02",
+      "last_seen": "01 Oct 2026, 15:02",
+      "top_tracks": []
+    },
+    "sunny day real estate": {
+      "artist": "Sunny Day Real Estate",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sunny%20Day%20Real%20Estate",
+      "recent_track": "Novum Vetus",
+      "recent_track_url": "https://www.last.fm/music/Sunny+Day+Real+Estate/_/Novum+Vetus",
+      "first_discovered": "01 Oct 2026, 15:01",
+      "last_seen": "01 Oct 2026, 15:01",
+      "top_tracks": []
+    },
+    "yard act": {
+      "artist": "Yard Act",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yard%20Act",
+      "recent_track": "We Make Hits",
+      "recent_track_url": "https://www.last.fm/music/Yard+Act/_/We+Make+Hits",
+      "first_discovered": "01 Oct 2026, 14:58",
+      "last_seen": "01 Oct 2026, 14:58",
       "top_tracks": []
     }
   }
