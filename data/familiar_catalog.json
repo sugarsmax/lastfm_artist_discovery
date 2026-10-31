@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30T00:52:29.168065-07:00",
+    "last_updated": "2026-10-31T00:42:42.417738-07:00",
     "username": "sugarsmax",
-    "total_artists": 583
+    "total_artists": 589
   },
   "artists": {
     "rjd2, supastition": {
@@ -5255,6 +5255,60 @@
       "recent_track_url": "https://www.last.fm/music/Peter+Schilling/_/Major+Tom",
       "first_discovered": "21 Oct 2026, 15:01",
       "last_seen": "21 Oct 2026, 15:01",
+      "top_tracks": []
+    },
+    "leo delibes": {
+      "artist": "Leo Delibes",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leo%20Delibes",
+      "recent_track": "Waltz (from Coppelia)",
+      "recent_track_url": "https://www.last.fm/music/Leo+Delibes/_/Waltz+%28from+Coppelia%29",
+      "first_discovered": "30 Oct 2026, 17:17",
+      "last_seen": "30 Oct 2026, 17:17",
+      "top_tracks": []
+    },
+    "charles gounod": {
+      "artist": "Charles Gounod",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Gounod",
+      "recent_track": "Faust Ballet Music",
+      "recent_track_url": "https://www.last.fm/music/Charles+Gounod/_/Faust+Ballet+Music",
+      "first_discovered": "30 Oct 2026, 16:55",
+      "last_seen": "30 Oct 2026, 16:55",
+      "top_tracks": []
+    },
+    "johann strauss i": {
+      "artist": "Johann Strauss I",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Strauss%20I",
+      "recent_track": "Radetzky March",
+      "recent_track_url": "https://www.last.fm/music/Johann+Strauss+I/_/Radetzky+March",
+      "first_discovered": "30 Oct 2026, 16:53",
+      "last_seen": "30 Oct 2026, 16:53",
+      "top_tracks": []
+    },
+    "ronald binge": {
+      "artist": "Ronald Binge",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ronald%20Binge",
+      "recent_track": "Elizabethan Serenade",
+      "recent_track_url": "https://www.last.fm/music/Ronald+Binge/_/Elizabethan+Serenade",
+      "first_discovered": "30 Oct 2026, 16:40",
+      "last_seen": "30 Oct 2026, 16:40",
+      "top_tracks": []
+    },
+    "laurent wolf, oriental dream": {
+      "artist": "Laurent Wolf, Oriental Dream",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Laurent%20Wolf%2C%20Oriental%20Dream",
+      "recent_track": "Nedep",
+      "recent_track_url": "https://www.last.fm/music/Laurent+Wolf%2C+Oriental+Dream/_/Nedep",
+      "first_discovered": "30 Oct 2026, 16:23",
+      "last_seen": "30 Oct 2026, 16:23",
+      "top_tracks": []
+    },
+    "major boys": {
+      "artist": "Major Boys",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Major%20Boys",
+      "recent_track": "Sous Le Soeil (feat. Aureila) [Original Mix]",
+      "recent_track_url": "https://www.last.fm/music/Major+Boys/_/Sous+Le+Soeil+%28feat.+Aureila%29+%5BOriginal+Mix%5D",
+      "first_discovered": "30 Oct 2026, 16:00",
+      "last_seen": "30 Oct 2026, 16:00",
       "top_tracks": []
     }
   }

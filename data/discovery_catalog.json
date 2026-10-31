@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-28T00:42:13.535531-07:00",
+    "last_updated": "2026-10-31T00:42:38.916072-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 628,
+    "total_discoveries": 634,
     "total_graduated": 45
   },
   "catalog": {
@@ -6177,6 +6177,66 @@
       "album": "Major Tom",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Peter%20Schilling",
       "track_url": "https://www.last.fm/music/Peter+Schilling/_/Major+Tom",
+      "graduated": false
+    },
+    "leo delibes": {
+      "artist": "Leo Delibes",
+      "first_discovered": "30 Oct 2026, 17:17",
+      "last_listened": "30 Oct 2026, 17:17",
+      "track": "Waltz (from Coppelia)",
+      "album": "A Calendar Of Classics - A 12 CD Set Of Romantic Classics For Every Month Of The Year",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leo%20Delibes",
+      "track_url": "https://www.last.fm/music/Leo+Delibes/_/Waltz+%28from+Coppelia%29",
+      "graduated": false
+    },
+    "charles gounod": {
+      "artist": "Charles Gounod",
+      "first_discovered": "30 Oct 2026, 16:55",
+      "last_listened": "30 Oct 2026, 16:55",
+      "track": "Faust Ballet Music",
+      "album": "A Calendar Of Classics - A 12 CD Set Of Romantic Classics For Every Month Of The Year",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Charles%20Gounod",
+      "track_url": "https://www.last.fm/music/Charles+Gounod/_/Faust+Ballet+Music",
+      "graduated": false
+    },
+    "johann strauss i": {
+      "artist": "Johann Strauss I",
+      "first_discovered": "30 Oct 2026, 16:53",
+      "last_listened": "30 Oct 2026, 16:53",
+      "track": "Radetzky March",
+      "album": "A Calendar Of Classics - A 12 Cd Set Of Romantic Classics For Every Month Of The Year",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Strauss%20I",
+      "track_url": "https://www.last.fm/music/Johann+Strauss+I/_/Radetzky+March",
+      "graduated": false
+    },
+    "ronald binge": {
+      "artist": "Ronald Binge",
+      "first_discovered": "30 Oct 2026, 16:40",
+      "last_listened": "30 Oct 2026, 16:40",
+      "track": "Elizabethan Serenade",
+      "album": "A Calendar Of Classics - A 12 CD Set Of Romantic Classics For Every Month Of The Year",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ronald%20Binge",
+      "track_url": "https://www.last.fm/music/Ronald+Binge/_/Elizabethan+Serenade",
+      "graduated": false
+    },
+    "laurent wolf, oriental dream": {
+      "artist": "Laurent Wolf, Oriental Dream",
+      "first_discovered": "30 Oct 2026, 16:23",
+      "last_listened": "30 Oct 2026, 16:23",
+      "track": "Nedep",
+      "album": "Rasa Exotica II",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Laurent%20Wolf%2C%20Oriental%20Dream",
+      "track_url": "https://www.last.fm/music/Laurent+Wolf%2C+Oriental+Dream/_/Nedep",
+      "graduated": false
+    },
+    "major boys": {
+      "artist": "Major Boys",
+      "first_discovered": "30 Oct 2026, 16:00",
+      "last_listened": "30 Oct 2026, 16:00",
+      "track": "Sous Le Soeil (feat. Aureila) [Original Mix]",
+      "album": "Rasa Exotica II",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Major%20Boys",
+      "track_url": "https://www.last.fm/music/Major+Boys/_/Sous+Le+Soeil+%28feat.+Aureila%29+%5BOriginal+Mix%5D",
       "graduated": false
     }
   }
