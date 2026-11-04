@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T00:48:12.640129-08:00",
+    "last_updated": "2026-11-04T00:16:37.659254-08:00",
     "username": "sugarsmax",
-    "total_artists": 589
+    "total_artists": 590
   },
   "artists": {
     "rjd2, supastition": {
@@ -5309,6 +5309,15 @@
       "recent_track_url": "https://www.last.fm/music/Major+Boys/_/Sous+Le+Soeil+%28feat.+Aureila%29+%5BOriginal+Mix%5D",
       "first_discovered": "30 Oct 2026, 16:00",
       "last_seen": "30 Oct 2026, 16:00",
+      "top_tracks": []
+    },
+    "samafioso": {
+      "artist": "Samafioso",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Samafioso",
+      "recent_track": "All Them Witches - Alabaster (Live on KEXP)",
+      "recent_track_url": "https://www.last.fm/music/Samafioso/_/All+Them+Witches+-+Alabaster+%28Live+on+KEXP%29",
+      "first_discovered": "03 Nov 2026, 15:26",
+      "last_seen": "03 Nov 2026, 15:26",
       "top_tracks": []
     }
   }

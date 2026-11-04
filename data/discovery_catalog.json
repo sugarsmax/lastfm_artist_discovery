@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T00:48:11.153013-08:00",
+    "last_updated": "2026-11-04T00:16:35.586730-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 634,
+    "total_discoveries": 635,
     "total_graduated": 45
   },
   "catalog": {
@@ -6237,6 +6237,16 @@
       "album": "Rasa Exotica II",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Major%20Boys",
       "track_url": "https://www.last.fm/music/Major+Boys/_/Sous+Le+Soeil+%28feat.+Aureila%29+%5BOriginal+Mix%5D",
+      "graduated": false
+    },
+    "samafioso": {
+      "artist": "Samafioso",
+      "first_discovered": "03 Nov 2026, 15:26",
+      "last_listened": "03 Nov 2026, 15:26",
+      "track": "All Them Witches - Alabaster (Live on KEXP)",
+      "album": "All Them Witches - Alabaster (Live on KEXP)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Samafioso",
+      "track_url": "https://www.last.fm/music/Samafioso/_/All+Them+Witches+-+Alabaster+%28Live+on+KEXP%29",
       "graduated": false
     }
   }
