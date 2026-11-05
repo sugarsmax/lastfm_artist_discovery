@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T00:16:35.586730-08:00",
+    "last_updated": "2026-11-05T00:42:27.398479-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 635,
+    "total_discoveries": 650,
     "total_graduated": 45
   },
   "catalog": {
@@ -5372,11 +5372,11 @@
     "faithless": {
       "artist": "Faithless",
       "first_discovered": "03 Sep 2026, 17:07",
-      "last_listened": "03 Sep 2026, 17:07",
-      "track": "Insomnia",
-      "album": "",
+      "last_listened": "04 Nov 2026, 14:50",
+      "track": "God Is a DJ",
+      "album": "Forever Faithless - The Greatest Hits",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Faithless",
-      "track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
+      "track_url": "https://www.last.fm/music/Faithless/_/God+Is+a+DJ",
       "graduated": false
     },
     "badlands": {
@@ -6247,6 +6247,156 @@
       "album": "All Them Witches - Alabaster (Live on KEXP)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Samafioso",
       "track_url": "https://www.last.fm/music/Samafioso/_/All+Them+Witches+-+Alabaster+%28Live+on+KEXP%29",
+      "graduated": false
+    },
+    "robert miles": {
+      "artist": "Robert Miles",
+      "first_discovered": "04 Nov 2026, 16:23",
+      "last_listened": "04 Nov 2026, 16:23",
+      "track": "Children",
+      "album": "Children (Dance Vault Mixes)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Robert%20Miles",
+      "track_url": "https://www.last.fm/music/Robert+Miles/_/Children",
+      "graduated": false
+    },
+    "bomfunk mc's": {
+      "artist": "Bomfunk MC's",
+      "first_discovered": "04 Nov 2026, 16:00",
+      "last_listened": "04 Nov 2026, 16:00",
+      "track": "Freestyler",
+      "album": "In Stereo",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bomfunk%20MC%27s",
+      "track_url": "https://www.last.fm/music/Bomfunk+MC's/_/Freestyler",
+      "graduated": false
+    },
+    "darude": {
+      "artist": "Darude",
+      "first_discovered": "04 Nov 2026, 15:57",
+      "last_listened": "04 Nov 2026, 15:57",
+      "track": "Sandstorm",
+      "album": "Sandstorm",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Darude",
+      "track_url": "https://www.last.fm/music/Darude/_/Sandstorm",
+      "graduated": false
+    },
+    "sash!": {
+      "artist": "Sash!",
+      "first_discovered": "04 Nov 2026, 15:48",
+      "last_listened": "04 Nov 2026, 15:48",
+      "track": "Encore Une Fois",
+      "album": "The Best Of",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sash%21",
+      "track_url": "https://www.last.fm/music/Sash%21/_/Encore+Une+Fois",
+      "graduated": false
+    },
+    "vitalic": {
+      "artist": "Vitalic",
+      "first_discovered": "04 Nov 2026, 15:44",
+      "last_listened": "04 Nov 2026, 15:44",
+      "track": "Poison Lips",
+      "album": "Flashmob",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vitalic",
+      "track_url": "https://www.last.fm/music/Vitalic/_/Poison+Lips",
+      "graduated": false
+    },
+    "cassius": {
+      "artist": "Cassius",
+      "first_discovered": "04 Nov 2026, 15:41",
+      "last_listened": "04 Nov 2026, 15:41",
+      "track": "The Sound of Violence",
+      "album": "Au Rêve (Deluxe Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cassius",
+      "track_url": "https://www.last.fm/music/Cassius/_/The+Sound+of+Violence",
+      "graduated": false
+    },
+    "nick horne": {
+      "artist": "Nick Horne",
+      "first_discovered": "04 Nov 2026, 15:36",
+      "last_listened": "04 Nov 2026, 15:36",
+      "track": "Modjo - Lady (Nick Horne Remix)",
+      "album": "Nick Horne Music",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nick%20Horne",
+      "track_url": "https://www.last.fm/music/Nick+Horne/_/Modjo+-+Lady+%28Nick+Horne+Remix%29",
+      "graduated": false
+    },
+    "basement jaxx, blu james": {
+      "artist": "Basement Jaxx, Blu James",
+      "first_discovered": "04 Nov 2026, 15:27",
+      "last_listened": "04 Nov 2026, 15:27",
+      "track": "Red Alert",
+      "album": "Remedy",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Basement%20Jaxx%2C%20Blu%20James",
+      "track_url": "https://www.last.fm/music/Basement+Jaxx%2C+Blu+James/_/Red+Alert",
+      "graduated": false
+    },
+    "energy 52": {
+      "artist": "Energy 52",
+      "first_discovered": "04 Nov 2026, 15:17",
+      "last_listened": "04 Nov 2026, 15:17",
+      "track": "Café del Mar (Three 'n One Radio Edit)",
+      "album": "Café Del Mar (The Anthems Edits)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Energy%2052",
+      "track_url": "https://www.last.fm/music/Energy+52/_/Caf%C3%A9+del+Mar+%28Three+'n+One+Radio+Edit%29",
+      "graduated": false
+    },
+    "underworld": {
+      "artist": "Underworld",
+      "first_discovered": "04 Nov 2026, 15:07",
+      "last_listened": "04 Nov 2026, 15:07",
+      "track": "Rez",
+      "album": "1992 - 2012",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Underworld",
+      "track_url": "https://www.last.fm/music/Underworld/_/Rez",
+      "graduated": false
+    },
+    "felix da housecat": {
+      "artist": "Felix da Housecat",
+      "first_discovered": "04 Nov 2026, 15:02",
+      "last_listened": "04 Nov 2026, 15:02",
+      "track": "Silver Screen (Shower Scene)",
+      "album": "Kittenz and Thee Glitz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Felix%20da%20Housecat",
+      "track_url": "https://www.last.fm/music/Felix+da+Housecat/_/Silver+Screen+%28Shower+Scene%29",
+      "graduated": false
+    },
+    "moloko": {
+      "artist": "Moloko",
+      "first_discovered": "04 Nov 2026, 15:00",
+      "last_listened": "04 Nov 2026, 15:00",
+      "track": "Sing It Back",
+      "album": "Catalogue",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Moloko",
+      "track_url": "https://www.last.fm/music/Moloko/_/Sing+It+Back",
+      "graduated": false
+    },
+    "groove armada": {
+      "artist": "Groove Armada",
+      "first_discovered": "04 Nov 2026, 14:57",
+      "last_listened": "04 Nov 2026, 14:57",
+      "track": "Superstylin'",
+      "album": "Goodbye Country (Hello Nightclub)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Groove%20Armada",
+      "track_url": "https://www.last.fm/music/Groove+Armada/_/Superstylin'",
+      "graduated": false
+    },
+    "atb": {
+      "artist": "ATB",
+      "first_discovered": "04 Nov 2026, 14:52",
+      "last_listened": "04 Nov 2026, 14:52",
+      "track": "9pm (Till I Come)",
+      "album": "Movin' Melodies",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/ATB",
+      "track_url": "https://www.last.fm/music/ATB/_/9pm+%28Till+I+Come%29",
+      "graduated": false
+    },
+    "fatboy slim": {
+      "artist": "Fatboy Slim",
+      "first_discovered": "04 Nov 2026, 14:49",
+      "last_listened": "04 Nov 2026, 14:49",
+      "track": "Right Here, Right Now",
+      "album": "The Greatest Hits: Why Try Harder",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatboy%20Slim",
+      "track_url": "https://www.last.fm/music/Fatboy+Slim/_/Right+Here%2C+Right+Now",
       "graduated": false
     }
   }

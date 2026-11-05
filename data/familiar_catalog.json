@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T00:16:37.659254-08:00",
+    "last_updated": "2026-11-05T00:42:29.473639-08:00",
     "username": "sugarsmax",
-    "total_artists": 590
+    "total_artists": 605
   },
   "artists": {
     "rjd2, supastition": {
@@ -4531,10 +4531,10 @@
     "faithless": {
       "artist": "Faithless",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Faithless",
-      "recent_track": "Insomnia",
-      "recent_track_url": "https://www.last.fm/music/Faithless/_/Insomnia",
+      "recent_track": "God Is a DJ",
+      "recent_track_url": "https://www.last.fm/music/Faithless/_/God+Is+a+DJ",
       "first_discovered": "03 Sep 2026, 17:07",
-      "last_seen": "03 Sep 2026, 17:07",
+      "last_seen": "04 Nov 2026, 14:50",
       "top_tracks": []
     },
     "badlands": {
@@ -5318,6 +5318,141 @@
       "recent_track_url": "https://www.last.fm/music/Samafioso/_/All+Them+Witches+-+Alabaster+%28Live+on+KEXP%29",
       "first_discovered": "03 Nov 2026, 15:26",
       "last_seen": "03 Nov 2026, 15:26",
+      "top_tracks": []
+    },
+    "robert miles": {
+      "artist": "Robert Miles",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Robert%20Miles",
+      "recent_track": "Children",
+      "recent_track_url": "https://www.last.fm/music/Robert+Miles/_/Children",
+      "first_discovered": "04 Nov 2026, 16:23",
+      "last_seen": "04 Nov 2026, 16:23",
+      "top_tracks": []
+    },
+    "bomfunk mc's": {
+      "artist": "Bomfunk MC's",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bomfunk%20MC%27s",
+      "recent_track": "Freestyler",
+      "recent_track_url": "https://www.last.fm/music/Bomfunk+MC's/_/Freestyler",
+      "first_discovered": "04 Nov 2026, 16:00",
+      "last_seen": "04 Nov 2026, 16:00",
+      "top_tracks": []
+    },
+    "darude": {
+      "artist": "Darude",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Darude",
+      "recent_track": "Sandstorm",
+      "recent_track_url": "https://www.last.fm/music/Darude/_/Sandstorm",
+      "first_discovered": "04 Nov 2026, 15:57",
+      "last_seen": "04 Nov 2026, 15:57",
+      "top_tracks": []
+    },
+    "sash!": {
+      "artist": "Sash!",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sash%21",
+      "recent_track": "Encore Une Fois",
+      "recent_track_url": "https://www.last.fm/music/Sash%21/_/Encore+Une+Fois",
+      "first_discovered": "04 Nov 2026, 15:48",
+      "last_seen": "04 Nov 2026, 15:48",
+      "top_tracks": []
+    },
+    "vitalic": {
+      "artist": "Vitalic",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Vitalic",
+      "recent_track": "Poison Lips",
+      "recent_track_url": "https://www.last.fm/music/Vitalic/_/Poison+Lips",
+      "first_discovered": "04 Nov 2026, 15:44",
+      "last_seen": "04 Nov 2026, 15:44",
+      "top_tracks": []
+    },
+    "cassius": {
+      "artist": "Cassius",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cassius",
+      "recent_track": "The Sound of Violence",
+      "recent_track_url": "https://www.last.fm/music/Cassius/_/The+Sound+of+Violence",
+      "first_discovered": "04 Nov 2026, 15:41",
+      "last_seen": "04 Nov 2026, 15:41",
+      "top_tracks": []
+    },
+    "nick horne": {
+      "artist": "Nick Horne",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nick%20Horne",
+      "recent_track": "Modjo - Lady (Nick Horne Remix)",
+      "recent_track_url": "https://www.last.fm/music/Nick+Horne/_/Modjo+-+Lady+%28Nick+Horne+Remix%29",
+      "first_discovered": "04 Nov 2026, 15:36",
+      "last_seen": "04 Nov 2026, 15:36",
+      "top_tracks": []
+    },
+    "basement jaxx, blu james": {
+      "artist": "Basement Jaxx, Blu James",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Basement%20Jaxx%2C%20Blu%20James",
+      "recent_track": "Red Alert",
+      "recent_track_url": "https://www.last.fm/music/Basement+Jaxx%2C+Blu+James/_/Red+Alert",
+      "first_discovered": "04 Nov 2026, 15:27",
+      "last_seen": "04 Nov 2026, 15:27",
+      "top_tracks": []
+    },
+    "energy 52": {
+      "artist": "Energy 52",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Energy%2052",
+      "recent_track": "Café del Mar (Three 'n One Radio Edit)",
+      "recent_track_url": "https://www.last.fm/music/Energy+52/_/Caf%C3%A9+del+Mar+%28Three+'n+One+Radio+Edit%29",
+      "first_discovered": "04 Nov 2026, 15:17",
+      "last_seen": "04 Nov 2026, 15:17",
+      "top_tracks": []
+    },
+    "underworld": {
+      "artist": "Underworld",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Underworld",
+      "recent_track": "Rez",
+      "recent_track_url": "https://www.last.fm/music/Underworld/_/Rez",
+      "first_discovered": "04 Nov 2026, 15:07",
+      "last_seen": "04 Nov 2026, 15:07",
+      "top_tracks": []
+    },
+    "felix da housecat": {
+      "artist": "Felix da Housecat",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Felix%20da%20Housecat",
+      "recent_track": "Silver Screen (Shower Scene)",
+      "recent_track_url": "https://www.last.fm/music/Felix+da+Housecat/_/Silver+Screen+%28Shower+Scene%29",
+      "first_discovered": "04 Nov 2026, 15:02",
+      "last_seen": "04 Nov 2026, 15:02",
+      "top_tracks": []
+    },
+    "moloko": {
+      "artist": "Moloko",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Moloko",
+      "recent_track": "Sing It Back",
+      "recent_track_url": "https://www.last.fm/music/Moloko/_/Sing+It+Back",
+      "first_discovered": "04 Nov 2026, 15:00",
+      "last_seen": "04 Nov 2026, 15:00",
+      "top_tracks": []
+    },
+    "groove armada": {
+      "artist": "Groove Armada",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Groove%20Armada",
+      "recent_track": "Superstylin'",
+      "recent_track_url": "https://www.last.fm/music/Groove+Armada/_/Superstylin'",
+      "first_discovered": "04 Nov 2026, 14:57",
+      "last_seen": "04 Nov 2026, 14:57",
+      "top_tracks": []
+    },
+    "atb": {
+      "artist": "ATB",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/ATB",
+      "recent_track": "9pm (Till I Come)",
+      "recent_track_url": "https://www.last.fm/music/ATB/_/9pm+%28Till+I+Come%29",
+      "first_discovered": "04 Nov 2026, 14:52",
+      "last_seen": "04 Nov 2026, 14:52",
+      "top_tracks": []
+    },
+    "fatboy slim": {
+      "artist": "Fatboy Slim",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatboy%20Slim",
+      "recent_track": "Right Here, Right Now",
+      "recent_track_url": "https://www.last.fm/music/Fatboy+Slim/_/Right+Here%2C+Right+Now",
+      "first_discovered": "04 Nov 2026, 14:49",
+      "last_seen": "04 Nov 2026, 14:49",
       "top_tracks": []
     }
   }
