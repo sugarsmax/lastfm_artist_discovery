@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-05T00:42:27.398479-08:00",
+    "last_updated": "2026-11-06T00:43:51.134049-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 650,
+    "total_discoveries": 674,
     "total_graduated": 45
   },
   "catalog": {
@@ -6397,6 +6397,246 @@
       "album": "The Greatest Hits: Why Try Harder",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Fatboy%20Slim",
       "track_url": "https://www.last.fm/music/Fatboy+Slim/_/Right+Here%2C+Right+Now",
+      "graduated": false
+    },
+    "pat donohue, butch thompson": {
+      "artist": "Pat Donohue, Butch Thompson",
+      "first_discovered": "05 Nov 2026, 19:35",
+      "last_listened": "05 Nov 2026, 19:35",
+      "track": "Vicksburg Blues",
+      "album": "Vicksburg Blues",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pat%20Donohue%2C%20Butch%20Thompson",
+      "track_url": "https://www.last.fm/music/Pat+Donohue%2C+Butch+Thompson/_/Vicksburg+Blues",
+      "graduated": false
+    },
+    "patty griffin": {
+      "artist": "Patty Griffin",
+      "first_discovered": "05 Nov 2026, 17:46",
+      "last_listened": "05 Nov 2026, 17:46",
+      "track": "Burgundy Shoes",
+      "album": "Children Running Through",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Patty%20Griffin",
+      "track_url": "https://www.last.fm/music/Patty+Griffin/_/Burgundy+Shoes",
+      "graduated": false
+    },
+    "gordon lightfoot": {
+      "artist": "Gordon Lightfoot",
+      "first_discovered": "05 Nov 2026, 17:42",
+      "last_listened": "05 Nov 2026, 17:42",
+      "track": "Song For A Winter's Night",
+      "album": "The United Artists Collection",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Gordon%20Lightfoot",
+      "track_url": "https://www.last.fm/music/Gordon+Lightfoot/_/Song+For+A+Winter's+Night",
+      "graduated": false
+    },
+    "joshua bell, regina spektor": {
+      "artist": "Joshua Bell, Regina Spektor",
+      "first_discovered": "05 Nov 2026, 17:39",
+      "last_listened": "05 Nov 2026, 17:39",
+      "track": "Left Hand Song",
+      "album": "At Home With Friends",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joshua%20Bell%2C%20Regina%20Spektor",
+      "track_url": "https://www.last.fm/music/Joshua+Bell%2C+Regina+Spektor/_/Left+Hand+Song",
+      "graduated": false
+    },
+    "rosanne cash": {
+      "artist": "Rosanne Cash",
+      "first_discovered": "05 Nov 2026, 17:36",
+      "last_listened": "05 Nov 2026, 17:36",
+      "track": "Etta's Tune",
+      "album": "The River & the Thread (Deluxe)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rosanne%20Cash",
+      "track_url": "https://www.last.fm/music/Rosanne+Cash/_/Etta's+Tune",
+      "graduated": false
+    },
+    "eilen jewell": {
+      "artist": "Eilen Jewell",
+      "first_discovered": "05 Nov 2026, 17:33",
+      "last_listened": "05 Nov 2026, 17:33",
+      "track": "Nowhere in No Time",
+      "album": "Sea of Tears",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eilen%20Jewell",
+      "track_url": "https://www.last.fm/music/Eilen+Jewell/_/Nowhere+in+No+Time",
+      "graduated": false
+    },
+    "kris delmhorst": {
+      "artist": "Kris Delmhorst",
+      "first_discovered": "05 Nov 2026, 17:29",
+      "last_listened": "05 Nov 2026, 17:29",
+      "track": "Everything is Music",
+      "album": "Strange Conversation",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Kris%20Delmhorst",
+      "track_url": "https://www.last.fm/music/Kris+Delmhorst/_/Everything+is+Music",
+      "graduated": false
+    },
+    "rhiannon giddens": {
+      "artist": "Rhiannon Giddens",
+      "first_discovered": "05 Nov 2026, 17:22",
+      "last_listened": "05 Nov 2026, 17:22",
+      "track": "Last Kind Words",
+      "album": "Tomorrow Is My Turn",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Rhiannon%20Giddens",
+      "track_url": "https://www.last.fm/music/Rhiannon+Giddens/_/Last+Kind+Words",
+      "graduated": false
+    },
+    "tom paxton, the donjuans": {
+      "artist": "Tom Paxton, the DonJuans",
+      "first_discovered": "05 Nov 2026, 17:15",
+      "last_listened": "05 Nov 2026, 17:15",
+      "track": "The Last Thing on My Mind (Live)",
+      "album": "Live!",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Tom%20Paxton%2C%20the%20DonJuans",
+      "track_url": "https://www.last.fm/music/Tom+Paxton%2C+the+DonJuans/_/The+Last+Thing+on+My+Mind+%28Live%29",
+      "graduated": false
+    },
+    "david bromberg band": {
+      "artist": "David Bromberg Band",
+      "first_discovered": "05 Nov 2026, 17:10",
+      "last_listened": "05 Nov 2026, 17:10",
+      "track": "Walkin' Blues",
+      "album": "The Blues, The Whole Blues and Nothing But the Blues",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/David%20Bromberg%20Band",
+      "track_url": "https://www.last.fm/music/David+Bromberg+Band/_/Walkin'+Blues",
+      "graduated": false
+    },
+    "madeleine peyroux": {
+      "artist": "Madeleine Peyroux",
+      "first_discovered": "05 Nov 2026, 17:08",
+      "last_listened": "05 Nov 2026, 17:08",
+      "track": "Reckless Blues",
+      "album": "Dreamland",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Madeleine%20Peyroux",
+      "track_url": "https://www.last.fm/music/Madeleine+Peyroux/_/Reckless+Blues",
+      "graduated": false
+    },
+    "barbara dane": {
+      "artist": "Barbara Dane",
+      "first_discovered": "05 Nov 2026, 16:52",
+      "last_listened": "05 Nov 2026, 16:52",
+      "track": "Wild women don't have the blues",
+      "album": "On My Way",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Barbara%20Dane",
+      "track_url": "https://www.last.fm/music/Barbara+Dane/_/Wild+women+don't+have+the+blues",
+      "graduated": false
+    },
+    "junior wells, the legendary white trash horns": {
+      "artist": "Junior Wells, The Legendary White Trash Horns",
+      "first_discovered": "05 Nov 2026, 16:50",
+      "last_listened": "05 Nov 2026, 16:50",
+      "track": "You're Tough Enough",
+      "album": "Everybody's Gettin' Some",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Junior%20Wells%2C%20The%20Legendary%20White%20Trash%20Horns",
+      "track_url": "https://www.last.fm/music/Junior+Wells%2C+The+Legendary+White+Trash+Horns/_/You're+Tough+Enough",
+      "graduated": false
+    },
+    "aldo ciccolini, gabriel tacchino": {
+      "artist": "Aldo Ciccolini, Gabriel Tacchino",
+      "first_discovered": "05 Nov 2026, 16:47",
+      "last_listened": "05 Nov 2026, 16:47",
+      "track": "La belle excentrique: No. 4, Cancan grand-mondain (Piano 4-Hands Version)",
+      "album": "Satie: Works For Piano",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Aldo%20Ciccolini%2C%20Gabriel%20Tacchino",
+      "track_url": "https://www.last.fm/music/Aldo+Ciccolini%2C+Gabriel+Tacchino/_/La+belle+excentrique:+No.+4%2C+Cancan+grand-mondain+%28Piano+4-Hands+Version%29",
+      "graduated": false
+    },
+    "bill sims": {
+      "artist": "Bill Sims",
+      "first_discovered": "05 Nov 2026, 16:43",
+      "last_listened": "05 Nov 2026, 16:43",
+      "track": "I Want to See You Again",
+      "album": "Bill Sims",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Bill%20Sims",
+      "track_url": "https://www.last.fm/music/Bill+Sims/_/I+Want+to+See+You+Again",
+      "graduated": false
+    },
+    "roomful of blues": {
+      "artist": "Roomful Of Blues",
+      "first_discovered": "05 Nov 2026, 16:38",
+      "last_listened": "05 Nov 2026, 16:38",
+      "track": "Up The Line",
+      "album": "Dance All Night",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Roomful%20Of%20Blues",
+      "track_url": "https://www.last.fm/music/Roomful+Of+Blues/_/Up+The+Line",
+      "graduated": false
+    },
+    "the weavers": {
+      "artist": "The Weavers",
+      "first_discovered": "05 Nov 2026, 16:30",
+      "last_listened": "05 Nov 2026, 16:30",
+      "track": "Along the Colorado Trail",
+      "album": "Folk Songs Around The World",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Weavers",
+      "track_url": "https://www.last.fm/music/The+Weavers/_/Along+the+Colorado+Trail",
+      "graduated": false
+    },
+    "barbara dane, lightnin' hopkins": {
+      "artist": "Barbara Dane, Lightnin' Hopkins",
+      "first_discovered": "05 Nov 2026, 16:20",
+      "last_listened": "05 Nov 2026, 16:20",
+      "track": "Let Me Be Your Rag Doll",
+      "album": "Sometimes I Believe She Loves Me",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Barbara%20Dane%2C%20Lightnin%27%20Hopkins",
+      "track_url": "https://www.last.fm/music/Barbara+Dane%2C+Lightnin'+Hopkins/_/Let+Me+Be+Your+Rag+Doll",
+      "graduated": false
+    },
+    "eric bibb": {
+      "artist": "Eric Bibb",
+      "first_discovered": "05 Nov 2026, 15:30",
+      "last_listened": "05 Nov 2026, 15:30",
+      "track": "Rosewood",
+      "album": "Blues people",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Eric%20Bibb",
+      "track_url": "https://www.last.fm/music/Eric+Bibb/_/Rosewood",
+      "graduated": false
+    },
+    "jay ungar, molly mason": {
+      "artist": "Jay Ungar, Molly Mason",
+      "first_discovered": "05 Nov 2026, 15:24",
+      "last_listened": "05 Nov 2026, 15:24",
+      "track": "The Montague Processional",
+      "album": "The Lovers' Waltz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jay%20Ungar%2C%20Molly%20Mason",
+      "track_url": "https://www.last.fm/music/Jay+Ungar%2C+Molly+Mason/_/The+Montague+Processional",
+      "graduated": false
+    },
+    "brooks williams": {
+      "artist": "Brooks Williams",
+      "first_discovered": "05 Nov 2026, 15:19",
+      "last_listened": "05 Nov 2026, 15:19",
+      "track": "Belfast Blues",
+      "album": "Little Lion",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Brooks%20Williams",
+      "track_url": "https://www.last.fm/music/Brooks+Williams/_/Belfast+Blues",
+      "graduated": false
+    },
+    "joshua bell, edgar meyer, sam bush, mike marshall": {
+      "artist": "Joshua Bell, Edgar Meyer, Sam Bush, Mike Marshall",
+      "first_discovered": "05 Nov 2026, 15:16",
+      "last_listened": "05 Nov 2026, 15:16",
+      "track": "Maybe So",
+      "album": "At Home With Friends",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Joshua%20Bell%2C%20Edgar%20Meyer%2C%20Sam%20Bush%2C%20Mike%20Marshall",
+      "track_url": "https://www.last.fm/music/Joshua+Bell%2C+Edgar+Meyer%2C+Sam+Bush%2C+Mike+Marshall/_/Maybe+So",
+      "graduated": false
+    },
+    "johann sebastian bach, dorota siuda, christian lindberg, musica vitae": {
+      "artist": "Johann Sebastian Bach, Dorota Siuda, Christian Lindberg, Musica Vitae",
+      "first_discovered": "05 Nov 2026, 14:44",
+      "last_listened": "05 Nov 2026, 14:44",
+      "track": "Bach: Violin Concerto No. 2 in E Major, BWV 1042: I. Allegro V",
+      "album": "Johann Sebastian Bach: Violin Concerto E-Major, BWV 1042",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Dorota%20Siuda%2C%20Christian%20Lindberg%2C%20Musica%20Vitae",
+      "track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Dorota+Siuda%2C+Christian+Lindberg%2C+Musica+Vitae/_/Bach:+Violin+Concerto+No.+2+in+E+Major%2C+BWV+1042:+I.+Allegro+V",
+      "graduated": false
+    },
+    "jean sibelius, christian lindberg, musica vitae": {
+      "artist": "Jean Sibelius, Christian Lindberg, Musica Vitae",
+      "first_discovered": "05 Nov 2026, 14:27",
+      "last_listened": "05 Nov 2026, 14:27",
+      "track": "Sibelius: Impromptu: V",
+      "album": "Sibelius: Impromptu for Strings",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jean%20Sibelius%2C%20Christian%20Lindberg%2C%20Musica%20Vitae",
+      "track_url": "https://www.last.fm/music/Jean+Sibelius%2C+Christian+Lindberg%2C+Musica+Vitae/_/Sibelius:+Impromptu:+V",
       "graduated": false
     }
   }
