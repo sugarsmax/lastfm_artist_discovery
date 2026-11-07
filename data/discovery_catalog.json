@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T00:43:51.134049-08:00",
+    "last_updated": "2026-11-06T23:58:10.624234-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 674,
+    "total_discoveries": 677,
     "total_graduated": 45
   },
   "catalog": {
@@ -6637,6 +6637,36 @@
       "album": "Sibelius: Impromptu for Strings",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Jean%20Sibelius%2C%20Christian%20Lindberg%2C%20Musica%20Vitae",
       "track_url": "https://www.last.fm/music/Jean+Sibelius%2C+Christian+Lindberg%2C+Musica+Vitae/_/Sibelius:+Impromptu:+V",
+      "graduated": false
+    },
+    "leon bridges": {
+      "artist": "Leon Bridges",
+      "first_discovered": "06 Nov 2026, 17:46",
+      "last_listened": "06 Nov 2026, 17:46",
+      "track": "Gold-Diggers (Junior's Fanfare)",
+      "album": "Gold-Diggers Sound",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leon%20Bridges",
+      "track_url": "https://www.last.fm/music/Leon+Bridges/_/Gold-Diggers+%28Junior's+Fanfare%29",
+      "graduated": false
+    },
+    "olivia dean, leon bridges": {
+      "artist": "Olivia Dean, Leon Bridges",
+      "first_discovered": "06 Nov 2026, 17:45",
+      "last_listened": "06 Nov 2026, 17:45",
+      "track": "The Hardest Part",
+      "album": "The Hardest Part",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivia%20Dean%2C%20Leon%20Bridges",
+      "track_url": "https://www.last.fm/music/Olivia+Dean%2C+Leon+Bridges/_/The+Hardest+Part",
+      "graduated": false
+    },
+    "khruangbin, leon bridges": {
+      "artist": "Khruangbin, Leon Bridges",
+      "first_discovered": "06 Nov 2026, 17:38",
+      "last_listened": "06 Nov 2026, 17:38",
+      "track": "Texas Sun",
+      "album": "Texas Sun",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khruangbin%2C%20Leon%20Bridges",
+      "track_url": "https://www.last.fm/music/Khruangbin%2C+Leon+Bridges/_/Texas+Sun",
       "graduated": false
     }
   }

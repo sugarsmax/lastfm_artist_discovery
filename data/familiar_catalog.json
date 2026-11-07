@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T00:43:53.182371-08:00",
+    "last_updated": "2026-11-06T23:58:12.253477-08:00",
     "username": "sugarsmax",
-    "total_artists": 629
+    "total_artists": 632
   },
   "artists": {
     "rjd2, supastition": {
@@ -5669,6 +5669,33 @@
       "recent_track_url": "https://www.last.fm/music/Jean+Sibelius%2C+Christian+Lindberg%2C+Musica+Vitae/_/Sibelius:+Impromptu:+V",
       "first_discovered": "05 Nov 2026, 14:27",
       "last_seen": "05 Nov 2026, 14:27",
+      "top_tracks": []
+    },
+    "leon bridges": {
+      "artist": "Leon Bridges",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Leon%20Bridges",
+      "recent_track": "Gold-Diggers (Junior's Fanfare)",
+      "recent_track_url": "https://www.last.fm/music/Leon+Bridges/_/Gold-Diggers+%28Junior's+Fanfare%29",
+      "first_discovered": "06 Nov 2026, 17:46",
+      "last_seen": "06 Nov 2026, 17:46",
+      "top_tracks": []
+    },
+    "olivia dean, leon bridges": {
+      "artist": "Olivia Dean, Leon Bridges",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Olivia%20Dean%2C%20Leon%20Bridges",
+      "recent_track": "The Hardest Part",
+      "recent_track_url": "https://www.last.fm/music/Olivia+Dean%2C+Leon+Bridges/_/The+Hardest+Part",
+      "first_discovered": "06 Nov 2026, 17:45",
+      "last_seen": "06 Nov 2026, 17:45",
+      "top_tracks": []
+    },
+    "khruangbin, leon bridges": {
+      "artist": "Khruangbin, Leon Bridges",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Khruangbin%2C%20Leon%20Bridges",
+      "recent_track": "Texas Sun",
+      "recent_track_url": "https://www.last.fm/music/Khruangbin%2C+Leon+Bridges/_/Texas+Sun",
+      "first_discovered": "06 Nov 2026, 17:38",
+      "last_seen": "06 Nov 2026, 17:38",
       "top_tracks": []
     }
   }
