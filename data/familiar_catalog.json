@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-09T00:50:32.601148-08:00",
+    "last_updated": "2026-11-10T00:56:09.372800-08:00",
     "username": "sugarsmax",
-    "total_artists": 632
+    "total_artists": 640
   },
   "artists": {
     "rjd2, supastition": {
@@ -5656,10 +5656,10 @@
     "johann sebastian bach, dorota siuda, christian lindberg, musica vitae": {
       "artist": "Johann Sebastian Bach, Dorota Siuda, Christian Lindberg, Musica Vitae",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johann%20Sebastian%20Bach%2C%20Dorota%20Siuda%2C%20Christian%20Lindberg%2C%20Musica%20Vitae",
-      "recent_track": "Bach: Violin Concerto No. 2 in E Major, BWV 1042: I. Allegro V",
-      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Dorota+Siuda%2C+Christian+Lindberg%2C+Musica+Vitae/_/Bach:+Violin+Concerto+No.+2+in+E+Major%2C+BWV+1042:+I.+Allegro+V",
+      "recent_track": "Bach: Violin Concerto No. 2 in E Major, BWV 1042: I. Allegro III",
+      "recent_track_url": "https://www.last.fm/music/Johann+Sebastian+Bach%2C+Dorota+Siuda%2C+Christian+Lindberg%2C+Musica+Vitae/_/Bach:+Violin+Concerto+No.+2+in+E+Major%2C+BWV+1042:+I.+Allegro+III",
       "first_discovered": "05 Nov 2026, 14:44",
-      "last_seen": "05 Nov 2026, 14:44",
+      "last_seen": "09 Nov 2026, 16:44",
       "top_tracks": []
     },
     "jean sibelius, christian lindberg, musica vitae": {
@@ -5696,6 +5696,78 @@
       "recent_track_url": "https://www.last.fm/music/Khruangbin%2C+Leon+Bridges/_/Texas+Sun",
       "first_discovered": "06 Nov 2026, 17:38",
       "last_seen": "06 Nov 2026, 17:38",
+      "top_tracks": []
+    },
+    "2pac, digital underground": {
+      "artist": "2Pac, Digital Underground",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/2Pac%2C%20Digital%20Underground",
+      "recent_track": "I Get Around",
+      "recent_track_url": "https://www.last.fm/music/2Pac%2C+Digital+Underground/_/I+Get+Around",
+      "first_discovered": "09 Nov 2026, 17:02",
+      "last_seen": "09 Nov 2026, 17:02",
+      "top_tracks": []
+    },
+    "coolio": {
+      "artist": "Coolio",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Coolio",
+      "recent_track": "1, 2, 3, 4 (Sumpin' New)",
+      "recent_track_url": "https://www.last.fm/music/Coolio/_/1%2C+2%2C+3%2C+4+%28Sumpin'+New%29",
+      "first_discovered": "09 Nov 2026, 17:00",
+      "last_seen": "09 Nov 2026, 17:00",
+      "top_tracks": []
+    },
+    "dj kool": {
+      "artist": "DJ Kool",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Kool",
+      "recent_track": "Let Me Clear My Throat (Old School Reunion Remix '96)",
+      "recent_track_url": "https://www.last.fm/music/DJ+Kool/_/Let+Me+Clear+My+Throat+%28Old+School+Reunion+Remix+'96%29",
+      "first_discovered": "09 Nov 2026, 16:59",
+      "last_seen": "09 Nov 2026, 16:59",
+      "top_tracks": []
+    },
+    "k7": {
+      "artist": "K7",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/K7",
+      "recent_track": "Come Baby Come",
+      "recent_track_url": "https://www.last.fm/music/K7/_/Come+Baby+Come",
+      "first_discovered": "09 Nov 2026, 16:55",
+      "last_seen": "09 Nov 2026, 16:55",
+      "top_tracks": []
+    },
+    "positive k": {
+      "artist": "Positive K",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Positive%20K",
+      "recent_track": "I Got a Man",
+      "recent_track_url": "https://www.last.fm/music/Positive+K/_/I+Got+a+Man",
+      "first_discovered": "09 Nov 2026, 16:50",
+      "last_seen": "09 Nov 2026, 16:50",
+      "top_tracks": []
+    },
+    "christian lindberg, israel nk orchestra, modest mussorgsky": {
+      "artist": "Christian Lindberg, Israel NK orchestra, Modest Mussorgsky",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Christian%20Lindberg%2C%20Israel%20NK%20orchestra%2C%20Modest%20Mussorgsky",
+      "recent_track": "Pictures at an Exhibition: II Gnomus I",
+      "recent_track_url": "https://www.last.fm/music/Christian+Lindberg%2C+Israel+NK+orchestra%2C+Modest+Mussorgsky/_/Pictures+at+an+Exhibition:+II+Gnomus+I",
+      "first_discovered": "09 Nov 2026, 16:46",
+      "last_seen": "09 Nov 2026, 16:46",
+      "top_tracks": []
+    },
+    "billy joel, prince of denmark brass, christian lindberg": {
+      "artist": "Billy Joel, Prince of Denmark Brass, Christian Lindberg",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Billy%20Joel%2C%20Prince%20of%20Denmark%20Brass%2C%20Christian%20Lindberg",
+      "recent_track": "Joel: And So It Goes: III",
+      "recent_track_url": "https://www.last.fm/music/Billy+Joel%2C+Prince+of+Denmark+Brass%2C+Christian+Lindberg/_/Joel:+And+So+It+Goes:+III",
+      "first_discovered": "09 Nov 2026, 16:46",
+      "last_seen": "09 Nov 2026, 16:46",
+      "top_tracks": []
+    },
+    "franz schubert, christian lindberg, roland pöntinen": {
+      "artist": "Franz Schubert, Christian Lindberg, Roland Pöntinen",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Schubert%2C%20Christian%20Lindberg%2C%20Roland%20P%C3%B6ntinen",
+      "recent_track": "Schubert: Frühlingsglaube (Arr. for trombone and piano)",
+      "recent_track_url": "https://www.last.fm/music/Franz+Schubert%2C+Christian+Lindberg%2C+Roland+P%C3%B6ntinen/_/Schubert:+Fr%C3%BChlingsglaube+%28Arr.+for+trombone+and+piano%29",
+      "first_discovered": "09 Nov 2026, 16:43",
+      "last_seen": "09 Nov 2026, 16:43",
       "top_tracks": []
     }
   }
