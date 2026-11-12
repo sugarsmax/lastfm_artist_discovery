@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11T00:36:32.293698-08:00",
+    "last_updated": "2026-11-12T00:56:33.327774-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 685,
+    "total_discoveries": 687,
     "total_graduated": 45
   },
   "catalog": {
@@ -560,10 +560,10 @@
     "víkingur ólafsson": {
       "artist": "Víkingur Ólafsson",
       "first_discovered": "20 Feb 2026, 15:55",
-      "last_listened": "13 Jul 2026, 13:33",
-      "track": "J.S. Bach: Suite from the Partita No. 3 in E Major for Solo Violin, BWV 1006: II. Gavotte (Transcr. by Sergey Rachmaninov)",
+      "last_listened": "11 Nov 2026, 17:39",
+      "track": "J.S. Bach: Nun komm der Heiden Heiland, Chorale Prelude BWV 659 (Transcr. by Ferruccio Busoni)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/V%C3%ADkingur%20%C3%93lafsson",
-      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Suite+from+the+Partita+No.+3+in+E+Major+for+Solo+Violin%2C+BWV+1006:+II.+Gavotte+%28Transcr.+by+Sergey+Rachmaninov%29",
+      "track_url": "https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/J.S.+Bach:+Nun+komm+der+Heiden+Heiland%2C+Chorale+Prelude+BWV+659+%28Transcr.+by+Ferruccio+Busoni%29",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474062-08:00",
       "album": "Johann Sebastian Bach"
@@ -5272,11 +5272,11 @@
     "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
       "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
       "first_discovered": "26 Aug 2026, 15:35",
-      "last_listened": "21 Sep 2026, 16:21",
-      "track": "I. Canon",
+      "last_listened": "11 Nov 2026, 14:49",
+      "track": "Adagio in G Minor",
       "album": "Albinoni & Pachelbel",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
-      "track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
+      "track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/Adagio+in+G+Minor",
       "graduated": false
     },
     "vladimir feltsman, johann sebastian bach": {
@@ -6692,7 +6692,7 @@
     "dj kool": {
       "artist": "DJ Kool",
       "first_discovered": "09 Nov 2026, 16:59",
-      "last_listened": "09 Nov 2026, 16:59",
+      "last_listened": "11 Nov 2026, 15:03",
       "track": "Let Me Clear My Throat (Old School Reunion Remix '96)",
       "album": "Let Me Clear My Throat",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/DJ%20Kool",
@@ -6747,6 +6747,26 @@
       "album": "Romances for Trombone and Piano",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Franz%20Schubert%2C%20Christian%20Lindberg%2C%20Roland%20P%C3%B6ntinen",
       "track_url": "https://www.last.fm/music/Franz+Schubert%2C+Christian+Lindberg%2C+Roland+P%C3%B6ntinen/_/Schubert:+Fr%C3%BChlingsglaube+%28Arr.+for+trombone+and+piano%29",
+      "graduated": false
+    },
+    "stardust": {
+      "artist": "Stardust",
+      "first_discovered": "11 Nov 2026, 15:04",
+      "last_listened": "11 Nov 2026, 15:04",
+      "track": "Music Sounds Better With You",
+      "album": "Music Sounds Better With You",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Stardust",
+      "track_url": "https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You",
+      "graduated": false
+    },
+    "black sheep": {
+      "artist": "Black Sheep",
+      "first_discovered": "11 Nov 2026, 14:58",
+      "last_listened": "11 Nov 2026, 14:58",
+      "track": "Strobelite Honey",
+      "album": "A Wolf In Sheep's Clothing",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Sheep",
+      "track_url": "https://www.last.fm/music/Black+Sheep/_/Strobelite+Honey",
       "graduated": false
     }
   }

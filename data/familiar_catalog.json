@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11T00:36:34.098792-08:00",
+    "last_updated": "2026-11-12T00:56:36.946528-08:00",
     "username": "sugarsmax",
-    "total_artists": 640
+    "total_artists": 642
   },
   "artists": {
     "rjd2, supastition": {
@@ -4441,10 +4441,10 @@
     "georg philipp telemann, antonio vivaldi, johann pachelbel, franz xaver richter, pierre cochand, kammerorchester ensemble classico": {
       "artist": "Georg Philipp Telemann, Antonio Vivaldi, Johann Pachelbel, Franz Xaver Richter, Pierre Cochand, Kammerorchester Ensemble Classico",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Antonio%20Vivaldi%2C%20Johann%20Pachelbel%2C%20Franz%20Xaver%20Richter%2C%20Pierre%20Cochand%2C%20Kammerorchester%20Ensemble%20Classico",
-      "recent_track": "I. Canon",
-      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/I.+Canon",
+      "recent_track": "Adagio in G Minor",
+      "recent_track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Antonio+Vivaldi%2C+Johann+Pachelbel%2C+Franz+Xaver+Richter%2C+Pierre+Cochand%2C+Kammerorchester+Ensemble+Classico/_/Adagio+in+G+Minor",
       "first_discovered": "26 Aug 2026, 15:35",
-      "last_seen": "21 Sep 2026, 16:21",
+      "last_seen": "11 Nov 2026, 14:49",
       "top_tracks": []
     },
     "vladimir feltsman, johann sebastian bach": {
@@ -5722,7 +5722,7 @@
       "recent_track": "Let Me Clear My Throat (Old School Reunion Remix '96)",
       "recent_track_url": "https://www.last.fm/music/DJ+Kool/_/Let+Me+Clear+My+Throat+%28Old+School+Reunion+Remix+'96%29",
       "first_discovered": "09 Nov 2026, 16:59",
-      "last_seen": "09 Nov 2026, 16:59",
+      "last_seen": "11 Nov 2026, 15:03",
       "top_tracks": []
     },
     "k7": {
@@ -5768,6 +5768,24 @@
       "recent_track_url": "https://www.last.fm/music/Franz+Schubert%2C+Christian+Lindberg%2C+Roland+P%C3%B6ntinen/_/Schubert:+Fr%C3%BChlingsglaube+%28Arr.+for+trombone+and+piano%29",
       "first_discovered": "09 Nov 2026, 16:43",
       "last_seen": "09 Nov 2026, 16:43",
+      "top_tracks": []
+    },
+    "stardust": {
+      "artist": "Stardust",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Stardust",
+      "recent_track": "Music Sounds Better With You",
+      "recent_track_url": "https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You",
+      "first_discovered": "11 Nov 2026, 15:04",
+      "last_seen": "11 Nov 2026, 15:04",
+      "top_tracks": []
+    },
+    "black sheep": {
+      "artist": "Black Sheep",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Sheep",
+      "recent_track": "Strobelite Honey",
+      "recent_track_url": "https://www.last.fm/music/Black+Sheep/_/Strobelite+Honey",
+      "first_discovered": "11 Nov 2026, 14:58",
+      "last_seen": "11 Nov 2026, 14:58",
       "top_tracks": []
     }
   }
