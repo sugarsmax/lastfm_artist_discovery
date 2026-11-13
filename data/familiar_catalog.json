@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12T00:56:36.946528-08:00",
+    "last_updated": "2026-11-13T00:53:10.992969-08:00",
     "username": "sugarsmax",
-    "total_artists": 642
+    "total_artists": 653
   },
   "artists": {
     "rjd2, supastition": {
@@ -5786,6 +5786,105 @@
       "recent_track_url": "https://www.last.fm/music/Black+Sheep/_/Strobelite+Honey",
       "first_discovered": "11 Nov 2026, 14:58",
       "last_seen": "11 Nov 2026, 14:58",
+      "top_tracks": []
+    },
+    "morrow": {
+      "artist": "Morrow",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Morrow",
+      "recent_track": "New Steam",
+      "recent_track_url": "https://www.last.fm/music/Morrow/_/New+Steam",
+      "first_discovered": "12 Nov 2026, 17:28",
+      "last_seen": "12 Nov 2026, 17:28",
+      "top_tracks": []
+    },
+    "sl8r": {
+      "artist": "SL8r",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/SL8r",
+      "recent_track": "Fighting Chance",
+      "recent_track_url": "https://www.last.fm/music/SL8r/_/Fighting+Chance",
+      "first_discovered": "12 Nov 2026, 17:25",
+      "last_seen": "12 Nov 2026, 17:25",
+      "top_tracks": []
+    },
+    "wigman": {
+      "artist": "Wigman",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wigman",
+      "recent_track": "Urgh",
+      "recent_track_url": "https://www.last.fm/music/Wigman/_/Urgh",
+      "first_discovered": "12 Nov 2026, 17:24",
+      "last_seen": "12 Nov 2026, 17:24",
+      "top_tracks": []
+    },
+    "serpnt, wingz": {
+      "artist": "Serpnt, Wingz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Serpnt%2C%20Wingz",
+      "recent_track": "Styx",
+      "recent_track_url": "https://www.last.fm/music/Serpnt%2C+Wingz/_/Styx",
+      "first_discovered": "12 Nov 2026, 17:21",
+      "last_seen": "12 Nov 2026, 17:21",
+      "top_tracks": []
+    },
+    "ricky force": {
+      "artist": "Ricky Force",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ricky%20Force",
+      "recent_track": "Firehouse Skank",
+      "recent_track_url": "https://www.last.fm/music/Ricky+Force/_/Firehouse+Skank",
+      "first_discovered": "12 Nov 2026, 17:17",
+      "last_seen": "12 Nov 2026, 17:17",
+      "top_tracks": []
+    },
+    "wagz": {
+      "artist": "Wagz",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wagz",
+      "recent_track": "Drifted",
+      "recent_track_url": "https://www.last.fm/music/Wagz/_/Drifted",
+      "first_discovered": "12 Nov 2026, 17:11",
+      "last_seen": "12 Nov 2026, 17:11",
+      "top_tracks": []
+    },
+    "magenta": {
+      "artist": "Magenta",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Magenta",
+      "recent_track": "360 Kickflip",
+      "recent_track_url": "https://www.last.fm/music/Magenta/_/360+Kickflip",
+      "first_discovered": "12 Nov 2026, 17:02",
+      "last_seen": "12 Nov 2026, 17:02",
+      "top_tracks": []
+    },
+    "dynamite mc": {
+      "artist": "Dynamite MC",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dynamite%20MC",
+      "recent_track": "Simple Things",
+      "recent_track_url": "https://www.last.fm/music/Dynamite+MC/_/Simple+Things",
+      "first_discovered": "12 Nov 2026, 16:58",
+      "last_seen": "12 Nov 2026, 16:58",
+      "top_tracks": []
+    },
+    "serpnt, m:fx": {
+      "artist": "Serpnt, M:FX",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Serpnt%2C%20M%3AFX",
+      "recent_track": "Fracture",
+      "recent_track_url": "https://www.last.fm/music/Serpnt%2C+M:FX/_/Fracture",
+      "first_discovered": "12 Nov 2026, 16:56",
+      "last_seen": "12 Nov 2026, 16:56",
+      "top_tracks": []
+    },
+    "singr": {
+      "artist": "Singr",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Singr",
+      "recent_track": "Tonnage",
+      "recent_track_url": "https://www.last.fm/music/Singr/_/Tonnage",
+      "first_discovered": "12 Nov 2026, 16:54",
+      "last_seen": "12 Nov 2026, 16:54",
+      "top_tracks": []
+    },
+    "nymfo, ruck p": {
+      "artist": "Nymfo, Ruck P",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nymfo%2C%20Ruck%20P",
+      "recent_track": "Soul Food",
+      "recent_track_url": "https://www.last.fm/music/Nymfo%2C+Ruck+P/_/Soul+Food",
+      "first_discovered": "12 Nov 2026, 16:44",
+      "last_seen": "12 Nov 2026, 16:44",
       "top_tracks": []
     }
   }

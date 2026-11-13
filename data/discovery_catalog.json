@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12T00:56:33.327774-08:00",
+    "last_updated": "2026-11-13T00:53:08.754646-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 687,
+    "total_discoveries": 698,
     "total_graduated": 45
   },
   "catalog": {
@@ -6767,6 +6767,116 @@
       "album": "A Wolf In Sheep's Clothing",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Black%20Sheep",
       "track_url": "https://www.last.fm/music/Black+Sheep/_/Strobelite+Honey",
+      "graduated": false
+    },
+    "morrow": {
+      "artist": "Morrow",
+      "first_discovered": "12 Nov 2026, 17:28",
+      "last_listened": "12 Nov 2026, 17:28",
+      "track": "New Steam",
+      "album": "5 Years of Transparent Audio [Part1]",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Morrow",
+      "track_url": "https://www.last.fm/music/Morrow/_/New+Steam",
+      "graduated": false
+    },
+    "sl8r": {
+      "artist": "SL8r",
+      "first_discovered": "12 Nov 2026, 17:25",
+      "last_listened": "12 Nov 2026, 17:25",
+      "track": "Fighting Chance",
+      "album": "Callisto",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/SL8r",
+      "track_url": "https://www.last.fm/music/SL8r/_/Fighting+Chance",
+      "graduated": false
+    },
+    "wigman": {
+      "artist": "Wigman",
+      "first_discovered": "12 Nov 2026, 17:24",
+      "last_listened": "12 Nov 2026, 17:24",
+      "track": "Urgh",
+      "album": "L PLus Presents The Dub Pound LP Vol.5",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wigman",
+      "track_url": "https://www.last.fm/music/Wigman/_/Urgh",
+      "graduated": false
+    },
+    "serpnt, wingz": {
+      "artist": "Serpnt, Wingz",
+      "first_discovered": "12 Nov 2026, 17:21",
+      "last_listened": "12 Nov 2026, 17:21",
+      "track": "Styx",
+      "album": "Styx / Fracture",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Serpnt%2C%20Wingz",
+      "track_url": "https://www.last.fm/music/Serpnt%2C+Wingz/_/Styx",
+      "graduated": false
+    },
+    "ricky force": {
+      "artist": "Ricky Force",
+      "first_discovered": "12 Nov 2026, 17:17",
+      "last_listened": "12 Nov 2026, 17:17",
+      "track": "Firehouse Skank",
+      "album": "Neuroplasticity EP",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ricky%20Force",
+      "track_url": "https://www.last.fm/music/Ricky+Force/_/Firehouse+Skank",
+      "graduated": false
+    },
+    "wagz": {
+      "artist": "Wagz",
+      "first_discovered": "12 Nov 2026, 17:11",
+      "last_listened": "12 Nov 2026, 17:11",
+      "track": "Drifted",
+      "album": "Magnetize EP",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Wagz",
+      "track_url": "https://www.last.fm/music/Wagz/_/Drifted",
+      "graduated": false
+    },
+    "magenta": {
+      "artist": "Magenta",
+      "first_discovered": "12 Nov 2026, 17:02",
+      "last_listened": "12 Nov 2026, 17:02",
+      "track": "360 Kickflip",
+      "album": "360 Kickflip EP",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Magenta",
+      "track_url": "https://www.last.fm/music/Magenta/_/360+Kickflip",
+      "graduated": false
+    },
+    "dynamite mc": {
+      "artist": "Dynamite MC",
+      "first_discovered": "12 Nov 2026, 16:58",
+      "last_listened": "12 Nov 2026, 16:58",
+      "track": "Simple Things",
+      "album": "Simple Things",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Dynamite%20MC",
+      "track_url": "https://www.last.fm/music/Dynamite+MC/_/Simple+Things",
+      "graduated": false
+    },
+    "serpnt, m:fx": {
+      "artist": "Serpnt, M:FX",
+      "first_discovered": "12 Nov 2026, 16:56",
+      "last_listened": "12 Nov 2026, 16:56",
+      "track": "Fracture",
+      "album": "Styx / Fracture",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Serpnt%2C%20M%3AFX",
+      "track_url": "https://www.last.fm/music/Serpnt%2C+M:FX/_/Fracture",
+      "graduated": false
+    },
+    "singr": {
+      "artist": "Singr",
+      "first_discovered": "12 Nov 2026, 16:54",
+      "last_listened": "12 Nov 2026, 16:54",
+      "track": "Tonnage",
+      "album": "Tonnage",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Singr",
+      "track_url": "https://www.last.fm/music/Singr/_/Tonnage",
+      "graduated": false
+    },
+    "nymfo, ruck p": {
+      "artist": "Nymfo, Ruck P",
+      "first_discovered": "12 Nov 2026, 16:44",
+      "last_listened": "12 Nov 2026, 16:44",
+      "track": "Soul Food",
+      "album": "Soul Food (Nymfo Remix)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nymfo%2C%20Ruck%20P",
+      "track_url": "https://www.last.fm/music/Nymfo%2C+Ruck+P/_/Soul+Food",
       "graduated": false
     }
   }
