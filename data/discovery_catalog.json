@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T00:45:32.653753-08:00",
+    "last_updated": "2026-11-17T01:52:50.466343-08:00",
     "username": "sugarsmax",
-    "total_discoveries": 698,
+    "total_discoveries": 703,
     "total_graduated": 45
   },
   "catalog": {
@@ -6812,11 +6812,11 @@
     "ricky force": {
       "artist": "Ricky Force",
       "first_discovered": "12 Nov 2026, 17:17",
-      "last_listened": "12 Nov 2026, 17:17",
-      "track": "Firehouse Skank",
-      "album": "Neuroplasticity EP",
+      "last_listened": "16 Nov 2026, 16:44",
+      "track": "Mardi Gras",
+      "album": "SAFE.RAVER 002",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ricky%20Force",
-      "track_url": "https://www.last.fm/music/Ricky+Force/_/Firehouse+Skank",
+      "track_url": "https://www.last.fm/music/Ricky+Force/_/Mardi+Gras",
       "graduated": false
     },
     "wagz": {
@@ -6877,6 +6877,56 @@
       "album": "Soul Food (Nymfo Remix)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Nymfo%2C%20Ruck%20P",
       "track_url": "https://www.last.fm/music/Nymfo%2C+Ruck+P/_/Soul+Food",
+      "graduated": false
+    },
+    "stylust, abstrakt sonance, jleon": {
+      "artist": "Stylust, Abstrakt Sonance, JLEON",
+      "first_discovered": "16 Nov 2026, 17:49",
+      "last_listened": "16 Nov 2026, 17:49",
+      "track": "Stay Close",
+      "album": "Dark Society EP",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Stylust%2C%20Abstrakt%20Sonance%2C%20JLEON",
+      "track_url": "https://www.last.fm/music/Stylust%2C+Abstrakt+Sonance%2C+JLEON/_/Stay+Close",
+      "graduated": false
+    },
+    "habitaat": {
+      "artist": "HABITAAT",
+      "first_discovered": "16 Nov 2026, 17:45",
+      "last_listened": "16 Nov 2026, 17:45",
+      "track": "Homage",
+      "album": "Grow",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/HABITAAT",
+      "track_url": "https://www.last.fm/music/HABITAAT/_/Homage",
+      "graduated": false
+    },
+    "chmura, saturna, phurn, lowcation": {
+      "artist": "Chmura, Saturna, Phurn, Lowcation",
+      "first_discovered": "16 Nov 2026, 17:41",
+      "last_listened": "16 Nov 2026, 17:41",
+      "track": "Memories",
+      "album": "Memories",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Chmura%2C%20Saturna%2C%20Phurn%2C%20Lowcation",
+      "track_url": "https://www.last.fm/music/Chmura%2C+Saturna%2C+Phurn%2C+Lowcation/_/Memories",
+      "graduated": false
+    },
+    "cøntra, saturna": {
+      "artist": "CØNTRA, Saturna",
+      "first_discovered": "16 Nov 2026, 17:38",
+      "last_listened": "16 Nov 2026, 17:38",
+      "track": "Evoke",
+      "album": "What I Can Do",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/C%C3%98NTRA%2C%20Saturna",
+      "track_url": "https://www.last.fm/music/C%C3%98NTRA%2C+Saturna/_/Evoke",
+      "graduated": false
+    },
+    "ricky force, stevie hyper-d": {
+      "artist": "Ricky Force, Stevie Hyper-D",
+      "first_discovered": "16 Nov 2026, 15:23",
+      "last_listened": "16 Nov 2026, 15:23",
+      "track": "Sensi",
+      "album": "FR018",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Ricky%20Force%2C%20Stevie%20Hyper-D",
+      "track_url": "https://www.last.fm/music/Ricky+Force%2C+Stevie+Hyper-D/_/Sensi",
       "graduated": false
     }
   }
